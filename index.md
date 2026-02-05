@@ -1,3 +1,6 @@
+---
+robots: noindex, nofollow
+---
 # Hans West - Schrijven
 
 Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en Relatie-vormen.
