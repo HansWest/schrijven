@@ -1,0 +1,13 @@
+title: Hans West - Schrijven
+description: Artikelen over ASS, Kink, Seksualiteit en Relaties.
+theme: jekyll-theme-cayman
+show_downloads: false
+google_analytics: []
+# Exclude folders that aren't meant for the website
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.sh"
+  - ".gemini"
+  - brain
