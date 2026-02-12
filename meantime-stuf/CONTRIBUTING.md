@@ -58,13 +58,14 @@ Bedankt voor je bijdrage aan de Meantime documentatie. Dit is praktisch papierwe
 - Kort en praktisch; bullets waar mogelijk.
 - Feitelijk, neutraal en zonder veroordelende taal.
 - Consistente termen (bijv. "vrijwilliger", "organisatie", "Awareness Monitor").
-- Gebruik vaste rolbenamingen (bijv. Awareness Monitor, Hans) zoals in de protocollen.
+- Gebruik vaste rolbenamingen (bijv. Awareness Monitor, Garderobe) zoals in de protocollen.
 
 ## Privacy en vertrouwelijkheid
 
 - Gebruik nooit realistische namen of details die iemand herkenbaar maken.
 - Leg incidenten alleen vast in algemene of geanonimiseerde vorm.
-- Zet expliciet dat incidentverslagen vertrouwelijk zijn.
+- Geef geen gevoelige gegevens door, ook niet de Fet-namen.
+- Wees expliciet dat incidentverslagen vertrouwelijk zijn en bij Hans blijven.
 
 ## Veiligheid en grenzen
 

@@ -8,7 +8,7 @@ Gebruik dit formulier voor feiten, niet voor interpretaties.
 - Tijd:
 - Locatie:
 - Melder (rol):
-- Betrokkenen (omschrijving, geen volledige namen):
+- Betrokkenen (omschrijving):
 - Getuigen (omschrijving):
 
 ## Feiten (korte beschrijving)
@@ -28,6 +28,7 @@ Gebruik dit formulier voor feiten, niet voor interpretaties.
 - Afspraak of check-in (datum/tijd):
 - Verantwoordelijke:
 - Doorverwijzing (indien nodig):
+*denk aan slachtofferhulp, kink-aware professionals, etc.*
 
 ## Betrokken medewerkers
 
@@ -42,4 +43,4 @@ Gebruik dit formulier voor feiten, niet voor interpretaties.
 ## Besluit en conclusie
 
 - Sanction (bijv. waarschuwing, ban dit feest, permanente ban):
-- Overdracht: (actie nodig voor de volgende dag?)
+- Overdracht: (actie nodig voor de volgende dagen of volgende keer?)

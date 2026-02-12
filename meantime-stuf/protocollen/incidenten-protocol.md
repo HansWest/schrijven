@@ -5,9 +5,9 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 ## 1. Veiligheid eerst
 
 - Scheid betrokkenen direct.
-- Zorg voor een rustige, private plek.
+- Zorg voor een rustige, private plek voor slachtoffers (deur).
 
-## 2. Opvang
+## 2. Opvang slachtoffers
 
 - Vraag wat iemand nodig heeft.
 - Geen druk, geen waarom vragen.
@@ -16,10 +16,10 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## Trauma-aware aanpak
 
-- Laat het tempo bij de betrokkene.
+- Laat het tempo bij de betrokkene!
 - Gebruik validerende taal en bied keuzes.
-- Vermijd aanraking zonder expliciete toestemming.
-- Let op non-verbale signalen (bevriezen, dissociatie).
+- Vermijd aanraking zonder expliciete toestemming!
+- Let op non-verbale signalen (Freeze/Fawn, dissociatie).
 
 ## Wat je zegt en vraagt (kort)
 
@@ -28,12 +28,14 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## 3. Dader benaderen
 
-- Vraag een andere medewerker om te benaderen.
+- Vraag een andere medewerker om deze te benaderen.
 - Hans optrommelen (gewoon inbreken in spel situaties als nodig).
-- beschrijf kort, feitelijk en zakelijk. Gebruik eigen woorden van dader.
+- Schrijf kort op wat deze zegt over het gebeurde, feitelijk en zakelijk. Gebruik eigen woorden van dader.
 - Volg protocol en huisregels.
-- Hoor en wederhoor alleen als dat veilig is.
+- Hoor en wederhoor alleen als dat veilig is, anders er zo verilig mogelijk uit met de dader
 - Bij duidelijke overschrijding: verwijdering volgens huisregels.
+- Probeer wel Fetlife naam/ telefoonnummer of email te varagen zodat Hans contact kan opnemen
+
 
 ## 4. Documentatie
 
