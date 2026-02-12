@@ -57,8 +57,8 @@ Bedankt voor je bijdrage aan de Meantime documentatie. Dit is praktisch papierwe
 
 - Kort en praktisch; bullets waar mogelijk.
 - Feitelijk, neutraal en zonder veroordelende taal.
-- Consistente termen (bijv. "vrijwilliger", "organisatie", "Awareness Team").
-- Gebruik vaste rolbenamingen (bijv. awareness lead, Hans) zoals in de protocollen.
+- Consistente termen (bijv. "vrijwilliger", "organisatie", "Awareness Monitor").
+- Gebruik vaste rolbenamingen (bijv. Awareness Monitor, Hans) zoals in de protocollen.
 
 ## Privacy en vertrouwelijkheid
 

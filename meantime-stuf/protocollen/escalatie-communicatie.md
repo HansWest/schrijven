@@ -4,14 +4,14 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 
 ## Escalatie lijn
 
-- Eerst: awareness lead of Hans.
-- Bij twijfel of risico: kernorganisatie.
-- Bij acuut gevaar: direct stoppen en veiligheid organiseren.
+- Eerst: adem in, adem uit, en dan pas handelen.
+- Bij twijfel of risico: als het om the Eagle gaat: Michael roepen. Anders Hans optrommelen
+- Bij acuut gevaar: direct stoppen en veiligheid organiseren voor jezelf en de bezoekers.
 
 ## Begrippen
 
-- Awareness lead: coordinator van de awareness rol die avond.
-- Duty manager: operationeel eindverantwoordelijke (lees: Hans)).
+- Awareness Monitormonitor: Degene die de awareness rol oppakt in een situatie.
+- Operationeel eindverantwoordelijke: Hans.
 
 ## Communicatie regels
 
@@ -32,4 +32,4 @@ Kern: duidelijke lijn, korte feiten, juiste kanaal.
 ## Voorbeeld melding (intern)
 
 - Kanaal: incidentkanaal.
-- Bericht: "23:10 lounge, grens over bij spel. Betrokkenen gescheiden. Gast A ok, wil rust. Awareness lead aanwezig. Formulier volgt." 
+- Bericht: "23:10 lounge, grens over bij spel. Betrokkenen gescheiden. Gast A ok, wil rust. Awareness Monitor aanwezig. Formulier volgt." 

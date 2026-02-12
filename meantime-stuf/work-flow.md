@@ -2,19 +2,19 @@
 
 Praktisch werkdocument voor vrijwilligers en organisatie. Kort, duidelijk en privacy-first.
 
-Mobiel lezen: [meantime-stuf/protocollen/index.html](meantime-stuf/protocollen/index.html)
+Mobiel lezen: [protocollen/index.html](protocollen/index.html)
 
 ## Protocollen (losse bestanden)
 
-- [meantime-stuf/protocollen/privacy-data.md](meantime-stuf/protocollen/privacy-data.md)
-- [meantime-stuf/protocollen/escalatie-communicatie.md](meantime-stuf/protocollen/escalatie-communicatie.md)
-- [meantime-stuf/protocollen/shiftwissel-overdracht.md](meantime-stuf/protocollen/shiftwissel-overdracht.md)
-- [meantime-stuf/protocollen/toegang-polsbandjes.md](meantime-stuf/protocollen/toegang-polsbandjes.md)
-- [meantime-stuf/protocollen/opbouwen-afbreken.md](meantime-stuf/protocollen/opbouwen-afbreken.md)
-- [meantime-stuf/protocollen/garderobe.md](meantime-stuf/protocollen/garderobe.md)
-- [meantime-stuf/protocollen/incidenten-protocol.md](meantime-stuf/protocollen/incidenten-protocol.md)
-- [meantime-stuf/protocollen/incidentformulier.md](meantime-stuf/protocollen/incidentformulier.md)
-- [meantime-stuf/protocollen/incidentformulier-print.md](meantime-stuf/protocollen/incidentformulier-print.md)
+- [protocollen/privacy-data.md](protocollen/privacy-data.md)
+- [protocollen/escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
+- [protocollen/shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
+- [protocollen/toegang-polsbandjes.md](protocollen/toegang-polsbandjes.md)
+- [protocollen/opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
+- [protocollen/garderobe.md](protocollen/garderobe.md)
+- [protocollen/incidenten-protocol.md](protocollen/incidenten-protocol.md)
+- [protocollen/incidentformulier.md](protocollen/incidentformulier.md)
+- [protocollen/incidentformulier-print.md](protocollen/incidentformulier-print.md)
 
 ## Rollen en shifts
 
@@ -24,27 +24,27 @@ Mobiel lezen: [meantime-stuf/protocollen/index.html](meantime-stuf/protocollen/i
 - **Runner**: kleine klussen, materialen, communicatie.
 
 **Shiftwissel**
-Zie protocol: [meantime-stuf/protocollen/shiftwissel-overdracht.md](meantime-stuf/protocollen/shiftwissel-overdracht.md)
+Zie protocol: [protocollen/shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
 
 ## Toegang / entry + polsbandjes
 
-Zie protocol: [meantime-stuf/protocollen/toegang-polsbandjes.md](meantime-stuf/protocollen/toegang-polsbandjes.md)
+Zie protocol: [protocollen/toegang-polsbandjes.md](protocollen/toegang-polsbandjes.md)
 
 ## Opbouwen en afbreken
 
-Zie protocol: [meantime-stuf/protocollen/opbouwen-afbreken.md](meantime-stuf/protocollen/opbouwen-afbreken.md)
+Zie protocol: [protocollen/opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
 
 ## Garderobe
 
-Zie protocol: [meantime-stuf/protocollen/garderobe.md](meantime-stuf/protocollen/garderobe.md)
+Zie protocol: [protocollen/garderobe.md](protocollen/garderobe.md)
 
 ## Incidenten en awareness
 
-Zie protocol: [meantime-stuf/protocollen/incidenten-protocol.md](meantime-stuf/protocollen/incidenten-protocol.md)
+Zie protocol: [protocollen/incidenten-protocol.md](protocollen/incidenten-protocol.md)
 
 ## Communicatie en escalatie
 
-Zie protocol: [meantime-stuf/protocollen/escalatie-communicatie.md](meantime-stuf/protocollen/escalatie-communicatie.md)
+Zie protocol: [protocollen/escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 
 ## Versie en onderhoud
 

@@ -66,7 +66,7 @@ Kern: veiligheid, rust, keuzevrijheid, feiten vastleggen.
 
 ## Escalatie
 
-- Awareness lead of Hans als eerste aanspreekpunt.
+- Awareness Monitor of Hans als eerste aanspreekpunt.
 - Bij twijfel: Hans vragen.
 - Geen namen in algemene groepsapps.
 - Incidenten alleen via afgesproken kanaal.

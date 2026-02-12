@@ -23,7 +23,7 @@ Kern: minimale data, veilig bewaren door Hans, beperkte toegang.
 - Locatie: lounge.
 - Betrokkenen: gast A, gast B (fetlifenaam en contact gegevens op formulier)
 - Feiten: gast A vroeg om stop, gast B stopte niet direct.
-- Actie: betrokkenen gescheiden, awareness lead erbij.
+- Actie: betrokkenen gescheiden, Awareness Monitor erbij.
 
 ## Opslag
 

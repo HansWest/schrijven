@@ -11,10 +11,10 @@ Kern: duidelijke checks, rustige ontvangst, consistente uitleg.
 ## Uitleg basisregels
 
 - Leg basisregels kort uit (consent, respect, no photo).
-- Verwijs bij vragen naar awareness lead of Hans.
+- Verwijs bij vragen naar Awareness Monitor of Hans.
 
 ## Polsbandjes
 
 - Geef polsbandje om en controleer dat het goed vast zit.
 - Markeer eventuele bijzonderheden volgens afgesproken code.
-- Bij weigering of discussie: verwijs naar awareness lead of Hans.
+- Bij weigering of discussie: verwijs naar Awareness Monitor of Hans.

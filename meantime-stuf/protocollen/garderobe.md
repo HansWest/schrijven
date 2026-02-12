@@ -23,4 +23,4 @@ Kern: overzicht, veiligheid, duidelijkheid.
 ## Voorbeeld probleem
 
 - Hangertje kwijt: noteer omschrijving van jas/tas en tijd.
-- Meld direct aan Hans en awareness lead.
+- Meld direct aan Hans en Awareness Monitor.
