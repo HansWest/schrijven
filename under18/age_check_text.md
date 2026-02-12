@@ -28,9 +28,9 @@ The reason is usually a mix of **embarrassment**, **politics**, and old ideas ab
 
 Honestly? Most people piece it together from a weird patchwork of sources: friends (who often know just as little), the internet (hit or miss), maybe an awkward conversation with a parent, and — let's be real — porn.
 
-The problem is that **none of these sources are designed to actually teach you**. Porn is entertainment, not education. Friends are guessing. And many adults find it just as awkward to talk about as you do.
+The problem is that **none of these sources are designed to actually teach you**. Porn is entertainment, not education. And the biggest danger in porn is what it does *not* show you: the preparation, the communication, the aftercare, the messy bits, the awkward bits, the silly mistakes... all the bits that don't look like a movie. And your friends are probably just guessing and trying to figure it out themselves. And many adults find it even more awkward to talk about it as you do.
 
-What actually works is **honest, shame-free information** — like what you're reading right now. And then: **practice in real life**. Not jumping into the deep end, but learning step by step what you like, what you don't, and how to talk about it. That's not weird. That's smart.
+What actually works is **honest, shame-free information** — like what you're reading right now. And then: learning step by step what you like, what you don't, and how to talk about it. Because that's how you learn to have good sex. That's not weird. That's smart.
 
 > 💡 **Good places to start:** Scarleteen.com, AMAZE.org, and books like *"S.E.X."* by Heather Corinna. These are made by people who actually know what they're talking about — and who respect you enough to be honest.
 
@@ -44,10 +44,12 @@ What actually works is **honest, shame-free information** — like what you're r
 <summary><strong>🤔 What exactly <em>is</em> kink?</strong></summary>
 
 **Kink** is an umbrella word for any sexual interest or fantasy that falls outside of what society considers "standard" or "vanilla" sex. That could be anything from liking a particular material (like leather or latex), to enjoying role-play, power dynamics, or specific sensations.
+It comes from the seventies where the 'normal', lights out, vanilla sex was the standard, and was called "straight". So the people who wanted different things were called "kinky" (a kink in a cable means it's not straight).
+The word has been reclaimed and now is used by people who enjoy kink to describe their different interests.
 
-Here's the important part: **having a kink doesn't mean something is wrong with you.** It's just a flavour. Some people like vanilla ice cream, some like salted caramel with chili flakes. Neither is "broken" — they're just different tastes.
+Here's the important part: **having a kink doesn't mean something is wrong with you.** It's just a flavour. Some people like vanilla ice cream, some like vanilla icecream with nice bitter chuncks of chocolate, some like salted caramel with chili flakes. Neither is "broken" — they're just different tastes.
 
-Most people have at least *some* form of kink, even if they don't call it that. Fantasies about being in control, being taken care of, dressing up, or exploring something new — these are all completely normal parts of human sexuality.
+Most people have at least *some* form of kink, even if they don't call it that. Fantasies about being in control, being taken care of, dressing up, or exploring something new - these are all completely normal parts of human sexuality.
 
 </details>
 
@@ -58,13 +60,13 @@ Most people have at least *some* form of kink, even if they don't call it that. 
 
 **B**ondage & **D**iscipline — **D**ominance & **S**ubmission — **S**adism & **M**asochism.
 
-In plain language: it's about exploring **power**, **sensation**, and **trust** in a sexual or intimate context. One person might enjoy taking the lead (dominant), while the other enjoys following (submissive). Some people enjoy intense sensations that might include pain — but *chosen, controlled, and consensual* pain, very different from violence.
+In plain language: it's about exploring **power**, **sensation**, and **trust** in a sexual or intimate context. One person might enjoy taking the lead (dominant), while the other enjoys following (submissive). Some people enjoy intense sensations that might include 'pain' - but it is always *chosen and controlled*, and moreover it is mutually **consensual**, very different from violence.
 
-> **So is it dangerous?** Here's the honest answer: BDSM done *right* is actually **safer than a lot of "normal" sex**. Why? Because the entire culture is built around **talking first, agreeing on boundaries, checking in, and using safe words**. People who practice BDSM seriously tend to communicate *way* more openly than people having "regular" sex where everyone just kind of assumes what the other wants.
+> **So is it dangerous?** Here's the honest answer: BDSM done *right* is actually much **safer** than a lot of "normal" sports. Why? Because the entire culture is built around **talking first, agreeing on boundaries, checking in, and using safe words**. People who practice BDSM seriously tend to communicate *way* more openly than people having "regular" sex where everyone just kind of assumes what the other wants and tries to mimic what they see in porn.
 
-The danger comes from doing things **without knowledge** — copying something from porn without understanding the risks, or ignoring someone's boundaries. That's not BDSM. That's just being reckless or harmful.
+The danger comes from doing things **without knowledge** — copying something from porn without understanding the risks, or ignoring someone's boundaries. That's not BDSM. That's just being stupid, reckless and potentially harmful.
 
-> 🧗 **Think of it like rock climbing:** Done with proper gear, training, and a partner you trust? Incredible experience. Done by randomly scaling a building with no rope because you saw it on TikTok? That's when it gets dangerous. The activity isn't the problem — the approach is.
+> 🧗 **Think of it like rock climbing:** Done with proper gear, training, and a partner you trust? An incredible experience. Done by randomly scaling a building with no rope because you saw it on TikTok? That's when it gets dangerous. The activity isn't the problem — the approach is.
 
 </details>
 
@@ -75,7 +77,8 @@ The danger comes from doing things **without knowledge** — copying something f
 <details>
 <summary><strong>🤝 What is consent, <em>really</em>?</strong></summary>
 
-Consent means that **everyone involved actively agrees to what's happening**. Not "didn't say no." Not "seemed fine with it." Not "was too drunk to object." **Actually, clearly, enthusiastically agreed.**
+Consent means that **everyone involved actively agrees to what's happening**. Not because they have to. Not because they feel they can't say no. Not because they feel they're being rude by saying no. Not because they feel they'll be rejected if they say no. 
+Consent is much more than just "not saying no". It's "saying yes". Not "they did not say no." Not "they seemed fine with it." Not "they was too drunk to object." **Actually, clearly, wantingly agreed.**
 
 And consent is **ongoing**. It's not a one-time "yes" at the start that covers everything that follows. You can change your mind at any point, about anything. **That's not being difficult — that's being human.**
 
@@ -83,9 +86,9 @@ Three key things to remember about consent:
 
 **1. It must be freely given** — no pressure, no guilt-tripping, no "but you said yes before."
 
-**2. It must be informed** — you both know what you're agreeing to.
+**2. It must be informed** — you both know what the fuck you're agreeing to.
 
-**3. It must be reversible** — anyone can stop at any time, no questions asked.
+**3. It must be reversible** — anyone can stop at any time, *no questions asked!*
 
 </details>
 
@@ -100,7 +103,7 @@ Think about it: would you rather be with someone who's silently hoping you'll st
 
 > 🎯 **Here's the secret:** Consent isn't a speed bump. It's a **navigation system**. It tells you exactly where to go to make the experience amazing for everyone involved. The best lovers in the world aren't mind-readers — they're great communicators.
 
-In BDSM communities, people talk about *negotiation* before a scene: what's on the table, what's off-limits, what are the safe words. And guess what? People who practice this kind of radical honesty consistently report having **more satisfying, more exciting, and more connected** sexual experiences. Turns out, knowing exactly what someone wants — and knowing they want it — is incredibly hot.
+In BDSM communities, people talk about *negotiation* before a scene: what's on the table, what's off-limits, what are the safe words. And guess what? People who practice this kind of radical honesty consistently report having **way more satisfying, more exciting, and more connected** sexual experiences. Turns out, knowing exactly what someone wants — and knowing they want it — is incredibly hot.
 
 </details>
 
@@ -124,6 +127,7 @@ Knowing what you're doing means:
 🔹 **You can actually enjoy it** — instead of being anxious, guessing, or going along with something you're not sure about.
 
 And here's the fun part: **learning about this stuff is genuinely interesting.** Human sexuality is one of the most fascinating, complex, and diverse areas of human experience. Understanding it isn't a chore — it's like unlocking a whole new dimension of what it means to be alive.
+That is why we have created this website: to findd workshops, events, and communities where you can learn about this stuff in a safe, respectful, and fun environment.
 
 > 🎮 **Gaming analogy:** You *could* play a complex RPG by button-mashing and hoping for the best. But it's a lot more fun when you actually understand the mechanics, build your character thoughtfully, and make informed choices. Same goes for this.
 
@@ -166,7 +170,7 @@ The result? **Generations of people who know the names of diseases but can't nam
 
 **Absolutely.** In fact, most adults are still figuring it out. Sexuality isn't a light switch that goes "click" and then you know everything. It's more like a garden that grows and changes over your whole life.
 
-You might discover things about yourself at 16, at 25, at 40. You might be into something now that doesn't interest you later, or the other way around. **All of that is normal and okay.**
+You might discover things about yourself at 15, at 25, at 45. You might be into something now that doesn't interest you later, or the other way around. **All of that is normal and okay.**
 
 The only thing that matters is that whatever you do, whenever you do it, you do it **with honesty, with respect, and with consent** — both for yourself and for any partner you might have.
 

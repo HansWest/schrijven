@@ -1,401 +1,537 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="noindex, nofollow">
-  <title>Real Talk — Honest Answers About Sex, Kink &amp; Consent</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@500;700&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #0f0f13;
-      --surface: #1a1a24;
-      --surface-hover: #22222f;
-      --border: #2a2a3a;
-      --text: #e4e4ef;
-      --text-muted: #9999b0;
-      --accent: #a78bfa;
-      --accent-glow: rgba(167, 139, 250, 0.15);
-      --green: #6ee7b7;
-      --orange: #fbbf24;
-      --pink: #f472b6;
-      --radius: 12px;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Real Talk — Honest Answers About Sex, Kink &amp; Consent</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@500;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0f0f13;
+            --surface: #1a1a24;
+            --surface-hover: #22222f;
+            --border: #2a2a3a;
+            --text: #e4e4ef;
+            --text-muted: #9999b0;
+            --accent: #a78bfa;
+            --accent-glow: rgba(167, 139, 250, 0.15);
+            --green: #6ee7b7;
+            --orange: #fbbf24;
+            --pink: #f472b6;
+            --radius: 12px;
+        }
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    body {
-      font-family: 'Inter', -apple-system, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.7;
-      padding: 1rem;
-      max-width: 780px;
-      margin: 0 auto;
-    }
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 1rem;
+            max-width: 780px;
+            margin: 0 auto;
+        }
 
-    header {
-      text-align: center;
-      padding: 2.5rem 1rem 2rem;
-    }
+        header {
+            text-align: center;
+            padding: 2.5rem 1rem 2rem;
+        }
 
-    header h1 {
-      font-family: 'Outfit', sans-serif;
-      font-size: clamp(1.8rem, 5vw, 2.6rem);
-      font-weight: 700;
-      background: linear-gradient(135deg, var(--accent), var(--pink));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      margin-bottom: 0.5rem;
-    }
+        header h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: clamp(1.8rem, 5vw, 2.6rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent), var(--pink));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
 
-    header p {
-      color: var(--text-muted);
-      font-size: 1rem;
-      max-width: 540px;
-      margin: 0 auto;
-    }
+        header p {
+            color: var(--text-muted);
+            font-size: 1rem;
+            max-width: 540px;
+            margin: 0 auto;
+        }
 
-    .intro-box {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 1.4rem 1.6rem;
-      margin: 1.5rem 0 2rem;
-      font-size: 0.95rem;
-      color: var(--text-muted);
-      line-height: 1.8;
-    }
+        .intro-box {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.4rem 1.6rem;
+            margin: 1.5rem 0 2rem;
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            line-height: 1.8;
+        }
 
-    .intro-box strong { color: var(--text); }
+        .intro-box strong {
+            color: var(--text);
+        }
 
-    .section-label {
-      font-family: 'Outfit', sans-serif;
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: var(--accent);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin: 2.5rem 0 1rem;
-      padding-left: 0.2rem;
-    }
+        .section-label {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin: 2.5rem 0 1rem;
+            padding-left: 0.2rem;
+        }
 
-    details {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      margin-bottom: 0.75rem;
-      transition: border-color 0.25s, box-shadow 0.25s;
-    }
+        details {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 0.75rem;
+            transition: border-color 0.25s, box-shadow 0.25s;
+        }
 
-    details:hover {
-      border-color: var(--accent);
-      box-shadow: 0 0 0 2px var(--accent-glow);
-    }
+        details:hover {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 2px var(--accent-glow);
+        }
 
-    details[open] {
-      border-color: var(--accent);
-      box-shadow: 0 0 12px var(--accent-glow);
-    }
+        details[open] {
+            border-color: var(--accent);
+            box-shadow: 0 0 12px var(--accent-glow);
+        }
 
-    summary {
-      cursor: pointer;
-      padding: 1rem 1.4rem;
-      font-weight: 600;
-      font-size: 1.02rem;
-      list-style: none;
-      display: flex;
-      align-items: center;
-      gap: 0.7rem;
-      user-select: none;
-      transition: background 0.2s;
-      border-radius: var(--radius);
-    }
+        summary {
+            cursor: pointer;
+            padding: 1rem 1.4rem;
+            font-weight: 600;
+            font-size: 1.02rem;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+            user-select: none;
+            transition: background 0.2s;
+            border-radius: var(--radius);
+        }
 
-    summary:hover { background: var(--surface-hover); }
+        summary:hover {
+            background: var(--surface-hover);
+        }
 
-    summary::-webkit-details-marker { display: none; }
+        summary::-webkit-details-marker {
+            display: none;
+        }
 
-    summary .icon {
-      font-size: 1.3rem;
-      flex-shrink: 0;
-      width: 2rem;
-      text-align: center;
-    }
+        summary .icon {
+            font-size: 1.3rem;
+            flex-shrink: 0;
+            width: 2rem;
+            text-align: center;
+        }
 
-    summary .arrow {
-      margin-left: auto;
-      font-size: 0.75rem;
-      color: var(--text-muted);
-      transition: transform 0.25s;
-    }
+        summary .arrow {
+            margin-left: auto;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            transition: transform 0.25s;
+        }
 
-    details[open] summary .arrow { transform: rotate(90deg); }
+        details[open] summary .arrow {
+            transform: rotate(90deg);
+        }
 
-    .answer {
-      padding: 0 1.4rem 1.4rem 3.5rem;
-      font-size: 0.95rem;
-      color: var(--text-muted);
-      line-height: 1.8;
-    }
+        .answer {
+            padding: 0 1.4rem 1.4rem 3.5rem;
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            line-height: 1.8;
+        }
 
-    .answer p { margin-bottom: 0.9rem; }
-    .answer p:last-child { margin-bottom: 0; }
+        .answer p {
+            margin-bottom: 0.9rem;
+        }
 
-    .answer strong { color: var(--text); }
+        .answer p:last-child {
+            margin-bottom: 0;
+        }
 
-    .answer em { color: var(--accent); font-style: normal; }
+        .answer strong {
+            color: var(--text);
+        }
 
-    .highlight {
-      background: var(--accent-glow);
-      border-left: 3px solid var(--accent);
-      padding: 0.8rem 1rem;
-      border-radius: 0 8px 8px 0;
-      margin: 0.8rem 0;
-      font-size: 0.92rem;
-    }
+        .answer em {
+            color: var(--accent);
+            font-style: normal;
+        }
 
-    .analogy {
-      background: rgba(251, 191, 36, 0.08);
-      border-left: 3px solid var(--orange);
-      padding: 0.8rem 1rem;
-      border-radius: 0 8px 8px 0;
-      margin: 0.8rem 0;
-      font-size: 0.92rem;
-    }
+        .highlight {
+            background: var(--accent-glow);
+            border-left: 3px solid var(--accent);
+            padding: 0.8rem 1rem;
+            border-radius: 0 8px 8px 0;
+            margin: 0.8rem 0;
+            font-size: 0.92rem;
+        }
 
-    footer {
-      text-align: center;
-      padding: 3rem 1rem 2rem;
-      color: var(--text-muted);
-      font-size: 0.85rem;
-    }
+        .analogy {
+            background: rgba(251, 191, 36, 0.08);
+            border-left: 3px solid var(--orange);
+            padding: 0.8rem 1rem;
+            border-radius: 0 8px 8px 0;
+            margin: 0.8rem 0;
+            font-size: 0.92rem;
+        }
 
-    footer a {
-      color: var(--accent);
-      text-decoration: none;
-    }
+        footer {
+            text-align: center;
+            padding: 3rem 1rem 2rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
 
-    @media (max-width: 480px) {
-      body { padding: 0.5rem; }
-      summary { padding: 0.9rem 1rem; font-size: 0.95rem; }
-      .answer { padding: 0 1rem 1.2rem 2.8rem; }
-    }
-  </style>
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 0.5rem;
+            }
+
+            summary {
+                padding: 0.9rem 1rem;
+                font-size: 0.95rem;
+            }
+
+            .answer {
+                padding: 0 1rem 1.2rem 2.8rem;
+            }
+        }
+    </style>
 </head>
+
 <body>
 
-<header>
-  <h1>Real Talk 💬</h1>
-  <p>Honest answers to questions about sex, kink &amp; consent that nobody seems to want to talk about.</p>
-</header>
+    <header>
+        <h1>Real Talk 💬</h1>
+        <p>Honest answers to questions about sex, kink &amp; consent that nobody seems to want to talk about.</p>
+    </header>
 
-<div class="intro-box">
-  <strong>Hey.</strong> The fact that you're here and reading this means you're curious. That's a good thing. Seriously.
-  Curiosity is how we learn about ourselves and the world. The problem is: most of the information out there about sex is either
-  scary, preachy, or just plain wrong. This page tries to do better. <strong>No judgement, no drama — just straight answers.</strong>
-</div>
-
-<!-- ===================== SECTION: THE BASICS ===================== -->
-<div class="section-label">🧩 The Basics</div>
-
-<details>
-  <summary>
-    <span class="icon">❓</span>
-    <span>Why does nobody actually <em>teach</em> us about sex properly?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p>Great question. In most schools, "sex education" means: <strong>don't get pregnant, don't get diseases, and… that's about it.</strong> Maybe a condom on a banana if you're lucky.</p>
-    <p>Nobody talks about <strong>desire</strong>, about <strong>what feels good</strong>, about <strong>how to communicate with a partner</strong>, or about the fact that sexuality is a huge, colourful spectrum. It's like teaching someone to drive by only explaining car crashes.</p>
-    <div class="analogy">
-      <strong>🎓 Think about it:</strong> No school in the world would accept a history teacher who tells students that World War II ended in 1765 and lasted 13 years. We'd say: "That person has no clue." And yet, when it comes to sex, we somehow accept that half the information we get is incomplete, outdated, or just wrong. Wild, right?
-    </div>
-    <p>The reason is usually a mix of <strong>embarrassment</strong>, <strong>politics</strong>, and old ideas about what young people "should" and "shouldn't" know. But here's the thing: <strong>not talking about something doesn't make it go away.</strong> It just means you figure it out alone — often from porn, which is about as good a guide to real sex as a Fast &amp; Furious movie is a guide to driving in traffic.</p>
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span class="icon">📚</span>
-    <span>So where <em>do</em> we actually learn about sex?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p>Honestly? Most people piece it together from a weird patchwork of sources: friends (who often know just as little), the internet (hit or miss), maybe an awkward conversation with a parent, and — let's be real — porn.</p>
-    <p>The problem is that <strong>none of these sources are designed to actually teach you</strong>. Porn is entertainment, not education. Friends are guessing. And many adults find it just as awkward to talk about as you do.</p>
-    <p>What actually works is <strong>honest, shame-free information</strong> — like what you're reading right now. And then: <strong>practice in real life</strong>. Not jumping into the deep end, but learning step by step what you like, what you don't, and how to talk about it. That's not weird. That's smart.</p>
-    <div class="highlight">
-      <strong>💡 Good places to start:</strong> Scarleteen.com, AMAZE.org, and books like <em>"S.E.X."</em> by Heather Corinna. These are made by people who actually know what they're talking about — and who respect you enough to be honest.
-    </div>
-  </div>
-</details>
-
-<!-- ===================== SECTION: KINK & BDSM ===================== -->
-<div class="section-label">🔥 Kink &amp; BDSM</div>
-
-<details>
-  <summary>
-    <span class="icon">🤔</span>
-    <span>What exactly <em>is</em> kink?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p><strong>Kink</strong> is an umbrella word for any sexual interest or fantasy that falls outside of what society considers "standard" or "vanilla" sex. That could be anything from liking a particular material (like leather or latex), to enjoying role-play, power dynamics, or specific sensations.</p>
-    <p>Here's the important part: <strong>having a kink doesn't mean something is wrong with you.</strong> It's just a flavour. Some people like vanilla ice cream, some like salted caramel with chili flakes. Neither is "broken" — they're just different tastes.</p>
-    <p>Most people have at least <em>some</em> form of kink, even if they don't call it that. Fantasies about being in control, being taken care of, dressing up, or exploring something new — these are all completely normal parts of human sexuality.</p>
-  </div>
-</details>
-
-<details>
-  <summary>
-    <span class="icon">⛓️</span>
-    <span>What is BDSM? And is it dangerous?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p><strong>BDSM</strong> stands for three pairs of concepts:</p>
-    <p><strong>B</strong>ondage &amp; <strong>D</strong>iscipline — <strong>D</strong>ominance &amp; <strong>S</strong>ubmission — <strong>S</strong>adism &amp; <strong>M</strong>asochism.</p>
-    <p>In plain language: it's about exploring <strong>power</strong>, <strong>sensation</strong>, and <strong>trust</strong> in a sexual or intimate context. One person might enjoy taking the lead (dominant), while the other enjoys following (submissive). Some people enjoy intense sensations that might include pain — but <em>chosen, controlled, and consensual</em> pain, very different from violence.</p>
-
-    <div class="highlight">
-      <strong>So is it dangerous?</strong> Here's the honest answer: BDSM done <em>right</em> is actually <strong>safer than a lot of "normal" sex</strong>. Why? Because the entire culture is built around <strong>talking first, agreeing on boundaries, checking in, and using safe words</strong>. People who practice BDSM seriously tend to communicate <em>way</em> more openly than people having "regular" sex where everyone just kind of assumes what the other wants.
+    <div class="intro-box">
+        <strong>Hey.</strong> The fact that you're here and reading this means you're curious. That's a good thing.
+        Seriously.
+        Curiosity is how we learn about ourselves and the world. The problem is: most of the information out there about
+        sex is either
+        scary, preachy, or just plain wrong. This page tries to do better. <strong>No judgement, no drama — just
+            straight answers.</strong>
     </div>
 
-    <p>The danger comes from doing things <strong>without knowledge</strong> — copying something from porn without understanding the risks, or ignoring someone's boundaries. That's not BDSM. That's just being reckless or harmful.</p>
+    <!-- ===================== SECTION: THE BASICS ===================== -->
+    <div class="section-label">🧩 The Basics</div>
 
-    <div class="analogy">
-      <strong>🧗 Think of it like rock climbing:</strong> Done with proper gear, training, and a partner you trust? Incredible experience. Done by randomly scaling a building with no rope because you saw it on TikTok? That's when it gets dangerous. The activity isn't the problem — the approach is.
-    </div>
-  </div>
-</details>
+    <details>
+        <summary>
+            <span class="icon">❓</span>
+            <span>Why does nobody actually <em>teach</em> us about sex properly?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p>Great question. In most schools, "sex education" means: <strong>don't get pregnant, don't get diseases,
+                    and… that's about it.</strong> Maybe a condom on a banana if you're lucky.</p>
+            <p>Nobody talks about <strong>desire</strong>, about <strong>what feels good</strong>, about <strong>how to
+                    communicate with a partner</strong>, or about the fact that sexuality is a huge, colourful spectrum.
+                It's like teaching someone to drive by only explaining car crashes.</p>
+            <div class="analogy">
+                <strong>🎓 Think about it:</strong> No school in the world would accept a history teacher who tells
+                students that World War II ended in 1765 and lasted 13 years. We'd say: "That person has no clue." And
+                yet, when it comes to sex, we somehow accept that half the information we get is incomplete, outdated,
+                or just wrong. Wild, right?
+            </div>
+            <p>The reason is usually a mix of <strong>embarrassment</strong>, <strong>politics</strong>, and old ideas
+                about what young people "should" and "shouldn't" know. But here's the thing: <strong>not talking about
+                    something doesn't make it go away.</strong> It just means you figure it out alone — often from porn,
+                which is about as good a guide to real sex as a Fast &amp; Furious movie is a guide to driving in
+                traffic.</p>
+        </div>
+    </details>
 
-<!-- ===================== SECTION: CONSENT ===================== -->
-<div class="section-label">✅ Consent</div>
+    <details>
+        <summary>
+            <span class="icon">📚</span>
+            <span>So where <em>do</em> we actually learn about sex?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p>Honestly? Most people piece it together from a weird patchwork of sources: friends (who often know just
+                as little), the internet (hit or miss), maybe an awkward conversation with a parent, and — let's be real
+                — porn.</p>
+            <p>The problem is that <strong>none of these sources are designed to actually teach you</strong>. Porn is
+                entertainment, not education. And the biggest danger in porn is what it does <em>not</em> show you: the
+                preparation, the communication, the aftercare, the messy bits, the awkward bits, the silly mistakes...
+                all the bits that don't look like a movie. And your friends are probably just guessing and trying to
+                figure it out themselves. And many adults find it even more awkward to talk about it as you do.</p>
+            <p>What actually works is <strong>honest, shame-free information</strong> — like what you're reading right
+                now. And then: learning step by step what you like, what you don't, and how to talk about it. Because
+                that's how you learn to have good sex. That's not weird. That's smart.</p>
+            <div class="highlight">
+                <strong>💡 Good places to start:</strong> Scarleteen.com, AMAZE.org, and books like <em>"S.E.X."</em> by
+                Heather Corinna. These are made by people who actually know what they're talking about — and who respect
+                you enough to be honest.
+            </div>
+        </div>
+    </details>
 
-<details>
-  <summary>
-    <span class="icon">🤝</span>
-    <span>What is consent, <em>really</em>?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p>Consent means that <strong>everyone involved actively agrees to what's happening</strong>. Not "didn't say no." Not "seemed fine with it." Not "was too drunk to object." <strong>Actually, clearly, enthusiastically agreed.</strong></p>
-    <p>And consent is <strong>ongoing</strong>. It's not a one-time "yes" at the start that covers everything that follows. You can change your mind at any point, about anything. <strong>That's not being difficult — that's being human.</strong></p>
-    <p>Three key things to remember about consent:</p>
-    <p><strong>1. It must be freely given</strong> — no pressure, no guilt-tripping, no "but you said yes before."</p>
-    <p><strong>2. It must be informed</strong> — you both know what you're agreeing to.</p>
-    <p><strong>3. It must be reversible</strong> — anyone can stop at any time, no questions asked.</p>
-  </div>
-</details>
+    <!-- ===================== SECTION: KINK & BDSM ===================== -->
+    <div class="section-label">🔥 Kink &amp; BDSM</div>
 
-<details>
-  <summary>
-    <span class="icon">🔥</span>
-    <span>Does consent make sex... <em>better</em>?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p><strong>Way, way better.</strong> And this might be the most surprising thing on this entire page.</p>
-    <p>People sometimes think that asking for consent is "awkward" or "kills the mood." The exact opposite is true. When someone <em>tells</em> you what they want, when you <em>know</em> they're into it, when you can <em>ask</em> "do you like this?" and get a genuine answer — <strong>that's when things get genuinely exciting.</strong></p>
-    <p>Think about it: would you rather be with someone who's silently hoping you'll stop, or someone who's actively telling you <strong>"yes, more of that"</strong>?</p>
+    <details>
+        <summary>
+            <span class="icon">🤔</span>
+            <span>What exactly <em>is</em> kink?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p><strong>Kink</strong> is an umbrella word for any sexual interest or fantasy that falls outside of what
+                society considers "standard" or "vanilla" sex. That could be anything from liking a particular material
+                (like leather or latex), to enjoying role-play, power dynamics, or specific sensations.
+                It comes from the seventies where the 'normal', lights out, vanilla sex was the standard, and was called
+                "straight". So the people who wanted different things were called "kinky" (a kink in a cable means it's
+                not straight).
+                The word has been reclaimed and now is used by people who enjoy kink to describe their different
+                interests.</p>
+            <p>Here's the important part: <strong>having a kink doesn't mean something is wrong with you.</strong> It's
+                just a flavour. Some people like vanilla ice cream, some like vanilla icecream with nice bitter chunks
+                of chocolate, some like salted caramel with chili flakes. Neither is "broken" — they're just different
+                tastes.</p>
+            <p>Most people have at least <em>some</em> form of kink, even if they don't call it that. Fantasies about
+                being in control, being taken care of, dressing up, or exploring something new — these are all
+                completely normal parts of human sexuality.</p>
+        </div>
+    </details>
 
-    <div class="highlight">
-      <strong>🎯 Here's the secret:</strong> Consent isn't a speed bump. It's a <strong>navigation system</strong>. It tells you exactly where to go to make the experience amazing for everyone involved. The best lovers in the world aren't mind-readers — they're great communicators.
-    </div>
+    <details>
+        <summary>
+            <span class="icon">⛓️</span>
+            <span>What is BDSM? And is it dangerous?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p><strong>BDSM</strong> stands for three pairs of concepts:</p>
+            <p><strong>B</strong>ondage &amp; <strong>D</strong>iscipline — <strong>D</strong>ominance &amp;
+                <strong>S</strong>ubmission — <strong>S</strong>adism &amp; <strong>M</strong>asochism.</p>
+            <p>In plain language: it's about exploring <strong>power</strong>, <strong>sensation</strong>, and
+                <strong>trust</strong> in a sexual or intimate context. One person might enjoy taking the lead
+                (dominant), while the other enjoys following (submissive). Some people enjoy intense sensations that
+                might include 'pain' — but it is always <em>chosen and controlled</em>, and moreover it is mutually
+                <strong>consensual</strong>, very different from violence.</p>
 
-    <p>In BDSM communities, people talk about <em>negotiation</em> before a scene: what's on the table, what's off-limits, what are the safe words. And guess what? People who practice this kind of radical honesty consistently report having <strong>more satisfying, more exciting, and more connected</strong> sexual experiences. Turns out, knowing exactly what someone wants — and knowing they want it — is incredibly hot.</p>
-  </div>
-</details>
+            <div class="highlight">
+                <strong>So is it dangerous?</strong> Here's the honest answer: BDSM done <em>right</em> is actually much
+                <strong>safer</strong> than a lot of "normal" sports. Why? Because the entire culture is built around
+                <strong>talking first, agreeing on boundaries, checking in, and using safe words</strong>. People who
+                practice BDSM seriously tend to communicate <em>way</em> more openly than people having "regular" sex
+                where everyone just kind of assumes what the other wants and tries to mimic what they see in porn.
+            </div>
 
-<!-- ===================== SECTION: KNOWING YOURSELF ===================== -->
-<div class="section-label">🧠 Knowing What You're Doing</div>
+            <p>The danger comes from doing things <strong>without knowledge</strong> — copying something from porn
+                without understanding the risks, or ignoring someone's boundaries. That's not BDSM. That's just being
+                stupid, reckless and potentially harmful.</p>
 
-<details>
-  <summary>
-    <span class="icon">🗺️</span>
-    <span>Why is it important (and fun!) to know what you're doing?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p>Imagine trying to play an instrument without ever learning a single note. You might make some noise, but you probably won't make music. Sex and intimacy are similar: <strong>the more you understand, the better the experience.</strong></p>
-    <p>Knowing what you're doing means:</p>
-    <p>🔹 <strong>You know your own body</strong> — what feels good, what doesn't, what your limits are.</p>
-    <p>🔹 <strong>You can talk about it</strong> — with a partner, without shame or confusion.</p>
-    <p>🔹 <strong>You can keep yourself safe</strong> — physically and emotionally.</p>
-    <p>🔹 <strong>You can actually enjoy it</strong> — instead of being anxious, guessing, or going along with something you're not sure about.</p>
+            <div class="analogy">
+                <strong>🧗 Think of it like rock climbing:</strong> Done with proper gear, training, and a partner you
+                trust? An incredible experience. Done by randomly scaling a building with no rope because you saw it on
+                TikTok? That's when it gets dangerous. The activity isn't the problem — the approach is.
+            </div>
+        </div>
+    </details>
 
-    <p>And here's the fun part: <strong>learning about this stuff is genuinely interesting.</strong> Human sexuality is one of the most fascinating, complex, and diverse areas of human experience. Understanding it isn't a chore — it's like unlocking a whole new dimension of what it means to be alive.</p>
+    <!-- ===================== SECTION: CONSENT ===================== -->
+    <div class="section-label">✅ Consent</div>
 
-    <div class="analogy">
-      <strong>🎮 Gaming analogy:</strong> You <em>could</em> play a complex RPG by button-mashing and hoping for the best. But it's a lot more fun when you actually understand the mechanics, build your character thoughtfully, and make informed choices. Same goes for this.
-    </div>
-  </div>
-</details>
+    <details>
+        <summary>
+            <span class="icon">🤝</span>
+            <span>What is consent, <em>really</em>?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p>Consent means that <strong>everyone involved actively agrees to what's happening</strong>. Not because
+                they have to. Not because they feel they can't say no. Not because they feel they're being rude by
+                saying no. Not because they feel they'll be rejected if they say no.</p>
+            <p>Consent is much more than just "not saying no". It's "saying yes". Not "they did not say no." Not "they
+                seemed fine with it." Not "they was too drunk to object." <strong>Actually, clearly, wantingly
+                    agreed.</strong></p>
+            <p>And consent is <strong>ongoing</strong>. It's not a one-time "yes" at the start that covers everything
+                that follows. You can change your mind at any point, about anything. <strong>That's not being difficult
+                    — that's being human.</strong></p>
+            <p>Three key things to remember about consent:</p>
+            <p><strong>1. It must be freely given</strong> — no pressure, no guilt-tripping, no "but you said yes
+                before."</p>
+            <p><strong>2. It must be informed</strong> — you both know what the fuck you're agreeing to.</p>
+            <p><strong>3. It must be reversible</strong> — anyone can stop at any time, <em>no questions asked!</em></p>
+        </div>
+    </details>
 
-<details>
-  <summary>
-    <span class="icon">💬</span>
-    <span>"Is there something wrong with me for being curious about this?"</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p><strong>No. Full stop. End of discussion.</strong></p>
-    <p>Curiosity about sex, about bodies, about desire, about kink — <strong>that is one of the most normal things in the world.</strong> Your brain is literally wired to be curious about this stuff, especially during your teenage years. It would be weirder if you <em>weren't</em> curious.</p>
-    <p>The shame people feel often comes from the adults around them — parents, teachers, religious leaders — who were never taught how to talk about sex themselves. They pass their discomfort on to you, and suddenly you feel guilty for having totally natural thoughts and questions.</p>
+    <details>
+        <summary>
+            <span class="icon">🔥</span>
+            <span>Does consent make sex... <em>better</em>?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p><strong>Way, way better.</strong> And this might be the most surprising thing on this entire page.</p>
+            <p>People sometimes think that asking for consent is "awkward" or "kills the mood." The exact opposite is
+                true. When someone <em>tells</em> you what they want, when you <em>know</em> they're into it, when you
+                can <em>ask</em> "do you like this?" and get a genuine answer — <strong>that's when things get genuinely
+                    exciting.</strong></p>
+            <p>Think about it: would you rather be with someone who's silently hoping you'll stop, or someone who's
+                actively telling you <strong>"yes, more of that"</strong>?</p>
 
-    <div class="highlight">
-      <strong>Remember:</strong> There is a massive difference between <strong>being curious about something</strong> and <strong>acting on something</strong>. Reading about kink doesn't mean you have to try it. Wondering about BDSM doesn't mean you're "into" anything specific. You're allowed to explore ideas and information at your own pace, with no pressure to do anything. That's what learning is.
-    </div>
-  </div>
-</details>
+            <div class="highlight">
+                <strong>🎯 Here's the secret:</strong> Consent isn't a speed bump. It's a <strong>navigation
+                    system</strong>. It tells you exactly where to go to make the experience amazing for everyone
+                involved. The best lovers in the world aren't mind-readers — they're great communicators.
+            </div>
 
-<!-- ===================== SECTION: THE ELEPHANT ===================== -->
-<div class="section-label">🐘 The Elephant in the Room</div>
+            <p>In BDSM communities, people talk about <em>negotiation</em> before a scene: what's on the table, what's
+                off-limits, what are the safe words. And guess what? People who practice this kind of radical honesty
+                consistently report having <strong>way more satisfying, more exciting, and more connected</strong>
+                sexual experiences. Turns out, knowing exactly what someone wants — and knowing they want it — is
+                incredibly hot.</p>
+        </div>
+    </details>
 
-<details>
-  <summary>
-    <span class="icon">🏫</span>
-    <span>Why is sex ed in schools so… bad?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p>Because most sex education was designed to <strong>prevent problems</strong>, not to <strong>create understanding</strong>. The entire approach is built on fear: <em>Don't get pregnant. Don't get an STI. Don't do anything until you're married.</em></p>
-    <p>That's like teaching someone about food by only talking about food poisoning and choking hazards. Sure, those are real risks. But if that's <em>all</em> you hear, you'd think eating was just a dangerous activity to be avoided — instead of, you know, one of the great pleasures of life.</p>
-    <p>The result? <strong>Generations of people who know the names of diseases but can't name the parts of their own anatomy that bring them pleasure.</strong> People who were taught to fear sex but never taught how to enjoy it safely, respectfully, and joyfully.</p>
+    <!-- ===================== SECTION: KNOWING YOURSELF ===================== -->
+    <div class="section-label">🧠 Knowing What You're Doing</div>
 
-    <div class="analogy">
-      <strong>🎓 The history teacher test:</strong> If a teacher told your class that World War II ended in 1765 and lasted 13 years, they'd be fired by lunch. Everyone would agree: <em>"That person has no business teaching history."</em> But somehow, when it comes to sex education, we accept teachers who skip 90% of the subject, give half-truths about the rest, and never mention topics like pleasure, desire, communication, consent negotiation, or the full diversity of human sexuality. We wouldn't accept that level of incompetence in any other subject. Why do we accept it here?
-    </div>
+    <details>
+        <summary>
+            <span class="icon">🗺️</span>
+            <span>Why is it important (and fun!) to know what you're doing?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p>Imagine trying to play an instrument without ever learning a single note. You might make some noise, but
+                you probably won't make music. Sex and intimacy are similar: <strong>the more you understand, the better
+                    the experience.</strong></p>
+            <p>Knowing what you're doing means:</p>
+            <p>🔹 <strong>You know your own body</strong> — what feels good, what doesn't, what your limits are.</p>
+            <p>🔹 <strong>You can talk about it</strong> — with a partner, without shame or confusion.</p>
+            <p>🔹 <strong>You can keep yourself safe</strong> — physically and emotionally.</p>
+            <p>🔹 <strong>You can actually enjoy it</strong> — instead of being anxious, guessing, or going along with
+                something you're not sure about.</p>
 
-    <p><strong>You deserve better information.</strong> The fact that the system failed doesn't mean you have to stay uninformed. You just have to look in smarter places — and you already are, by reading this.</p>
-  </div>
-</details>
+            <p>And here's the fun part: <strong>learning about this stuff is genuinely interesting.</strong> Human
+                sexuality is one of the most fascinating, complex, and diverse areas of human experience. Understanding
+                it isn't a chore — it's like unlocking a whole new dimension of what it means to be alive.
+                That is why we have created this website: to find workshops, events, and communities where you can learn
+                about this stuff in a safe, respectful, and fun environment.</p>
 
-<details>
-  <summary>
-    <span class="icon">🌈</span>
-    <span>Is it okay to not know what I like yet?</span>
-    <span class="arrow">▶</span>
-  </summary>
-  <div class="answer">
-    <p><strong>Absolutely.</strong> In fact, most adults are still figuring it out. Sexuality isn't a light switch that goes "click" and then you know everything. It's more like a garden that grows and changes over your whole life.</p>
-    <p>You might discover things about yourself at 16, at 25, at 40. You might be into something now that doesn't interest you later, or the other way around. <strong>All of that is normal and okay.</strong></p>
-    <p>The only thing that matters is that whatever you do, whenever you do it, you do it <strong>with honesty, with respect, and with consent</strong> — both for yourself and for any partner you might have.</p>
-    <p>And if you're not ready for any of it? <strong>That's completely fine too.</strong> There's no timeline, no checklist, no deadline. Your pace is the right pace.</p>
-  </div>
-</details>
+            <div class="analogy">
+                <strong>🎮 Gaming analogy:</strong> You <em>could</em> play a complex RPG by button-mashing and hoping
+                for the best. But it's a lot more fun when you actually understand the mechanics, build your character
+                thoughtfully, and make informed choices. Same goes for this.
+            </div>
+        </div>
+    </details>
 
-<footer>
-  <p>
-    Got a question? You can always reach out via
-    <a href="mailto:KinkindeRelatie@gmail.com">KinkindeRelatie@gmail.com</a>
-  </p>
-  <p style="margin-top: 0.5rem; font-size: 0.8rem;">
-    Made with care. No tracking, no cookies, no judgement.
-  </p>
-</footer>
+    <details>
+        <summary>
+            <span class="icon">💬</span>
+            <span>"Is there something wrong with me for being curious about this?"</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p><strong>No. Full stop. End of discussion.</strong></p>
+            <p>Curiosity about sex, about bodies, about desire, about kink — <strong>that is one of the most normal
+                    things in the world.</strong> Your brain is literally wired to be curious about this stuff,
+                especially during your teenage years. It would be weirder if you <em>weren't</em> curious.</p>
+            <p>The shame people feel often comes from the adults around them — parents, teachers, religious leaders —
+                who were never taught how to talk about sex themselves. They pass their discomfort on to you, and
+                suddenly you feel guilty for having totally natural thoughts and questions.</p>
+
+            <div class="highlight">
+                <strong>Remember:</strong> There is a massive difference between <strong>being curious about
+                    something</strong> and <strong>acting on something</strong>. Reading about kink doesn't mean you
+                have to try it. Wondering about BDSM doesn't mean you're "into" anything specific. You're allowed to
+                explore ideas and information at your own pace, with no pressure to do anything. That's what learning
+                is.
+            </div>
+        </div>
+    </details>
+
+    <!-- ===================== SECTION: THE ELEPHANT ===================== -->
+    <div class="section-label">🐘 The Elephant in the Room</div>
+
+    <details>
+        <summary>
+            <span class="icon">🏫</span>
+            <span>Why is sex ed in schools so… bad?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p>Because most sex education was designed to <strong>prevent problems</strong>, not to <strong>create
+                    understanding</strong>. The entire approach is built on fear: <em>Don't get pregnant. Don't get an
+                    STI. Don't do anything until you're married.</em></p>
+            <p>That's like teaching someone about food by only talking about food poisoning and choking hazards. Sure,
+                those are real risks. But if that's <em>all</em> you hear, you'd think eating was just a dangerous
+                activity to be avoided — instead of, you know, one of the great pleasures of life.</p>
+            <p>The result? <strong>Generations of people who know the names of diseases but can't name the parts of
+                    their own anatomy that bring them pleasure.</strong> People who were taught to fear sex but never
+                taught how to enjoy it safely, respectfully, and joyfully.</p>
+
+            <div class="analogy">
+                <strong>🎓 The history teacher test:</strong> If a teacher told your class that World War II ended in
+                1765 and lasted 13 years, they'd be fired by lunch. Everyone would agree: <em>"That person has no
+                    business teaching history."</em> But somehow, when it comes to sex education, we accept teachers who
+                skip 90% of the subject, give half-truths about the rest, and never mention topics like pleasure,
+                desire, communication, consent negotiation, or the full diversity of human sexuality. We wouldn't accept
+                that level of incompetence in any other subject. Why do we accept it here?
+            </div>
+
+            <p><strong>You deserve better information.</strong> The fact that the system failed doesn't mean you have to
+                stay uninformed. You just have to look in smarter places — and you already are, by reading this.</p>
+        </div>
+    </details>
+
+    <details>
+        <summary>
+            <span class="icon">🌈</span>
+            <span>Is it okay to not know what I like yet?</span>
+            <span class="arrow">▶</span>
+        </summary>
+        <div class="answer">
+            <p><strong>Absolutely.</strong> In fact, most adults are still figuring it out. Sexuality isn't a light
+                switch that goes "click" and then you know everything. It's more like a garden that grows and changes
+                over your whole life.</p>
+            <p>You might discover things about yourself at 15, at 25, at 45. You might be into something now that
+                doesn't interest you later, or the other way around. <strong>All of that is normal and okay.</strong>
+            </p>
+            <p>The only thing that matters is that whatever you do, whenever you do it, you do it <strong>with honesty,
+                    with respect, and with consent</strong> — both for yourself and for any partner you might have.</p>
+            <p>And if you're not ready for any of it? <strong>That's completely fine too.</strong> There's no timeline,
+                no checklist, no deadline. Your pace is the right pace.</p>
+        </div>
+    </details>
+
+    <footer>
+        <p>
+            Got a question? You can always reach out via
+            <a href="mailto:KinkindeRelatie@gmail.com">KinkindeRelatie@gmail.com</a>
+        </p>
+        <p style="margin-top: 0.5rem; font-size: 0.8rem;">
+            Made with care. No tracking, no cookies, no judgement.
+        </p>
+    </footer>
 
 </body>
+
 </html>
