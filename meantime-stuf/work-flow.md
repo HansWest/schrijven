@@ -13,6 +13,7 @@ Mobiel lezen: [protocollen/index.html](protocollen/index.html)
 - [protocollen/opbouwen-afbreken.md](protocollen/opbouwen-afbreken.md)
 - [protocollen/garderobe.md](protocollen/garderobe.md)
 - [protocollen/incidenten-protocol.md](protocollen/incidenten-protocol.md)
+- [protocollen/ehbo.md](protocollen/ehbo.md)
 - [protocollen/incidentformulier.md](protocollen/incidentformulier.md)
 - [protocollen/incidentformulier-print.md](protocollen/incidentformulier-print.md)
 
@@ -41,6 +42,10 @@ Zie protocol: [protocollen/garderobe.md](protocollen/garderobe.md)
 ## Incidenten en awareness
 
 Zie protocol: [protocollen/incidenten-protocol.md](protocollen/incidenten-protocol.md)
+
+## EHBO
+
+Zie protocol: [protocollen/ehbo.md](protocollen/ehbo.md)
 
 ## Communicatie en escalatie
 
