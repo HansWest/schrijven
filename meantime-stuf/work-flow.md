@@ -6,8 +6,6 @@ Mobiel lezen: [index.html](https://htmlpreview.github.io/?https://github.com/Han
 
 ## Protocollen (losse bestanden)
 
-- [privacy-data.md](protocollen/privacy-dataXXX.md)
-- [privacy-dataXXX.md](protocollen/privacy-data.md)
 - [privacy-data.md](protocollen/privacy-data.md)
 - [escalatie-communicatie.md](protocollen/escalatie-communicatie.md)
 - [shiftwissel-overdracht.md](protocollen/shiftwissel-overdracht.md)
