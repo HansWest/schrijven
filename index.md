@@ -30,6 +30,11 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
+## ❤️ Over Emoties
+*   [**Emoties Opmerkingen**](over-emoties/emoties%20opmerkingen.md)
+
+---
+
 ## 📁 Gespecialiseerde Projecten
 *   [**Meantime Protocollen**](https://github.com/HansWest/meantime-stuf)
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
