@@ -35,6 +35,11 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
+## 👥 Over Polyamorie
+*   [**Veel liefdes Boekje**](over-polyamorie/veel_liefdes_boekje.md)
+
+---
+
 ## 📁 Gespecialiseerde Projecten
 *   [**Meantime Protocollen**](https://github.com/HansWest/meantime-stuf)
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
