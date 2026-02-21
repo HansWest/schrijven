@@ -1,19 +1,25 @@
-# Relatie coachingcoachingoachingoaching
-coachingcoachingoachingoachingekaar
-dekaaraarkaar verschillende niveaus die naast elkaar (op elkaar) bestaan en die allemaal op hun eigen manier reageren op de signalen uit de buitenwereld.DF-jes
-Dee |F-jes van de Kroko,
-De emotionele reacties van het ouderloze jongetje
-Hoe ga ik emotioneel efficiënt communiceren (of communicatie toestaan (wat had het jongetje nodig en wil ik nog steeds)
-Jij-bakken zijn onuitgesproken ik boodschappen over kwetsbaarheden
-Waar kan ik om voor-vergeving De
+# Relatie coaching
+In  mijn ogen is het juist in relatiecoaching belangrijk om de verschillende niveaus die naast elkaar bestaan binnen de personen die onderdeel uitmaken van de relatie. En het is goed om te begrijpen dat ieder van de niveaus in ons brein op een eigen manier reageert op de signalen uit de buitenwereld (en binnenwereld)
+Denk bijvoorbeeld aan de 'F'-jes van het reptielenbrein, denk aan de emotionele behoeften die uit onze 'gestolde' jeugdervaringen voortkomen.
+
+Hoe ga ik emotioneel efficiënt communiceren (of communicatie toestaan) met vragen als: "Wat had het jongetje destijds nodig... en wil dat jongetje in mij nog steeds in relaties, omdat ik altijd maar gedeeltelijk in staat ben tot het vervullen van mijn eigen behoeften."
 
 
 
 de verschillende niveaus die naast elkaar (op elkaar) bestaan en die allemaal op hun eigen manier reageren op de signalen uit de buitenwereld.
-De |F-jes van de Kroko,
-De emotionele reacties van het ouderloze jongetje
 
-### Emotioneel efficiënt communiceren
+## Emotioneel efficiënt communiceren
+
+
+### Even startten met emotioneel inefficiënt communiceren
+
+Jij-bakken zijn onuitgesproken ik boodschappen over kwetsbaarheden
+
+### Voor-vergeving
+Een concept dat in mijn ogen erg belangrijk is in het kader van efficiëntie is vóórvergeving.
+Want het is natuurlijk erg lastig voor iedereen om onder ogen te zien, maar ik ben niet perfect. Dus ik zal mijn partners pijn doen op momenten dat ik niet de bedoeling heb om ze pijn te doen.
+
+Waar kan ik om voor-vergeving De
 
 #### waar gaat het echt om?
 
