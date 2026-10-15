@@ -1,395 +1,122 @@
-# Relatie coaching
-In  mijn ogen is het juist in relatiecoaching belangrijk om de verschillende niveaus die naast elkaar bestaan binnen de personen die onderdeel uitmaken van de relatie. En het is goed om te begrijpen dat ieder van de niveaus in ons brein op een eigen manier reageert op de signalen uit de buitenwereld (en binnenwereld)
-Denk bijvoorbeeld aan de 'F'-jes van het reptielenbrein, denk aan de emotionele behoeften die uit onze 'gestolde' jeugdervaringen voortkomen.
+# Relatiecoaching: communicatie, ruimte en verandering
 
-Hoe ga ik emotioneel efficiënt communiceren (of communicatie toestaan) met vragen als: "Wat had het jongetje destijds nodig... en wil dat jongetje in mij nog steeds in relaties, omdat ik altijd maar gedeeltelijk in staat ben tot het vervullen van mijn eigen behoeften."
+Relaties spelen zich op verschillende lagen tegelijk af. We reageren op wat er in het hier en nu gebeurt, maar ook op oudere ervaringen, onvervulde behoeften en automatische reacties van ons zenuwstelsel. In relatiecoaching kan het helpen die lagen te herkennen: niet om iemand vast te pinnen op het verleden, maar om beter te begrijpen wat er onder een reactie ligt.
 
+## 1. De verschillende lagen in een relatie
 
+Een opmerking of gebeurtenis kan op meer dan één niveau binnenkomen. Naast onze bewuste gedachten kunnen ook oude gevoelens en overlevingsreacties meespelen. Een deel van ons kan bijvoorbeeld sterk reageren op dreiging of afstand, terwijl een ander deel probeert te begrijpen wat er aan de hand is.
 
-de verschillende niveaus die naast elkaar (op elkaar) bestaan en die allemaal op hun eigen manier reageren op de signalen uit de buitenwereld.
+Daarom kunnen deze vragen behulpzaam zijn:
 
-## Emotioneel efficiënt communiceren
+- Wat gebeurt er op dit moment, en wat roept het bij mij op?
+- Welke behoefte of oude ervaring raakt dit?
+- Wat had ik toen nodig, en verlang ik daar nu nog steeds naar in mijn relaties?
+- Wat kan ik zelf doen om aan die behoefte tegemoet te komen, en waar heb ik mijn partner bij nodig?
 
+Het gaat er niet om dat iedere reactie uit het verleden komt. Wel kan nieuwsgierigheid naar de verschillende lagen ruimte maken tussen een prikkel en wat we vervolgens doen.
 
-### Even startten met emotioneel inefficiënt communiceren
+## 2. Emotioneel efficiënt communiceren
 
-Jij-bakken zijn onuitgesproken ik boodschappen over kwetsbaarheden
+Emotioneel efficiënt communiceren betekent niet dat we gevoelens zo snel mogelijk moeten oplossen. Het betekent dat we proberen duidelijk te maken wat er in ons omgaat en wat voor gesprek we nodig hebben.
 
-### Voor-vergeving
-Een concept dat in mijn ogen erg belangrijk is in het kader van efficiëntie is vóórvergeving.
-Want het is natuurlijk erg lastig voor iedereen om onder ogen te zien, maar ik ben niet perfect. Dus ik zal mijn partners pijn doen op momenten dat ik niet de bedoeling heb om ze pijn te doen.
+### Van verwijt naar kwetsbare boodschap
 
-Waar kan ik om voor-vergeving De
+Een verwijt dat met *jij* begint, kan soms een onuitgesproken boodschap over onze eigen kwetsbaarheid bevatten. Achter “Jij luistert nooit” kan bijvoorbeeld zitten: “Ik voel me alleen en wil graag merken dat je me hoort.”
 
-#### waar gaat het echt om?
+Probeer daarom te benoemen wat je zelf ervaart, zonder de ander meteen verantwoordelijk te maken voor de oplossing:
 
-de valkuil van mannen om alleen oplossingsgericht te praten terwijl er ook gepraat kan worden om emoties te onderzoeken door ze uit te spreken, terwijl er ook gepraat kan worden om
-even je hart te luchten zonder dat de ander daar iets mee moet 
-.
+- “Ik merk dat ik me onzeker voel.”
+- “Ik mis je aandacht en zou graag even samen zitten.”
+- “Ik weet nog niet wat ik nodig heb; wil je eerst luisteren terwijl ik het uitzoek?”
 
+### Eerst afstemmen op wat voor gesprek dit is
 
-Hoe ga ik emotioneel efficiënt communiceren (of communicatie toestaan (wat had het jongetje nodig en wil ik nog steeds)
-Jij-bakken zijn onuitgesproken ik boodschappen over kwetsbaarheden
-Waar kan ik om voor-vergeving vragen
+Niet ieder gesprek vraagt om advies. Soms willen we een gevoel onderzoeken door het uit te spreken; soms willen we ons hart luchten zonder dat de ander iets hoeft te doen; en soms zoeken we samen naar een oplossing.
 
+Een eenvoudige vraag kan misverstanden voorkomen: **“Wil je dat ik luister, met je meedenk of samen naar een oplossing zoek?”**
 
-As familiarity with bodies. As artistic skill. As practice with consent, pacing, negotiation, rupture, repair. As someone shaped by relational encounters rather than sheltered from them.
+Zo hoeft een luisteraar niet meteen in de oplossingsstand te schieten, en hoeft degene die iets deelt niet te raden wat de ander van hem of haar verwacht.
 
- 
+### Voorafgaande vergeving
 
-And then, one day, someone laughs, “Gosh, I didn’t realize how much shame I was holding.”
+In een relatie zullen partners elkaar soms pijn doen, ook zonder die bedoeling. Voorafgaande vergeving — ook wel *voorvergeving* genoemd — begint met erkennen dat niemand perfect is en dat herstel soms nodig zal zijn.
 
+Dat is geen vrijbrief om grenzen te overschrijden of verantwoordelijkheid te ontlopen. Het betekent juist dat we fouten bespreekbaar willen maken, willen luisteren naar de impact ervan en bereid zijn verantwoordelijkheid te nemen.
 
+Vragen die daarbij kunnen helpen:
 
-The capacity to move through rupture without annihilation.
+- Waarvoor zou ik mijn partner vooraf om begrip of vergeving willen vragen?
+- Hoe wil ik reageren als mijn partner mij vertelt dat ik pijn heb gedaan?
+- Wat helpt ons om na een botsing weer contact te maken?
 
+## 3. Monogame overtuigingen opnieuw bekijken
 
-The capacity to reorganize intimacy without burning it down.
+Veel mensen groeien op met ideeën over liefde, seksualiteit en toewijding die sterk door monogame normen zijn gevormd. Liefde kan daarin worden gekoppeld aan bezit, exclusiviteit en beperking: alsof jaloezie bewijst dat iemand om je geeft, of alsof seksuele ervaring iets zegt over iemands waarde.
 
+Die ideeën zijn niet alleen overtuigingen in ons hoofd. Ze kunnen ook doorwerken in wat ons lichaam als veilig, bedreigend of vanzelfsprekend ervaart. Een andere relatievorm kiezen betekent daarom niet automatisch dat oude reflexen meteen verdwijnen. Het opnieuw onderzoeken ervan kan geleidelijk gaan en soms verwarrend voelen.
 
-The capacity to tolerate discomfort without reaching for erasure.
+Verandering ontstaat niet alleen door nieuwe regels te leren. Het kan ook helpen om ervaringen te delen, te merken hoe anderen ermee omgaan en samen nieuwsgierig te zijn naar wat er in ons lichaam en onze relaties gebeurt.
 
+## 4. Wanneer een rode vlag anders kan gaan voelen
 
+Sommige dingen die binnen monogame normen snel als bedreigend worden gezien, kunnen in een veilige, consensuele niet-monogame relatie een andere betekenis krijgen. Dat gebeurt niet van de ene op de andere dag, en ook niet voor iedereen op dezelfde manier.
 
-We were raised inside puritanical, colonized, patriarchal frameworks that taught us love equals ownership. That sexuality must be contained to be worthy. That devotion is proven through restriction. These systems did not just give us ideas. They shaped our nervous systems. Theyooorganized
-organizedrganizedrganized our reflexeframeworksde monogamous frameworks, connection with an ex is a glaring red flag.
+### Seksuele ervaring
 
- 
+Een geschiedenis van meerdere seksuele ervaringen kan vanuit ideeën over “zuiverheid” of exclusiviteit schaamte oproepen. In een andere context kan diezelfde ervaring ook wijzen op vertrouwdheid met communicatie, toestemming, grenzen en het omgaan met ingewikkelde gevoelens.
 
-Inside non-monogamous maturity, it oOver weeks, sometimes months, sexual experience starts to read differently.
+Het gaat niet om aantallen of om een oordeel over iemands verleden. Belangrijker is hoe iemand vandaag met zichzelf en anderen omgaat.
 
- 
+### Contact met een ex
 
-Not as contamination. But as fluency.
+Contact met een ex kan onzekerheid, vergelijking of angst voor onafgemaakte gevoelens oproepen. Tegelijk kan zorgvuldig contact met een ex ook laten zien dat iemand een relatie kan herzien en verbinding kan veranderen zonder die automatisch te verbreken.
 
-As familiarity with bodies. As artistic skill. As practice with consent, pacing, negotiation, rupture, repair. As someone shaped by relational encounters rather than sheltered from them.
+De betekenis hangt af van de concrete situatie: zijn er openheid, duidelijke afspraken en respect voor ieders grenzen?
 
- 
+### Een gedeeld relationeel netwerk
 
-And then, one day, someone laughs, “Gosh, I didn’t realize how much shame I was holding.”ften becomes green.
+Als je partner eerder seks heeft gehad met iemand die ook in jouw relationele kring zit, kan dat territoriale gevoelens of onrust oproepen. Die gevoelens verdienen aandacht, geen schaamte. Je kunt samen onderzoeken waar ze vandaan komen en welke afspraken of geruststelling nodig zijn.
 
+In sommige situaties kan die gedeelde geschiedenis ook wijzen op ervaring met open communicatie en zorgvuldigheid binnen een netwerk van relaties. Dat is geen automatische garantie op veiligheid; vertrouwen groeit door wat mensen nu laten zien.
 
+## 5. Wanneer een groene vlag rood begint te voelen
 
+Ook de omgekeerde verschuiving kan plaatsvinden. Bezitterigheid kan eerst voelen als passie, jaloezie als bewijs van toewijding en controle als betrokkenheid. Later kan duidelijk worden dat die patronen juist benauwen.
 
+Een relatie kan ruimte laten voor liefde en verbondenheid zonder controle:
 
-Can't see this message? View in browser
- 
+- Toezicht houden is niet hetzelfde als veiligheid.
+- Beperking is niet hetzelfde als intimiteit.
+- Liefde die ruimte geeft, voelt anders dan liefde die grip probeert te houden.
 
+Je mag merken dat iets wat je vroeger aantrekkelijk vond nu niet meer bij je past. Dat inzicht maakt eerdere versies van jezelf niet verkeerd; je kijkt met nieuwe ervaringen en behoeften naar wat goed voor je is.
 
+## 6. Veranderen in verbinding met anderen
 
-Dear Hans 
+Het herzien van overtuigingen hoeft niet alleen te gebeuren. Gesprekken waarin mensen met aandacht naar elkaar luisteren, kunnen helpen om ervaringen te normaliseren, schaamte te verzachten en nieuwe mogelijkheden te zien.
 
-There is something profoundly psychedelic about unlearning monogamy.
- 
-I say that as someone trained in psychedelic-assisted psychotherapy, where we speak about paradigm dissolution. In those journeys, reality does not flip all at once. The structures that once organized your world loosen slowly. What felt unquestionably true reveals itself as constructed. The ground shifts beneath you. Sometimes gently. Sometimes disorientingly.
+Samen stilstaan bij veranderingen kan steun geven:
 
- 
+- We erkennen dat iets vroeger echt spannend of pijnlijk voelde.
+- We onderzoeken wat er veranderd is en wat nog aandacht vraagt.
+- We delen wijsheid en blijven nieuwsgierig, zonder elkaar te dwingen hetzelfde te voelen.
 
-Coming into non-monogamy from the systems that shaped us makes that shift especially intense.
+Als je midden in zo'n verandering zit, betekent dat niet dat er iets mis met je is. Je bent mogelijk nieuwe betekenissen en manieren van verbinden aan het leren.
 
- 
+## 7. Oefeningen om bij stil te staan
 
-Most of us were not raised in neutral relational ecosystems. We were raised inside puritanical, colonized, patriarchal frameworks that taught us love equals ownership. That sexuality must be contained to be worthy. That devotion is proven through restriction. These systems did not just give us ideas. They shaped our nervous systems. They organized our reflexes.
+### Schrijven
 
- 
+Welke ervaring in je niet-monogame reis is geleidelijk anders gaan voelen? Is er ook iets wat vroeger goed voelde, maar nu beperkend is geworden?
 
-So when we step into non-monogamy, we are not simply choosing a different structure.
+### Lichaam en gevoel
 
- 
+Denk aan een relationele situatie die eerder overweldigend voelde. Wat merk je nu in je lichaam als je eraan terugdenkt? Is er, al is het maar een klein beetje, meer ruimte of rust?
 
-We are attempting to unlearn a worldview embedded for generations.
+### Samen onderzoeken
 
- 
+Deel met iemand die je vertrouwt één verandering in hoe je naar relaties kijkt. Erken samen hoe echt de oude gevoelens waren en onderzoek hoe de situatie nu voor je voelt.
 
-We are not just unlearning personal habits.
+### Een belangrijke kanttekening
 
-
-We are metabolizing centuries of ownership logic in our bodies.
-
- 
-
-Of course it is hard.
-
- 
-
-Of course red flags do not turn green overnight.
-
- 
-
-The shift is slow. Layered. Sometimes funny in hindsight and intense in real time.
-
- 
-
-I see this every fall when the Pleasure Liberation: Non-Monogamy Program begins.
-
- 
-
-The transformation does not happen because someone memorizes new rules or reads another book. It happens because people sit together and say, “This is what happened in my body,” and someone else replies, “Yes. Mine too.”
-
- 
-
-We laugh.
-
-
-We cry.
-
-
-We get curious together.
-
- 
-
-And slowly, the compass begins to rotate.
-
- 
-
-One of the most consistent red-to-green flag journeys I witness is around sexual history.
-
- 
-
-Early in the group, someone will reference their past sexual history with caution still in their voice. You can hear the residue of purity culture. The reflex to minimize the numbers. To brace for judgment.
-
- 
-
-In monogamous conditioning, sexual experience is coded as a red flag. It signals instability, impurity, too muchness.
-
- 
-
-That coding does not dissolve in a single conversation. It dissolves in rooms where stories are met with tenderness instead of scrutiny, something begins to soften.
-
- 
-
-Over weeks, sometimes months, sexual experience starts to read differently.
-
- 
-
-Not as contamination. But as fluency.
-
- 
-
-As familiarity with bodies. As artistic skill. As practice with consent, pacing, negotiation, rupture, repair. As someone shaped by relational encounters rather than sheltered from them.
-
- 
-
-And then, one day, someone laughs, “Gosh, I didn’t realize how much shame I was holding.”
-
- 
-
-And the room understands exactly that felt sense in their own bodies.
-
- 
-
-That is shame metabolizing in community.
-
- 
-
-Being close with an ex follows a similar arc. In earlier conditioning, that detail alone can activate scarcity scripts, competition narratives, unfinished business fears.
-
- 
-
-Inside monogamous frameworks, connection with an ex is a glaring red flag.
-
- 
-
-Inside non-monogamous maturity, it often becomes green.
-
- 
-
-But that green emerges gradually.
-
- 
-
-Sometimes in the program that fear enters the room with tension in the voice and bracing in the body, and months later it’s spoken with steadiness.
-
- 
-
-The story hasn’t changed. The nervous system has. The same detail that once triggered panic begins to feel like proof of emotional maturity.
-
- 
-
-The capacity to move through rupture without annihilation.
-
-
-The capacity to reorganize intimacy without burning it down.
-
-
-The capacity to tolerate discomfort without reaching for erasure.
-
- 
-
-The fear does not disappear overnight.
-
- 
-
-It loosens through shared reflection.
-
- 
-
-Learning that your partner has had sex with someone already in your relational world carries this same gradual inversion.
-
- 
-
-In earlier conditioning, that information can trigger territorial reflexes. It can feel like contamination. Like ownership disrupted.
-
- 
-
-Inside the group, we do not shame that reflex.
-
- 
-
-We get curious about it.
-
- 
-
-We laugh gently at how predictable it is. We trace its roots. We name how deeply colonized our relational instincts can be.
-
- 
-
-And then, over time, something steadier surfaces.
-
- 
-
-The same information begins to read as vetting.
-
- 
-
-As evidence of someone who has navigated relational ecosystems before. Someone who knows how to communicate across complexity. Someone who can hold care across multiple bonds without secrecy or collapse.
-
- 
-
-It signals a shared trust in the relational field.
-
- 
-
-A trust that creates safety. A safety that enhances exploration. The kind of safety that makes it possible to move closer to our erotic edges with care, presence, and pleasure.
-
- 
-
-Because when trust is embodied, pleasure expands.
-
- 
-
-What once activated panic begins to land as steadiness. The body has learned that safety and freedom can coexist.
-
- 
-
-And then there are the green flags that quietly turn red.
-
- 
-
-Possessiveness once felt intoxicatingly passionate. Jealousy once read as devotion. Control once masqueraded as commitment. These were praised inside monogamous scripts. They were proof that you mattered.
-
- 
-
-Inside non-monogamous integration, they begin to constrict.
-
- 
-
-This one often brings group members to tears. Someone will share, “I used to crave that. Now it just makes my chest feel way too tight. I can't do it anymore”
-
- 
-
-And the room nods.
-
- 
-
-That earlier version of us was doing the best it could with the maps it had. Over time, the body learns something new.
-
- 
-
-Surveillance is not safety.
-
-
-Restriction is not intimacy.
-
-
-Love that breathes feels entirely different from love that grips.
-
- 
-
-This is why I call this journey psychedelic. It is a 180-degree reorientation of meaning.
-
- 
-
-And that kind of reorientation is not meant to be done alone.
-
- 
-
-Transformation happens through belonging.
-
-
-Through shared wisdom.
-
-
-Through shared tenderness.
-
-
-Through shared exploration.
-
- 
-
-We remember how intense it once felt. We honor that. And, we keep integrating together.
-
- 
-
-Capacity grows faster in community.
-
-
-Paradigm shifts settle more gently when witnessed.
-
-
-Pleasure stabilizes when it is mirrored.
-
- 
-
-If you are in the middle of this inversion, you are not broken.
-
- 
-
-You are metabolizing a new map.
-
- 
-
-Your Pleasure Practice:
-
- 
-
-Journal Practice
-Where in your non-monogamous journey have you felt a slow red-to-green flag shift? Where have you noticed an old green flag beginning to constrict instead?
-
- 
-
-Somatic Practice
-Bring to mind a relational trigger that once felt overwhelming. Notice how your body responds now. Where is there even a millimeter more space than before?
-
- 
-
-Relational Practice
-With someone who shares this paradigm, name one inversion you have lived through. Let yourselves honor how real it felt then and how differently it lands now.
-
- 
-
-As you move through your relationships this week, notice where you feel the pull toward spaces where your desire, curiosity, and tenderness can be held and how trust makes it possible to explore further than you could on your own.
-
- 
-Sending All My Love,
-Dr. Nicole
-
- 
-
-Dr. Nicole Thompson
-
-Sex and Relationship Psychotherapist
-
-Psychedelic-Assisted Liberation
-
-Clinical Psychology
-
-
-
-Listen to The Latest Episode
-
-
-
- 
-This email was sent from this site.
-If you no longer wish to receive this email, change your email preferences here.
+Niet elke rode vlag hoeft groen te worden. Deze oefeningen zijn bedoeld om overtuigingen en reacties te onderzoeken, niet om grensoverschrijdend gedrag, dwang of onveiligheid goed te praten. Toestemming, eerlijkheid, respect en ieders grenzen blijven essentieel.
