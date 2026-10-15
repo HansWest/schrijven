@@ -27,6 +27,10 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 3. [**03: Neurochemie, Drop & Aftercare**](03-neurochemie-drop-en-aftercare.md)  
    *De biochemie van intensiteit (endorfine, dopamine, oxytocine), het mechanisme van Subdrop en Domdrop, en de fysiologie van een veilige landing.*
 
+4. [**04: Dominantie Hoeft Niets te Bewijzen (Rust & Betekenisvolle Protocollen)**](04-dominantie-hoeft-niets-te-bewijzen.md)  
+   *Waarom authentieke dominantie in zichzelf rust en geen publiek applaus nodig heeft, en hoe regels en protocollen uitsluitend waarde hebben als ze betekenis toevoegen aan de D/s-relatie.*
+
+
 ---
 
 ## Verbindingen in de Workspace
