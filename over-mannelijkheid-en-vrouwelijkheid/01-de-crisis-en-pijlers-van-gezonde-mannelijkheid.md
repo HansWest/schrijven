@@ -111,6 +111,13 @@ Erken je eigen zegeningen en behaalde successen. Zodra je een trede op de ladder
 ### 7. Vriendelijkheid (Kindness) als Superkracht
 Stoerheid wordt vaak verward met botheid, cynisme of emotionele afstandelijkheid. In werkelijkheid zijn oprechte vriendelijkheid, zachtmoedigheid en empathie de grootste pijlers onder succesvolle carrières, vriendschappen en duurzame relaties.
 
+### 8. Herdefinieer dominantie en mannelijkheid
+Wie eigenwaarde sterk koppelt aan de rol van actieve, sadistische Dominant die de controle heeft, kan zich tekort voelen schieten wanneer vermoeidheid, lichamelijke klachten of de situatie die rol niet toelaten. Mannelijkheid en dominantie hoeven echter niet afhankelijk te zijn van fysieke prestaties, attributen of de indruk die je op een ander maakt.
+
+Werkelijke emotionele dominantie kan ook **containment** zijn: de emoties van een partner kunnen dragen en vasthouden zonder ze meteen te willen oplossen. Plan bijvoorbeeld een date waarop de zweep en andere kinky attributen thuisblijven. Spreek samen af dat de enige opdracht is om elkaar een uur lang vast te houden en ruimte te bieden voor emoties, zonder eisen of verwachtingen. Maak vooraf duidelijk dat dit voor beiden goed voelt en dat ieder op elk moment mag pauzeren of stoppen.
+
+Zo wordt dominantie niet afgemeten aan presteren of aan het succes van een date, maar aan het vermogen om voor de mensen om wie je geeft een betrouwbare, zorgzame aanwezigheid te zijn.
+
 ---
 
 ## 6. Fysieke Vitaliteit: De SCAFA-Methode tegen Depressie
