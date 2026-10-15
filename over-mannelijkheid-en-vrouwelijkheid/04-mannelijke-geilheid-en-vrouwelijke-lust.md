@@ -98,10 +98,11 @@ Tederheid en knuffelen zijn heerlijk, maar een vrouw wil in bed ook de **dierlij
 - Durf vuil, rauw en intens te zijn als de dynamiek daarom vraagt (zie ook [05: De Zes Kernfantasieën](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/05-de-zes-kernfantasieen.md)).
 - Zolang er helder consent en diepe afstemming is, is rauwe seks een van de mooiste vormen van menselijke verbinding.
 
-### Richtlijn 4: Neem Erotisch Leiderschap
+### Richtlijn 4: Neem Erotisch Leiderschap (Vertragen is Sexier)
 Vrouwen zijn er doodmoe van als mannen in bed vragen: *"Wat wil je dat ik doe?", "Mag ik hier aanraken?", "Vind je dit wel leuk?"* op een toon van bibberige onzekerheid.  
 - Neem de leiding. Begin met zoenen met overtuiging, ontkleed haar met rustige zelfverzekerdheid, en stuur de dynamiek. 
 - Let met al je zintuigen op haar ademhaling, haar heupen en haar kreun: dat is je realtime feedback. Als ze aarzelt of verstijft, vertraag je direct; als ze opent en naar je toetrekt, versnel je.
+- **De Gouden Regel:** *Alles wat in porno in 2 minuten gebeurt, doe jij in 15 minuten. Langzaam is veiliger én sexier.* Door te vertragen bouw je onweerstaanbare spanning op.
 
 ### Richtlijn 5: Houd je Fysieke Vuur Brandend
 Je kunt geen vitale minnaar zijn als je fysiek en hormonaal een wrak bent:

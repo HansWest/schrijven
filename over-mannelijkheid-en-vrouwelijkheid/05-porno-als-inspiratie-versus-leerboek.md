@@ -56,6 +56,16 @@ Of je nu werkt als coach, hulpverlener, of als bewuste minnaar in je eigen slaap
 - **Laat je niet gijzelen door de klant:** Cliënten die claimen alles te durven omdat ze het online hebben gezien, overschatten hun zenuwstelsel en onderschatten de impact. Jij bent de poortwachter van de fysieke en emotionele veiligheid.
 - **Leiderschap in realiteit:** Echte autoriteit durft te vertragen, durft glijmiddel te pakken, durft te vragen naar safewords en weigert mee te gaan in gevaarlijke porno-imitaties.
 
+### De Gouden Regel: Vertragen is Sexier
+> [!IMPORTANT]
+> **De Gouden Regel:**  
+> **"Alles wat in porno in 2 minuten gebeurt, doe jij in 15 minuten. Langzaam is veiliger én sexier."**
+
+Waarom deze regel universeel werkt:
+- **Fysiologische opbouw:** Zowel het vrouwelijke als het mannelijke bekken heeft tijd nodig voor vaatverwijding en spierontspanning. Direct instappen op topsnelheid veroorzaakt kramp en weefselschade.
+- **Anticipatie als erotische motor:** De grootste erotische spanning zit in de vertraging — het tergend langzaam ontkleden, kussen en opbouwen. Snelle penetratie is functioneel; meesterlijke vertraging is pure passie.
+- **Veiligheid geeft overgave:** Pas wanneer het zenuwstelsel voelt dat er geen haast is en geen druk, kan de diepe overgave en subspace ontstaan.
+
 ---
 
 ## 3. De Zes Fundamentele Verschillen Tussen Porno en Echte Seks
