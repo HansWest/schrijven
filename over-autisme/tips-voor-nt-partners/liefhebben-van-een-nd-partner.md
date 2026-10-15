@@ -44,3 +44,11 @@ Als je partner ineens 40 minuten lang in minutieus detail vertelt over een speci
 - **De werkelijkheid:** Voor iemand met autisme is een infodump een intiem geschenk en dé ultieme vorm van relatiebevestiging. Ze laten jou binnen in hun heiligdom en hopen dat jij die fascinatie deelt.
 - **Hoe ga je ermee om?** Voel de liefde onder de woorden. En als jouw hoofd vol zit, begrens het dan vriendelijk zónder hun passie af te keuren: *"Ik vind het fantastisch om te zien hoeveel plezier je hieraan beleeft, maar mijn hoofd kan nu even geen nieuwe data verwerken. Zullen we even lekker tegen elkaar aan liggen in stilte?"*
 
+## Maak samen een praktische handleiding
+
+Een gezamenlijke handleiding is een levend document, geen diagnosechecklist of garantie op een probleemloos verloop. Leg er afspraken in vast die jullie samen uitproberen en bijstellen: welke signalen op oplopende belasting wijzen, wat op zo'n moment helpt, hoe je om een pauze vraagt en hoe taken verdeeld zijn. Maak daarbij onderscheid tussen wat de buitenwereld vraagt en wat iemand zichzelf oplegt; beide kunnen energie kosten.
+
+De verantwoordelijkheid is wederzijds. De partner met autisme hoeft niet alle aanpassing alleen te dragen, en de andere partner hoeft eigen grenzen niet op te geven. Bespreek op een rustig moment wat ieder nodig heeft en wat ieder redelijkerwijs kan doen. Laat ruimte voor ieders ervaring, ook wanneer één partner heel zeker is van diens eigen aanpak.
+
+Kijk ook naar de combinatie van eisen. Autorijden terwijl kinderen hard roepen kan bijvoorbeeld te veel tegelijk zijn. Een veilige afspraak kan zijn om op een geschikte plek te stoppen en eerst de situatie rustiger te maken, in plaats van te verwachten dat iemand beide prikkelbronnen blijft verdragen.
+

@@ -35,6 +35,8 @@ Masking voelt voor de buitenwereld alsof iemand "goed functioneert" of "zo lekke
 2. **Autistische Burnout:** Wanneer het maskeren jarenlang wordt volgehouden, kan het systeem plotseling definitief crashen. Vaardigheden die voorheen lukten (koken, werken, autorijden, praten) vallen plotseling weg.
 3. **Identiteitsverlies:** De meest pijnlijke vraag die volwassenen met late diagnose stellen: *"Als ik stop met maskeren, wie ben ik dan eigenlijk nog? Wat vind ik zelf lekker, leuk of mooi?"*
 
+Langdurig letten op wat anderen verwachten kan ook maken dat je eigen spanning, behoeften of grenzen pas later opvallen. Dat verschilt per persoon en betekent niet dat iemand geen gevoelens heeft. Een geplande check-in, pauze of herinnering kan helpen om eerder stil te staan bij wat je nodig hebt; ondersteuning gebruiken is geen falen.
+
 ---
 
 ## 4. De Weg Vooruit: Naar Veilig Ontmaskeren (Unmasking)

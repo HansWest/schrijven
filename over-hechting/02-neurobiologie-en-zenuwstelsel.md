@@ -1,4 +1,4 @@
-# Neurobiologie, Hersenstam & De 5 F's in Hechting
+# Neurobiologie, Hersenstam & De 7 F's in Hechting
 
 > **Algemene Hechtingstheorie — Deel 2**  
 > *Hoe de polyvagaal theorie, neuroceptie en de hersenstam bepalen hoe we reageren op nabijheid, verlies en relationele dreiging.*
@@ -15,7 +15,7 @@ Wanneer er in een relatie stilte, afwijzing of onvoorspelbaarheid ontstaat, scan
 
 ## 2. De 7 F's in Relationele Paniek & Overleving
 
-Bij hechtingsdreiging of existentiële leegte activeert het autonome zenuwstelsel een van de zeven overlevingsreflexen (de 7 F's):
+Bij hechtingsdreiging of existentiële leegte kan het autonome zenuwstelsel verschillende beschermende reacties inzetten. Fight, flight, freeze en fawn zijn bekende labels; in dit hoofdstuk gebruiken we daarnaast Frenzy, Flock en Feign Death als aanvullende beschrijvende termen. Deze uitgebreide indeling is een denkkader, geen universeel vaststaande medische taxonomie:
 
 | Reflex | Somatische Toestand | Hechtingsgedrag & Dynamiek in Relaties |
 | :--- | :--- | :--- |
@@ -26,6 +26,21 @@ Bij hechtingsdreiging of existentiële leegte activeert het autonome zenuwstelse
 | **Freeze (Bevriezen — Vertrouwen op Schutkleuren)** | Alert stilvallen, actieve motorische remming (handrem erop) | Zoals een dier dat vertrouwt op zijn schutkleuren en roerloos stilzit terwijl de vijand vlakbij is. In relaties: jezelf muisstil houden, emoties bevriezen, 'opgaan in het behang' in de hoop niet opgemerkt te worden en dat de storm overwaait. |
 | **Fawn (Pleasen — De Sociale Schutkleur)** | Preventieve onderwerping, over-afstemming op macht | Fungerend als een **sociale schutkleur**: door preventieve submissie, vleien en overdreven inschikkelijkheid word je 'onschadelijk' en onzichtbaar voor degenen die macht zoeken in de groep of relatie. Je wist je eigen behoeften en grenzen om onder de radar van agressie of afwijzing te blijven. |
 | **Feign Death (Schijndood & Hopeloosheids-Depressie)** | Diepe dorsale collaps, analgesie, somatische lediging | Optredend bij het gevoel van **totale hopeloosheid** (alsof men al in de bek van het roofdier ligt). Zware depressieve apathie, pijn wel hebben maar er niet meer op reageren, status laten varen, verlies van eetlust (geen honger) en somatische reacties zoals angstige diarree (evolutionair: ballast lozen of oneetbaar/onaantrekkelijk worden voor het roofdier). |
+
+## Situatie, reactie en adem
+
+Ademhaling kan een aanwijzing zijn voor spanning of herstel, maar is geen betrouwbare manier om een F-reactie vast te stellen. Het patroon verschilt per persoon en wordt ook beïnvloed door beweging, gezondheid en omgeving. Zie de tabel daarom als observatiekader: adem niet bewust inhouden of forceren om een reactie te testen.
+
+| Situatie | Mogelijke reactie | Mogelijk adempatroon |
+| :--- | :--- | :--- |
+| Ervaren veiligheid | Meer ruimte om te denken, voelen en samen te werken | Vaak een rustiger ritme, met natuurlijke adempauzes |
+| Tekort, gemis of dringende behoefte | Gejaagd zoeken of fixeren (in dit kader: **Frenzy**) | Kan versnellen of verdiepen |
+| Verwachte dreiging of behoefte aan steun | Terugtrekken of een ander opzoeken (**Flight / Flock**) | Kan worden ingehouden of hoger en sneller worden; dit verschilt |
+| Directe, als hanteerbaar ervaren dreiging | Tegenstand of verdediging (**Fight**) | Kan krachtiger of sneller worden |
+| Aanhoudende dreiging waarbij verzet niet haalbaar voelt | Stilvallen of aanpassen (**Freeze / Fawn**) | Kan oppervlakkig, beperkt of ingehouden worden |
+| Ervaren totale machteloosheid | Sterk terugtrekken of inzakken (soms beschreven als **Feign Death**) | Kan vlak of oppervlakkig lijken; dit label stelt geen diagnose |
+
+Een ademobservatie vertelt op zichzelf niet wat iemand nodig heeft. Vraag het zo mogelijk rechtstreeks en let ook op de situatie en andere signalen. Bij plotselinge of ernstige ademhalingsklachten is dit model geen vervanging voor medische beoordeling.
 
 ---
 

@@ -17,8 +17,8 @@ Hoewel iedereen een primaire hechtingsbasis meekrijgt uit de vroege jeugd, zijn 
 1. [**01: Reactiepatronen, Relationele Specificiteit & Earned Security**](01-reactiepatronen-en-relatietypen.md)  
    *Waarom 'hechtingsstijlen' eigenlijk overlevingspatronen zijn, hoe de chemie tussen twee partners specifieke patronen uitlokt, en hoe het zenuwstelsel kan herbedraden.*
 
-2. [**02: Neurobiologie, Hersenstam & De 5 F's**](02-neurobiologie-en-zenuwstelsel.md)  
-   *De polyvagaal theorie, neuroceptie (gevaardetectie), de 5 overlevingsreflexen (Fight, Flight, Freeze, Fawn, Flock) in relaties, en somatische co-regulatie.*
+2. [**02: Neurobiologie, Hersenstam & De 7 F's**](02-neurobiologie-en-zenuwstelsel.md)  
+   *De polyvagaal theorie, neuroceptie (gevaardetectie), zeven beschrijvende F-reacties in relaties, ademobservaties en somatische co-regulatie.*
 
 ---
 

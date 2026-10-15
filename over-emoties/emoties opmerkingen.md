@@ -1,11 +1,7 @@
 # Emoties Opmerkingen
 
-## angst
-Angst kan nog te groot zijn om zinnig na te denken.
-Angst kan zelfs te groot zijn om nog andere gevoelens er naast te voelen (zoals verdriet of liefde).
-
 ## schuld
-Schuld kan je beter op je nemen dan dat je hem toegewezen krijgt.
+Een schuldgevoel eerst zelf onderzoeken is iets anders dan zonder toetsing schuld op je nemen omdat een ander die bij je neerlegt. Zie ook [Schuldgevoel en schuld in relaties](over-schuld.md).
 
 ## boosheid
 Boosheid is iets (dat er niet was) waar je iemand pijn voor wilt gaan doen om het alsof te krijgen.

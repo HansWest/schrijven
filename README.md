@@ -25,7 +25,8 @@ schrijven/
 ├── over-autisme/                          # ASS, masking & online sessies voor neurodiversiteit
 ├── over-bdsm/                             # BDSM & Kink theorieën (Gateau-model, Techniek/Betekenis)
 ├── over-trauma/                           # Jeugdtrauma, het zwarte gat & kikkers en veren
-├── over-emoties/                          # Emotienotities & overlevingsmechanismen
+├── over-angst/                            # Angst, beschermingsreacties & praktische handvatten
+├── over-emoties/                          # Emoties, praktische handvatten & overlevingsmechanismen
 ├── over-polyamorie/                       # Relatievormen & ethische non-monogamie
 ├── over-mannelijkheid-en-vrouwelijkheid/   # Mannelijkheid, vrouwelijkheid & polariteit voorbij de cultuuroorlog
 │

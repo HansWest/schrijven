@@ -8,6 +8,7 @@
 
 ### 1. [Wat is Masking? (`wat-is-masking/`)](wat-is-masking/README.md)
 *De sociale schutkleur, het onderdrukken van autistische expressie, en de prijs van de autistische kater.*
+- [Masking Herkennen: Voorbeelden en Onderscheid met Aanpassen](wat-is-masking/masking-herkennen-en-onderscheiden.md)
 - [De Prijs van de Sociale Schutkleur](wat-is-masking/de-prijs-van-de-sociale-schutkleur.md)
 
 ### 2. [Chosen Family (`chosen-family/`)](chosen-family/README.md)

@@ -39,3 +39,17 @@ Vraag eenvoudig:
 Voor jou is het delen van diepe kennis over je passie dé ultieme vorm van relatiebevestiging. Voor jouw neurotypische partner kan een lange monoloog echter voelen als een lezing waarin geen ruimte is voor interactie.
 - Begrijp dat de 'koetjes en kalfjes' van je partner geen tijdverspilling zijn, maar hun manier om emotionele veiligheid te voelen (*"we zijn oké samen, er is harmonie"*).
 - Kondig een passie-verhaal aan in plaats van het onaangekondigd over hen heen te storten: *"Vind je het leuk als ik je even 5 minuten iets fascinerends vertel waar ik mee bezig ben?"* Zo geef je de ander de keuze om te schakelen.
+
+## Breng prikkelbelasting en herstel in kaart
+
+Soms merk je pas laat dat je over je grens gaat, zeker wanneer een taak nog niet af is of je aandacht sterk naar buiten gericht blijft. Wacht daarom niet uitsluitend op een duidelijk intern gevoel van "ik ben moe". Let ook op persoonlijke signalen en de omstandigheden: meerdere geluiden tegelijk, schakelen tussen taken, tijdsdruk of een oplopende hoeveelheid afspraken.
+
+Je kunt samen een groen-oranje-roodplan maken:
+
+- **Groen:** wat helpt je energie te behouden en welke afspraken zijn haalbaar?
+- **Oranje:** welke vroege signalen herken je, en welke kleine pauze of aanpassing helpt dan?
+- **Rood:** wat moet tijdelijk stoppen of eenvoudiger worden, en wie helpt daarbij?
+
+Herstel hoeft niet voor iedereen stilzitten of liggen te betekenen. Een rustige, vertrouwde activiteit, bewegen of muziek kan juist helpend zijn; ontdek wat voor jou werkt. Een planbord, herinnering of noise-cancelling koptelefoon kan een bruikbare ondersteuning zijn, geen teken van falen. Kies zulke hulpmiddelen per situatie en let bij gebruik op wat je nog veilig moet kunnen horen.
+
+Bespreek het plan op een rustig moment en pas het aan op basis van ervaring. Het is een hulpmiddel, geen garantie dat overbelasting altijd wordt voorkomen.

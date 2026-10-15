@@ -7,5 +7,7 @@
 
 ## Documenten in deze Map
 
+- [**Masking Herkennen: Voorbeelden en Onderscheid met Aanpassen**](masking-herkennen-en-onderscheiden.md)  
+  *Praktische voorbeelden en reflectievragen om masking te onderzoeken zonder van herkenningspunten een diagnosechecklist te maken.*
 - [**De Prijs van de Sociale Schutkleur**](de-prijs-van-de-sociale-schutkleur.md)  
   *Diepgaande analyse van masking: de neurobiologische kosten, de autistische kater, het verlies van eigen identiteit en de weg naar veilig ontmaskeren.*
