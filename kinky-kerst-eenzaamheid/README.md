@@ -18,8 +18,9 @@ kinky-kerst-eenzaamheid/
 ├── projects/                                    # DOELGERICHTE PROJECTEN
 │   ├── 01-kinky-kerst-coach-podcast/            # Sinquest podcastserie voor Kerst 2026 (formats, scripts, planning)
 │   ├── 02-derde-kerstdag-kerst-zonder-masker/   # Online bijeenkomst 27 dec 2026 (draaiboek & huisregels)
-│   ├── 03-workshops-en-kennisoverdracht/        # 5-delig workshopcurriculum voor begin 2027
-│   └── 04-matchmaking-en-buddy-systeem/         # Hybride matching & munch-buddy systeem ("Twee Groepen, Drie Intenties")
+│   ├── 03-workshops-en-kennisoverdracht/        # 4-delige Winterwerkplaats voor begin 2027
+│   ├── 04-matchmaking-en-buddy-systeem/         # Hybride matching & munch-buddy systeem ("Twee Groepen, Drie Intenties")
+│   └── 05-toolkit-voor-hulpverleners/           # Handreiking & gespreksleidraad voor artsen, POH-GGZ & psychologen
 │
 ├── ideeen/                                      # MODULAIR UITGEWERKTE IDEEËN
 │   ├── idee-01-aflevering-themas-en-gasten.md   # Yvette, Dirk, primal, breathplay, red flags, neurodiversiteit
@@ -48,13 +49,24 @@ kinky-kerst-eenzaamheid/
   - [Google Forms Vragenlijst Blauwdruk](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/01-kinky-kerst-coach-podcast/intake-en-vragenlijst.md)
   - [Productieplanning 2026](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/01-kinky-kerst-coach-podcast/productie-planning-2026.md)
 - [Project 02: Derde Kerstdag "Kerst zonder Masker"](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/02-derde-kerstdag-kerst-zonder-masker/README.md)
-  - [Draaiboek & Huisregels](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/02-derde-kerstdag-kerst-zonder-masker/draaiboek-en-huisregels.md)
-- [Project 03: Workshops & Kennisoverdracht](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/README.md)
+- [Project 03: De West-Sessies met Hans West](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/README.md)
   - [Workshop Curriculum](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/workshop-curriculum.md)
+  - [PowerPoint Slide-Voorstellen & Sprekersnotities](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/powerpoint-slide-voorstellen.md)
+  - [Markdown Slide Decks (voor Gemini & Google Slides)](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/slides-markdown/)
+  - [Aankondigingstekst & Codewoord WESTSESSIES](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/aankondiging-de-west-sessies.md)
+
 - [Project 04: Matchmaking & Buddy-Systeem](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/04-matchmaking-en-buddy-systeem/README.md)
+
+
+
+
   - [Concept Twee Groepen, Drie Intenties](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/04-matchmaking-en-buddy-systeem/concept-twee-groepen-drie-intenties.md)
+- [Project 05: Toolkit Zorg & Hulpverlening](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/05-toolkit-voor-hulpverleners/README.md)
+  - [Eerste Aanzet & Misvattingen](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/05-toolkit-voor-hulpverleners/eerste-aanzet-toolkit.md)
+  - [Gespreksleidraad in de Spreekkamer](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/05-toolkit-voor-hulpverleners/gespreksleidraad-in-de-spreekkamer.md)
 
 ### 3. Ideeën & Verdieping
+
 - [Idee 01: Afleveringsthema's, Gasten & Taboes](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-01-aflevering-themas-en-gasten.md)
 - [Idee 02: Community & Chosen Family](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-02-community-en-chosen-family.md)
 - [Idee 03: Psychologie, Kink, Hechting & Zwart Gat](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md)

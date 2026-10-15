@@ -1,13 +1,18 @@
 # Format & Afleveringen: Sinquest Kinky Kerst Coach (2026)
+*Host: Hans West (Kink-Aware Coach met GGZ-achtergrond)*
 
 ## Serie-Opbouw & Dynamiek
 
 Elke aflevering volgt een vaste, herkenbare opzet:
 1. **Introductie & Opening (1-2 min):** Herkenning van het kerstgevoel, gerelateerd aan het thema.
-2. **De Stem van de Luisteraar (4-6 min):** Een anonieme brief of ingezonden vraag (voorgelezen door de host).
+2. **De Stem van de Luisteraar (4-6 min):** Een anonieme brief of ingezonden vraag (voorgelezen door Hans West).
 3. **Inhoud & Psycho-educatie (8-12 min):** Kink-aware analyse, het neurologische/psychologische perspectief (hersenstam, schaamte, grenzen).
 4. **Concrete Praktijkoefening of Tip (3 min):** Wat kan de luisteraar vanavond nog doen?
-5. **Afsluiting & Hulplijnen (1 min):** Luisterlijn (088-0767000), 113 Zelfmoordpreventie (0800-0113), Switchboard.
+5. **Afsluiting, Vaste Sign-Off & Hulplijnen (1-2 min):** 
+   - Vaste sign-off: *"Blijf trouw aan je eigen grenzen, zorg goed voor jezelf, en tot de volgende West-Sessie met Hans West."*
+   - Hulplijnen: Luisterlijn (088-0767000), 113 Zelfmoordpreventie (0800-0113).
+
+
 
 ---
 
@@ -45,5 +50,6 @@ Elke aflevering volgt een vaste, herkenbare opzet:
 * **Thema:** Gekozen familie bouwen en vooruitkijken naar een fris jaar.
 * **Kernpunten:** 
   - Familie die je kiest: vrienden, mentors, buddies.
-  - SadoPositief denken: een gezonde balans tussen je kinky identiteit en je dagelijkse leven.
-  - Uitnodiging voor de online "Derde Kerstdag" bijeenkomst op 27 december 2026.
+  - **Aankondiging van De West-Sessies (Jan/Feb 2027):** Bekendmaking van het *Luisteraars-Codewoord* `WESTSESSIES` (voor de symbolische € 4,50 no-show bijdrage i.p.v. regulier € 17,50).
+
+

@@ -1,75 +1,118 @@
-# Workshop Curriculum: Van Onzekerheid naar Verbinding
+# De West-Sessies: Nuchtere Kink-Workshops met Hans West
 
-Een 5-delige interactieve serie van elk 90 minuten (45 min theorie + 30 min oefening/Q&A + 15 min rustige landing).
+> *"Geen zweverig gedoe, geen kleffe groepsknuffels of vage theorieën. Wel heldere kaders, een kalm zenuwstelsel en praktische vaardigheden om de winter stevig, veilig en verbonden door te komen."*
 
 ---
 
-## Module 1: Kink, Grenzen & Zelfkennis
-- **Focus:** Ontdekken wie je bent in de kinkscene zonder druk van buitenaf.
-- **Inhoud:**
-  - Het verschil tussen fantasie, wens en harde grens.
-  - Hard limits vs. soft limits; contextafhankelijke grenzen.
-  - Zelf-consent: leren 'nee' zeggen tegen situaties die je energie kosten, óók als de ander aantrekkelijk is.
+## 1. Het Concept: "Warmte Zonder Bullshit"
 
-## Module 2: Onderhandelen, Safewords & Veiligheidskaders
-- **Focus:** De taal van consent in de praktijk.
-- **Inhoud:**
-  - Kaders: SSC (Safe, Sane, Consensual), RACK (Risk Aware Consensual Kink) en PRICK (Personal Responsibility, Informed Consensual Kink).
-  - Verbaal en non-verbaal safeworden (stoplichtmethode, fysieke signalen).
-  - Praktijkvoorbeeld: Hoe start je een onderhandeling met een potentiële playpartner of date zonder schaamte?
+In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Zeker als je kinky voorkeuren hebt, single bent of het gevoel hebt dat je omgeving jouw wereld niet begrijpt, kan de winter koud en isolerend aanvoelen. 
 
-## Module 3: Online Privacy, Dating & Red Flags
-- **Focus:** Veilig navigeren op fetish-sites (FetLife, datingapps, forums) en het ontmaskeren van foute bedoelingen.
-- **Inhoud:**
-  - Anonimiteit beschermen: foto's, metadata, e-mails, pseudoniemen.
-  - Red flags: manipulators, "predatory dominanten", seksuele druk onder het mom van "service", boundary testing.
-  - Groene vlaggen: hoe herken je oprechte, zorgzame en integere kinksters?
+**De West-Sessies** (begeleid door Kink-Aware Coach Hans West) bieden een veilige, nuchtere haven:
+- **Niet klef:** We gaan niet geforceerd 'delen vanuit het hart' of in een kring elkaars handen vasthouden. We behandelen BDSM en alternatieve relaties zoals een ambacht: met kennis van techniek, psychologie, risico's en communicatie.
+- **Laagdrempelig & Veilig:** Volledig online via Zoom. Camera aan mag, maar is **nooit verplicht**. Pseudoniemen toegestaan. Geen naaktheid, geen fysieke handelingen voor de webcam.
+- **Direct toepasbaar:** Elke sessie levert concrete vaardigheden op voor je dagelijks leven, je speelafspraken en je zenuwstelsel.
 
-## Module 4: Subdrop, Domdrop & Zelf-Aftercare
-- **Focus:** De biologische en emotionele nasleep van intense ervaringen.
-- **Inhoud:**
-  - Neurochemie: endorfine, dopamine, adrenaline en de daaropvolgende biochemische crash.
-  - Waarom ook Dominanten instorten (Domdrop / zorg-uitputting).
-  - Een persoonlijk aftercare-plan opstellen (warmte, suikerspiegel, sociaal netwerk, zintuiglijke rust).
 
-## Module 5: De Eerste Stap naar Buiten: Munches & Chosen Family
-- **Focus:** Van online theorie en isolatie naar veilige, duurzame vriendschappen en gekozen familie in de echte wereld.
-- **Tijdsindeling (90 min):** 45 min theorie & kaders + 30 min interactieve oefening + 15 min somatische landing.
+---
 
-### 1. Waar ga je op zoek naar 'Familieleden'? (Vindplaatsen)
-Chosen family vind je zelden op wilde seksfeesten; je vindt ze op plekken waar vertraagd en gepraat wordt:
-- **De Gespecialiseerde / Kleinschalige Munch:** Zoek niet meteen de drukste kroegmunch op van 80 man. Kies voor laagdrempelige, gethematiseerde bijeenkomsten: beginnersmunches, neurodiverse munches, poly/kink munches, kinky boekenclubs of middag-koffiemunches.
-- **'Skill-Sharing' & Vertraagde Oefenruimtes:** Rope dojo's (shibari oefenmiddagen), consent- en communicatieworkshops, tantra-introducties of knuffelworkshops (*cuddle parties*). Hier ligt de nadruk op vaardigheden, consent en rust in plaats van flirten of jagen.
-- **Overlappende Subculturen in het 'Wild':** Veel kinksters begeven zich in aangrenzende werelden: bordspelavonden (boardgames), TTRPG (Dungeons & Dragons), alternatieve koren, LGBTQIA+ community centra en klimhallen. Dit zijn ideale plekken om mensen te ontmoeten met wie je een brede klik hebt vóórdat kink ter sprake komt.
-- **Het Munch-Buddy Systeem:** Ga nooit alleen als de drempel hoog is. Spreek via Sinquest, FetLife of Discord af met een 'buddy' om 20 minuten van tevoren ergens rustig een thee te drinken en samen de drempel over te stappen.
+## 2. Praktische Opzet & Vaste Structuur
 
-### 2. Wat is daarvoor bij Jezelf Nodig? (Mindset & Randvoorwaarden)
-- **Zuiverheid van Intentie (Cake vs. Topping):** Ben je op zoek naar een warme vriendschappelijke bedding (Cake/Trajectory) of zoek je stiekem een speelmaatje of sub/dom (Topping)? Wie met verborgen seksuele motieven naar vriendschap zoekt, activeert wantrouwen. Wees glashelder: *"Ik zoek hier vrienden en community, geen dates."*
-- **Het 'Slow Cooking' Principe (Pacing):** Familie bouw je niet in één avond. Reken op minimaal 3 tot 5 ontmoetingen voordat er vertrouwen ontstaat. Consistentie wint van intensiteit: liever elke maand een uur rustig aanwezig zijn dan één avond overenthousiast binnenvallen en daarna verdwijnen.
-- **Zelf-Consent & Begrensde Sociale Batterij:** Bepaal van tevoren je vertrektijd (bv. maximaal 1,5 uur). Ga naar huis zolang je je nog goed voelt, vóórdat neurodiverse overprikkeling of een sociale kater toeslaat.
-- **Lage Inzet bij Binnenkomst:** Je hoeft niet de gangmaker te zijn. Een simpel gesprekje bij de bar over hoe lastig het was om parkeerplek te vinden, is al een volwaardige overwinning.
+- **Duur per workshop:** 75 tot 90 minuten.
+- **Frequentie:** Om de week op zondagmiddag (14:00 – 15:30) of een vaste doordeweekse avond (19:30 – 21:00).
+- **Periode:** Januari & Februari 2027 (aangekondigd tijdens de Kerstpodcast 2026).
+- **Vaste 3-delige indeling:**
+  1. **Blok 1 (30 min) — Inzicht & Psycho-educatie:** Nuchtere uitleg vanuit Kink-Aware coaching en neurowetenschap (hersenstam, dopamine, hechtingspatronen).
+  2. **Blok 2 (30 min) — Praktijk & Werkvorm:** Zelf invullen van een werkblad, veilige casusbespreking in de chat of oefenen in optionele break-outs.
+  3. **Blok 3 (15 min) — Vragen & Somatische Landing:** Beantwoorden van vragen + korte zenuwstelsel-oefening om rustig en geaard af te sluiten.
 
-### 3. Hoe Herken je ze? (Groene Vlaggen van Chosen Family)
-- **Voorspelbaarheid en Betrouwbaarheid:** Ze doen wat ze zeggen. Als ze afspreken om thee te drinken of te appen, gebeurt dat ook. Geen warm-koud dynamieken.
-- **Seksuele Terughoudendheid in Vriendschap:** Ze waarderen jou om wie je bent als mens, zonder er continu seksuele toespelingen op te plakken of je te pushen richting de slaapkamer/speelruimte.
-- **Capaciteit voor Rupture & Repair:** Als er een misverstand of ongemakkelijk moment is, kunnen ze rustig zeggen: *"Hee, bedoelde je dat zo? Laten we het even uitpraten,"* zonder drama, ghosting of passieve agressie.
-- **Zachte Eigen Begrenzing:** Ze kunnen zelf ontspannen en helder 'nee' zeggen tegen een voorstel. *(Iemand die geen 'nee' durft te zeggen, is fundamenteel onveilig om 'ja' tegen te zeggen).*
-- **Ruimte voor Autonomie:** Ze vieren het als je ook met anderen optrekt; geen claimgedrag of subtiele jaloezie rondom vriendschappen.
+---
 
-### 4. Hoe Herken je Rode Vlaggen? (De Kikkers Vermomd als Familie)
-- **De "Instant Soulmate" / Love Bomber:** Binnen een half uur verklaren dat jullie *"zo'n zeldzame kosmische klik hebben"* en dat jij *"eindelijk iemand bent die hen echt begrijpt"*. Dit is geen intimiteit, maar honger naar een voetstuk.
-- **Boundary Testing (Grenzen Peilen):** Subtiel over je grenzen heen leunen om te zien of je protesteert: ongevraagd fysiek dichtbij komen, ongevraagde aanrakingen onder het mom van *"ik ben nou eenmaal een knuffelaar"*, of ongepaste intieme vragen over trauma of seks.
-- **De 'Scene-Guru' of Predatory Dominant:** Mensen die pronken met hoeveel subs ze hebben, status ontlenen aan wie ze kennen, en beginners proberen af te zonderen van de rest van de groep onder het mom van "mentorschap".
-- **De Emotionele Vampier / Trauma-Dumper:** Binnen tien minuten hun hele scheidingsleed of toxische verleden over je uitstorten. Ze zoeken geen vriend, maar een gratis therapeut of emmer voor hun emotionele afval.
-- **De Kikker met Pauwenveren:** Veel spirituele of kinky praatjes over 'verbinding' en 'healing', maar nul capaciteit tot rustige co-regulatie zodra jij een grens stelt of kwetsbaar bent.
+## 3. De 4 Modules in Detail
 
-### 5. Praktische Workshop-Oefeningen (30 min)
-- **Oefening A: De 'Neutraal-Openen' Scan (Rollenspel in tweetallen):**
-  Hoe knoop je een gesprek aan bij de bar zónder dat het zwaar of flirterig wordt? Oefenen met drie veilige, neutrale openingsvragen (reistijd, wat brengt je hier vanavond, ervaring met deze locatie).
-- **Oefening B: De Zachte Begrenzing ('Nee' zeggen met een glimlach):**
-  Oefenen met het vriendelijk afkappen van een gesprek dat te snel, te intens of grensoverschrijdend wordt: *"Fijn om even kennisgemaakt te hebben, ik ga nu even een rondje lopen en een watertje halen."*
-- **Oefening C: De Persoonlijke Chosen-Family Filter invullen:**
-  Deelnemers schrijven op een werkblad: welke 3 eigenschappen móét een vriendschap voor mij hebben om veilig te voelen, en bij welke 2 signalen neem ik direct een stap terug?
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DE WINTERWERKPLAATS                             │
+├───────────────────────────────────┬────────────────────────────────────┤
+│ MODULE 1 (Week 2, Jan)            │ MODULE 2 (Week 4, Jan)             │
+│ Het Rustige Hoofd & Zelf-Aftercare│ Onderhandelen & Grenzen Zonder     │
+│ (Drop opvangen & aarden)          │ Schaamte (RACK, hard/soft limits)  │
+├───────────────────────────────────┼────────────────────────────────────┤
+│ MODULE 3 (Week 6, Feb)            │ MODULE 4 (Week 8, Feb)             │
+│ Schijnveiligheid & Red Flags      │ Chosen Family & De Eerste Stap     │
+│ (Kikkers ontmaskeren & D/s valken)│ naar Buiten (Munches zonder stress)│
+└───────────────────────────────────┴────────────────────────────────────┘
+```
 
-*(Zie voor de volledige trainershandleiding en werkbladen: [`module-05-munches-en-chosen-family-gids.md`](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/03-workshops-en-kennisoverdracht/module-05-munches-en-chosen-family-gids.md))*
+---
+
+### Module 1: Het Rustige Hoofd & Zelf-Aftercare
+*Ondertitel: Hoe overleef je de winterdip, eenzaamheid en de biochemische kater?*
+
+* **Het Probleem:** Na een feest, een date, of juist na dagenlange stilte in een donker huis, slaat de biochemische crash toe (subdrop, domdrop of eenzaamheidsdrop). De hersenstam schiet in alarm: *"Ik ben alleen, er is gevaar."*
+* **De Nuchtere Inhoud:**
+  - Neurochemie van kink en drop: endorfine, adrenaline en oxytocine-dip uitgelegd.
+  - Waarom wachten tot iemand anders je komt troosten vaak leidt tot teleurstelling.
+  - Het verschil tussen acute somberheid en een biologische ontlading van het lijf.
+* **Praktische Oefening:**
+  - *Het Persoonlijke Noodpakket:* Deelnemers stellen een concreet somatisch protocol op voor sombere avonden (verzwaringsdeken, temperatuurwisseling, warm eten, vaste veilige muziek, wie mag je appen zónder schaamte).
+* **Takeaway:** *"Je hoeft drop niet weg te vechten; je moet je zenuwstelsel bedding geven tot de storm gaat liggen."*
+
+---
+
+### Module 2: Onderhandelen & Grenzen Zonder Schaamte
+*Ondertitel: Duidelijke taal spreken vóórdat je de kleren uittrekt of de touwen pakt.*
+
+* **Het Probleem:** Veel mensen durven hun échte verlangens niet te noemen uit angst voor afwijzing, of durven geen harde grens te stellen uit angst de ander teleur te stellen (pleasen).
+* **De Nuchtere Inhoud:**
+  - Kaders: Waarom RACK (Risk Aware Consensual Kink) volwassener is dan naïef SSC.
+  - Hard limits vs. Soft limits vs. Contextuele grenzen: het stoplichtmodel herzien.
+  - Een 'nee' leren zien als een daad van intimiteit: iemand die geen nee durft te zeggen, is onveilig om ja tegen te zeggen.
+* **Praktische Oefening:**
+  - *De Wensen- en Grenzenscan (Werkblad):* Categorieën afstrepen: *"Dit wil ik graag"*, *"Dit wil ik misschien onder strikte voorwaarden"*, *"Dit is een keiharde 'no go'"*.
+  - *Casus in de chat:* Hoe zeg je vriendelijk maar onwrikbaar nee tegen een ervaren dominant of speelpartner die over je grens heen leunt?
+* **Takeaway:** *"Consent is geen juridisch contract, maar een doorlopend gesprek tussen twee autonome volwassenen."*
+
+---
+
+### Module 3: Schijnveiligheid & Red Flags
+*Ondertitel: Geen pauwenveren zoeken bij kikkers.*
+
+* **Het Probleem:** Eenzaamheid maakt hongerig, en wie honger heeft eet soms bedorven voedsel. Kinksters belanden geregeld in toxische D/s-verhoudingen omdat manipulators precies weten welke knoppen ze moeten indrukken.
+* **De Nuchtere Inhoud:**
+  - De 'Predatory Dominant' ontmaskerd: love bombing, isolatie van vrienden, status ontlenen aan subs, en boundary testing.
+  - De 'Service Sub/Dom Valkuil': jezelf wegcijferen en leeglopen onder het mom van toewijding.
+  - Het narcistische toneelstuk: hoe herken je wie veilig is op FetLife, datingapps en feestjes?
+* **Praktische Oefening:**
+  - *De Rode Vlaggen Checklist:* 5 subtiele manipulatiesignalen analyseren aan de hand van praktijkvoorbeelden uit de scene.
+  - *De Exit-Strategie:* Hoe breek je een contact direct en veilig af zonder in een oeverloze discussie gezogen te worden.
+* **Takeaway:** *"Als iemand je grenzen test onder het mom van 'overgave', is het geen leiderschap maar misbruik."*
+
+---
+
+### Module 4: Chosen Family & De Eerste Stap naar Buiten
+*Ondertitel: Van online theorie naar echte vrienden in de echte wereld.*
+
+* **Het Probleem:** Hoe stap je van veilig achter je laptop vandaan naar een fysieke munch of community zónder sociale kater of dichtklappende verlegenheid?
+* **De Nuchtere Inhoud:**
+  - Wat is een munch wel en niet? Etiquette, dresscode (gewoon burgerkleding!) en verwachtingen.
+  - Chosen Family herkennen: voorspelbaarheid, respect voor autonomie en het vermogen om misverstanden rustig uit te praten.
+  - Omgaan met neurodiversiteit (ADHD/autisme): overprikkeling voorkomen en je sociale batterij managen.
+* **Praktische Oefening:**
+  - *De 45-Minuten Exit-Afspraak:* Leren binnenkomen met een vooraf bepaalde vertrektijd, zodat de spanning direct van de schouders valt.
+  - *Gespreksopeners zonder spanning:* 3 neutrale openingsvragen bij de bar die gegarandeerd geen ongemakkelijke stiltes opleveren.
+* **Takeaway:** *"Je hoeft de hele scene niet leuk te vinden; je hebt maar twee of drie echte gelijkgestemden nodig om je thuis te voelen."*
+
+---
+
+## 4. Prijzen & Toegankelijkheid (Het Luisteraars-Codewoord)
+
+Om de drempel minimaal te houden, maar tegelijkertijd **no-shows en gluurders te voorkomen**:
+- **Reguliere prijs (voor buitenstaanders):** € 17,50 per losse module of € 49,- voor de Winterbundel.
+- **Met het Luisteraars-Codewoord `WESTSESSIES` (uit de podcast met Hans West):**
+
+  - **Slechts € 4,50 per sessie** (of € 15,- voor de complete serie van 4 workshops).
+
+  - *Waarom een symbolische € 4,50?* Dit fungeert als een psychologische no-show borg. Onderzoek wijst uit dat een minimale eigen bijdrage zorgt dat 90%+ daadwerkelijk inlogt, terwijl 100% gratis aanmeldingen leiden tot 60-70% no-shows en gereserveerde plekken blokkeren voor anderen.
+- **100% Vrijstelling:** Mocht zelfs € 4,50 een reële barrière zijn, dan blijft de pay-what-you-can / gratis plek op aanvraag altijd beschikbaar (zonder bewijslast).
 
