@@ -15,13 +15,21 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
-## 🧩 ASS & Inspiratie
-*Artikelen over autisme, masking en de beleving van de wereld.*
+## 🧩 ASS & Inspiratie: Autisme & Neurodiversiteit
+*Theorieën, relationele dynamieken, praktische scripts en online sessies.*
 
-*   [**Masking (Camouflage)**](https://github.com/HansWest/ass/blob/main/inspiration-folder/masking.md)
-*   [**L-ASS-tige emoties**](https://github.com/HansWest/ass/blob/main/inspiration-folder/l-ASS-tige%20emoties.md)
-*   [**ASS en Psychose (Google Perspective)**](https://github.com/HansWest/ass/blob/main/inspiration-folder/ass-en-psychose_google.md)
-*   [**ASS en Psychose (DeepSeek Perspective)**](https://github.com/HansWest/ass/blob/main/inspiration-folder/ass-en-psychose_deepseek.md)
+*   [**Kennisbank Autisme & Neurodiversiteit (Hoofdoverzicht)**](over-autisme/README.md)
+    *   [**Wat is Masking? (De Sociale Schutkleur)**](over-autisme/wat-is-masking/README.md)
+    *   [**Chosen Family (Ontmaskeren Buiten de Bloedband)**](over-autisme/chosen-family/README.md)
+    *   [**Sociaal Navigeren & Scripts**](over-autisme/sociaal-navigeren/README.md)
+    *   [**Tips voor de Neurodivergente Partner**](over-autisme/tips-voor-nd-partners/README.md)
+    *   [**Tips voor de Neurotypische Partner**](over-autisme/tips-voor-nt-partners/README.md)
+    *   [**Seksualiteit, ASS & Kink (Houvast & Kaders)**](over-autisme/over-sex-met-ass/README.md)
+    *   [**Online Sessies (Draaiboeken)**](over-autisme/online-sessies/README.md)
+*   [**Externe ASS-Artikelen (GitHub HansWest/ass)**](https://github.com/HansWest/ass)
+    *   [Masking (Camouflage)](https://github.com/HansWest/ass/blob/main/inspiration-folder/masking.md)
+    *   [L-ASS-tige emoties](https://github.com/HansWest/ass/blob/main/inspiration-folder/l-ASS-tige%20emoties.md)
+    *   [ASS en Psychose](https://github.com/HansWest/ass/blob/main/inspiration-folder/ass-en-psychose_google.md)
 
 ---
 
@@ -30,8 +38,46 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
-## ❤️ Over Emoties
+## ❤️ Over Emoties & Trauma
+*   [**Kennisbank Trauma & Radicale Acceptatie (Overzicht)**](over-trauma/README.md)
+    *   [Het Zwarte Gat uit de Jeugd (Kikkers, Veren en de Moeder-Gans)](over-trauma/zwarte-gat-uit-de-jeugd.md)
+    *   [Hoe Stop je met Bedelen bij Kikkers? (Praktijkgids)](over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)
+    *   [**Partner van een Partner met Trauma (Gids & Map)**](over-trauma/partner-van-een-partner-met-trauma/README.md)
+        *   [01: Navigeren van Onvoorspelbare Hechtingspatronen](over-trauma/partner-van-een-partner-met-trauma/01-navigeren-van-onvoorspelbare-hechtingspatronen.md)
+        *   [02: Grenzen, Zelfbehoud & Co-Regulatie](over-trauma/partner-van-een-partner-met-trauma/02-grenzen-en-zelfbehoud-voor-de-partner.md)
+        *   [03: Het Trauma-Adrenaline Dilemma (Veilig vs. Spannend)](over-trauma/partner-van-een-partner-met-trauma/03-het-trauma-adrenaline-dilemma-veilig-versus-spannend.md)
 *   [**Emoties Opmerkingen**](over-emoties/emoties%20opmerkingen.md)
+
+---
+
+## 🔗 Over Hechting & Relatiepatronen
+*Centrale theorieën over het autonome zenuwstelsel, reactiepatronen en relationele chemie.*
+*   [**Kennisbank Hechting (Overzicht)**](over-hechting/README.md)
+*   [**01: Reactiepatronen, Relationele Specificiteit & Earned Security**](over-hechting/01-reactiepatronen-en-relatietypen.md)
+*   [**02: Neurobiologie, Hersenstam & De 5 F's**](over-hechting/02-neurobiologie-en-zenuwstelsel.md)
+
+---
+
+## ⚡ Over BDSM & Kink-Aware Theorie
+*Canonieke theorieën, relatielagen en taxonomieën, afgestemd op het KinkAwareCoach ecosysteem.*
+*   [**Kennisbank BDSM & Kink (Overzicht)**](over-bdsm/README.md)
+*   [**01: Het Gateau-Model (Vier Relatielagen)**](over-bdsm/01-het-gateau-model-relatielagen.md)
+*   [**02: De Techniek-Betekenis Splitsing (Technique-Meaning Split)**](over-bdsm/02-techniek-versus-betekenis.md)
+*   [**03: Neurochemie, Drop & Aftercare**](over-bdsm/03-neurochemie-drop-en-aftercare.md)
+
+---
+
+## 🤝 Integrative Relationship Coaching
+*Methodieken en werkbladen voor relatiebegeleiding.*
+*   [**Hechting als Dynamische Reactiepatronen & Protocollen**](integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md)
+*   [**Relatie Coaching Notities**](integrative-relationship-coaching/relatie-coaching.md)
+
+---
+
+## 🎄 Kinky Kerst & Eenzaamheid
+*Projectdossier rond het doorbreken van kersteenzaamheid onder kinksters en buiten-de-norm levenden.*
+*   [**Master Index & Projectarchitectuur**](kinky-kerst-eenzaamheid/README.md)
+*   [**Psychologie, Kink & Hechting (Idee 03)**](kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md)
 
 ---
 
@@ -45,5 +91,14 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
 *   [**Asian Content**](https://github.com/HansWest/asian-content)
 
+---
+
+## 📚 Meta-Documentatie & Schrijffilosofie
+*   [**Schrijffilosofie: Waarom géén Single Source of Truth geldt**](docs/filosofie-geen-single-source-of-truth.md)
+*   [**Documentatie-overzicht (`docs/`)**](docs/README.md)
+
+---
+
 ### Contact
 Heb je een vraag voor de column? Stuur deze naar [KinkindeRelatie@gmail.com](mailto:KinkindeRelatie@gmail.com).
+
