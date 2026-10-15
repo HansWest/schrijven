@@ -30,6 +30,9 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 4. [**04: Dominantie Hoeft Niets te Bewijzen (Rust & Betekenisvolle Protocollen)**](04-dominantie-hoeft-niets-te-bewijzen.md)  
    *Waarom authentieke dominantie in zichzelf rust en geen publiek applaus nodig heeft, en hoe regels en protocollen uitsluitend waarde hebben als ze betekenis toevoegen aan de D/s-relatie.*
 
+5. [**05: De Zes Kernfantasieën & Strategische Partnerinzichten**](05-de-zes-kernfantasieen.md)  
+   *De psychologie achter de zes universele fantasieën (groepsseks, D/s, de vreemdeling, CNC, exhibitionisme, vloeibaarheid), de regel 'Fantasie ≠ Verzoek' en het 3-fasen communicatie-framework.*
+
 
 ---
 
