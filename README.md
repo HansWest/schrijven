@@ -27,6 +27,7 @@ schrijven/
 ├── over-trauma/                           # Jeugdtrauma, het zwarte gat & kikkers en veren
 ├── over-emoties/                          # Emotienotities & overlevingsmechanismen
 ├── over-polyamorie/                       # Relatievormen & ethische non-monogamie
+├── over-mannelijkheid-en-vrouwelijkheid/   # Mannelijkheid, vrouwelijkheid & polariteit voorbij de cultuuroorlog
 │
 ├── integrative-relationship-coaching/     # Methodieken, protocollen & werkbladen
 └── kinky-kerst-eenzaamheid/               # Projectdossier rond kersteenzaamheid (met eigen docs/)

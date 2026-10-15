@@ -86,6 +86,15 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
+## ⚖️ Mannelijkheid, Vrouwelijkheid & Polariteit
+*Gezonde archetypische krachten, volwassen leiderschap en relationeel magnetisme voorbij de cultuuroorlog.*
+
+*   [**Kennisbank Mannelijkheid, Vrouwelijkheid & Polariteit (Overzicht)**](over-mannelijkheid-en-vrouwelijkheid/README.md)
+*   [**01: Gezonde Mannelijkheid: Scott Galloway & "Notes on Being a Man" (2025)**](over-mannelijkheid-en-vrouwelijkheid/01-gezonde-mannelijkheid-scott-galloway.md)
+*   [**02: Polariteit Zonder Cultuuroorlog: Dynamiek voorbij Wrok en Cancelen**](over-mannelijkheid-en-vrouwelijkheid/02-polariteit-zonder-cultuuroorlog.md)
+
+---
+
 ## 📁 Gespecialiseerde Projecten
 *   [**Meantime Protocollen**](https://github.com/HansWest/meantime-stuf)
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
