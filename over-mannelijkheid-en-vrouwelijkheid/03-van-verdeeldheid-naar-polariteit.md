@@ -19,7 +19,7 @@ Door de giftige karikaturen direct tegenover elkaar te plaatsen, kunnen we het g
 
 ---
 
-## 2. De Vijf Grote Thema's Ontleed
+## 2. De Zes Grote Thema's Ontleed
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -41,6 +41,9 @@ Door de giftige karikaturen direct tegenover elkaar te plaatsen, kunnen we het g
 ├──────────────────────┼───────────────────────┼───────────────────────────────────┤
 │ 5. Autonomie &       │ Manosfeer: MGTOW      │ Twee soevereine mensen die kiezen │
 │    Verbinding        │ Fem: "Need no man"    │ voor verrijking en toewijding     │
+├──────────────────────┼───────────────────────┼───────────────────────────────────┤
+│ 6. Zorg door Daden   │ Manosfeer: Ondankbaar │ V: Emotionele afstemming vóór actie│
+│    ('Shit Fixen')    │ Fem: Betutteling/Macht│ M: Liefde tonen door te ontzorgen │
 └──────────────────────┴───────────────────────┴───────────────────────────────────┘
 ```
 
@@ -143,6 +146,27 @@ Door de giftige karikaturen direct tegenover elkaar te plaatsen, kunnen we het g
   Het is pas werkelijk nobel en moedig om, vanuit volledige zelfredzaamheid, te kiezen voor wederzijdse toewijding. Elkaar nodig durven hebben is geen zwakte, maar het hoogste niveau van relationele volwassenheid (*interdependentie*).
 - **De Synergie:**  
   Twee hele mensen die niet samenkomen uit existentiële paniek, maar om samen een erotisch, emotioneel en praktisch imperium te bouwen dat vele malen groter is dan wat ze individueel konden bereiken.
+
+---
+
+### Thema 6: Daden van Zorg: 'Shit Fixen' versus Vermeende Betutteling
+
+#### A. De blik uit de toxische manosfeer: "Wat je ook doet voor een vrouw, ze is altijd ondankbaar"
+- **Het narratief:** *"Je probeert haar leven makkelijker te maken door problemen op te lossen — de auto te repareren, de administratie recht te trekken, klusjes te doen of een praktische oplossing aan te dragen. En wat krijg je terug? Verwijten dat je haar betuttelt, mansplaint of haar autonomie ondermijnt! Doe je niks, dan ben je een luie lamzak. Los je het op, dan ben je een patriarchale tiran die haar 'klein houdt'. Vrouwen zijn simpelweg onmogelijk te behagen."*
+- **De onderliggende angst:** De man voelt zich in zijn kern afgewezen in zijn meest primaire uiting van toewijding. Zijn daadkrachtige zorg (*provision through action*) wordt niet alleen niet gewaardeerd, maar zelfs verdacht gemaakt als een poging tot machtsuitoefening.
+
+#### B. De blik uit het toxisch feminisme: "Hij probeert me te domineren alsof ik zelf niks kan"
+- **Het narratief:** *"Daar komt hij weer binnenvallen met zijn gereedschap en ongevraagde oplossingen. Hij denkt zeker dat ik te dom of incompetente ben om mijn eigen shit te fixen! Dit is gewoon patriarchale controle in een verkapte vorm: hij eigent zich mijn problemen toe om zichzelf superieur te voelen en mij afhankelijk te maken. Ik heb geen redder nodig; ik kan prima mijn eigen boontjes doppen."*
+- **De onderliggende angst:** De vrouw is doodsbang voor betutteling en het verlies van haar soevereiniteit. Haar overlevingspantser (aangeleerde hyper-onafhankelijkheid) slaat direct alarm zodra een man ongevraagd de leiding neemt, omdat afhankelijkheid in het verleden mogelijk onveilig was.
+
+#### C. Wat het zégt over de kracht van allebei: De Polaire Brug
+- **De gezonde mannelijke kracht: 'Action as Affection' (Liefde Tonen door te Ontzorgen):**  
+  Voor het mannelijke zenuwstelsel is actie de ultieme taal van toewijding. Als een man 'shit fixt', is dat geen twijfel aan haar intellect, maar een diepe daad van ridderlijkheid en ontlasting: *"Jij draagt al zoveel mentale en emotionele last; laat mij deze praktische last van je schouders tillen zodat jij kunt ontspannen."* Het is zijn levering van *Surplus Value*.
+- **De gezonde vrouwelijke kracht: Autonomie & Behoefte aan Afstemming:**  
+  Een volwassen vrouw beschikt over volwaardige eigen competentie. Haar weerstand ontstaat niet omdat ze praktische hulp haat, maar omdat het mannelijke 'direct fixen' vaak haar emotionele proces passeert. Haar zenuwstelsel wil eerst **gehoord en gevalideerd worden in de stress of frustratie**, voordat er schroevendraaiers en stappenplannen bijgehaald worden.
+- **De Polaire Synergie in de Praktijk:**  
+  - *Voor de man:* Stel eerst de afstemmingsvraag: *"Wil je dat ik alleen even luister en er voor je ben, of wil je dat ik mijn mouwen opstroop en dit voor je fix?"* En als hij praktisch aan de slag gaat: benoem de liefdevolle intentie (*"Ik weet dat je dit zelf uitstekend kunt, maar ik vind het fijn om het voor je te doen zodat jij even rust hebt"*).
+  - *Voor de vrouw:* Kijk voorbij de schroevendraaier naar het mannenhart. Herken dat zijn daadkracht geen aanval is op haar feministische autonomie, maar een fysieke liefdesverklaring. Laat het pantser zakken en geniet van het geschenk van het ontzorgd worden.
 
 ---
 
