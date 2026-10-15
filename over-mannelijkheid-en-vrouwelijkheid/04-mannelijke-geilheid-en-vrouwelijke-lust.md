@@ -53,7 +53,7 @@ Mannen — van jonge twintigers tot vitale zestigers — hebben, mits ze fysiek 
 
 ### Het Failliet van de 'Uitgebluste Man'
 Veel moderne mannen zijn uitgeblust geraakt door een dodelijke cocktail:
-1. **Laffe Porno-afhankelijkheid:** Urenlang doelloos scrollen naar pixels. Dit loost testosteron en dopamine in eenzame leegte, waardoor de man in het echte contact met een vrouw slap, passief en onzeker is.
+1. **Porno als Vlucht i.p.v. Inspiratie:** Urenlang doelloos scrollen en solistisch masturberen als verdoving, in plaats van porno te gebruiken als inspiratie voor échte seks (zie [05: Porno als Inspiratie vs. Leerboek](05-porno-als-inspiratie-versus-leerboek.md)). Dit loost dopamine in eenzame leegte, waardoor de man in het echte contact met een vrouw slap, passief en onzeker wordt.
 2. **Seksuele Schaamte:** Het idee dat mannelijk verlangen per definitie verdacht, gevaarlijk of 'toxisch' is.
 3. **Fysieke Verwaarlozing:** Te weinig zware training, te veel troep eten en sedentair leven.
 

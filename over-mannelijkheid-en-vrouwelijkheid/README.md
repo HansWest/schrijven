@@ -37,6 +37,9 @@ Deze kennisbank kiest voor een nuchtere, diepgaande en constructieve benadering:
 4. [**04: Mannelijke Geilheid, Vrouwelijke Lust & De Rauwe Motor van Verlangen**](04-mannelijke-geilheid-en-vrouwelijke-lust.md)  
    *Waarom brave mannen passie doden, waarom vrouwen in monogamie eerder uitgekeken raken op gezapige seks, en concrete sturing voor jonge mannen om hun rauwe geilheid voluit en zonder schaamte te belichamen.*
 
+5. [**05: Porno: Erotische Inspiratie versus Onveilig Leerboek**](05-porno-als-inspiratie-versus-leerboek.md)  
+   *Waarom porno prima vermaak is, waarom je niet leert autorijden van 'Gone in 60 Seconds', en de zes fundamentele verschillen tussen een filmset en echte intimiteit.*
+
 ---
 
 ## 3. Verbindingen binnen het Schrijfarchief
