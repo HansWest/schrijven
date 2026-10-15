@@ -90,7 +90,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *Gezonde archetypische krachten, volwassen leiderschap en relationeel magnetisme voorbij de cultuuroorlog.*
 
 *   [**Kennisbank Mannelijkheid, Vrouwelijkheid & Polariteit (Overzicht)**](over-mannelijkheid-en-vrouwelijkheid/README.md)
-*   [**01: Gezonde Mannelijkheid: Scott Galloway & "Notes on Being a Man" (2025)**](over-mannelijkheid-en-vrouwelijkheid/01-gezonde-mannelijkheid-scott-galloway.md)
+*   [**01: De Crisis en de Pijlers van Gezonde Mannelijkheid**](over-mannelijkheid-en-vrouwelijkheid/01-de-crisis-en-pijlers-van-gezonde-mannelijkheid.md)
 *   [**02: Polariteit Zonder Cultuuroorlog: Dynamiek voorbij Wrok en Cancelen**](over-mannelijkheid-en-vrouwelijkheid/02-polariteit-zonder-cultuuroorlog.md)
 
 ---

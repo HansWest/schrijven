@@ -25,8 +25,8 @@ Deze kennisbank kiest voor een nuchtere, diepgaande en constructieve benadering:
 
 ## 2. Documenten in deze Kennisbank
 
-1. [**01: Gezonde Mannelijkheid: Scott Galloway & "Notes on Being a Man" (2025)**](01-gezonde-mannelijkheid-scott-galloway.md)  
-   *De crisis onder moderne mannen (eenzaamheid, doelloosheid, suïcide), het vacuüm van de manosphere, de drie pijlers (Beschermen, Voorzien, Investeren), de SCAFA-methode tegen depressie en concrete gedragsrichtlijnen voor een dienend, krachtig mannenleven.*
+1. [**01: De Crisis en de Pijlers van Gezonde Mannelijkheid**](01-de-crisis-en-pijlers-van-gezonde-mannelijkheid.md)  
+   *De maatschappelijke crisis onder mannen (eenzaamheid, doelloosheid, suïcide), het vacuüm van de manosphere, de drie universele pijlers (Beschermen, Voorzien, Investeren), de SCAFA-methode tegen depressie en concrete gedragsrichtlijnen voor een dienend, krachtig mannenleven.*
 
 2. [**02: Polariteit Zonder Cultuuroorlog: Dynamiek voorbij Wrok en Cancelen**](02-polariteit-zonder-cultuuroorlog.md)  
    *Hoe relationele polariteit werkt op zenuwstelselniveau, waarom de cancelcultuur passie doodt, en hoe partners elkaar kunnen optillen in plaats van afbreken (containment, bedding en overgave).*
