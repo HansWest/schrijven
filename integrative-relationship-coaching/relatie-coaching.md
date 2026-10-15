@@ -15,6 +15,19 @@ Daarom kunnen deze vragen behulpzaam zijn:
 
 Het gaat er niet om dat iedere reactie uit het verleden komt. Wel kan nieuwsgierigheid naar de verschillende lagen ruimte maken tussen een prikkel en wat we vervolgens doen.
 
+## Daten: de vorm van je gemis zichtbaar maken
+
+Bij het zoeken naar een partner kan het helpen om niet alleen te benoemen wat er ontbreekt, maar te onderzoeken welke vorm dat gemis heeft: wat heb je gemist, waar verlang je naar en wat wil je samen opbouwen? De archeologische methode van Fiorelli kan daarvoor een beeld zijn. Waar een holte in versteende as met gips werd gevuld om de contour van een verdwenen lichaam zichtbaar te maken, kun je ook proberen de contour van een gemis te begrijpen: niet om het verleden opnieuw te vullen, maar om duidelijker te zien wat voor jou belangrijk is.
+
+Je kunt die helderheid meenemen in daten door te vertellen wat je zoekt en nodig hebt, zonder een nieuwe partner verantwoordelijk te maken voor het herstellen van oude tekorten. Een relatie kan ruimte bieden voor zorg en wederkerigheid, maar de ander is geen vervanging voor wat je vroeger niet hebt gekregen. Vraag jezelf bijvoorbeeld af:
+
+- Wat mis ik precies: nabijheid, betrouwbaarheid, speelsheid, erkenning, aanraking of iets anders?
+- Hoe ziet dat er concreet uit in wederzijds gedrag?
+- Wat kan ik zelf bijdragen, en wat wil ik van een partner kunnen vragen?
+- Welke grenzen of signalen helpen me om te zien of deze verbinding bij mij past?
+
+Zo wordt kwetsbaarheid geen etalage waarin de ander een leegte moet komen vullen, maar informatie waarmee jullie kunnen onderzoeken of er wederzijds ruimte en verlangen is.
+
 ## 2. Emotioneel efficiënt communiceren
 
 Emotioneel efficiënt communiceren betekent niet dat we gevoelens zo snel mogelijk moeten oplossen. Het betekent dat we proberen duidelijk te maken wat er in ons omgaat en wat voor gesprek we nodig hebben.

@@ -2,6 +2,8 @@
 
 Emoties zijn ervaringen die informatie kunnen geven over wat belangrijk, pijnlijk, bedreigend of gewenst is. Ze zijn niet automatisch feiten en ook geen opdrachten die je meteen moet uitvoeren. Soms is het al helpend om een gevoel op te merken voordat je besluit wat je ermee wilt doen.
 
+Een onprettig gevoel kun je zien als een alarmsignaal: het vraagt om aandacht, maar vertelt niet vanzelf precies wat de oorzaak is. Er kan iets in het hier en nu spelen, een eerdere ervaring geraakt zijn, of je lichaam kan bijvoorbeeld reageren op vermoeidheid of stress. Het gevoel is dus geen bewijs dat er zeker iets mis is, maar het verdient wel nieuwsgierigheid.
+
 ## Eerst opmerken, dan reageren
 
 Sta kort stil bij wat je merkt: welke lichamelijke sensaties zijn er, welke emotie past daar misschien bij, en welke gedachte loopt ermee mee? Een gevoel hoeft niet meteen te worden opgelost of verklaard. Als het te intens wordt, kan eerst veiligheid, steun of een rustige omgeving nodig zijn.
@@ -19,6 +21,8 @@ Probeer ook verschil te horen tussen een emotie en een oordeel over jezelf. *"Ik
 ## Gevoelens niet meteen wegwerken
 
 Een gevoel soms even laten bestaan kan helpen om te merken waar het mee samenhangt: een gemis, grens, behoefte, vermoeidheid of verlies. Dat betekent niet dat ieder gevoel een verborgen boodschap heeft of dat je er lang alleen in moet blijven. Je kunt aandacht geven aan wat je voelt en daarna kiezen wat op dit moment haalbaar en helpend is.
+
+Jezelf afleiden of even afstand nemen kan soms precies de rust geven die je nodig hebt. Als je merkt dat je steeds opnieuw probeert het gevoel weg te drukken, kun je later op een veiliger of rustiger moment terugkomen op de vraag: *Wat gebeurde er? Wat vraagt nu mijn aandacht of zorg?* Je hoeft het gevoel niet te bestrijden, en je hoeft ook niet meteen te handelen alsof het alarm de hele situatie al heeft verklaard.
 
 Emoties bewegen vaak mee met omstandigheden. Soms zakt een gevoel vanzelf; soms blijft het terugkomen of vraagt het om steun, verandering of professionele hulp. Je hoeft niet te kiezen tussen het wegdrukken en erdoor meegesleept worden: je kunt het opmerken, ernaar luisteren en vervolgens een passende stap kiezen.
 

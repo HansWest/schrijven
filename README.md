@@ -1,6 +1,6 @@
 # Schrijven — Hans West
 
-Welkom in het centrale schrijfarchief van artikelen, columns, theorieën en projectdossiers rondom ASS, Kink, Hechting, Relatievormen en Trauma.
+Welkom in het centrale schrijfarchief van artikelen, columns, theorieën en projectdossiers rondom ADHD/ADD, ASS, Kink, Hechting, Relatievormen en Trauma.
 
 ---
 
@@ -22,6 +22,7 @@ schrijven/
 ├── index.md                               # Publieke / centrale navigatie-index
 │
 ├── over-hechting/                         # Theorieën over zenuwstelsel, reactiepatronen & hechting
+├── over-adhd/                             # ADHD/ADD, aandacht & dagelijks functioneren
 ├── over-autisme/                          # ASS, masking & online sessies voor neurodiversiteit
 ├── over-bdsm/                             # BDSM & Kink theorieën (Gateau-model, Techniek/Betekenis)
 ├── over-trauma/                           # Jeugdtrauma, het zwarte gat & kikkers en veren

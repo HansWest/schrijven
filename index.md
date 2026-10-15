@@ -34,6 +34,13 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
+## 🧠 ADHD & ADD
+*Praktische informatie over aandacht, energie en dagelijks functioneren.*
+*   [**Kennisbank ADHD & ADD (Overzicht)**](over-adhd/README.md)
+    *   [Omgaan met een druk hoofd](over-adhd/omgaan-met-een-druk-hoofd.md)
+
+---
+
 ## ☸️ Symbolisme
 *   [**Ganesha Tattoo Symboliek**](https://github.com/HansWest/tattoo/blob/main/ganesh.md)
 
