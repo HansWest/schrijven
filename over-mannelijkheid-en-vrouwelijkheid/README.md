@@ -31,6 +31,9 @@ Deze kennisbank kiest voor een nuchtere, diepgaande en constructieve benadering:
 2. [**02: Polariteit Zonder Cultuuroorlog: Dynamiek voorbij Wrok en Cancelen**](02-polariteit-zonder-cultuuroorlog.md)  
    *Hoe relationele polariteit werkt op zenuwstelselniveau, waarom de cancelcultuur passie doodt, en hoe partners elkaar kunnen optillen in plaats van afbreken (containment, bedding en overgave).*
 
+3. [**03: Van Verdeeldheid naar Polariteit: De Spiegel der Uitersten**](03-van-verdeeldheid-naar-polariteit.md)  
+   *Thematische deconstructie van de toxische manosfeer vs. toxisch feminisme over vijf kerngebieden (status, emoties, seks, leiderschap, autonomie) en de weg naar gezonde polaire synergie.*
+
 ---
 
 ## 3. Verbindingen binnen het Schrijfarchief
