@@ -33,6 +33,9 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 5. [**05: De Zes Kernfantasieën & Strategische Partnerinzichten**](05-de-zes-kernfantasieen.md)  
    *De psychologie achter de zes universele fantasieën (groepsseks, D/s, de vreemdeling, CNC, exhibitionisme, vloeibaarheid), de regel 'Fantasie ≠ Verzoek' en het 3-fasen communicatie-framework.*
 
+6. [**06: Deconstructie van BDSM: Acroniem, Polariteit & Het Speelveld**](06-deconstructie-van-bdsm-en-het-speelveld.md)  
+   *De ontleding van B&D, D/s en S&M, dubbele betekenissen (seksueel vs spiritueel, bondage vs relatieband), consent en polariteit als erotische motor, de mythe van een 'scene-hiërarchie' en het psychologische cadeau van pijn.*
+
 
 ---
 
