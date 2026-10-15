@@ -6,6 +6,12 @@ Emoties zijn ervaringen die informatie kunnen geven over wat belangrijk, pijnlij
 
 Sta kort stil bij wat je merkt: welke lichamelijke sensaties zijn er, welke emotie past daar misschien bij, en welke gedachte loopt ermee mee? Een gevoel hoeft niet meteen te worden opgelost of verklaard. Als het te intens wordt, kan eerst veiligheid, steun of een rustige omgeving nodig zijn.
 
+## Lichaamssignalen als aanwijzing
+
+Ademhaling, spierspanning, houding en bewegingsdrang kunnen iets vertellen over hoe je eraan toe bent, maar ze vormen geen betrouwbare code waarmee je een emotie direct kunt aflezen. Een ingehouden adem kan bijvoorbeeld bij spanning horen, maar ook andere oorzaken hebben. Vraag jezelf af: *Wat merk ik in mijn lichaam? Wat gebeurde er vandaag? Welke emotie zou hierbij kunnen passen?* Je kunt ook bedenken wat iemand anders in dezelfde situatie mogelijk zou voelen, zonder aan te nemen dat diegene hetzelfde voelt als jij.
+
+Een kleur of beeld kan helpen als woorden nog niet komen: *Welke kleur heeft dit gevoel voor mij?* Zie zo'n beeld als persoonlijke taal, niet als meting. Ook ervaringen uit je jeugd kunnen invloed hebben op welke gevoelens je herkent of toelaat, maar niet elk huidig gevoel is terug te voeren op iets wat je vroeger hebt gemist.
+
 Soms helpt het onderscheid tussen een eerste gevoel en een reactie op dat gevoel. Verdriet kan bijvoorbeeld samengaan met de gedachte dat je je niet zo moet aanstellen; angst kan samengaan met schaamte omdat je bang bent. In sommige psychologische benaderingen heet dat onderscheid *primair* en *secundair* gevoel. Het is een hulpmiddel om te onderzoeken wat er speelt, geen vaste indeling die elk gevoel netjes verklaart.
 
 Probeer ook verschil te horen tussen een emotie en een oordeel over jezelf. *"Ik voel verdriet"* beschrijft een ervaring; *"ik ben zielig"* maakt er een oordeel of identiteit van. Verdriet toelaten of met iemand delen is niet hetzelfde als jezelf vastzetten in hulpeloosheid. Je mag steun nodig hebben en tegelijk eigen mogelijkheden houden.
@@ -13,6 +19,30 @@ Probeer ook verschil te horen tussen een emotie en een oordeel over jezelf. *"Ik
 ## Gevoelens niet meteen wegwerken
 
 Een gevoel soms even laten bestaan kan helpen om te merken waar het mee samenhangt: een gemis, grens, behoefte, vermoeidheid of verlies. Dat betekent niet dat ieder gevoel een verborgen boodschap heeft of dat je er lang alleen in moet blijven. Je kunt aandacht geven aan wat je voelt en daarna kiezen wat op dit moment haalbaar en helpend is.
+
+Emoties bewegen vaak mee met omstandigheden. Soms zakt een gevoel vanzelf; soms blijft het terugkomen of vraagt het om steun, verandering of professionele hulp. Je hoeft niet te kiezen tussen het wegdrukken en erdoor meegesleept worden: je kunt het opmerken, ernaar luisteren en vervolgens een passende stap kiezen.
+
+## Als de spanning oploopt
+
+Bij oplopende spanning kan een korte pauze ruimte maken tussen gevoel en reactie. Je hoeft het gevoel niet eerst weg te krijgen of volledig neutraal te worden.
+
+1. **Merk het signaal op.** Benoem wat je merkt, zoals een gespannen kaak, een versnelde ademhaling, irritatie of de neiging om direct terug te reageren.
+2. **Pauzeer en oriënteer.** Kijk rustig om je heen en voel je voeten of de stoel onder je. Merk je adem op zonder die te forceren; als het prettig voelt, laat je uitademing iets langer worden. Stop als aandacht voor je adem onprettig is.
+3. **Scheid feiten van invulling.** Wat is er concreet gebeurd? Wat vermoed of vrees je? Welke andere verklaring is mogelijk? Neem je eigen gevoel serieus, zonder het meteen als bewijs te behandelen.
+4. **Kies een volgende stap.** Vraag jezelf af wat je doel is en welke reactie daarbij past. Soms is dat iets zeggen; soms eerst afstand nemen, een grens aangeven of later terugkomen op het gesprek.
+5. **Kijk achteraf terug.** Wat hielp om ruimte te krijgen? Wat wil je een volgende keer proberen? Dit is oefenen, geen toets die je moet halen.
+
+Een rustige stem of ontspannen houding kan de interactie helpen vertragen, maar je hoeft je emotie niet te verbergen en bent niet verantwoordelijk voor het reguleren van de ander. Als er onveiligheid of dreiging is, richt je op afstand en veiligheid in plaats van op een kalm gesprek.
+
+## Wat boosheid en verdriet kunnen aangeven
+
+Boosheid kan opkomen wanneer iets als onrechtvaardig, bedreigend of grensoverschrijdend voelt. Ze kan energie geven om een grens te bewaken of een probleem aan te kaarten. Dat maakt boosheid niet automatisch een juiste beoordeling van de situatie en geeft geen vrijbrief om iemand pijn te doen. Neem zo nodig eerst afstand en kies daarna een veilige, concrete actie.
+
+Boosheid kan ook samenhangen met iets waarop je hoopte maar wat je niet kreeg. Soms blijkt bij nader onderzoek dat je die behoefte nog niet duidelijk had uitgesproken; soms was er wel een afspraak of is je grens genegeerd. Vragen als *Wat had ik nodig? Heb ik erom gevraagd? Wat was afgesproken? Wat wil ik nu bespreken of veranderen?* kunnen helpen onderscheid te maken tussen een onvervulde wens, een misverstand en onrecht.
+
+Als boosheid over een ervaren onrecht blijft bestaan, kan wrok (*resentment*) groeien. Dat kan gebeuren wanneer de pijn of behoefte niet wordt uitgesproken of erkend, wanneer het probleem zich herhaalt of wanneer herstel uitblijft. Wrok is niet simpelweg boosheid die alleen verdwijnt door haar te uiten of de ander te vergeven. Een gesprek kan helpen, maar soms zijn ook gedragsverandering, een grens of afstand nodig. Vergeven is persoonlijk en geen voorwaarde om je ervaring serieus te nemen of verder te gaan.
+
+Verdriet kan samenhangen met verlies, gemis, teleurstelling of verandering. Het kan helpen erkennen wat belangrijk was en steun of nabijheid zoeken. Verdriet hoeft niet meteen opgelost te worden, maar je hoeft er ook niet alleen in te blijven. Boosheid en verdriet kunnen naast elkaar bestaan; er is geen vaste volgorde waarin het ene gevoel het andere moet vervangen.
 
 Zelfcompassie kan beginnen met een eenvoudige vraag: *Wat zou ik zeggen tegen iemand om wie ik geef als diegene zich zo voelde?* Je kunt die toon ook op jezelf proberen. Als een oefening met herinneringen of een jongere versie van jezelf te intens voelt, hoef je niet door te drukken; teruggaan naar het hier en nu of steun vragen is ook een passende stap.
 
@@ -33,6 +63,10 @@ Bij keuzes kunnen verschillende stemmen door elkaar lopen:
 
 Deze vragen kunnen helpen: *Welke eis staat er open? Wat merk ik aan mijn lichaam en energie? Kies ik hiervoor omdat het bij mijn waarden past, of alleen uit zelfkritiek? Welke rust of steun hoort erbij?* Soms past een inspanning die belangrijk voor je is, met voldoende herstel. Soms is bijstellen of stoppen de verstandige keuze. Pijn of uitputting is niet automatisch iets waar je doorheen moet om sterker te worden.
 
+Emotionele draagkracht kan ook wisselen met slaap, gezondheid, stress en het tijdstip van de dag. Dag-nachtritmes beïnvloeden onder meer alertheid en energie; ze verklaren niet op zichzelf waarom je je voelt zoals je je voelt. Het kan wel helpen terugkerende patronen bij te houden voordat je jezelf verwijten maakt.
+
+Gevoelens kunnen activerend of juist kalmerend aanvoelen, en tegelijk prettig of onprettig zijn. Dat zijn verschillende dimensies: kalmte is niet altijd prettig en activering niet altijd onprettig. Lichaam en brein gebruiken veel overlappende processen; een emotie is niet betrouwbaar aan één hormoon of neurotransmitter toe te schrijven. Aanraking kan bijvoorbeeld prettig of troostend zijn als die gewenst en veilig voelt, maar heeft geen gegarandeerd effect.
+
 ## Richting geven zonder groei af te dwingen
 
 Je kunt omstandigheden scheppen waarin verandering mogelijk wordt, maar je kunt een emotie of innerlijke groei niet op commando produceren. Zoals een boer richting geeft en de grond verzorgt zonder de rijst te kunnen laten groeien door eraan te trekken, kun je steun, oefening en tijd organiseren en tegelijk ruimte laten voor wat nog niet lukt.
@@ -46,4 +80,4 @@ Je kunt een ander vertellen wat je nodig hebt, bijvoorbeeld: *"Ik wil dit eerst 
 Als emoties langdurig overweldigend zijn, je dagelijks leven sterk beperken of je onveilig voelt, bespreek dit dan met je huisarts of een passende hulpverlener.
 Voor een verdere uitwerking van schuldgevoel, verantwoordelijkheid en verwijten in relaties, zie [Schuldgevoel en schuld in relaties](over-schuld.md).
 
-Als emoties langdurig overweldigend zijn, je dagelijks leven sterk beperken of je onveilig voelt, bespreek dit dan met je huisarts of een passende hulpverlener.
+Voor een uitwerking van aangeleerde reacties, conditionering en bekrachtiging, zie [Emoties, leren en gedrag](emoties-leren-en-gedrag.md).

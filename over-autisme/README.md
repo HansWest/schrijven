@@ -15,26 +15,30 @@
 *Waarom gekozen familie ontstaat uit de noodzaak om te ontsnappen aan het moeten maskeren in je biologische gezin van herkomst.*
 - [Ontmaskeren Buiten de Bloedband](chosen-family/ontmaskeren-buiten-de-bloedband.md)
 
-### 3. [Sociaal Navigeren (`sociaal-navigeren/`)](sociaal-navigeren/README.md)
+### 3. Prikkelverwerking & Energiebalans
+*De batterij- en prikkel-emmermetafoor, persoonlijke signalen van oplopende belasting en passende herstelafspraken.*
+- [Prikkelverwerking en energiebalans bij autisme](prikkelverwerking-en-energiebalans.md)
+
+### 4. [Sociaal Navigeren (`sociaal-navigeren/`)](sociaal-navigeren/README.md)
 *Concrete scripts, communicatie-algoritmes en het herkennen van manipulators en boundary-testing.*
 - [Sociale Scripts & Algoritmes](sociaal-navigeren/sociale-scripts-en-algoritmes.md)
 - [Boundary Testing & Manipulatiedetectie](sociaal-navigeren/boundary-testing-en-detectie.md)
 - [Infodumping vs. Smalltalk: Twee Verschillende Hechtingstalen](sociaal-navigeren/infodumping-vs-smalltalk.md)
 
-### 4. [Tips voor de Neurodivergente Partner (`tips-voor-nd-partners/`)](tips-voor-nd-partners/README.md)
+### 5. [Tips voor de Neurodivergente Partner (`tips-voor-nd-partners/`)](tips-voor-nd-partners/README.md)
 *Handvatten voor de neurodivergente partner om diens neurotypische partner te begrijpen en ondertiteling te geven aan stiltes.*
 - [Navigeren met een Neurotypische Partner](tips-voor-nd-partners/navigeren-met-een-nt-partner.md)
 
-### 5. [Tips voor de Neurotypische Partner (`tips-voor-nt-partners/`)](tips-voor-nt-partners/README.md)
+### 6. [Tips voor de Neurotypische Partner (`tips-voor-nt-partners/`)](tips-voor-nt-partners/README.md)
 *Inzichten voor de neurotypische partner: letterlijk nemen, stoppen met hints, en begrijpen dat tijd alleen geen afwijzing is.*
 - [Liefhebben van een Neurodivergente Partner](tips-voor-nt-partners/liefhebben-van-een-nd-partner.md)
 
-### 6. [Seksualiteit, ASS & Kink (`over-sex-met-ass/`)](over-sex-met-ass/README.md)
+### 7. [Seksualiteit, ASS & Kink (`over-sex-met-ass/`)](over-sex-met-ass/README.md)
 *Waarom er zoveel kinksters zitten in de ASS-hoek: houvast van expliciete kaders, checklists, safewords en sensorische afstemming.*
 - [01: Waarom Kink en ASS Elkaar Vinden](over-sex-met-ass/01-waarom-kink-en-ass-elkaar-vinden.md)
 - [02: Valkuilen & Praktijktips voor Intimiteit met ASS](over-sex-met-ass/02-valkuilen-en-tips-voor-intimiteit.md)
 
-### 7. [Online Sessies (`online-sessies/`)](online-sessies/README.md)
+### 8. [Online Sessies (`online-sessies/`)](online-sessies/README.md)
 *Kant-en-klare draaiboeken voor prikkelarme groepssessies via videoverbinding.*
 - [Sessie 01: Sociaal Navigeren, Chosen Family & Ontmaskeren bij ASS](online-sessies/sessie-sociaal-navigeren-chosen-family-en-masking.md)
 

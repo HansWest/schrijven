@@ -17,6 +17,9 @@ Het helpt om drie dingen uit elkaar te houden:
 - **Schaamte:** *Ik ben slecht of waardeloos.*
 
 Schaamte verschilt van schuldgevoel doordat de aandacht vaak verschuift van *wat heb ik gedaan?* naar *wat zegt dit over mij, en hoe zullen anderen mij zien?* In die zin kun je schaamte begrijpen als sociale angst: de dreiging van afwijzing, vernedering of uitsluiting. Schaamte en schuldgevoel kunnen samengaan, maar vragen niet altijd om dezelfde reactie.
+Schaamte kan ook een sociale functie hebben: ze maakt ons alert op hoe we ons tot groepsnormen en verbondenheid verhouden, en kan aanzetten tot herstel of het aanpassen van gedrag. Maar ze kan ook leiden tot verbergen, terugtrekken of hard oordelen over jezelf. De aanwezigheid van schaamte vertelt dus niet op zichzelf of iemand werkelijk iets verkeerd heeft gedaan.
+
+Dat onderscheid is ook belangrijk bij een craving, een sterke drang naar bijvoorbeeld een middel of gedrag. Je schamen voor zo'n drang bewijst niet dat je verslaafd bent; je niet herkennen in het label "verslaafd" maakt de drang of eventuele gevolgen evenmin onbelangrijk. Kijk liever naar het bredere patroon, zoals controleverlies, gevolgen en de ruimte die het gedrag inneemt. Bij zorgen hierover kan een huisarts of verslavingsdeskundige helpen dit zonder stigma te onderzoeken.
 
 Schuldgevoel kan kloppen, overdreven zijn of voortkomen uit onduidelijke verwachtingen. Onderzoek daarom de concrete situatie: wat was afgesproken, wat wist je op dat moment, welke invloed had je, en wat zegt de ander over de gevolgen? Verantwoordelijkheid nemen hoeft niet te betekenen dat je jezelf als persoon veroordeelt. En zelfcompassie is geen vrijbrief: je kunt mild voor jezelf zijn en tegelijk verantwoordelijkheid nemen.
 

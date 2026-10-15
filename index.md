@@ -19,6 +19,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *Theorieën, relationele dynamieken, praktische scripts en online sessies.*
 
 *   [**Kennisbank Autisme & Neurodiversiteit (Hoofdoverzicht)**](over-autisme/README.md)
+    *   [**Prikkelverwerking en Energiebalans bij Autisme**](over-autisme/prikkelverwerking-en-energiebalans.md)
     *   [**Wat is Masking? (De Sociale Schutkleur)**](over-autisme/wat-is-masking/README.md)
     *   [**Chosen Family (Ontmaskeren Buiten de Bloedband)**](over-autisme/chosen-family/README.md)
     *   [**Sociaal Navigeren & Scripts**](over-autisme/sociaal-navigeren/README.md)
@@ -44,6 +45,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
     *   [02: Wanneer angst vastloopt](over-angst/02-wanneer-angst-vastloopt.md)
     *   [03: Omgaan met angst](over-angst/03-omgaan-met-angst.md)
 *   [**Kennisbank Trauma & Radicale Acceptatie (Overzicht)**](over-trauma/README.md)
+    *   [Traumareacties: Automatische Bescherming en Herinneringen](over-trauma/traumareacties-en-herinneringen.md)
     *   [Het Zwarte Gat uit de Jeugd (Kikkers, Veren en de Moeder-Gans)](over-trauma/zwarte-gat-uit-de-jeugd.md)
     *   [Hoe Stop je met Bedelen bij Kikkers? (Praktijkgids)](over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)
     *   [**Partner van een Partner met Trauma (Gids & Map)**](over-trauma/partner-van-een-partner-met-trauma/README.md)
@@ -51,6 +53,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
         *   [02: Grenzen, Zelfbehoud & Co-Regulatie](over-trauma/partner-van-een-partner-met-trauma/02-grenzen-en-zelfbehoud-voor-de-partner.md)
         *   [03: Het Trauma-Adrenaline Dilemma (Veilig vs. Spannend)](over-trauma/partner-van-een-partner-met-trauma/03-het-trauma-adrenaline-dilemma-veilig-versus-spannend.md)
 *   [**Omgaan met Emoties: Voelen, Begrijpen & Kiezen**](over-emoties/omgaan-met-emoties.md)
+*   [**Emoties, Leren & Gedrag**](over-emoties/emoties-leren-en-gedrag.md)
 *   [**Sociale Emotie: Schuldgevoel en Schuld in Relaties**](over-emoties/over-schuld.md)
 *   [**Emoties Opmerkingen**](over-emoties/emoties%20opmerkingen.md)
 

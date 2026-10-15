@@ -42,7 +42,7 @@ Voor jou is het delen van diepe kennis over je passie dé ultieme vorm van relat
 
 ## Breng prikkelbelasting en herstel in kaart
 
-Soms merk je pas laat dat je over je grens gaat, zeker wanneer een taak nog niet af is of je aandacht sterk naar buiten gericht blijft. Wacht daarom niet uitsluitend op een duidelijk intern gevoel van "ik ben moe". Let ook op persoonlijke signalen en de omstandigheden: meerdere geluiden tegelijk, schakelen tussen taken, tijdsdruk of een oplopende hoeveelheid afspraken.
+Soms merk je pas laat dat je over je grens gaat, zeker wanneer een taak nog niet af is of je aandacht sterk naar buiten gericht blijft. Wacht daarom niet uitsluitend op een duidelijk intern gevoel van "ik ben moe". Let ook op persoonlijke signalen en de omstandigheden: meerdere geluiden tegelijk, schakelen tussen taken, tijdsdruk of een oplopende hoeveelheid afspraken. Zie ook [Prikkelverwerking en energiebalans bij autisme](../prikkelverwerking-en-energiebalans.md) voor een uitgebreidere uitleg en een plan om signalen en steun in kaart te brengen.
 
 Je kunt samen een groen-oranje-roodplan maken:
 
