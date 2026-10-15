@@ -25,16 +25,36 @@ In de coachings- en spreekkamerpraktijk zien we regelmatig de pijnlijke gevolgen
 Hun standaardverdediging wanneer iets pijnlijk misgaat:
 > *"Maar... ik heb op internet toch gezien dat dit kan?!"*
 
-Klanten die hun hele seksuele referentiekader uit porno halen, zijn in het echte contact vaak **behoorlijk onveilig**. Ze denken dat:
-- Een vrouw direct kletsnat en klaar is zodra hij zijn broek laat zakken.
-- Je zonder enige voorbereiding, ontspanning of glijmiddel anaal kunt penetreren.
-- Iedere vrouw spontaan klaarkomt van wild vingeren of keihard stompen.
-- Plotselinge wurging (*choking*), spugen of haar aantrekken normale 'basisbeginselen' van voorspel zijn.
+Klanten die hun hele seksuele referentiekader uit porno halen, zijn in het echte contact vaak **behoorlijk onveilig**. Ze baseren zich op drie fatale illusies die de porno-industrie voedt:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│              DE DRIE FATALE ILLUSIES VAN PORNO VERSUS DE REALITEIT              │
+├────────────────────────────────────────┬────────────────────────────────────────┤
+│ WAT PORNO LAAT ZIEN                    │ DE FYSIEKE & SOMATISCHE REALITEIT      │
+├────────────────────────────────────────┼────────────────────────────────────────┤
+│ • Geen onderhandeling                  │ • Zonder afstemming en expliciet       │
+│   → Meteen keiharde scènes             │   consent ontstaat angst en weefselschade│
+├────────────────────────────────────────┼────────────────────────────────────────┤
+│ • Geen veilig woord                    │ • In het echte leven is 'stop' heilig; │
+│   → 'Stop' betekent erotisch doorgaan  │   doen alsof het spel is sloopt vertrouwen│
+├────────────────────────────────────────┼────────────────────────────────────────┤
+│ • Geen aftercare                       │ • Na hormonale pieken volgt een drop;  │
+│   → Klaarkomen, direct aftiteling/credits│ zonder nazorg ontstaat paniek en wrok │
+└────────────────────────────────────────┴────────────────────────────────────────┘
+```
 
 De nuchtere repliek aan zulke mannen is even eenvoudig als doeltreffend:
 > *"Joh, porno is vermaak hè? Je leert toch ook niet autorijden van 'Speed' of 'Gone in 60 Seconds'?"*
 
 Niemand stapt na het zien van *The Fast and the Furious* in zijn Volkswagen Golf om met 180 km/u door de dorpsstraat te driften en te roepen: *"Maar Vin Diesel deed het ook!"* Waarom doen we dat in de slaapkamer dan wel?
+
+### Jij Moet de Expert Zijn — Niet de Klant
+Of je nu werkt als coach, hulpverlener, of als bewuste minnaar in je eigen slaapkamer:
+> **"Wat je in porno ziet, is voor 80% theater. Jij werkt met echte lichamen, echt plezier, echte grenzen en echte risico’s."**
+
+- **Laat je niet gijzelen door de klant:** Cliënten die claimen alles te durven omdat ze het online hebben gezien, overschatten hun zenuwstelsel en onderschatten de impact. Jij bent de poortwachter van de fysieke en emotionele veiligheid.
+- **Leiderschap in realiteit:** Echte autoriteit durft te vertragen, durft glijmiddel te pakken, durft te vragen naar safewords en weigert mee te gaan in gevaarlijke porno-imitaties.
 
 ---
 

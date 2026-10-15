@@ -4,7 +4,7 @@
 
 ---
 
-## 1. De 5 Grootste Valkuilen in de Spreekkamer
+## 1. De 6 Grootste Valkuilen in de Spreekkamer
 
 Als een cliënt vertelt over bondage, dominantie/onderdanigheid, fetishes of impact play, schiet de hulpverlener soms onbewust in een reflex. Hieronder de 5 meest voorkomende misvattingen:
 
@@ -23,6 +23,10 @@ Als een cliënt vertelt over bondage, dominantie/onderdanigheid, fetishes of imp
 
 ### Valkuil 5: "Subdrop aanzien voor een ernstige depressieve decompensatie"
 * **De Realiteit:** Na een intense sessie of ervaring kan 24 tot 72 uur later een biochemische crash optreden (daling van endorfine/dopamine). De cliënt voelt zich leeg, huilerig of angstig. Dit is een fysiek proces dat vraagt om warme aftercare, suikerspiegelregulatie en rust — geen acute psychiatrische opname.
+
+### Valkuil 6: "De Cliënt als Seks-Expert Zien (De Porno-Valkuil)"
+* **De Realiteit:** Cliënten die claimen alles te durven en te willen omdat ze het online zien, zijn in de praktijk vaak het meest onveilig. Porno toont immers: *geen onderhandeling, 'stop' betekent hijgend doorgaan, en geen aftercare*.
+* **Het Inzicht voor de Behandelaar/Coach:** **Jij moet de expert zijn — niet de klant.** Wat men in porno ziet is voor 80% theater. In de echte spreekkamer en slaapkamer werken we met echte lichamen, echt plezier, echte grenzen en echte risico's.
 
 ---
 
