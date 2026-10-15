@@ -77,9 +77,29 @@ Zodra het zenuwstelsel van de vrouw registreert dat de man niet breekt, niet man
 
 ---
 
-## 4. Vier Principes voor Polariteit Zonder Wrok
+## 4. De Valkuil van de 'Brave Man' & Vrouwelijke Erotische Verveling in Monogamie
 
-Om polariteit te herstellen zonder in de valkuil van de cultuuroorlog te trappen, hanteren we vier nuchtere principes:
+Een van de meest hardnekkige misverstanden in moderne relaties is het idee dat vrouwen uitsluitend hunkeren naar zoetsappige tederheid en dat mannen hun geilheid moeten temmen om 'veilig' te zijn. 
+
+De biologische en sekscologische realiteit is radicaal anders:
+
+### A. Vrouwen Raken Eerder Uitgekeken op Monogamie
+Wetenschappelijk onderzoek (o.a. van sekscologe Marta Meana en onderzoeker Wednesday Martin) toont aan dat **vrouwen in langdurige monogame relaties gemiddeld veel sneller en forser hun seksuele lust verliezen dan mannen**.
+- Vrouwen raken niet uitgekeken op seks zélf, maar op **voorspelbare, gezapige, brave seks**.
+- De domesticering van het huwelijk (luiers, boodschappen, braaf overleg) verlamt het erotische brein van de vrouw. 
+- Een vrouw wil in bed niet nog een keer "overleggen"; ze wil voelen dat ze door een vitale man onweerstaanbaar, intens en rauw begeerd wordt. Ze wil de oever niet alleen zien als veilige haven, maar ook als de rots waartegen haar golven mogen breken.
+
+### B. Mannelijke Geilheid is Geen Misdrijf
+Mannen — jong én oud — blijven, mits ze fysiek gezond en niet uitgeblust zijn, een sterke biologische drang houden om te neuken. 
+- Wanneer een man zijn geilheid verbergt of verontschuldigt uit angst om 'onfatsoenlijk' gevonden te worden, verandert hij in een tandeloze 'Nice Guy'.
+- Niets doodt de vrouwelijke opwinding sneller dan een man die beleefd toestemming vraagt voor elke centimeter verlangen.
+- Echte polariteit vraagt dat de man zijn dierlijke, geile honger met opgeheven hoofd durft te dragen: niet dwingend of grensoverschrijdend, maar zelfverzekerd, hongerig en gepassioneerd.
+
+---
+
+## 5. Vijf Principes voor Polariteit Zonder Wrok
+
+Om polariteit te herstellen zonder in de valkuil van de cultuuroorlog te trappen, hanteren we vijf nuchtere principes:
 
 ### 1. Gelijkwaardig in Waardigheid, Asymmetrisch in Spel
 Mannen en vrouwen zijn volkomen gelijkwaardig in rechten, intelligentie, autonomie en menselijke waarde. Maar gelijkwaardigheid betekent **niet** dat we identiek moeten zijn in bed of in relationele dynamiek. Het bewust vieren van asymmetrie (leiden en volgen, kracht en overgave) is een gezonde keuze, geen patriarchale zonde.

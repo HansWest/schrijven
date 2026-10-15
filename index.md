@@ -93,6 +93,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**01: De Crisis en de Pijlers van Gezonde Mannelijkheid**](over-mannelijkheid-en-vrouwelijkheid/01-de-crisis-en-pijlers-van-gezonde-mannelijkheid.md)
 *   [**02: Polariteit Zonder Cultuuroorlog: Dynamiek voorbij Wrok en Cancelen**](over-mannelijkheid-en-vrouwelijkheid/02-polariteit-zonder-cultuuroorlog.md)
 *   [**03: Van Verdeeldheid naar Polariteit: De Spiegel der Uitersten**](over-mannelijkheid-en-vrouwelijkheid/03-van-verdeeldheid-naar-polariteit.md)
+*   [**04: Mannelijke Geilheid, Vrouwelijke Lust & De Rauwe Motor van Verlangen**](over-mannelijkheid-en-vrouwelijkheid/04-mannelijke-geilheid-en-vrouwelijke-lust.md)
 
 ---
 

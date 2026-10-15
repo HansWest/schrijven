@@ -144,11 +144,22 @@ Voor het managen en voorkomen van somberheid en lusteloosheid geldt het acroniem
 
 ---
 
-## 7. Synthese: Dienend, Verbonden en Krachtig Leiderschap
+## 7. Seksuele Vitaliteit: Niet Uitgeblust, Niet Braaf
+
+Een cruciaal gevaar in hedendaagse zelfhulp voor mannen is de valkuil van **overdreven braafheid**. Jonge mannen die horen over "dienend leiderschap" en "veiligheid" maken soms de fatale fout om zichzelf te castreren: ze worden over-aangepast, bang voor hun eigen geilheid en verwarren respect met aseksuele zoetsappigheid (*de 'Nice Guy'-valkuil*).
+
+Gezonde mannelijkheid is echter allesbehalve uitgeblust of tam:
+- **Geilheid als oerkracht:** Een gezonde, vitale man — jong of oud — heeft testosteron in zijn lijf en wil neuken. Dat verlangen is niet vies, niet verdacht en niet 'toxisch'; het is de rauwe motor van mannelijke levensenergie en vitaliteit.
+- **Uit de schaduw van porno:** Veel jonge mannen durven hun geilheid in de echte wereld niet meer te belichamen uit schaamte of faalangst, en lozen het stiekem achter schermen. Gezonde mannelijkheid betekent: je geilheid opeisen, er niet omheen draaien, en het met volle aanwezigheid, moed en passie naar een echte vrouw brengen.
+- **Tanden en klauwen:** Een man die alleen maar 'veilig en lief' is, roept bij een vrouw vriendschap op, geen passie. Vrouwen willen een man die haar met respect behandelt, maar haar in de slaapkamer rauw, hongerig en zonder aarzeling durft te begeren.
+
+---
+
+## 8. Synthese: Dienend, Verbonden en Krachtig Leiderschap
 
 Gezonde mannelijkheid is:
 - **Niet toxisch:** Omdat het wars is van onderdrukking, minachting van vrouwen, afgunst of narcistisch spierballenvertoon.
-- **Niet ontmand:** Omdat het mannelijke kracht, ambitie, richting, fysieke fitheid en beschermingsdrang volmondig viert.
-- **Dienend en verbonden:** Mannelijke energie die als een rustige, onwrikbare bedding fungeert voor het gezin, de partner en de samenleving.
+- **Niet ontmand of braaf:** Omdat het mannelijke kracht, ambitie, rauwe seksuele drift, fysieke fitheid en beschermingsdrang volmondig viert.
+- **Dienend en vitaal:** Mannelijke energie die als een rustige, onwrikbare bedding fungeert voor het gezin, de partner en de samenleving, zónder haar vuur en passie te verliezen.
 
 Dit leiderschap nodigt polariteit uit, haalt de verdediging bij partners weg en herstelt de balans tussen de geslachten.
