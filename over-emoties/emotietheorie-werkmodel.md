@@ -65,6 +65,18 @@ Dit zijn mogelijke ingangen, geen één-op-éénvertalingen. Een rotgevoel bewij
 
 ## Van emotie naar keuze
 
+### Het geheel overzien vanuit een ondersteunende houding
+
+Als er genoeg rust is om na te denken, kan een korte inventarisatie helpen om niet vast te blijven zitten in één gevoel, één gedachte of één schuldige. Schrijf desnoods vijf punten op:
+
+1. **Feiten en context:** wat gebeurde er concreet, wat weet ik zeker en wat vul ik in?
+2. **Mijn binnenwereld:** wat voel ik, welk thema lijkt geraakt en wat probeerde mijn eerste impuls te bereiken of te beschermen?
+3. **De anderen en de grenzen:** wie is betrokken, wat weet ik wel en niet over hun perspectief, en welke behoeften, afspraken of grenzen spelen mee?
+4. **Patroon en mogelijkheden:** wat deed ik eerder in een vergelijkbare situatie, wat hielp op korte termijn en wat waren de gevolgen? Welke steun, hulpbron of andere keuze is er nu?
+5. **Volgende stap:** wat is de kleinste veilige en helpende actie voor nu, en wat kan later opnieuw bekeken worden?
+
+Een ondersteunende houding betekent dat je je reactie probeert te begrijpen zonder jezelf te veroordelen. Het betekent niet dat elke interpretatie klopt, dat gedrag geen gevolgen heeft of dat je de verantwoordelijkheid van een ander moet overnemen. Je kunt mild naar jezelf kijken én verantwoordelijkheid nemen. Als het geheel overzien te veel wordt, maak de vraag kleiner: *Wat heb ik de komende tien minuten nodig om veilig en iets meer aanwezig te zijn?*
+
 Een coach kan helpen om drie dingen uit elkaar te houden:
 
 - **Ervaring:** wat merk ik in mijn lichaam en gevoel?

@@ -18,7 +18,7 @@ Een gekozen familie ontstaat niet door een matchscore. De app kan ontmoetingen m
 ## Hoe het gebruik kan verlopen
 
 1. **Kennismaken met de afspraken.** De gebruiker leest in begrijpelijke taal wat de app wel en niet biedt, de huisregels, privacykeuzes en manieren om contact te stoppen of hulp te vragen.
-2. **Een profiel maken.** De gebruiker kiest zelf doelen zoals vriendschap, groepsactiviteiten, praktische wederzijdse steun of intergenerationeel contact. Die kan ook aangeven welke gekozen familieband die zoekt of zelf wil bieden. Het profiel vraagt naar interesses, beschikbare momenten, toegankelijkheidswensen en grenzen, niet naar een diagnose of traumageschiedenis.
+2. **Een profiel maken.** De gebruiker kiest zelf doelen zoals vriendschap, groepsactiviteiten, praktische wederzijdse steun of intergenerationeel contact. Die kan ook aangeven welke gekozen familieband die zoekt of zelf wil bieden. Volwassenen kunnen daarnaast, los daarvan, aangeven of seksuele intimiteit onderdeel zou mogen zijn van een toekomstige band. Het profiel vraagt naar interesses, beschikbare momenten, toegankelijkheidswensen en grenzen, niet naar een diagnose of traumageschiedenis.
 3. **Leeftijds- en accountcontrole.** Gebruik passende leeftijdscontroles en waar nodig beperkte identiteitscontrole via een gespecialiseerde dienst. Bewaar geen kopieën van identiteitsdocumenten als dat niet noodzakelijk is. Leg uit welke gegevens worden gecontroleerd en wie die kan zien.
 4. **Een kleine kring vinden.** Matching houdt rekening met wederzijdse interesses, afstand in grove regio's, beschikbaarheid, gewenste groepsgrootte, familiebandvoorkeuren en expliciete grenzen. Een rolvoorkeur telt alleen mee wanneer die wederzijds past. De gebruiker ziet waarom een groep of activiteit wordt voorgesteld en kan zonder straf weigeren.
 5. **Eerst samen deelnemen.** De eerste ontmoeting is bij voorkeur een begeleide of openbare groepsactiviteit met een duidelijk begin, einde, host en vertrekoptie. Privécontact ontstaat alleen als beide deelnemers daar afzonderlijk mee instemmen.
@@ -34,6 +34,7 @@ Vraag bij zo'n voorkeur steeds om betekenis en wederkerigheid:
 - **Welke rol zoek je, en welke rol wil je zelf bieden?** Die twee hoeven niet gelijk te zijn, maar beide mensen moeten ermee instemmen.
 - **Wat betekent die rol voor jou in gedrag?** Denk aan hoe vaak je contact wilt, welke activiteiten je samen wilt doen, hoeveel nabijheid prettig is en welke steun je wel of niet verwacht.
 - **Welke grenzen horen erbij?** Bespreek privacy, exclusiviteit, aanraking, geld, afhankelijkheid en wat ieder doet als de verwachtingen uiteenlopen.
+- **Zijn de rolverwachtingen congruent?** Controleer of jullie ongeveer hetzelfde verstaan onder bijvoorbeeld gekozen ouder, kind, oom, tante of grootouder. Dezelfde term kan voor ieder iets anders betekenen; verduidelijk dat vóór de app zo'n rol als matchreden gebruikt.
 
 Een familielabel schept op zichzelf geen ouderlijke, financiële, juridische of verzorgende plicht, en ook geen plicht tot voortdurend contact. Het is een gekozen manier om een band te beschrijven, die pas ontstaat wanneer beide mensen daar vrij en zonder druk mee instemmen. De basisverantwoordelijkheid blijft wel dat je toestemming en uitgesproken grenzen respecteert; afspraken die je samen maakt, bespreek je opnieuw als ze niet meer passen. De app moet daarom niet automatisch iemand als "ouder" of "kind" van een ander presenteren op basis van één profielkeuze.
 
@@ -44,6 +45,22 @@ Wanneer twee volwassenen allebei een familieband willen benoemen, kan de app aan
 Een dergelijke check-in is een extra mogelijkheid, geen garantie dat grensoverschrijding wordt voorkomen. De app kan ook een gestructureerde zelfcheck aanbieden, met een route naar een menselijke begeleider als iemand twijfelt of zich onveilig voelt. Bij minderjarigen ligt dit anders: deelname vereist het aparte programma met een aangewezen, getrainde safeguarding-verantwoordelijke; een optionele peer of match is daarvoor geen vervanging.
 
 Bij minderjarigen gelden de aparte safeguards hierboven; familieachtige rolvoorkeuren mogen geen route worden naar ongecontroleerd privécontact tussen volwassenen en jongeren.
+
+### Seksualiteit als mogelijke vorm van contact
+
+Seksualiteit kan voor volwassenen een betekenisvolle manier zijn om contact, plezier, intimiteit en verbondenheid te beleven. Voor sommige mensen groeit dat samen met een gekozen familieband; voor anderen staat seksualiteit daar los van. Geen van die vormen is moreel beter of slechter. Een familierol is op zichzelf geen seksuele toestemming, net zoals seksuele instemming niet automatisch betekent dat iemand ook een familieband wil.
+
+Daarom staat seksuele intentie los van de keuze voor een familierol:
+
+- De instelling is optioneel, alleen beschikbaar voor volwassenen en kan op elk moment worden aangepast of ingetrokken.
+- De app koppelt of toont mensen voor seksuele intimiteit alleen wanneer alle betrokken volwassenen daar afzonderlijk expliciet voor hebben gekozen. Een eenzijdige keuze wordt niet aan de ander onthuld en verandert een niet-seksuele match niet vanzelf.
+- De app gebruikt de gekozen familierol niet om seksuele interesse af te leiden of suggesties te doen. Ook wanneer rol en intentie wederzijds passen, vraagt de app niet om seksuele handelingen of scenario's vast te leggen.
+- Een match, vinkje of eerdere instemming geldt nooit als toestemming voor een concrete aanraking of seksuele handeling. Toestemming wordt per situatie gevraagd en kan altijd worden ingetrokken.
+- Dezelfde leeftijds-, machts- en safeguarding-grenzen blijven gelden. Er is geen seksuele matching waarbij een minderjarige betrokken is; een volwassen kringbegeleider kan dit verbod niet opheffen.
+
+Bespreek bij een eerste ontmoeting vooraf hoeveel tijd er is, hoe ieder zelfstandig kan vertrekken en dat niemand ter plekke een relationele of seksuele keuze hoeft te maken. Plan voldoende ruimte zodat afscheid nemen of een gesprek afronden niet gehaast voelt. Een eerste groeps- of openbare kennismaking kan niet-seksueel blijven, ook als beide profielen seksuele intimiteit als mogelijke latere optie aangeven.
+
+De app geeft contacten geen algemene morele "karmascore". Voor aanbevelingen kijkt zij naar wat past bij het doel dat iemand zelf kiest. Als iemand vooral een duurzame chosen-family-band zoekt, zijn herhaald contact, nagekomen afspraken, wederkerigheid en gedeelde zorg relevantere aanwijzingen voor die intentie dan één korte ontmoeting. Dat is geen negatieve waardering van seks of kortdurend contact: die ervaring kan betekenisvol zijn, en kan juist zwaar meewegen bij een expliciet gekozen doel rond seksuele intimiteit. De app houdt deze dimensies apart in plaats van ze tot één reputatiecijfer samen te voegen.
 
 ## Automatiseren zonder veiligheid uit handen te geven
 
