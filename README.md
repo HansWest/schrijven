@@ -20,6 +20,7 @@ Binnen deze repository hanteren we **bewust géén starre Single Source of Truth
 schrijven/
 ├── docs/                                  # Overkoepelende filosofie & werkwijze (geen SSOT)
 ├── index.md                               # Publieke / centrale navigatie-index
+├── chosen-family-app/                     # Concept voor een veilige chosen-family-community-app
 │
 ├── over-hechting/                         # Theorieën over zenuwstelsel, reactiepatronen & hechting
 ├── over-adhd/                             # ADHD/ADD, aandacht & dagelijks functioneren

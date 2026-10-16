@@ -2,6 +2,8 @@
 
 Emoties zijn ervaringen die informatie kunnen geven over wat belangrijk, pijnlijk, bedreigend of gewenst is. Ze zijn niet automatisch feiten en ook geen opdrachten die je meteen moet uitvoeren. Soms is het al helpend om een gevoel op te merken voordat je besluit wat je ermee wilt doen.
 
+Voor het onderliggende coachingswerkmodel, zie [Emotieproces: werkmodel voor coaching](emotietheorie-werkmodel.md).
+
 Een onprettig gevoel kun je zien als een alarmsignaal: het vraagt om aandacht, maar vertelt niet vanzelf precies wat de oorzaak is. Er kan iets in het hier en nu spelen, een eerdere ervaring geraakt zijn, of je lichaam kan bijvoorbeeld reageren op vermoeidheid of stress. Het gevoel is dus geen bewijs dat er zeker iets mis is, maar het verdient wel nieuwsgierigheid.
 
 ## Eerst opmerken, dan reageren
