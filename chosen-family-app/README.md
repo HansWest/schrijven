@@ -18,12 +18,28 @@ Een gekozen familie ontstaat niet door een matchscore. De app kan ontmoetingen m
 ## Hoe het gebruik kan verlopen
 
 1. **Kennismaken met de afspraken.** De gebruiker leest in begrijpelijke taal wat de app wel en niet biedt, de huisregels, privacykeuzes en manieren om contact te stoppen of hulp te vragen.
-2. **Een profiel maken.** De gebruiker kiest zelf doelen zoals vriendschap, groepsactiviteiten, praktische wederzijdse steun of intergenerationeel contact. Die kan ook aangeven welke gekozen familieband die zoekt of zelf wil bieden. Volwassenen kunnen daarnaast, los daarvan, aangeven of seksuele intimiteit onderdeel zou mogen zijn van een toekomstige band. Het profiel vraagt naar interesses, beschikbare momenten, toegankelijkheidswensen en grenzen, niet naar een diagnose of traumageschiedenis.
+2. **Een profiel maken.** De gebruiker kiest zelf doelen zoals vriendschap, groepsactiviteiten, praktische wederzijdse steun of intergenerationeel contact. Die kan ook aangeven welke gekozen familieband die zoekt of zelf wil bieden. Volwassenen kunnen daarnaast, los daarvan, aangeven of seksuele intimiteit onderdeel zou mogen zijn van een toekomstige band. De actuele intenties en expliciete toestemmingen worden afzonderlijk vastgelegd om matches te kunnen controleren. Het profiel vraagt naar interesses, beschikbare momenten, toegankelijkheidswensen en grenzen, niet naar een diagnose of traumageschiedenis.
 3. **Leeftijds- en accountcontrole.** Gebruik passende leeftijdscontroles en waar nodig beperkte identiteitscontrole via een gespecialiseerde dienst. Bewaar geen kopieën van identiteitsdocumenten als dat niet noodzakelijk is. Leg uit welke gegevens worden gecontroleerd en wie die kan zien.
-4. **Een kleine kring vinden.** Matching houdt rekening met wederzijdse interesses, afstand in grove regio's, beschikbaarheid, gewenste groepsgrootte, familiebandvoorkeuren en expliciete grenzen. Een rolvoorkeur telt alleen mee wanneer die wederzijds past. De gebruiker ziet waarom een groep of activiteit wordt voorgesteld en kan zonder straf weigeren.
+4. **Een kleine kring vinden.** Matching controleert de actuele, wederzijdse intenties, interesses, grove regio, beschikbaarheid, gewenste groepsgrootte, familiebandvoorkeuren en expliciete grenzen. Een rolvoorkeur telt alleen mee wanneer die wederzijds past; seksuele intentie alleen bij afzonderlijke opt-in van alle betrokken volwassenen. De gebruiker ziet waarom een groep of activiteit wordt voorgesteld en kan zonder straf weigeren.
 5. **Eerst samen deelnemen.** De eerste ontmoeting is bij voorkeur een begeleide of openbare groepsactiviteit met een duidelijk begin, einde, host en vertrekoptie. Privécontact ontstaat alleen als beide deelnemers daar afzonderlijk mee instemmen.
 6. **Een rustige check-in.** Na afloop krijgt iedereen privé een paar korte vragen: voelde je je gerespecteerd, klopten de afspraken en wil je opnieuw contact? Alleen deelnemers met een geverifieerd account en een geregistreerde deelname of ontmoeting kunnen feedback geven; alleen ingeschreven zijn is niet genoeg. Beoordelen blijft vrijwillig.
 7. **Contact beheren.** Duidelijke opties voor pauzeren, ontmatchen, blokkeren en melden zijn altijd beschikbaar. Een blokkade beëindigt contact zonder dat de andere gebruiker hoeft in te stemmen.
+
+## Intentie vastleggen en matches valideren
+
+Iedere gebruiker heeft een eigen, afgeschermd intentieprofiel met alleen de velden die nodig zijn om passende matches te controleren:
+
+- welke vorm van contact iemand zoekt en eventueel zelf wil bieden, zoals groepsactiviteiten, vriendschap of chosen family;
+- een gekozen familiebandrol, indien gewenst, met de eigen uitleg ervan;
+- voor volwassenen: een afzonderlijke keuze of seksuele intimiteit eventueel welkom is, los van de gekozen familierol;
+- grenzen en uitsluitingen die nodig zijn om ongewenste matches te voorkomen;
+- de actuele toestemmingsstatus en het moment waarop die keuze is bevestigd of gewijzigd.
+
+Een matchvoorstel wordt alleen gegenereerd als de actuele keuzes van alle betrokkenen voldoende bij elkaar passen. De app controleert opnieuw vlak voordat een contactvoorstel zichtbaar wordt of wordt geaccepteerd. Een wijziging of intrekking zet openstaande voorstellen die daardoor niet meer passen op pauze; eerdere instemming geldt niet als huidige instemming.
+
+Bewaar per match hooguit een beperkte momentopname van welke intentiecategorieën en toestemmingen op dat moment de match mogelijk maakten, plus tijdstip en versienummer van de afspraken. Die registratie dient voor uitleg, controle en eventuele klachtenafhandeling; ze is niet zichtbaar als publiek profiel en wordt niet gebruikt als reputatie- of morele score. Stel een bewaartermijn vast, beperk toegang en verwijder gegevens wanneer ze niet meer nodig zijn. Vraag geen seksuele details of fantasieën op om een match te valideren.
+
+Bij minderjarigen worden geen seksuele intenties verzameld of gebruikt. Een familieband wordt alleen binnen het aparte programma behandeld volgens de instemmings- en begeleidersvoorwaarden onder [Bescherming van jongeren en ouderen](#bescherming-van-jongeren-en-ouderen).
 
 ## Een gewenste familieband omschrijven
 
