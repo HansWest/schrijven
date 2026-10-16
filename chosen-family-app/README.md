@@ -140,20 +140,76 @@ Een veiligheidsmelding is een aparte route voor bijvoorbeeld intimidatie, fraude
 
 Eén negatieve beoordeling leidt niet automatisch tot een blokkade. Moderatoren kijken naar concrete informatie, context en patronen, geven waar veilig en passend gelegenheid tot reactie en bieden een bezwaarroute. Bij acute dreiging kan tijdelijk contact worden beperkt, met menselijke toetsing achteraf. Dit systeem verkleint de kans op nepreacties, maar kan niet alle misleiding of onterechte beoordelingen uitsluiten.
 
-## Een haalbare eerste versie
+## Een haalbare eerste versie: Plannen & Ideeën
 
-1. Start met volwassenen en één lokale pilot, met een kleine set activiteiten en duidelijke huisregels.
-2. Gebruik matching voor groepsactiviteiten en kennismakingskringen; voeg privé één-op-éénmatching pas toe als de moderatie en opvolging aantoonbaar werken.
-3. Automatiseer planning, herinneringen, basisinformatie en privé check-ins.
-4. Houd meldingen, uitsluitingen en veiligheidsbesluiten onder menselijke verantwoordelijkheid.
-5. Evalueer niet alleen groei of terugkeer, maar ook of mensen zich vrij voelen om nee te zeggen, hoe snel meldingen worden opgevolgd en waar deelnemers afhaken of zich onveilig voelen.
-6. Breid pas uit naar minderjarigen of complexere doelgroepen wanneer partners, personeel, financiering, privacy en safeguarding daarvoor op orde zijn.
+Om het concept praktisch uitvoerbaar en veilig te houden, bouwen we niet direct een massaal sociaal netwerk, maar een gecontroleerde, veilige eerste versie gebaseerd op zes operationele pijlers:
 
-## Open ontwerpvragen
+### 1. Start met volwassenen en één lokale pilot, met een kleine set activiteiten en duidelijke huisregels
+- **Doelgroep & Omvang:** Uitsluitend 18+ binnen één afgebakende stad of regio (25 tot 50 deelnemers).
+- **Vaste Activiteiten:** Starten met overzichtelijke formats zoals een *stille creatie-/crafting-kring (parallel play)*, een *bordspellenmiddag*, *prikkelarme natuurwandelingen* of een *gezamenlijke kooksessie*.
+- **Huisregels:** Expliciete normalisering van grenzen (*vrijheid om 'nee' te zeggen*), geen ongevraagde fysieke aanraking, geen reddersrol, en altijd een vast begin- en eindtijdstip met vrije vertrekoptie.
+- 📄 *Volledige uitwerking:* [**01: Pilot & Activiteiten**](01-pilot-en-activiteiten.md)
 
-- Wie is de verantwoordelijke organisatie en wie draagt buiten kantooruren verantwoordelijkheid voor veiligheidsmeldingen?
-- Welke leeftijden en relatievormen vallen binnen de eerste pilot?
-- Welke verificatie is proportioneel zonder onnodig gevoelige gegevens te verzamelen?
-- Hoe worden deelnemers met een beperking, beperkte digitale vaardigheden of taalbarrières ondersteund?
-- Hoe worden meldingen bewaard, wie kan ze inzien en wanneer worden ze verwijderd?
-- Welke onafhankelijke partij kan het veiligheidsproces en mogelijke discriminatie in matching periodiek toetsen?
+### 2. Gebruik matching voor groepsactiviteiten en kennismakingskringen; voeg privé één-op-éénmatching pas toe als de moderatie en opvolging aantoonbaar werken
+- **Groepsmatching Eerst:** Gebruikers worden niet direct in een kwetsbare 1-op-1 chat geplaatst, maar gematcht in micro-kringen (3 tot 5 personen) rond een gezamenlijke interesse en sensorisch profiel (prikkelarm vs. dynamisch).
+- **Kennismakingskringen:** Eerste contact vindt altijd plaats in een begeleide kring met een vaste host.
+- **Criteria voor 1-op-1 Vrijgave:** Pas wanneer moderatie aantoonbaar binnen 4 uur meldingen opvolgt, check-ins consistent hoog scoren op veiligheid en de *dubbele wederzijdse opt-in* feilloos functioneert, wordt privécontact gefaseerd geactiveerd.
+- 📄 *Volledige uitwerking:* [**02: Matching & Kennismakingskringen**](02-matching-en-kringen.md)
+
+### 3. Automatiseer planning, herinneringen, basisinformatie en privé check-ins
+- **Geautomatiseerde Planning:** Beschikbaarheid matchen, automatische capaciteitsbewaking (vol is vol) en kringbevestigingen.
+- **Voorspelbare Voorbereiding:** 48 uur vooraf een prikkelarm *voorbereidingsdossier* (route, foto van de ingang, naam van de host, wie er komt) en 2 uur vooraf een laagdrempelige *geen-schuldgevoel afmeldknop*.
+- **Post-Event Check-in Flow:** 3 tot 4 uur na afloop een korte, vertrouwelijke vragenlijst (60 seconden) over veiligheid, respect van grenzen en eventuele signalen voor de moderatie.
+- 📄 *Volledige uitwerking:* [**03: Automatisering & Digitale Flows**](03-automatisering-en-flows.md)
+
+### 4. Houd meldingen, uitsluitingen en veiligheidsbesluiten onder menselijke verantwoordelijkheid
+- **Geen Geautomatiseerde Uitsluitingen:** Software structureert en signaleert; getrainde mensen onderzoeken, horen beide kanten en nemen beslissingen.
+- **Escalatieladder:** Heldere scheiding tussen Niveau 1 (neutrale mismatch/ontkoppeling), Niveau 2 (zorgwekkend gedrag / waarschuwing) en Niveau 3 (acute onveiligheid / opschorting met 4-ogen-principe).
+- **Anti-Rancunemechanisme:** Bescherming tegen wraakmeldingen na afwijzingen door tijdlijnanalyse en structurele patroonherkenning (geen publieke reviewscores).
+- **Crisisroutering Buiten Kantooruren:** De app is geen 24/7 hulpverleningsdienst. Buiten kantoortijden toont de app bij meldingen of acute nood direct een noodkader met rechtstreekse links en doorkiesopties naar officiële crisisdiensten en 0800-nummers:
+  - **112** (bij direct levensgevaar of acute fysieke dreiging),
+  - **0800-0113** (113 Zelfmoordpreventie, 24/7 gratis en anoniem),
+  - **0800-0767** (De Luisterlijn, 24/7 een luisterend oor bij overspoeling en acute eenzaamheid),
+  - **0800-2000** (Veilig Thuis, bij geweld, stalking of mishandeling).
+- 📄 *Volledige uitwerking:* [**04: Veiligheid & Menselijke Moderatie**](04-veiligheid-en-menselijke-moderatie.md)
+
+### 5. Evalueer niet alleen groei of terugkeer, maar ook of mensen zich vrij voelen om nee te zeggen, hoe snel meldingen worden opgevolgd en waar deelnemers afhaken of zich onveilig voelen
+- **Ethische KPI's:** Geen focus op schermtijd of verslavende notificaties, maar op *psychologische veiligheid*.
+- **De Consent-Score:** Percentage deelnemers dat bevestigt zich volledig vrij te voelen om grenzen aan te geven (streefwaarde > 95%).
+- **Uitvaldetectie (Drop-off Analysis):** Nauwkeurig analyseren waar en waarom mensen afhaken (bij onboarding, tussen match en event, of na de eerste bijeenkomst) om sensorische en sociale drempels weg te nemen.
+- 📄 *Volledige uitwerking:* [**05: Evaluatie & Kwalitatieve Succesindicatoren**](05-evaluatie-en-succesindicatoren.md)
+
+### 6. Breid pas uit naar minderjarigen of complexere doelgroepen wanneer partners, personeel, financiering, privacy en safeguarding daarvoor op orde zijn
+- **Strikte Start met Volwassenen:** Om kwetsbare jongeren te beschermen tegen grooming, machtsmisbruik en onveilige verwachtingen.
+- **De Vijf Harde Randvoorwaarden:** Geen uitbreiding zonder (1) institutionele partnerschappen (erkende jeugdzorg/welzijn), (2) betaalde BIG/SKJ-professionals, (3) structurele financiering, (4) strikte AVG-scheiding, en (5) een waterdicht safeguarding-protocol (verplichte VOG, 4-ogen-principe, meldcode en verbod op ongecontroleerde privé-chat tussen volwassenen en minderjarigen).
+- 📄 *Volledige uitwerking:* [**06: Safeguarding & Toekomstige Doelgroepen**](06-safeguarding-en-toekomstige-doelgroepen.md)
+
+## Vastgelegde Ontwerpkeuzes voor de Pilot
+
+Op basis van de ontwerpprincipes zijn de volgende keuzes definitief vastgelegd voor de eerste pilotversie:
+
+1. **Verantwoordelijkheid & Crisisopvang (113 & Hulpdiensten):**  
+   - De initiatiefnemer / projectorganisator draagt op werkdagen (09:00–17:00) de verantwoordelijkheid voor interne moderatie, screening en community-opvolging.
+   - Buiten kantooruren en bij acute nood draagt de app geen medische of politionele verantwoordelijkheid, maar schakelt geautomatiseerd door naar de officiële 24/7 diensten: **113 Zelfmoordpreventie (0800-0113)** voor existentiële nood en suïcidepreventie, **De Luisterlijn (0800-0767)** voor acute eenzaamheid, **Veilig Thuis (0800-2000)** voor geweld/stalking en **112** bij acuut fysiek gevaar.
+
+2. **Leeftijden en Relatievormen in de Eerste Pilot:**  
+   - **Leeftijd:** Strikt volwassenen (18+). Minderjarigen worden in deze fase uitgesloten.
+   - **Gekozen Familiebanden:** De pilot faciliteert expliciet het matchen op specifieke gekozen familierollen tussen volwassenen:
+     - **Ouder – Kind:** Gekozen vader/moeder ↔ gekozen volwassen zoon/dochter/kind.
+     - **Broer – Zus / Siblings:** Broer-broer, broer-zus, zus-zus relaties.
+     - **Oom/Tante – Nicht/Neef:** Steunende mentor- en familieachtige dynamieken.
+     - **Grootouder – Kleinkind:** Intergenerationele gekozen familiebanden (opa/oma ↔ volwassen kleinkind).
+     - **Gelijkwaardige Vriendenkring:** Zonder specifieke familierol, gericht op gedeelde gezelligheid.
+
+3. **Verificatie & Bewaring van Meldingen (Systeem Verity):**  
+   - We vermijden centrale opslag van gevoelige identiteitsdocumenten of paspoortscans.  
+   - Er wordt gestreefd naar integratie met het **Verity-systeem** (versleutelde, privacy-first opslag en zero-knowledge verificatie).  
+   - Meldingen worden strikt versleuteld bewaard, zijn uitsluitend in te zien door bevoegde moderatoren bij een actieve escalatie, en worden na een vaste bewaartermijn automatisch verwijderd of geanonimiseerd.
+
+4. **Ondersteuning van Beperkingen, Digitale Vaardigheden en Taal:**  
+   - **Keuze voor Fase 1:** *Nog even niet; dit komt in een latere fase.*  
+   - Om de pilot beheersbaar, veilig en overzichtelijk te houden, richt de eerste testgroep zich op een eentalig (Nederlands), digitaal zelfredzaam publiek. Gespecialiseerde ondersteuning voor complexe beperkingen of taalbarrières wordt pas ontwikkeld zodra het kernproces staat.
+
+5. **Toezicht, Veiligheidstoetsing & Medewerking met de Politie:**  
+   - De organisator toetst periodiek zelfstandig het matching- en moderatiesysteem op eerlijkheid, veiligheid en mogelijke discriminatie.  
+   - **Actieve Politie-Samenwerking:** Wanneer er sprake is van gegronde verdenkingen, ernstig wangedrag of concreet bewijs van strafbare feiten (zoals stalking, chantage, fraude of fysieke dreiging), zal de organisatie **volledig en proactief meewerken met de politie en justitiële autoriteiten**. Dit wordt tevens helder in de gebruikersvoorwaarden vastgelegd.
