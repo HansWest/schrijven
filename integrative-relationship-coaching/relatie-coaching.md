@@ -133,3 +133,27 @@ Deel met iemand die je vertrouwt één verandering in hoe je naar relaties kijkt
 ### Een belangrijke kanttekening
 
 Niet elke rode vlag hoeft groen te worden. Deze oefeningen zijn bedoeld om overtuigingen en reacties te onderzoeken, niet om grensoverschrijdend gedrag, dwang of onveiligheid goed te praten. Toestemming, eerlijkheid, respect en ieders grenzen blijven essentieel.
+
+---
+
+## 8. Begeleiding bij Verlating, Relatiebreuk en Rouw
+
+Wanneer een coachee binnenkomt na een acute relatiebreuk of plotselinge verlating — zeker wanneer de breuk gepaard ging met tegenstrijdige signalen van "liefde en dankbaarheid" — staat het zenuwstelsel in een staat van existentiële ontregeling. 
+
+In de coachingpraktijk hanteren we vijf leidende principes:
+
+1. **Psycho-educatie over neurobiologische ontwenning:**  
+   Help de cliënt inzien dat de intense somberheid, verpletterende leegte en gejaagdheid geen bewijs zijn van persoonlijke zwakte, maar een fysiologisch ontwenningsproces (oxytocine/dopamine-val) en activatie van fysieke pijncircuits (Fisher, Sbarra). Dit normaliseert de ervaring en verzacht schaamte.
+2. **Deconstrueren van selectieve abstractie:**  
+   Coachees neigen ernaar de breuk te veralgemeniseren (*"ik ben niet te beminnen"*, *"iedereen verlaat mij"*). Scheid in het gesprek zorgvuldig de draagkracht, behoeften en grenzen van de vertrekkende partner van de fundamentele eigenwaarde van de cliënt.
+3. **Het Duaal Procesmodel inzetten (Stroebe & Schut):**  
+   Geef de cliënt expliciet toestemming voor de slingerbeweging:
+   - *Verliesgericht:* Ruimte maken voor tranen en ontlading (parasympathische kalmering).
+   - *Herstelgericht:* Aandacht verleggen naar het hier en nu, een wandeling, de afwas of een praktische taak. Benadruk dat afleiding geen struisvogelpolitiek is, maar een vitale biologische adempauze.
+4. **De Contactstop als noodzakelijke quarantaine:**  
+   Onderzoek toont aan dat 'zoeken naar contact' de herstelfase verlengt en de neurochemische obsessie voedt. Ondersteun de coachee bij het instellen van een strikte contactstop ter bescherming van de eigen hersenstam.
+5. **Boosheid kanaliseren en de catharsis-mythe doorbreken:**  
+   Boosheid is vaak een secundair schild over rauwe onmacht en afwijzing. Waarschuw de cliënt voor de fabel van catharsis (Brad Bushman): boze berichten sturen wakkert de woede alleen maar aan. Leer de cliënt de adrenaline fysiek te ontladen (sport, klussen, wandelen) en help het narratief te verbreden: twee tegenstrijdige dingen kunnen naast elkaar waar zijn (iemand kan oprecht om je gegeven hebben én besluiten te vertrekken).
+
+*(Zie voor een verdere uitwerking: [Verlaten Worden: Neurobiologie, Rouw en Waardigheid](../over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) en [Over Boosheid als Secundaire Emotie](../over-emoties/over-boos/README.md).)*
+

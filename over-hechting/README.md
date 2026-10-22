@@ -25,5 +25,6 @@ Hoewel iedereen een primaire hechtingsbasis meekrijgt uit de vroege jeugd, zijn 
 ## Praktische Koppelingen elders in de Workspace
 
 - [Relatie Coaching & Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) — *Werkbladen zoals de Partner-Vergelijkende Matrix en de Hersenstam-noodstop.*
+- [Relatiebreuk & Hechtingsverlies](file:///Users/mbp13/Programmeren/schrijven/over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) — *Neurobiologische ontwenning, cognitieve dissonantie en herstel via contactstop.*
 - [Kinky Kerst & Hechting](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md) — *De vertaling naar kink, eenzaamheid rond feestdagen, en de metafoor van kikkers en veren.*
 - [Notities over Emoties](file:///Users/mbp13/Programmeren/schrijven/over-emoties/emoties%20opmerkingen.md) — *Korte aforismen en observaties over emotionele afhankelijkheid.*

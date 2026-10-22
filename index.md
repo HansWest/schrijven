@@ -66,19 +66,25 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
         *   [01: Navigeren van Onvoorspelbare Hechtingspatronen](over-trauma/partner-van-een-partner-met-trauma/01-navigeren-van-onvoorspelbare-hechtingspatronen.md)
         *   [02: Grenzen, Zelfbehoud & Co-Regulatie](over-trauma/partner-van-een-partner-met-trauma/02-grenzen-en-zelfbehoud-voor-de-partner.md)
         *   [03: Het Trauma-Adrenaline Dilemma (Veilig vs. Spannend)](over-trauma/partner-van-een-partner-met-trauma/03-het-trauma-adrenaline-dilemma-veilig-versus-spannend.md)
-    *   [**Emotieproces: Werkmodel voor Coaching**](over-emoties/emotietheorie-werkmodel.md)
-*   [**Omgaan met Emoties: Voelen, Begrijpen & Kiezen**](over-emoties/omgaan-met-emoties.md)
-*   [**Emoties, Leren & Gedrag**](over-emoties/emoties-leren-en-gedrag.md)
-*   [**Sociale Emotie: Schuldgevoel en Schuld in Relaties**](over-emoties/over-schuld.md)
-*   [**Emoties Opmerkingen**](over-emoties/emoties%20opmerkingen.md)
+    *   [**Kennisbank Emoties (Overzicht)**](over-emoties/README.md)
+        *   [Emotieproces: Werkmodel voor Coaching](over-emoties/emotietheorie-werkmodel.md)
+        *   [Omgaan met Emoties: Voelen, Begrijpen & Kiezen](over-emoties/omgaan-met-emoties.md)
+        *   [Over Boosheid: Schild, Energie en Grenzen](over-emoties/over-boos/README.md)
+        *   [Sociale Emotie: Schuldgevoel en Schuld in Relaties](over-emoties/over-schuld.md)
+        *   [Emoties, Leren & Gedrag](over-emoties/emoties-leren-en-gedrag.md)
+        *   [Emoties Opmerkingen](over-emoties/emoties%20opmerkingen.md)
 
 ---
 
-## 🔗 Over Hechting & Relatiepatronen
-*Centrale theorieën over het autonome zenuwstelsel, reactiepatronen en relationele chemie.*
+## 🔗 Over Hechting & Relaties
+*Centrale theorieën over het autonome zenuwstelsel, reactiepatronen, hechtingsdynamieken en relatiebreuken.*
+
 *   [**Kennisbank Hechting (Overzicht)**](over-hechting/README.md)
-*   [**01: Reactiepatronen, Relationele Specificiteit & Earned Security**](over-hechting/01-reactiepatronen-en-relatietypen.md)
-*   [**02: Neurobiologie, Hersenstam & De 5 F's**](over-hechting/02-neurobiologie-en-zenuwstelsel.md)
+    *   [01: Reactiepatronen, Relationele Specificiteit & Earned Security](over-hechting/01-reactiepatronen-en-relatietypen.md)
+    *   [02: Neurobiologie, Hersenstam & De 7 F's (incl. Breuk & Ontwenning)](over-hechting/02-neurobiologie-en-zenuwstelsel.md)
+*   [**Kennisbank Relaties (Overzicht)**](over-relaties/README.md)
+    *   [**Relaties Beëindigen: Breuk, Verlies & Verlaten Worden**](over-relaties/over-relaties-beeindigen/README.md)
+        *   [01: Verlaten Worden: Neurobiologie, Rouw en Waardigheid](over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
 
 ---
 

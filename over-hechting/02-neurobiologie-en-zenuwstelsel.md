@@ -44,7 +44,20 @@ Een ademobservatie vertelt op zichzelf niet wat iemand nodig heeft. Vraag het zo
 
 ---
 
-## 3. Co-Regulatie vs. Zelf-Regulatie
+## 3. Relatiebreuk & Hechtingsverlies: Neurobiologische Ontwenning
+
+Wanneer een relatie abrupt eindigt of iemand wordt verlaten, reageert het hechtingssysteem niet met louter verdriet, maar met een acute neurochemische schok. Onderzoek van onder meer neurowetenschapper Helen Fisher en psycholoog David Sbarra toont aan:
+
+- **Fysieke pijnnetwerken:** Het brein activeert dezelfde somatosensorische gebieden (zoals de dorsale anterieure cingulaire cortex) als bij fysieke verwonding. Afwijzing *doet* letterlijk fysiek pijn.
+- **Chemische ontwenning:** Het hechtingssysteem functioneert biochemisch vergelijkbaar met een verslaving (oxytocine en dopamine). Het plotselinge wegvallen van de hechtingsfiguur resulteert in acute ontwenningsverschijnselen: intense rusteloosheid, slapeloosheid, fysiologische leegte en dwangmatig zoekgedrag.
+- **Cognitieve dissonantie & zoekgedrag:** Zeker wanneer de breuk gepaard gaat met tegenstrijdige signalen ("ik hou van je, maar ik ga"), raakt de neocortex ontregeld. Het brein blijft krampachtig zoeken naar betekenis en verklaringen om de paradox op te lossen.
+- **De noodzaak van een contactstop:** In de hechtingspsychologie is aangetoond dat 'zoeken naar contact' de herstelfase aanzienlijk verlengt. Elke interactie, hoe klein ook, triggert opnieuw de dopamine-craving (Frenzy) en reset de ontwenning. Een strikte contactstop is daarom geen vijandigheid, maar noodzakelijke somatische isolatie om het zenuwstelsel te laten kalmeren.
+
+*(Zie voor een uitgebreide relationele analyse: [Verlaten Worden: Neurobiologie, Rouw en Waardigheid](../over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md).)*
+
+---
+
+## 4. Co-Regulatie vs. Zelf-Regulatie
 
 Mensen zijn sociale zoogdieren. Ons zenuwstelsel is ontworpen om gereguleerd te worden via de aanwezigheid van een ander zenuwstelsel (**co-regulatie**):
 - Een rustige stem, oogcontact, zachte fysieke aanraking of een stabiel ademhalingsritme van een partner kalmeert de hersenstam directer dan welke cognitieve gedachte dan ook.
@@ -53,7 +66,7 @@ Mensen zijn sociale zoogdieren. Ons zenuwstelsel is ontworpen om gereguleerd te 
 
 ---
 
-## 4. De Betekenis voor Coaching en Relatiewerk
+## 5. De Betekenis voor Coaching en Relatiewerk
 
 1. **Praten helpt niet in de alarmfase:** Wanneer een coachee of partner in Fight of Flight zit, is redeneren zinloos. Eerst moet het lichaam zakken naar de veilige ventrale vagus.
 2. **Begrijp de logica van de reflex:** Geen enkele hechtingsreactie is "fout" of "gek"; het is een zenuwstelsel dat wanhopig probeert te overleven. Door die reflex met mildheid te begroeten in plaats van met schaamte, ontstaat er ruimte voor herstel (*repair*).

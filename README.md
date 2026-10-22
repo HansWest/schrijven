@@ -29,6 +29,7 @@ schrijven/
 ├── over-trauma/                           # Jeugdtrauma, het zwarte gat & kikkers en veren
 ├── over-angst/                            # Angst, beschermingsreacties & praktische handvatten
 ├── over-emoties/                          # Emoties, praktische handvatten & overlevingsmechanismen
+├── over-relaties/                        # Relaties starten, verdiepen & beëindigen (breuk, rouw & verlaten worden)
 ├── over-polyamorie/                       # Relatievormen & ethische non-monogamie
 ├── over-mannelijkheid-en-vrouwelijkheid/   # Mannelijkheid, vrouwelijkheid & polariteit voorbij de cultuuroorlog
 │

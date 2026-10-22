@@ -4,7 +4,18 @@
 Een schuldgevoel eerst zelf onderzoeken is iets anders dan zonder toetsing schuld op je nemen omdat een ander die bij je neerlegt. Zie ook [Schuldgevoel en schuld in relaties](over-schuld.md).
 
 ## boosheid
-Boosheid is iets (dat er niet was) waar je iemand pijn voor wilt gaan doen om het alsof te krijgen.
+Boosheid is vaak een secundaire emotie: een energiek, mobiliserend schild dat het brein opwerpt om veel kwetsbaardere primaire emoties (onmacht, afwijzing, existentiële angst en rauw verdriet) niet direct te hoeven voelen. 
+- **De energie:** Boosheid activeert het sympathische zenuwstelsel. Die energie kan constructief worden ingezet om een grens te trekken en waardigheid te herwinnen (*"ik verdien dit niet"*), óf destructief verworden tot chronische ruminatie en wrok.
+- **De catharsis-mythe ontkracht:** Boosheid afreageren of ventileren naar de ander (boze berichten sturen, confrontatie zoeken) verlaagt de spanning niet; wetenschappelijk onderzoek toont aan dat het de woede juist aanwakkert. De adrenaline ontlaadt het beste via zware fysieke inspanning.
+- **Twee waarheden:** Boosheid verlangt vaak naar zwart-witverhalen. Volwassen emotionele integratie vraagt het vermogen om te erkennen dat twee schijnbaar tegenstrijdige dingen tegelijk waar kunnen zijn: iemand kan oprecht om je gegeven hebben én tegelijk besluiten de relatie te beëindigen.
+- *Zie ook:* [Over Boosheid (Dossier)](over-boos/README.md).
+
+## verdriet, rouw en de slingerbeweging
+Herstel van verlies verloopt niet lineair en vraagt niet om "zo snel mogelijk doorgaan". Volgens het duaal procesmodel van rouw (Stroebe & Schut) bestaat heling uit een natuurlijke slingerbeweging tussen:
+1. **Verliesgericht:** Het toelaten van tranen en gemis. Huilen activeert het parasympathische zenuwstelsel en scheidt stressgerelateerde stoffen af.
+2. **Herstelgericht:** De aandacht verleggen naar het hier en nu en dagelijkse taken. Afleiding is geen struisvogelpolitiek, maar een noodzakelijke fysiologische adempauze voor het zenuwstelsel.
+
+> *Boosheid zet je rechtop; verdriet maakt je zacht. In herstel lopen ze vaak dwars door elkaar heen.*
 
 ## spijt
 Spijt heeft te maken met iets accepteren in het verleden. Dat als les in het verleden los te laten maar als les op te pakken voor de toekomst.
