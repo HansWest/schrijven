@@ -94,6 +94,9 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**01: Het Gateau-Model (Vier Relatielagen)**](over-bdsm/01-het-gateau-model-relatielagen.md)
 *   [**02: De Techniek-Betekenis Splitsing (Technique-Meaning Split)**](over-bdsm/02-techniek-versus-betekenis.md)
 *   [**03: Neurochemie, Drop & Aftercare**](over-bdsm/03-neurochemie-drop-en-aftercare.md)
+*   [**Cube of Consent (Overzicht)**](cube-of-consent/README.md)
+    *   [**Consent is een gesprek**](cube-of-consent/consent-is-een-gesprek.md)
+    *   [**Relatiestatus, intenties & informed consent**](cube-of-consent/relatie-status.md)
 
 ---
 
@@ -143,4 +146,3 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ### Contact
 Heb je een vraag voor de column? Stuur deze naar [KinkindeRelatie@gmail.com](mailto:KinkindeRelatie@gmail.com).
-

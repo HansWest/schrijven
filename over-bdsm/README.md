@@ -41,6 +41,7 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 
 ## Verbindingen in de Workspace
 
+- [Cube of Consent](../cube-of-consent/README.md) — *Consent als doorlopende afstemming, met aandacht voor veiligheid, grenzen, informatie en machtsverschillen.*
 - [Hechting & Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) — *Hoe hechting en zenuwstelsels interacteren met kink.*
 - [Kinky Kerst & Eenzaamheid](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/README.md) — *Toepassing op eenzaamheid, feestdagen en gekozen familie.*
 - [Relatie Coaching Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) — *Praktische coachingsinterventies en communicatie.*

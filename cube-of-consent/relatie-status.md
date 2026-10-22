@@ -1,55 +1,30 @@
+# Relatiestatus, intenties en informed consent
 
+In de Cube of Consent gaat veiligheid niet alleen over wat er in een seksuele ontmoeting gebeurt. Ook de context telt. Is de relatiestatus helder en uitgesproken? Weten betrokkenen wat de ander zoekt en welke afspraken er met eventuele partners zijn?
 
+Relatiestatus kan relevant zijn voor iemands keuze om seks te hebben. Wie dat wil, mag weten of er andere partners zijn en of er afspraken bestaan die deze ontmoeting kunnen raken. Misschien maakt dat iemand niet uit; misschien wil diegene niet betrokken raken bij bedrog of bij de gevolgen van een afspraak die wordt geschonden. De betrokkenen kunnen daar verschillende grenzen in hebben. Juist daarom helpt het om de informatie niet voor hen in te vullen.
 
-In de cube of consent zijn we expliciet over veiligheid, bijvoorbeeld ook de veiligheid van de relatie status.
+## Future faking en onuitgesproken verwachtingen
 
-Is die helder en uitgesproken?
+Seks betekent voor verschillende mensen verschillende dingen. De een ziet het als iets vrijblijvends, de ander als een stap richting een relatie of exclusiviteit. Die verschillen zijn op zichzelf niet verkeerd, maar ze kunnen wel een oneerlijke situatie opleveren als iemand de verwachtingen van de ander bewust vaag houdt of iets belooft om seks te krijgen.
 
+Als seks voor jou minder op het spel zet dan voor de ander, kan er bovendien een scheve onderhandelingspositie ontstaan: degene met minder te verliezen kan makkelijker bepalen wat de ontmoeting betekent. Dat vraagt om extra helderheid, niet om een verwijt. Met *future faking* bedoel ik hier het bewust inzetten van toekomstbeloften om vertrouwen of seks te krijgen, zonder de intentie die beloften waar te maken. Dat is iets anders dan eerlijk zijn over onzekerheid of later oprecht van gedachten veranderen.
 
-En 'informed consent' gaat ook over bijvoorbeeld de relatiestatus van je andere partner(s). Wil je zomaar betrokken zijn bij cheating? Misschien maakt het je niet uit. Maar misschien heb je ook geen zin in het drama dat daarmee verbonden kan zijn.
+Je kunt daarom rechtstreeks vragen:
 
+- *“Wat betekent dit contact voor jou?”*
+- *“Zie je dit als iets vrijblijvends, of hoop je op een relatie?”*
+- *“Ben je op zoek naar verandering van je relatiestatus?”*
+- *“Zijn er afspraken met andere partners die voor mij van belang zijn?”*
 
+Zeg zelf ook eerlijk waar je staat. Als je alleen iets vrijblijvends wilt, of niet van plan bent je relatiestatus te veranderen, maak dat dan duidelijk. Een helder antwoord kan teleurstellen, maar geeft de ander wel de kans om zelf te kiezen. En als iemand eerst tijd nodig heeft om te antwoorden, geef die tijd dan ook.
 
+Er is niets mis mee om te zeggen dat je graag seks wilt en tegelijk eerst wilt weten hoe de ander de situatie ziet. Je hoeft geen seks aan te gaan om iemand gerust te stellen, en niemand hoeft een antwoord te geven voordat die er klaar voor is.
 
-Future faking in het bepalen van de relatiestatus
-Seksualiteit is iets dat voor verschillende mensen verschillende dingen betekent. Persoonlijk vind ik die diversiteit wel prachtig, maar in de Battle of the Sexes rond seksualiteit is dit natuurlijk wel van groot voordeel voor degene voor wie dit het minst belangrijk is. 
+## Informed consent is geen toestemming namens iedereen
 
-Je kan zo makkelijk vragen of jouw partner *"er oké mee is, dat dit wat jou betreft voor fun en games is". En/of "Dat je niet op zoek bent naar het veranderen van je relatiestatus, ofzo". 
+Openheid over een bestaande relatie maakt de afspraken binnen die relatie niet automatisch geldig of ongeldig. Het helpt de andere persoon wel om een geïnformeerde eigen keuze te maken. Verzwijg dus geen relevante afspraak of relatiestatus met de bedoeling de ander tot seks te bewegen. Als je niet zeker weet wat je mag delen, wees dan eerlijk over wat je wel en niet weet, en doe geen toezeggingen namens een partner.
 
+Consent is bovendien geen garantie dat er nooit pijn, teleurstelling of ingewikkelde gevoelens ontstaan. Het is wel een manier om misleiding te vermijden en betrokkenen ruimte te geven hun eigen grenzen te bepalen.
 
-En er is natuurlijk ook helemaal niets mis mee om te zeggen: jij mag bijna gebruikmaken van mijn lichaam... Maar ik wil graag weten waar je staat? En dan gewoon even wachten tot een  antwoord komt.
-
-## Macht
-
-Hou rekening met macht en dat is niet alleen maar overt zoals financieel bijvoorbeeld. Maar dat kan ook zijn dat de ene partner jonger of aantrekkelijker is, bijvoorbeeld, dan de ander.
-
-
-Test mag Fair zijn: of het moment dat ik alleen maar bezig ben met mijn plezier en niet bezig ben met het jouwe... Is dat "Fair"? 
-
-En het mag voor het genot zijn. Je mag ervan genieten Je mag er ook van genieten om gebruik te worden of te gebruiken Je mag genieten van een Fair powerplay want als je er alle twee van geniet in je eigen rol is hoogst unfaire seks in een keer weer heel erg fair 😛
-
-Maar als ik bijvoorbeeld zeg: ik heb totaal geen grenzen en je kunt werkelijk alles met me doen! En vervolgens blijft er toch van alles zijn waar ik niet akkoord mee ga... Is dat "Fair"?
-
-
-### Intentional awareness 
-Begrijpen dat seks niet iets is waar je aan het begin Ja op zegt en dat je dan tot het eind toe moet afmaken. Nee, sex is een gesprek. Seks is een positieve feedbackloop (als het leuk 'escaleert').
-
-Een gesprek loopt niet zo lekker als jouw gesprekspartner niet luistert naar de toon erop je spreekt. Dus seks is net als een gesprek iets wat verbale en non-verbale 'cues' heeft die je op dient te pakken als je wilt dat het gesprek lekker verloopt. Als jouw gesprekspartner zich halverwege het gesprek van jou wegdraait. Dan reageer je daar toch op? 
-Als jouw sekspartner zich halverwege de seks omdraait met de rug naar jou toe... Nou ja dat kan natuurlijk ook weer een heel ander teken zijn. Maar je snapt wat ik bedoel. 
-
-
-## Macht en machtsverschil
-
-Machtsverschil in het vermogen om nee te zeggen tegen specifieke wensen van de machthebbers. En dat betekent niet dat er niet met machtsverschil gespeeld kan worden, maar het betekent wel dat het een bewuste stap moet zijn. Machtsverschil komt op veel verschillende manieren: Het kan zijn dat je veel meer geld hebt en de ander echt aan het sappelen is om voedsel te kunnen kopen. Het kan zijn dat er een machtsverschil is door opleiding, of op het werk met een leidinggevende, of dat er docent-leerling- of behandelaar-patiënt-machtsscheidingen zijn. In alle gevallen moet er gekeken worden of consent wel 'consentual' is. 
-
-Het kan zijn dat jij veel meer geneigd bent om te beginnen als partner dan degenen met wie jij seks wilt hebben. In alle gevallen is het belangrijk om erbij stil te staan dat dit machtsverschil bestaat en wat daarvan de uitwerkingen zijn. Is er geen met de minstemacht nog in staat om nee te zeggen? Heeft er geen met de meeste macht ook de verantwoordelijkheid genomen om extra goed te letten op mogelijke lange-termijn "nee's" van degene met minder macht? Heeft de geen met minder macht die zich misschien helemaal in de handjes knijpt dat er wel seks gaat plaatsvinden misschien toch eventjes een moment nodig om stil te staan bij de traag ga ik me hier op de lange termijn goed over voelen?. Lang verhaal kort Het is belangrijk om juist ook in een relatie met Max verschil filterstaan bij de betekenis van die macht op het vermogen om grenzen te stellen dan wel p dan wel grenzen te herkennen. Dat je seks kunt nemen betekent niet dat je seks behoeft te geven 
-
-Dat je mogelijk bijvoorbeeld ouder en rijker bent kan een reden zijn dat je meer macht zou hebben. Maar als jij een oudere en rijkere slaaf bent en jouw partner is een jongere en knappere meesteres, dan spelen er natuurlijk meerdere machtsniveaus en machtsgebieden tegelijkertijd. Ben je als oudere minder aantrekkelijke slaap nog wel in staat om nee te zeggen tegen de grillen van een jonge mooie vrouw die jouw favoriete seksuele fantasieën uit wil leven.
-Kunnen die wel tegen elkaar worden weggestreept? Of moet je dat helemaal niet willen wegstrepen maar beide erkennen aan beide kanten. 
-
-
-
-
-
-
-
+Zie ook [Consent is een gesprek](consent-is-een-gesprek.md) voor consent als doorlopende afstemming en voor de invloed van machtsverschillen.
