@@ -14,11 +14,15 @@ Binnen deze kennisbank onderzoeken we de anatomie van verbinding in al haar fase
 
 ## Mappen en Thema's
 
-1. [**Relaties Beëindigen, Breuk & Verlating (`over-relaties-beeindigen/`)**](over-relaties-beeindigen/README.md)  
+1. [**Relatietheorieën & Interactionele Modellen (`relatietheorieen/`)**](relatietheorieen/README.md)  
+   *Systeemtheorieën, dynamieken tussen partners en het Tweelagenmodel in de relationele praktijk.*
+   - [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
+
+2. [**Relaties Beëindigen, Breuk & Verlating (`over-relaties-beeindigen/`)**](over-relaties-beeindigen/README.md)  
    *Wat er gebeurt wanneer de verbinding verbreekt: de neurobiologie van afwijzing, de paradox van zachte afwijzingen ("dankbaarheid"), het duaal procesmodel van rouw, de dynamiek van boosheid en verdriet, en het herwinnen van waardigheid.*
    - [01: Verlaten Worden: Neurobiologie, Rouw en Waardigheid](over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
 
-2. [**Relaties Starten & Daten (`over-relaties-starten/`)**](over-relaties-starten/)  
+3. [**Relaties Starten & Daten (`over-relaties-starten/`)**](over-relaties-starten/)  
    *De contour van het gemis zichtbaar maken, daten zonder oude wonden op te zadelen aan een nieuwe partner, en helderheid over wederzijds verlangen.*
 
 ---

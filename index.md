@@ -82,7 +82,10 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Kennisbank Hechting (Overzicht)**](over-hechting/README.md)
     *   [01: Reactiepatronen, Relationele Specificiteit & Earned Security](over-hechting/01-reactiepatronen-en-relatietypen.md)
     *   [02: Neurobiologie, Hersenstam & De 7 F's (incl. Breuk & Ontwenning)](over-hechting/02-neurobiologie-en-zenuwstelsel.md)
+    *   [03: Het Tweelagenmodel van Hechting: Affectieve Kaart, Strategie & Koppelingsregels](over-hechting/03-tweelagenmodel-affect-en-strategie.md)
 *   [**Kennisbank Relaties (Overzicht)**](over-relaties/README.md)
+    *   [**Relatietheorieën & Interactionele Modellen**](over-relaties/relatietheorieen/README.md)
+        *   [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
     *   [**Relaties Beëindigen: Breuk, Verlies & Verlaten Worden**](over-relaties/over-relaties-beeindigen/README.md)
         *   [01: Verlaten Worden: Neurobiologie, Rouw en Waardigheid](over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
 

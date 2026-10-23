@@ -18,7 +18,10 @@ Hoewel iedereen een primaire hechtingsbasis meekrijgt uit de vroege jeugd, zijn 
    *Waarom 'hechtingsstijlen' eigenlijk overlevingspatronen zijn, hoe de chemie tussen twee partners specifieke patronen uitlokt, en hoe het zenuwstelsel kan herbedraden.*
 
 2. [**02: Neurobiologie, Hersenstam & De 7 F's**](02-neurobiologie-en-zenuwstelsel.md)  
-   *De polyvagaal theorie, neuroceptie (gevaardetectie), zeven beschrijvende F-reacties in relaties, ademobservaties en somatische co-regulatie.*
+   *De polyvagaal theorie, neuroceptie (gevaardetectie), zeven beschrijvende F-reacties in relaties, ademobservaties, relatiebreuken en somatische co-regulatie.*
+
+3. [**03: Het Tweelagenmodel van Hechting: Affectieve Kaart, Strategie & Koppelingsregels**](03-tweelagenmodel-affect-en-strategie.md)  
+   *Oplossing van het 'appels-en-peren'-probleem: Laag 1 affectieve weerkaart (FEAR, PANIC, SEEKING), Laag 2 gedragsstrategieën, en hechtingsstijlen als aangeleerde automatische koppelingsregels.*
 
 ---
 

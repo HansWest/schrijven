@@ -106,8 +106,47 @@ Bij non-monogamie en kinky dynamieken wordt dit principe nog duidelijker én com
 
 ---
 
-## 5. Samenvattend Advies voor de Beoefenaar / Coach
+## 5. Praktijkprotocol 4: Diagnostiek met het Tweelagenmodel (Weerkaart vs. Navigatie)
+
+Wanneer een coachee vastloopt in relaties, voorkomt het [Tweelagenmodel](../over-hechting/03-tweelagenmodel-affect-en-strategie.md) dat de coach gevoelens en gedrag op één hoop gooit. 
+
+Stel tijdens de intake en sessies altijd **twee afzonderlijke diagnostische vragen**:
+
+### Vraag 1: Wat is het affectieve weerbericht in het lichaam? (Laag 1)
+Onderzoek de drie primaire emotiesystemen in de hersenstam:
+- **FEAR:** Voelt nabijheid of afhankelijkheid als acuut gevaar/bedreiging?
+- **PANIC / GRIEF:** Voelt afstand of onbereikbaarheid als verpletterende verlatingspijn?
+- **SEEKING:** Is er nog levende nieuwsgierigheid, verlangen en speelse exploratie aanwezig, of is het zenuwstelsel emotioneel 'vlak' en ingezakt?
+
+> **De SEEKING-Thermometer bij 'Zelfredzaamheid':**  
+> Wanneer een coachee zegt: *"Ik ben prima alleen, relaties zijn alleen maar gedoe"*, kijkt de coach naar Laag 1.  
+> - Is SEEKING hoog (actieve passies, nieuwsgierig naar mensen, vitale levenslust)? → **Veilige, gezonde autonomie**.  
+> - Is SEEKING laag (geen relationele nieuwsgierigheid, vermijdende apathie, functionele leegte)? → **Defensieve shutdown / collaps (dorsale freeze)**. Dezelfde uitspraak, twee totaal verschillende fysiologische toestanden.
+
+### Vraag 2: Welke navigatiestrategie draait de neocortex? (Laag 2)
+- Wordt er gekozen voor toenadering of afstand?
+- Is er sprake van **hyperactivatie** (aanklampen, claimen, escaleren) of **deactivatie** (afstand nemen, intellectualiseren, kille autonomie)?
+- Is deze strategie **flexibel** (kan de coachee schakelen per situatie) of **rigide** (draait de strategie als een dwangmatige reflex)?
+
+### Het Doel van Coaching: Van Rigide Reflex naar Flexibele Koppeling
+De hechtingsstijl is de geautomatiseerde koppelingsregel: *"Als ik Laag 1 voel, MOET ik Laag 2 doen."*  
+In plaats van de coachee een etiket op te plakken, helpt de coach om de koppeling te vertragen:
+1. **Benoem het weer (Laag 1):** *"Mijn lijf voelt nu PANIC."*
+2. **Onderbreek het automatische script:** *"Mijn oude regel wil nu 20 appjes sturen (Laag 2 Hyperactivatie)."*
+3. **Kies een flexibele, volwassen strategie:** *"Wat heeft mijn volwassen zelf nu nodig om dit op te vangen?"*
+
+#### De Drie Ontwikkelingsstappen van 'Soepeler Koppelen' in de Praktijk:
+- **1. Eerder herkennen:** Train de coachee in interoceptie (lichaamsbewustzijn). Leer de micro-signalen herkennen (adem, buik, kaakspanning) *vóórdat* de hersenstam de neocortex kaapt en men vol in de overlevingsstand zit.
+- **2. Voor zijn:** Leer de coachee triggers proactief te voorkomen door kaders en context tijdig te communiceren naar partners (bijv. vermoeidheid of overprikkeling vooraf benoemen).
+- **3. Er sneller uit zijn:**
+  - *Stap A (Self-care):* Direct somatisch zelfreguleren (wandelen, aarden, fysiologische zucht).
+  - *Stap B (Co-regulatie toestaan):* De verharding durven opgeven en de fysieke aanwezigheid, troost of geruststelling van de partner daadwerkelijk toelaten in plaats van defensief afstoten.
+
+---
+
+## 6. Samenvattend Advies voor de Beoefenaar / Coach
 
 - **Vervang het etiket door nieuwsgierigheid:** Vraag niet: *"Welke hechtingsstijl heeft deze persoon?"*, maar vraag: *"Welk reactiepatroon wordt in deze specifieke relatie opgeroepen, en wat is de functie daarvan voor het zenuwstelsel?"*
 - **Kijk naar de chemie tussen twee zenuwstelsels:** Onderzoek waarom partner A dit patroon activeert en partner B niet.
 - **Herbedrading gebeurt somatisch:** Inzicht in je patronen heelt niets; het ervaren van *rupture and repair* (breuk en herstel) zonder dat de relatie instort, heelt de hersenstam.
+
