@@ -4,6 +4,9 @@ Het leven is net natuurkunde, want je hebt maar twee dingen in een leven: tijd e
 
 Want je hebt per dag maar één dag en kunt je tijd en je energie maar één keer uitgeven. Denk eraan welke dingen je *sprankel* geven en welke dingen je *schrompel* geven.
 
-En het leven is geen sprookje. Dit kan betekenen dat je naar ouwe shit kijkt, omdat het efficiënter is om het aan te kijken en de rol ervan in het heden te begrijpen dan om het in het onbewuste donker te laten rotten, zodat het je dagelijkse sprankel ondermijnt. Het kan betekenen dat je je bezighoudt met de dagelijkse shit die hoort bij andere voordelen (zoals belasting betalen omdat je in een verzorgingsstaat wilt leven). Of het kan shit zijn die je nou eenmaal te verduren krijgt, omdat het leven nou eenmaal niet eerlijk is.
+En het leven is geen sprookje. Dus dit kan betekenen dat je naar ouwe shit kijkt omdat het efficiënter is om het aan te kijken, en de rol ervan in het heden te begrijpen dan om het in het onbewuste donker door te laten rotten. want uiteindelijk zal het je dagelijkse sprankel ondermijnnen. Het kan betekenen dat je jezelf bezighoudt met de dagelijkse saaie shit die erbij hoort omdat je andere voordelen wilt. Zoals belasting betalen omdat je in een verzorgingsstaat wilt leven, of iets doen voor je partner omdat je jouw partner gelukkig wilt maken, ook al vind je het zelf niet zo geweldig.
+Of het kan shit zijn die je nou eenmaal te verduren krijgt, omdat het leven nou eenmaal niet eerlijk is.
 
 > Noord-Hollands spreekwoord: Iedereen krijgt soms stront op z'n bordje: dan moet je slikken, niet kauwen.
+
+Maar het doel van een leven is niet shit uithouden. Leven is juist ook zoeken naar Sprankel, naar groei. Waar krijg jij sprankel van?
