@@ -17,6 +17,7 @@ Binnen deze kennisbank onderzoeken we de anatomie van verbinding in al haar fase
 1. [**Relatietheorieën & Interactionele Modellen (`relatietheorieen/`)**](relatietheorieen/README.md)  
    *Systeemtheorieën, dynamieken tussen partners en het Tweelagenmodel in de relationele praktijk.*
    - [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
+   - [02: Jullie relatie als levend lijf: structuur, beweging en gevoel](relatietheorieen/02-relatie-als-levend-lijf.md)
 
 2. [**Relaties Beëindigen, Breuk & Verlating (`over-relaties-beeindigen/`)**](over-relaties-beeindigen/README.md)  
    *Wat er gebeurt wanneer de verbinding verbreekt: de neurobiologie van afwijzing, de paradox van zachte afwijzingen ("dankbaarheid"), het duaal procesmodel van rouw, de dynamiek van boosheid en verdriet, en het herwinnen van waardigheid.*

@@ -86,6 +86,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Kennisbank Relaties (Overzicht)**](over-relaties/README.md)
     *   [**Relatietheorieën & Interactionele Modellen**](over-relaties/relatietheorieen/README.md)
         *   [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
+        *   [02: Jullie relatie als levend lijf: structuur, beweging en gevoel](over-relaties/relatietheorieen/02-relatie-als-levend-lijf.md)
     *   [**Relaties Beëindigen: Breuk, Verlies & Verlaten Worden**](over-relaties/over-relaties-beeindigen/README.md)
         *   [01: Verlaten Worden: Neurobiologie, Rouw en Waardigheid](over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
 

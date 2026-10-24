@@ -1,55 +1,72 @@
-Deze dictatie focust op de psychobiologische benadering van relaties (PACT) van Stan Tatkin. De kernboodschap is dat partners hun relatievorm en structuur expliciet moeten synchroniseren om emotionele veiligheid te waarborgen. Wanneer de ene partner kiest voor een monogame bubbel terwijl de andere een niet-hiërarchische polyamoreuze structuur ambieert, ontstaan er grote verschillen in de benodigde emotionele regulatie en het management van derden.
+psychobiologische benadering van relaties (PACT) van Stan Tatkin. IN zijn benadering is hij enerzijds speels met de manier waarop partners erlkaar kunnen benaderen, aan de andere kant komt misschien zijn leger achtergronmodd om de hoek als hij zich sterk richt op de structuur.
+Positief in zijn kernboodschap is dat partners hun relatievorm en structuur expliciet moeten synchroniseren om emotionele veiligheid te waarborgen. Wanneer de ene partner kiest voor een 'monogamish bubble' terwijl de andere een niet-hiërarchische polyamoreuze structuur ambieert, dan geeft de onhelderheid over de gekozen structuur dat wrijvingen inherent zijn. Want er zijn nogal wat verschillen in de benodigde emotionele regulatie en het managen van metamours tussen die twee structuren.
 
 Kernpunten voor de klinische praktijk
-
 • Structurele congruentie: Het is essentieel om de relatievorm gelijk te trekken. Een mismatch in de basisstructuur zorgt voor instabiliteit in het fundament van de relatie.
 
-• De Couple Bubble: In open of monogame structuren moet de partner de prioriteit blijven. Belangrijke gebeurtenissen en nieuwe relaties worden eerst met de partner besproken om de onderlinge veiligheid te consolideren.
+• De Couple Bubble: In open of monogamish structuren moet de partner de prioriteit blijven. Daarom het belang van de "bubbel": de partner als eerste aanspreekpunt bij belangrijke life-events.
 
-• Besluitvorming: Een effectieve aanpak werkt voor beide partners. Oplossingen die gebaseerd zijn op eenzijdig voordeel of "people pleasing" zijn op de lange termijn onhoudbaar.
+• Inhoudelijke afstemming: Belangrijke gebeurtenissen worden eerst met de partner besproken om de onderlinge veiligheid te consolideren. Dit geldt mogelijk ook voor nieuwe relaties, hoewel dat in mono-polyamorie misschien ook meer achteraf genoemd kan worden, terwijl het in een open relatie misschien meer tevoren zal zijn.
 
-• Relationele veiligheid: Het ondermijnen van de fundamenten door te dreigen met de beëindiging van de relatie is destructief voor de hechting.
+• Besluitvorming: Een effectieve aanpak werkt voor beide partners. Oplossingen die gebaseerd zijn op eenzijdig voordeel voor mijzelf of basis van 'people pleasing'm voor de ander, zijn op de lange termijn vaak onhoudbaarder dan tevoren gedacht. Dat vereist strategisch nadenken over een aanpak die voor beide partijen werkt, zonder zelfopoffering of egoïsme.
 
-<pocket:flowchart title="Protocol voor Relationele Veiligheid">
-Nieuwe gebeurtenis of relatie -> Richt op partner
-Partner prioriteit -> Creëer bubbel met tweeën
-Bubbel stabiel -> Bespreek gezamenlijke aanpak
-Gezamenlijke aanpak -> Beveilig fundamenten
-</pocket:flowchart>
+• Relationele veiligheid: Het ondermijnen van de fundamenten door te dreigen met de beëindiging van de relatie is destructief voor hechting. Dat geldt voor alle relatie structuren. Daarom waarschuw ik vaak tegen het gebruik van dreigementen diev de relationele fundamenten ondermijnen.
 
-Getimede Notities
 
-• 0:00 Introductie van de psychobiologische benadering en het belang van structurele ernst.
+## De anatomische relatiemetafoor
 
-• 0:45 Analyse van de discrepantie tussen open relaties en niet-hiërarchische polyamorie.
+De vergelijking ven hun relatie met een levend lichaam kan partners helpen om een terugkerend probleem vanuit drie invalshoeken te bekijken: de structuur die houvast geeft, het gedrag dat de relatie in beweging houdt en de signalen die richting geven. Het is een metafoor die vooral wil uitnodigen tot nieuwsgierigheid, niet als diagnose of als norm voor hoe een relatie eruit hoort te zien. Verschillende relatievormen kunnen verschillende structuren nodig hebben; de vraag is of afspraken bewust, wederzijds en werkbaar zijn.
 
-• 1:30 Het belang van de "bubbel": de partner als eerste aanspreekpunt bij belangrijke life-events.
+### Botten: structuur en draagkracht
 
-• 2:15 Strategisch nadenken over een aanpak die voor beide partijen werkt, zonder zelfopoffering of egoïsme.
+De botten staan voor de afspraken en praktische kaders waarop partners steunen: grenzen, verwachtingen, tijd, zorg, geld, privacy, ouderschap en de manier waarop beslissingen worden genomen. Dat kan gaan om formele afspraken, maar ook om stilzwijgende aannames. Een structuur biedt houvast; ze is niet automatisch veilig of passend alleen omdat ze lang bestaat. Het kan stevig en goed gebouwd zijn maar te log om in beweging te komen. Of jij kan aan de lijnkerkant een soepele lynx zijn, als de rechterkant van onze gezamenlijke structuur meer lijkt op een beer, dan wordt het wel lastig.
+Maar zonder botten zijn we als een bewegend zakje spieren en zenuwen dat over de grond glibbert en zetten we geen stap.
 
-• 3:45 Waarschuwing tegen het gebruik van dreigementen en het ondermijnen van de relationele basis.
+Vragen om samen te onderzoeken:
+- Wat voor structuur proberen we samen te bouwen (want van monogamish tot relational anarchy is er heel veel spreieiding)
+- Hoe passen onze beider 'beestjes' op elkaar als we een structuur cocreeren.
+- Welke afspraken of verwachtingen spelen bij ons? Is het meeste uitgesproken of wordt er veel verondersteld?
+- Is onze afspraak voor iedereen begrijpelijk, vrijwillig en op dit moment werkbaar?
+- Wat moet stabiel blijven en wat mag opnieuw worden besproken?
+- Welke praktische of relationele steun ontbreekt?
 
-Categorisering
+### Spieren: gedrag, vaardigheden en inspanning
 
-• #Relatietherapie
+De spieren staan voor wat partners daadwerkelijk doen om de relatie te onderhouden en bij te sturen: contact zoeken, luisteren, grenzen aangeven, afspraken nakomen, in evenwicht blijven onderweg, of herstellen na een botsing, initiatief nemen en taken verdelen. Een stevige structuur kan beweging mogelijk maken, maar vervangt die relationele inspanning niet. Omgekeerd kan veel inspanning een onduidelijke of onwerkbare structuur niet blijvend compenseren.
 
-• #PACT
+Vragen om samen te onderzoeken:
 
-• #Hechting
+- Wat doen jullie al dat helpt, al is het maar een beetje?
+- Welke vaardigheid of concrete actie is hier nodig?
+- Wie draagt het meeste initiatief, regelwerk of herstelwerk?
+- Welke kleine, haalbare stap kunnen jullie oefenen, en wanneer evalueren jullie die?
 
-• #Polyamorie
+### Zenuwstelsel: signalen, afstemming en herstel
 
-• #KlinischeMethodiek
+Het zenuwstelsel staat in deze metafoor voor het opmerken van signalen van spanning, rust, nabijheid of afstand — in jezelf, tussen partners en in de omstandigheden. Lichamelijke signalen kunnen informatie geven over hoe een situatie wordt beleefd, maar zijn op zichzelf geen bewijs dat iemand gelijk heeft of dat een afspraak goed of fout is. Partners kunnen elkaar ondersteunen bij herstel en afstemming, zonder verantwoordelijk te worden voor het volledig reguleren van elkaars gevoelens.
 
----
+Vragen om samen te onderzoeken:
 
-Actiepunten
+- Wat merk je in je lichaam en emoties wanneer dit gebeurt? Wat denk je dat die signalen je vertellen?
+- Welke concrete gebeurtenis of onzekerheid ging eraan vooraf?
+- Wat helpt je om voldoende rust of overzicht te krijgen voor een gesprek of besluit?
+- Welke steun kun je vragen, en wat kun je zelf doen als de ander op dat moment niet beschikbaar is?
 
-• Relatiemetafoor uitwerken: Werk de anatomische metafoor (botten, spieren, zenuwstelsel) verder uit voor integratie in klinische sessies met cliënten.
+### Een korte werkwijze voor een sessie
+
+1. Kies één recente, concrete situatie. Beschrijf eerst wat er gebeurde, zonder meteen intenties of schuld toe te schrijven.
+2. Verken de drie lagen: welke afspraak of verwachting (botten) speelde mee, welk gedrag of welke vaardigheid (spieren) was nodig, en welke signalen of (dierlijke) behoefte speelde er. Kortom welke afstemming (zenuwstelsel) was merkbaar?
+3. Laat iedere partner benoemen wat die laag voor hen betekent. Controleer verschillen in beleving en aannames; forceer geen overeenstemming voordat die verschillen helder zijn.
+4. Kies één kleine aanpassing: een afspraak verduidelijken, een vaardigheid oefenen of een manier afspreken om bij spanning te pauzeren en later terug te komen.
+5. Spreek af wanneer en waaraan jullie merken of de aanpassing helpt. Herzie de afspraak als die niet voor alle betrokkenen werkbaar blijkt.
+
+Bijvoorbeeld: een partner laat weten dat een afspraak met een andere partner uitloopt. De **botten** kunnen bestaan uit afspraken over updates en gezamenlijke tijd; de **spieren** uit tijdig berichten, luisteren en samen een alternatief plannen; het **zenuwstelsel** uit het opmerken van onzekerheid of opluchting en nagaan wat helpt om weer overzicht te krijgen. Dit voorbeeld schrijft geen hiërarchie of vaste regel voor: partners onderzoeken welke afspraken passen bij hun relatievorm en bij de mensen die erdoor geraakt worden.
+
+De metafoor hoeft niet bij ieder gesprek alle drie de onderdelen op te leveren. Soms is eerst rust of veiligheid nodig; soms is een onduidelijke afspraak de kern. Laat cliënten zelf aangeven welk beeld behulpzaam voelt en stap over op gewone, concrete taal als de anatomische vergelijking niet past.
 
 Samenvatting
 
-Deze dictatie schetst een conceptueel kader waarin een relatie wordt vergeleken met een menselijk lichaam. Hans West betoogt dat een functionele relatie drie essentiële componenten nodig heeft om te floreren:
+Deze dictatie schetst een conceptueel kader waarin een relatie wordt vergeleken met een levend lichaam. Hans West betoogt dat een functionele relatie drie essentiële componenten nodig heeft om te floreren:
 
 De Botten (Structuur): Dit vertegenwoordigt de fundamenten, zoals een gezamenlijke hypotheek of praktische afspraken. Zonder deze structuur mist de relatie stevigheid, maar louter focus op de "botten" maakt de dynamiek rigide en moeizaam.
 De Spieren (Beweging): Dit zijn de krachten die de structuur in gang zetten. Het gaat om actie, flexibiliteit en het vermogen om de aanwezige structuren actief te benutten.
@@ -145,4 +162,3 @@ Moeite met directe confrontatie -> Projectie op relatiestructuur
 Projectie op relatiestructuur -> Structurele verwijten
 Nieuwe partners -> Vermindering relatieve aantrekkelijkheid eerste partner
 </pocket:flowchart>
-
