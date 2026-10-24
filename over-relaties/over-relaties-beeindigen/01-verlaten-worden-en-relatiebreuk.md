@@ -23,6 +23,8 @@ Onderzoek (onder meer door neurowetenschapper Helen Fisher en psycholoog David S
 
 > **Inzicht:** Besef dat de intense rusteloosheid, de verpletterende vermoeidheid of de plotse somberheid geen bewijs zijn van persoonlijke zwakte, maar een fysiologische reactie van de hersenstam op het acute wegvallen van hechting.
 
+Voor de algemene uitleg over hechtingsreacties en neurobiologie, zie [Neurobiologie, Hersenstam & De 7 F's in Hechting](../../over-hechting/02-neurobiologie-en-zenuwstelsel.md). Dit artikel richt zich op hoe die reacties kunnen samenkomen bij een relatiebreuk.
+
 ---
 
 ## 2. Dankbaarheid als Afsluiting vs. Jouw Antwoord
@@ -70,6 +72,8 @@ Herstel van verlies verloopt niet in een rechte lijn en vraagt niet om "zo snel 
    Momenten waarop je de aandacht bewust verlegt naar het hier en nu: de afwas doen, boodschappen halen, een wandeling maken, de krant lezen of een praktische klus klaren.
 
 > **Cruciaal:** Een beetje afleiding tussendoor is geen 'struisvogelpolitiek' of ontkenning, maar een biologisch noodzakelijke adempauze voor brein en lichaam om overspoeling te voorkomen.
+
+Voor algemene handvatten bij het opmerken en hanteren van emoties, zie [Omgaan met emoties](../../over-emoties/omgaan-met-emoties.md) en de [notities over rouw en de slingerbeweging](../../over-emoties/emoties%20opmerkingen.md).
 
 ---
 

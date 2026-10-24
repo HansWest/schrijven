@@ -19,6 +19,9 @@ Binnen deze repository hanteren we **bewust géén starre Single Source of Truth
 ```
 schrijven/
 ├── docs/                                  # Overkoepelende filosofie & werkwijze (geen SSOT)
+├── .github/instructions/                 # Automatische werkafspraken voor specifieke mappen
+├── _info-dump/                            # Binnenkomend materiaal om te integreren en daarna op te ruimen
+├── artikel-aanzetten/                     # Zelfstandige invalshoeken voor toekomstige artikelen
 ├── index.md                               # Publieke / centrale navigatie-index
 ├── chosen-family-app/                     # Concept voor een veilige chosen-family-community-app
 │
