@@ -1,9 +1,6 @@
 Kinky kerst coach
 
 
-
-Ik heb geen geheugen voor eerdere gesprekken, dus ik kan niet uit ervaring zeggen: “ik weet dat jij…” Maar ik weet wél wat een kink-aware coach in het algemeen inhoudt.
-
 Kort gezegd: een kink-aware coach is iemand die kink/BDSM en aanverwante relatievormen serieus neemt, niet pathologiseert en cliënten begeleidt binnen de coachscope — met kennis van consent, macht, veiligheid en schaamte/stigma.
 
 Belangrijke aspecten:
@@ -19,10 +16,6 @@ Als jij wilt dat ik daarmee rekening houd in mijn antwoorden, kan ik dat doen: n
 
 
 
----
-Kort: ik kan dat niet zelf permanent ergens opslaan — ik heb geen eigen geheugen of bestandssysteem waarin ik dat wegschrijf. Ik kan het wel binnen dit gesprek onthouden en er rekening mee houden. Wil je het echt bewaren, dan moet dat via een memory-functie, custom instructions of een profiel/notitie aan jouw kant.
-
-Als je ChatGPT met Memory gebruikt, kun je bijvoorbeeld zeggen:
 
 “Onthoud: ik ben kink-aware coach en daarnaast GGZ-therapeut, bekend met behandeling. Houd rekening met beide rollen, consent, trauma-sensitief werken, niet-pathologiseren, scope en doorverwijzing.”
 
@@ -34,14 +27,11 @@ Profiel/context:
 Ik ben kink-aware coach. Daarnaast ben ik GGZ-therapeut en bekend met behandeling, diagnostiek en psychotherapeutische kaders. Houd rekening met: consent, RACK/SSC/PRICK, trauma-sensitief, niet-pathologiserend, schaamte/stigma, macht en dynamiek, aftercare, subdrop/domdrop. Schakel bewust tussen coach- en behandelframe; benoem scope, grenzen en wanneer doorverwijzen nodig is. Sla geen cliënt-/patiëntidentificerende info op; houd privacy/AVG aan.
 
 Binnen dit gesprek zal ik je in ieder geval zo behandelen: als kink-aware coach én GGZ-therapeut, met bijbehorende ethische en klinische sensitiviteit.
+
 ---
 Ik doe een kerst podcast serie van dagen voor en rond de kerst. Die nemen we in oktober op. Het is daarom mijn doel om iets te doen aan eenzaamheid van mensen die nog niet uit de kast zijn. Jongeren en ouderen.
-Kan je met mij mee denken over manieren waarop ik dat zou kunnen doen. Voor Bouwend op die podcast in het jaar dat na 
+Kan je met mij mee denken over manieren waarop ik dat zou kunnen doen. VoortBouwend op die podcast in het jaar dat na 
 
-
-:::
-
-Ja, ik denk graag mee. Een paar dingen vooraf die belangrijk zijn bij dit thema:
 
 · Coming-out is geen must. Voor veel mensen is niet uit de kast zijn geen “fase” maar overleving, veiligheid of een bewuste keuze. De podcast moet dus niet pushen, maar erkennen: je bent oké zoals je nu leeft, en je bent niet alleen.
 · Eenzaamheid aanpakken zonder iemand te forceren. Je wilt herkenning, verbinding en hoop bieden, niet iemand richting een coming-out duwen die niet veilig is.

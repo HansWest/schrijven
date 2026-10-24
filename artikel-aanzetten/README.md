@@ -2,6 +2,12 @@
 
 Deze map bevat zelfstandige, kansrijke invalshoeken voor toekomstige artikelen die nog geen uitgewerkt artikel zijn.
 
+## Aanzetten
+
+- [Oldskool BDSM: wat willen we bewaren?](oldskool-bdsm-waarden-en-gebruiken.md) — inhoudelijke opzet voor een artikel en presentatie over hanky code, waarden, rituelen, contracten en ceremonieën, met historische claims expliciet ter verificatie.
+
+## Werkwijze
+
 Maak voor iedere aanzet een eigen Markdown-bestand met:
 
 - de kern of centrale vraag;
