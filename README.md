@@ -34,5 +34,6 @@ schrijven/
 ├── over-mannelijkheid-en-vrouwelijkheid/   # Mannelijkheid, vrouwelijkheid & polariteit voorbij de cultuuroorlog
 │
 ├── integrative-relationship-coaching/     # Methodieken, protocollen & werkbladen
+├── boek-sprankel-en-schrompel/             # Manuscript over tijd, levensenergie en wat het leven je geeft
 └── kinky-kerst-eenzaamheid/               # Projectdossier rond kersteenzaamheid (met eigen docs/)
 ```

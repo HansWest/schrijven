@@ -42,7 +42,7 @@
 **Drie Vormen van Drop:**
 1. **Subdrop (Na Overgave):** Biochemische uitputting. Endorfine en dopamine zijn opgebruikt; gevoel van leegte, twijfel of huilerigheid.
 2. **Domdrop (Na Sturen):** Verantwoordelijkheids-dip. Uitputting door urenlange scherpe focus, zorg en leiderschap.
-3. **Eenzaamheids-Drop:** De hersenstam interpreteert stilte en isolement als levensgevaar (oer-angst voor verstoting uit de stam).
+3. **Eenzaamheids-Drop:** De hersenstam interpreteert stilte en isolement als levensgevaar (oer-angst voor veverlies mvan de tribe).
 
 > **Kerninzicht:** *"Drop is geen bewijs dat je labiel bent; het is puur fysiologie die bedding nodig heeft."*
 

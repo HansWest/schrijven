@@ -117,6 +117,13 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ---
 
+## 📖 Boek: Sprankel en Schrompel
+*Werkmap voor een boek over tijd, levensenergie en omgaan met wat het leven je geeft.*
+*   [**Manuscriptoverzicht**](boek-sprankel-en-schrompel/README.md)
+*   [**Inleiding**](boek-sprankel-en-schrompel/inleiding.md)
+
+---
+
 ## 👥 Over Polyamorie
 *   [**Veel liefdes Boekje**](over-polyamorie/veel_liefdes_boekje.md)
 
