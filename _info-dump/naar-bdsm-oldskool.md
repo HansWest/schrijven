@@ -32,7 +32,7 @@ Hier is een uitgebreidere versie van je tekst, waarin dezelfde drie pijlers voor
 
 ## Een BDSM-dynamiek is een co-creatie
 
-Een BDSM-dynamiek is nooit het werk van één persoon. Ook al heeft de Dom vaak de rol om het initiatief te nemen en de richting te bepalen, en heeft de sub een rol in de uitvoering van wat de Dom opdraagt, zij creëren samen de dynamiek. De Dom ontwerpt niet in een vacuüm: de sub brengt verlangens, grenzen, feedback en verantwoordelijkheid in. De sub is dus geen passieve ontvanger, maar een actieve deelnemer aan het geheel. Juist die wisselwerking maakt van BDSM een co-creatie.
+Een BDSM-dynamiek is nooit het werk van één persoon. Ook al heeft de Dom vaak de rol om het initiatief te nemen en de richting te bepalen, en heeft de sub een rol in de uitvoering van wat de Dom opdraagt, zij creëren samen de dynamiek. De Dom ontwerpt niet in een vacuüm: de sub brengt verlangens, grenzen, feedback en verantwoordelijkheid in. De sub is dus geen passieve ontvanger, maar een actieve deelnemer aan het geheel. Juist die wisselwerking maakt BDSM tot een co-creatie.
 
 Dat betekent concreet dat de Dom niet alleen stuurt, maar ook nadenkt over de eigen rol, de eigen verantwoordelijkheden en de randvoorwaarden waarbinnen de dynamiek veilig en zinvol kan bestaan. Daarbij zijn minstens drie pijlers belangrijk:
 
@@ -220,3 +220,40 @@ Vanuit deze wetenschappelijke mechanismen is *aftercare* (nazorg) geen puur emot
 | **Glycogeen- en elektrolytentekort** | Eten van snelle suikers/koolhydraten (bijv. chocolade, banaan) en zouten/water. |
 | **Plotselinge oxytocinedaling** | Fysieke nabijheid, knuffelen, huid-op-huidcontact (stimuleert geleidelijke oxytocine-afgifte). |
 | **Hormonale rebound (24–48 uur later)** | Rust, hydratatie, open communicatie ("check-in") en het besef dat een dip fysiologisch normaal is en vanzelf overgaat. |
+
+
+
+---
+
+
+
+
+## Overage en ontferming
+
+
+Ontferming is het zorgen voor een kwetsbaar persoon of het tonen van barmhartigheid en medelijden, waarbij je actie onderneemt om iemand uit de nood te helpen. [1] (https://www.encyclo.nl/begrip/ontfermen), [2] (https://www.encyclo.nl/begrip/ontferming), [3] (https://www.ensie.nl/betekenis/ontferming), [4] (https://www.ensie.nl/spreekwoord/ontfermen-zich)
+
+Betekenis en achtergrond
+
+• Zorg en bescherming: Het betekent letterlijk dat je iemand onder je hoede neemt, beschermt of behoedt voor het ergste. [1] (https://www.ensie.nl/spreekwoord/ontfermen-zich), [2] (https://www.encyclo.nl/begrip/ontfermen)
+• Diep gevoel: Het gaat vaak om een diep medelijden (in de Bijbel vertaald vanuit het Griekse splagchnizomai, wat letterlijk voelen in de ingewanden/buik betekent). [1] (https://petrus.protestantsekerk.nl/artikel/column-wim-met-ontferming-bewogen/), [2] (https://zijlacht.nl/overdenkingen/ben-jij-met-ontferming-bewogen/)
+• Daden bij woorden: Ontferming blijft niet bij medelijden; het betekent dat je ook daadwerkelijk te hulp komt, zoals de barmhartige Samaritaan. [1] (https://www.christipedia.nl/wiki/Ontferming), [2] (https://bijbelassistent.nl/statenvertaling-woorden/ontfermen)
+
+
+
+
+
+
+Het woord overgave betekent het loslaten van de controle en het accepteren van de werkelijkheid zoals die is, of het je volledig wijden aan iets. De precieze betekenis hangt af van de context waarin het wordt gebruikt: [1] (https://www.desteven.nl/persoonlijke-ontwikkeling/veranderingen/loslaten/overgave-berusting), 
+
+De belangrijkste betekenissen
+
+• Militair en defensie: Het opgeven van de strijd en je onderwerpen aan de vijand (capitulatie).
+• Persoonlijke ontwikkeling en het dagelijks leven: Stoppen met vechten tegen wat je niet kunt veranderen. Volgens De Steven betekent dit berusten in een situatie, maar het is geen passiviteit of onverschilligheid; het is een bewuste keuze om mee te bewegen met de stroom. [1] (https://holistik.nl/overgave-leven/), [2] (https://www.innerlijkefocus.nl/go-with-the-flow-5-tips-voor-leven-in-overgave/), [3] (https://www.desteven.nl/persoonlijke-ontwikkeling/veranderingen/loslaten/overgave-berusting), [4] (https://sochicken.nl/overgave)
+• Toewijding en passie: Met volledige inzet, ijver of bezieling ergens aan beginnen (bijvoorbeeld: "zij begon met overgave aan het schrijven" of "met veel overgave spelen"). [1] (https://www.woorden.org/woord/overgave), [2] (https://www.encyclo.nl/begrip/overgave)
+• Spiritualiteit en geloof: Vertrouwen hebben in een groter geheel, het leven of God de touwtjes in handen geven. In de islam wordt het woord islam zelf ook wel vertaald als 'overgave' (aan de wil van God). [1] (https://zijlacht.nl/overdenkingen/controlfreak-en-overgave-aan-god/), [2] (https://www.inspirerendleven.nl/een-belangrijke-stap-in-spiritueel-leven-dit-is-overgave-en-zo-werkt-het/), [3] (https://www.youtube.com/watch?v=j9OFeV7qheo), [4] (https://www.encyclo.nl/begrip/overgave)
+• BDSM en relaties: Het vrijwillig uit handen geven van de macht of de regie aan een ander persoon. [1] (https://www.encyclo.nl/begrip/overgave)
+Meer definities en achtergronden kun je vinden in de Encyclo Encyclopedie. [1] (https://www.encyclo.nl/begrip/overgave)
+
+
+
