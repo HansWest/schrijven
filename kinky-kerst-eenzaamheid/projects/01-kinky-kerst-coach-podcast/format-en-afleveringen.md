@@ -25,7 +25,7 @@ Elke aflevering volgt een vaste, herkenbare opzet:
 
 ### Aflevering 2: De Lege Stoel & Single in de Scene
 * **Thema:** Solo kink, single zijn en amatonormativiteit. 
-* **Inzichten:** Wetenschap van Bella DePaulo over gelukkig single zijn. Hoe de maatschappij ons aanpraat dat je zonder romantische partner "incompleet" bent.
+* **Inzichten:** Verkenning van Bella DePaulo's werk over single-zijn en het idee dat een romantische partner noodzakelijk zou zijn voor een volwaardig leven. Controleer specifieke onderzoeksclaims en cijfers op een betrouwbare bron voordat ze worden genoemd; generaliseer niet over alle singles.
 * **Kink-insteek:** D/s, solo-play en autonomie. Een verlangen naar een partner mag er zijn, maar hoeft je niet te beheersen.
 
 ### Aflevering 3: Het Stille Oordeel & Neurodiversiteit in Kink
@@ -51,5 +51,4 @@ Elke aflevering volgt een vaste, herkenbare opzet:
 * **Kernpunten:** 
   - Familie die je kiest: vrienden, mentors, buddies.
   - **Aankondiging van De West-Sessies (Jan/Feb 2027):** Bekendmaking van het *Luisteraars-Codewoord* `WESTSESSIES` (voor de symbolische € 4,50 no-show bijdrage i.p.v. regulier € 17,50).
-
 

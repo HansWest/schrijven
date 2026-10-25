@@ -27,11 +27,12 @@ kinky-kerst-eenzaamheid/
 │   ├── idee-01-aflevering-themas-en-gasten.md   # Yvette, Dirk, primal, breathplay, red flags, neurodiversiteit
 │   ├── idee-02-community-en-chosen-family.md   # Doorlopende brievenbus, "Kerst in juli", intergenerationeel contact
 │   ├── idee-03-psychologie-kink-en-hechting.md # Hersenstam, drop, 'veren zoeken bij een kikker' & hechting
-│   └── idee-04-persoonlijke-reflectie-en-spinoff.md # Verlangens, integriteit & organische relatievorming
+│   ├── idee-04-persoonlijke-reflectie-en-spinoff.md # Verlangens, integriteit & organische relatievorming
+│   └── idee-05-single-zijn-en-een-verbonden-leven.md # Autonomie, zelfzorg en verbinding zonder amatonormatieve druk
 │
-└── archive-ruwe-notities/                       # OORSPRONKELIJKE RUWE NOTITIES
-    ├── eerste-ideeen.md                         # Originele brainstorm
-    └── tweede-ideeen.md                         # Notities over single zijn & Bella DePaulo
+└── archive-ruwe-notities/                       # Opgeschoonde bronnotities met verwijzingen naar verwerking
+    ├── eerste-ideeen.md                         # Verwerkte podcast- en community-invalshoeken
+    └── tweede-ideeen.md                         # Verwerkte invalshoek over single zijn; claims ter verificatie
 ```
 
 ---
@@ -71,3 +72,4 @@ kinky-kerst-eenzaamheid/
 - [Idee 02: Community & Chosen Family](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-02-community-en-chosen-family.md)
 - [Idee 03: Psychologie, Kink, Hechting & Zwart Gat](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md)
 - [Idee 04: Persoonlijke Reflectie & Organische Spinoffs](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-04-persoonlijke-reflectie-en-spinoff.md)
+- [Idee 05: Single zijn & een verbonden leven](ideeen/idee-05-single-zijn-en-een-verbonden-leven.md)
