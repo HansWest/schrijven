@@ -29,6 +29,7 @@ schrijven/
 ├── over-adhd/                             # ADHD/ADD, aandacht & dagelijks functioneren
 ├── over-autisme/                          # ASS, masking & online sessies voor neurodiversiteit
 ├── over-bdsm/                             # BDSM & Kink theorieën (Gateau-model, Techniek/Betekenis)
+├── cube-of-consent/                       # Het 4D Cube of Consent-model & afstemmingsdiagnostiek
 ├── over-trauma/                           # Jeugdtrauma, het zwarte gat & kikkers en veren
 ├── over-angst/                            # Angst, beschermingsreacties & praktische handvatten
 ├── over-emoties/                          # Emoties, praktische handvatten & overlevingsmechanismen

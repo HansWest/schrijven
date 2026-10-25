@@ -72,6 +72,7 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
   - Wat is onze intentie voor deze scène?
 * **Het Gouden Principe:**  
   > **Here-and-Now consent is dynamisch en moet elke keer opnieuw worden getoetst.** *"We doen dit altijd"* is nooit een automatische toestemming voor vanavond.
+* **Verdieping:** Zie voor de concrete afstemmingsdiagnostiek van deze laag het [Cube of Consent Model](../cube-of-consent/het-cube-of-consent-model.md), dat de 4 assen (Actievector, Lichaam, Drijfveer en Betekenis) ontleedt.
 
 ---
 

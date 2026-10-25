@@ -5,6 +5,7 @@ Deze map bevat zelfstandige, kansrijke invalshoeken voor toekomstige artikelen d
 ## Aanzetten
 
 - [Oldskool BDSM: wat willen we bewaren?](oldskool-bdsm-waarden-en-gebruiken.md) — inhoudelijke opzet voor een artikel en presentatie over hanky code, waarden, rituelen, contracten en ceremonieën, met historische claims expliciet ter verificatie.
+- [De valkuil van troebele wederkerigheid](de-valkuil-van-troebele-wederkerigheid.md) — waarom “we willen dit allebei” consent kan ondermijnen en hoe het 4D Cube of Consent-model (Driver vs. Meaning) verkapte druk en frictie oplost.
 
 ## Werkwijze
 

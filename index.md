@@ -98,7 +98,11 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**01: Het Gateau-Model (Vier Relatielagen)**](over-bdsm/01-het-gateau-model-relatielagen.md)
 *   [**02: De Techniek-Betekenis Splitsing (Technique-Meaning Split)**](over-bdsm/02-techniek-versus-betekenis.md)
 *   [**03: Neurochemie, Drop & Aftercare**](over-bdsm/03-neurochemie-drop-en-aftercare.md)
+*   [**04: Dominantie Hoeft Niets te Bewijzen**](over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md)
+*   [**05: De Zes Kernfantasieën & Strategische Partnerinzichten**](over-bdsm/05-de-zes-kernfantasieen.md)
+*   [**06: Deconstructie van BDSM: Acroniem, Polariteit & Het Speelveld**](over-bdsm/06-deconstructie-van-bdsm-en-het-speelveld.md)
 *   [**Cube of Consent (Overzicht)**](cube-of-consent/README.md)
+    *   [**Het Cube of Consent Model (Assen, 48 Posities & Diagnostiek)**](cube-of-consent/het-cube-of-consent-model.md)
     *   [**Consent is een gesprek**](cube-of-consent/consent-is-een-gesprek.md)
     *   [**Relatiestatus, intenties & informed consent**](cube-of-consent/relatie-status.md)
 
@@ -146,6 +150,14 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Meantime Protocollen**](https://github.com/HansWest/meantime-stuf)
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
 *   [**Asian Content**](https://github.com/HansWest/asian-content)
+
+---
+
+## 💡 Artikel-aanzetten (In Ontwikkeling)
+*Inhoudelijke aanzetten en centrale vraagstukken voor toekomstige artikelen.*
+*   [**Overzicht Artikel-aanzetten**](artikel-aanzetten/README.md)
+    *   [Oldskool BDSM: wat willen we bewaren?](artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md)
+    *   [De valkuil van troebele wederkerigheid](artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md)
 
 ---
 
