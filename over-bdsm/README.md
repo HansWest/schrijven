@@ -36,6 +36,12 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 6. [**06: Deconstructie van BDSM: Acroniem, Polariteit & Het Speelveld**](06-deconstructie-van-bdsm-en-het-speelveld.md)  
    *De ontleding van B&D, D/s en S&M, dubbele betekenissen (seksueel vs spiritueel, bondage vs relatieband), consent en polariteit als erotische motor, de mythe van een 'scene-hiërarchie' en het psychologische cadeau van pijn.*
 
+7. [**07: Subspace versus Freeze (Flow vs. Traumareactie)**](07-subspace-versus-freeze.md)  
+   *Het polyvagale onderscheid tussen flow/endorfineroes (ventraal vagaal) en traumatische dissociatie/freeze (dorsaal vagaal), de 3-stappentest op de vloer en directe interventies.*
+
+8. [**08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's**](08-bdsm-als-cocreatie-de-twee-driehoeken.md)  
+   *Oldskool BDSM-waarden: Overgave & Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Ambacht), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn) en RACK bij trauma-gerelateerd spelen.*
+
 
 ---
 

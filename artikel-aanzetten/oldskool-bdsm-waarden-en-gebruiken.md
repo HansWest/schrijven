@@ -43,6 +43,10 @@ De code was geen universele kleurtaal en geen consent. Ook toen was navragen bel
 
 Bespreek eer en respect niet als blinde gehoorzaamheid, status of bescherming van gevestigde namen. Maak ze concreet: afspraken nakomen, eerlijk zijn over ervaring en risico, iemands “nee” respecteren, fouten erkennen, geen vertrouwelijke informatie verspreiden en verantwoordelijkheid nemen als er schade is.
 
+Binnen de ethiek van oldskool BDSM vertaalt dit zich naar **de Twee O's** (zie ook [08: BDSM als Co-Creatie](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)):
+- **Overgave van de sub:** Geen willoze capitulatie, maar de actieve, moedige keuze om controle uit handen te geven vanuit vertrouwen en autonomie.
+- **Ontferming van de Dom:** Actieve zorg en bescherming voor de in het spel gecreëerde kwetsbaarheid (*splagchnizomai* — diep bewogen zorg die leidt tot daden).
+
 Vraag ook: wie bepaalt de gedragscode, wie kan iemand erop aanspreken en hoe wordt voorkomen dat “respect” kritiek of grensstelling onmogelijk maakt?
 
 ### 4. Routines, rituelen en protocol
@@ -121,7 +125,7 @@ Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeve
 - [The Leather Archives & Museum](https://leatherarchives.org/about/) — archief en onderzoekscollectie voor leather-, BDSM- en kinkgeschiedenis; raadpleeg archiefmateriaal en vraag zo nodig de archivaris om relevante bronnen.
 - [A subculture with a paper trail — BDSM History](https://bdsm-history.com/) — secundaire historische website met een gedocumenteerde tijdlijn. De pagina over [naoorlogse leather-scènes](https://bdsm-history.com/eras/postwar) waarschuwt dat “Old Guard” en bijbehorende protocollen soms later op het verleden zijn geprojecteerd. Verifieer belangrijke beweringen in boeken, periodieken en archieven vóór publicatie.
 - [SSC and RACK — BDSM History](https://bdsm-history.com/topics/ssc-and-rack) — secundaire bespreking van de ontstaanscontext van consent-acroniemen; behandel de daarin genoemde data en interpretaties als te controleren claims.
-- [Kennisbank BDSM & Kink](../over-bdsm/README.md) en [Dominantie hoeft niets te bewijzen](../over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) — bestaande interne kaders over betekenisvolle protocollen en machtsdynamiek.
+- [Kennisbank BDSM & Kink](../over-bdsm/README.md), [04: Dominantie hoeft niets te bewijzen](../over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) en [08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — theorie over betekenisvolle protocollen, actieve overgave en ontferming.
 - [Cube of Consent](../cube-of-consent/README.md) — intern kader voor consent als doorlopende afstemming.
 
 ### Te verifiëren vóór een definitief artikel
