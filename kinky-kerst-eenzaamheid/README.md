@@ -9,6 +9,7 @@ Welkom in het centrale projectdossier rond het doorbreken van eenzaamheid onder 
 ```
 kinky-kerst-eenzaamheid/
 ├── README.md                                    # Dit centrale overzicht
+├── kinkykerst-2025.md                           # Oude podcastideeën voor 2025
 │
 ├── docs/                                        # SINGLE SOURCE OF TRUTH (SSOT)
 │   ├── 01-visie-en-filosofie-eenzaamheid.md    # Analyse van kinky eenzaamheid, kerstkramp & amatonormativiteit
@@ -30,7 +31,6 @@ kinky-kerst-eenzaamheid/
 │
 └── archive-ruwe-notities/                       # OORSPRONKELIJKE RUWE NOTITIES
     ├── eerste-ideeen.md                         # Originele brainstorm
-    ├── oude-ideeen.md                          # Conceptnotities en gasten
     └── tweede-ideeen.md                         # Notities over single zijn & Bella DePaulo
 ```
 

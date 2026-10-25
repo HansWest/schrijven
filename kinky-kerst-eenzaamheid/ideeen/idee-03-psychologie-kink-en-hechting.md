@@ -23,11 +23,11 @@ In populaire psychologie wordt hechting vaak voorgesteld als een onwrikbaar stem
 - **Aanleerbaar later in het leven:** Reactiepatronen kunnen ook op volwassen leeftijd ontstaan of ingrijpend verschuiven. Een relationeel trauma (een vechtscheiding, diepgaand verraad of een narcistische partner) kan iemand die relatief veilig gehecht was plotseling in een zwaar wantrouwend of angstig reactiepatroon duwen. Omgekeerd kan langdurig contact met een stabiele, emotioneel volwassen partner of een helende gemeenschap leiden tot wat de hechtingsliteratuur noemt: ***earned security*** (verworven veiligheid).
 
 ### B. Relationele Specificiteit: De Dans Tussen Twee Zenuwstelsels
-Hechting bestaat niet in een vacuüm; het ontstaat in de *tussenruimte* tussen twee mensen:
+Hechting bestaat niet in een vacuüm; het ontstaat in de *tussenruimte* tussen twee mensen en verschillende mensen maken verschillende tussenruimten. Bijvoorbeeld:
 - **Partner A triggert iets anders dan Partner B:** 
-  - Bij partner A (die onvoorspelbaar warm en koud blaast) kan jouw alarmsysteem razendsnel oververhit raken: je gaat controleren, analyseren, klampt aan of raakt in paniek.
-  - Bij partner B (die juist emotioneel rustig, consistent en niet-veroordelend aanwezig is) blijft je hersenstam kalm, waardoor je zachte, onderzoekende en autonome kanten de ruimte krijgen.
-  - Bij partner C (die overmatig claimend of grenzeloos is) kan er opeens een felle vermijdingsreactie ontstaan waarbij je direct de behoefte voelt om te vluchten.
+  - Bij een partner A (die onvoorspelbaar warm en koud blaast) kan jouw alarmsysteem razendsnel oververhit raken: je gaat controleren, analyseren, klampt aan of raakt in paniek.
+  - Bij een partner B (die juist emotioneel rustig, consistent en niet-veroordelend aanwezig is) blijft je hersenstam kalm, waardoor je zachte, onderzoekende en autonome kanten de ruimte krijgen.
+  - Bij een partner C (die overmatig claimend of grenzeloos is) kan er opeens een felle vermijdingsreactie ontstaan waarbij je direct de behoefte voelt om te vluchten.
 - **Overlap en het Basisfundament:** Uiteraard neem je je eigen rugzak en gevoeligheden mee (je primaire kwetsbaarheden overlappen in al je relaties). Maar welke knoppen daadwerkelijk worden ingedrukt — en hoe heftig de kettingreactie is — hangt af van de specifieke match en de chemie van de twee zenuwstelsels.
 
 ---
@@ -89,7 +89,7 @@ Als rond Kerst de stilte valt, een playpartner afhaakt of de eenzaamheid toeslaa
   - *Somatisch:* Acute fysieke uitschakeling: geen honger meer hebben (spijsvertering valt stil), en somatische lediging zoals angstige diarree (evolutionair: ballast lozen om lichter te zijn, of juist fysiek onaantrekkelijk en oneetbaar worden voor het roofdier).
 
 **De Interventie bij Acute Activatie:**  
-Onderbreek direct elke communicatie naar buiten. Ga niet appen, onderhandelen of daten vanuit een overprikkelde of gecollaboreerde hersenstam. Eerst somatisch ontladen en stabiliseren (koude plens water, verzwaarde deken, warme soep, verlengde uitademing).
+Onderbreek direct elke communicatie naar buiten. Ga niet appen, onderhandelen of daten vanuit een overprikkelde of gecollaboreerde hersenstam. Eerst somatisch ontladen en stabiliseren (koude plens water, verzwaarde deken, warme soep, ademoefeningen met verlengde uitademing).
 
 ### Stap 3: De 'Kikker-Check' vóór de Feestdagen
 - Vraag jezelf bij elk gepland contact rond kerst (familie, exen, vage dates): *"Verwacht ik hier stiekem veren van een kikker?"*
