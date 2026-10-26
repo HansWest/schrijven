@@ -2,7 +2,7 @@
 ## Traumareacties, het Tweekoppige Brein en de Manieren van Herinneren
 
 > **Kennisbank Trauma — Hoofddocument**  
-> *Waarom trauma niet de heftigheid van een gebeurtenis is, maar het onvermogen om haar te integreren; de taxonomie van 7 manieren van herinneren gekoppeld aan overlevingsreacties (Fight, Flight, Freeze, Fawn, Flop), de falende tijdstempel van de hippocampus, en de weg naar somatische integratie.*
+> *Waarom trauma niet de heftigheid van een gebeurtenis is, maar het onvermogen om haar te integreren; de taxonomie van 7 manieren van herinneren gekoppeld aan de overlevingsreacties van het zenuwstelsel (de F-reacties: Frenzy, Flight, Fight, Freeze, Fawn, Feign Death), de falende tijdstempel van de hippocampus, en de weg naar somatische integratie.*
 
 ---
 
@@ -118,13 +118,15 @@ Het idee dat een 'herinnering' altijd een samenhangend verhaaltje in je hoofd is
 
 Elke overlevingsreactie van het autonome zenuwstelsel kent zijn eigen karakteristieke geheugenmodus. De manier waarop een trauma zich in jou aandient, verraadt direct **welke overlevingsreflex destijds geactiveerd werd**:
 
-| Traumareactie | Autonome Toestand | Primaire Geheugenmodus | Somatische Expressie in het Heden | Typische Cognitieve / Relationele Manifestatie |
+| Traumareactie (De F's) | Autonome Toestand | Primaire Geheugenmodus | Somatische Expressie in het Heden | Typische Cognitieve / Relationele Manifestatie |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fight** (Vechten) | Sympathische hyperarousal (Adrenaline / Noradrenaline) | **Somatisch-Motorisch & Re-enactment** | Geklemde kaken, vuisten ballen, spanning in nek en schouders, plotselinge explosieve woede | Wantrouwen, controledrang, relationele strijd aangaan: *"Iedereen wil over me heen lopen; ik moet als eerste slaan."* |
-| **Flight** (Vluchten) | Sympathische hyperarousal (Mobilisatie) | **Somatisch-Procedureel & Intellectualisering** | Rusteloze benen, oppervlakkige borstademhaling, onvermogen om stil te zitten, hartkloppingen | Werkverslaving, rationaliseren, relaties abrupt ontvluchten: *"Als ik maar hard genoeg ren en denk, kan niemand me raken."* |
-| **Freeze** (Bevriezen) | Gelijktijdige Sympathische + Dorsale activatie (Gaspedaal én rem vol ingetrapt) | **Sensorische Flashbacks & Emotionele Flashbacks** | Apneu (adem inhouden), ijskoude handen/voeten, spierverstijving, plotselinge verlammende angst | Hypervigilantie, sensorische overgevoeligheid (geluiden, geuren), zich onzichtbaar maken: *"Als ik beweeg, ga ik dood."* |
-| **Fawn** (Pleasen / Onderwerpen) | Gemaskeerde sympathische angst achter ventrale mimicry (Appeasement) | **Intellectualiserend Narratief & Re-enactment** | Chronische spierspanning in keel en hals, geforceerd glimlachen, inslikken van woorden | Zelfopoffering, pleasen, [bedelen bij kikkers](hoe-stop-je-met-bedelen-bij-kikkers.md): *"Het ligt aan mij; als ik maar nuttig en lief genoeg ben, word ik niet verlaten."* |
-| **Flop / Feign Death** (Instorten / Schijndood) | Pure dorsale vagale shutdown (Bradycardie, hypotensie, endorfines) | **Dissociatieve Amnesie & Somatische Verdoving** | Spierverslapping (atonie), flauwvallen, gevoelloosheid, extreme apathie en zwaarte | Witte vlekken in de biografie, 'uitchecken', leegte, apathische depressie: *"Er is niets gebeurd / Het maakt toch allemaal niets uit."* |
+| **Frenzy** (Koortsachtige Fixatie & Craving) | Acute sympathische dopamine- en adrenaline-craving (gekaapte SEEKING) | **Obsessieve Ruminatie & Craving-Re-enactment** | Gejaagdheid in vingers/handen, tunnelvisie, verhoogde hartslag, innerlijke brandende rusteloosheid | Dwangmatig contact forceren, obsessief checken en refreshen, hechtingspaniek: *"Als ik nú geen respons krijg, ga ik kapot."* |
+| **Flight** (Vluchten — Naar Buiten of Binnen) | Sympathische hyperarousal (Mobilisatie / Vermijding) | **Somatisch-Procedureel & Intellectualisering** | Rusteloze benen, oppervlakkige borstademhaling, onvermogen om stil te zitten, hartkloppingen | Werkverslaving, rationaliseren, relaties abrupt ontvluchten: *"Als ik maar hard genoeg ren en denk, kan niemand me raken."* |
+| **Flock** (Kudde Zoeken / Zwermen) | Sociale paniek & sympathische hechtingsnood | **Externe Bevestigings-Re-enactment & Afleiding** | Spreekdrang, niet alleen kunnen zijn, gejaagde fysieke onrust die pas zakt bij een ander | In paniek vrienden rondbellen, apps openen om vreemden te ontmoeten ter afleiding van de leegte ("honger naar getuigenis"). |
+| **Fight** (Vechten — De Kat op de Kast) | Sympathische hyperarousal (Defensieve Agressie) | **Somatisch-Motorisch & Relationele Strijd** | Geklemde kaken, vuisten ballen, spanning in nek en schouders, plotselinge explosieve woede | Wantrouwen, controledrang, relationele strijd aangaan: *"Iedereen wil over me heen lopen; ik moet als eerste slaan."* |
+| **Freeze** (Bevriezen — Schutkleuren) | Gelijktijdige Sympathische + Dorsale activatie (Gaspedaal én rem vol ingetrapt) | **Sensorische Flashbacks & Emotionele Flashbacks** | Apneu (adem inhouden), ijskoude handen/voeten, spierverstijving, plotselinge verlammende angst | Hypervigilantie, sensorische overgevoeligheid (geluiden, geuren), zich onzichtbaar maken: *"Als ik beweeg, ga ik dood."* |
+| **Fawn** (Pleasen — Sociale Schutkleur) | Gemaskeerde sympathische angst achter ventrale mimicry (Appeasement) | **Intellectualiserend Narratief & Relationele Re-enactment** | Chronische spierspanning in keel en hals, geforceerd glimlachen, inslikken van woorden | Zelfopoffering, pleasen, [bedelen bij kikkers](hoe-stop-je-met-bedelen-bij-kikkers.md): *"Het ligt aan mij; als ik maar nuttig en lief genoeg ben, word ik niet verlaten."* |
+| **Feign Death** (Schijndood & Hopeloosheids-Collaps) | Pure dorsale vagale shutdown (Bradycardie, hypotensie, endorfines) | **Dissociatieve Amnesie & Somatische Verdoving ("Witte Vlekken")** | Spierverslapping (atonie), flauwvallen, gevoelloosheid (analgesie), extreme apathie en zwaarte | Witte vlekken in de biografie, 'uitchecken', leegte, apathische depressie: *"Er is niets gebeurd / Het maakt toch allemaal niets uit."* |
 
 ---
 
@@ -185,7 +187,7 @@ Dat een ingrijpende gebeurtenis niet kon worden verwerkt en vastliep in een van 
 ### 1. Het Ontbreken van een 'Briefing Vooraf'
 Het Ik (de neocortex) is een predictiemachine: het heeft kaders nodig om schokken fysiologisch te kunnen plaatsen.
 - Als een kind of volwassene vooraf weet: *"Dit gaat spannend worden of pijn doen, maar dit is waarom we het doen, zó lang duurt het, en we stoppen zodra jij rood aangeeft"*, kan het zenuwstelsel zich schrap zetten en een psychologische 'container' vormen.
-- Bij acute overrompeling, chaos, bedrog of geweld ontbreekt elk kader. Het zenuwstelsel kan geen enkele gerichte overlevingsactie plannen en wordt overspoeld, met een tonische freeze of dorsale shutdown (flop) tot gevolg.
+- Bij acute overrompeling, chaos, bedrog of geweld ontbreekt elk kader. Het zenuwstelsel kan geen enkele gerichte overlevingsactie plannen en wordt overspoeld, met een tonische freeze of dorsale shutdown (Feign Death / schijndood) tot gevolg.
 
 ### 2. Het Ontbreken van een 'Emotionele Respons Achteraf'
 Dit is evolutionair en fysiologisch **dé doorslaggevende factor** die bepaalt of pijn een herinnering wordt of een trauma blijft:
