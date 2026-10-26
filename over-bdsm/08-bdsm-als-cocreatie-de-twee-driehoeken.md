@@ -101,9 +101,12 @@ Waar bij de Dom de lust het gaspedaal is, is bij de sub het **authentieke innerl
 Zoals auteur Dossie Easton stelt:  
 > *"Je kunt alleen werkelijk 'ja' zeggen als je de volledige vrijheid en verantwoordelijkheid hebt om 'nee' te zeggen."*
 
-- De sub is geen kind dat gered moet worden, maar een autonome volwassene die verantwoordelijk is voor het onderzoeken en communiceren van eigen grenzen (zowel harde als zachte grenzen).
-- Dit behelst het kennen van de eigen emotionele mijnenvelden, het actief en tijdig hanteren van safewords, en het eerlijk uiten van behoeften rondom nazorg (*aftercare*).
-- Zonder autonomie is overgave geen gift, maar onderwerping onder dwang.
+- De sub is geen willoos kind dat gered moet worden, maar een autonome volwassene met een diepe verantwoordelijkheid voor **somatische en cognitieve zelfkennis**:
+  - **Weten wat het Zelf aankan:** Eerlijk zijn over de actuele belastbaarheid en draagkracht van je zenuwstelsel, los van de wens van het ego om 'de perfecte sub' te zijn.
+  - **Weten wanneer je eerder moet vertrekken of begrenzen:** De vroege fysieke micro-signalen in de archicortex/paleocortex herkennen en tijdig safewords hanteren ("oranje" of "rood") *vóórdat* het spraakcentrum blokkeert en het zenuwstelsel in freeze schiet.
+  - **Weten welke hulp en ontferming je kunt toestaan:** De neocorticale pantsering (*"ik moet sterk zijn en alles doorstaan"*) durven laten zakken en de zorg, aftercare en co-regulatie van de Dom daadwerkelijk toelaten.
+  - **Weten wat het SEEKING-systeem voedt:** Het onderzoeken van authentieke erotische verlangens versus pleasen om goedkeuring te verdienen.
+- Zonder deze zelfkennis en autonomie is overgave geen gift, maar destructieve onderwerping of over-adaptatie (*fawning*).
 
 ### 3. Lichaamsbewustzijn & Terugkoppeling: Het Instrument (analoog aan Techniek)
 Waar de Dom het materiaal hanteert, is **het lichaam en het zenuwstelsel van de sub het instrument** waarop gespeeld wordt:

@@ -50,9 +50,19 @@ Hechting is geen monoloog, maar een duet tussen twee zenuwstelsels. Wat er in jo
 
 ---
 
-## 4. De Weg naar Verandering: Herbedrading
+## 4. De Weg naar Verandering: Zelfkennis en Herbedrading
 
-Als hechtingspatronen reacties zijn en geen identiteiten, betekent dit dat ze veranderd kunnen worden:
-1. **Van oordeel naar observatie:** Vervang *"Waarom doe ik weer zo hysterisch/koud?"* door: *"Mijn zenuwstelsel reageert op een specifiek signaal van afstand of nabijheid."*
-2. **Somatische de-escalatie vóór interactie:** Los hechtingspaniek nooit op via een appje of gesprek zolang je hartslag piekt. Breng eerst het lichaam tot rust.
-3. **Corrigerende ervaringen toelaten:** Oefen met micro-kwetsbaarheid in veilige contacten en laat je lichaam voelen dat openheid niet tot de ondergang leidt.
+Als hechtingspatronen dynamische reacties zijn en geen rigide identiteiten, betekent dit dat ze fundamenteel getransformeerd kunnen worden:
+
+1. **Van oordeel naar observatie (Het Zelf vs. Het Ik):**  
+   Vervang *"Waarom doe ik weer zo hysterisch of koud?"* door nieuwsgierige zelfkennis: *"Mijn Zelf (archicortex/paleocortex) reageert met PANIC of FEAR op een signaal van afstand of nabijheid, en mijn Ik construeert daar direct een doemscenario omheen."*
+2. **De Vier Vragen van Zelfkennis:**  
+   Verworven veiligheid (*earned security*) ontstaat wanneer het Ik leert navigeren op basis van de werkelijke fysiologische realiteit van het Zelf:
+   - **Wat kan mijn Zelf werkelijk aan?** Eerlijkheid over de huidige somatische capaciteit van je zenuwstelsel, zonder pleasen of forceren.
+   - **Waar en wanneer moet ik eerder vertrekken?** Weten waar je verzadigingspunt ligt en situaties tijdig verlaten of begrenzen, vóórdat het paleobrein de neocortex uitschakelt.
+   - **Welke hulp kan en durf ik toe te staan?** De neocorticale rem (*"ik moet het alleen doen"*) laten zakken bij veilige partners om echte co-regulatie binnen te laten.
+   - **Wat voedt mijn SEEKING?** Weten welke ontmoetingen en contexten de levenslust en nieuwsgierigheid in het Zelf aanwakkeren.
+3. **Somatische de-escalatie vóór interactie:**  
+   Los hechtingspaniek nooit op via een appje of gesprek zolang je hartslag piekt. Breng eerst het lichaam en de hersenstam tot rust.
+4. **Corrigerende ervaringen toelaten:**  
+   Oefen met micro-kwetsbaarheid in veilige contacten en laat je zenuwstelsel lijfelijk ervaren dat nabijheid niet tot vernietiging leidt.

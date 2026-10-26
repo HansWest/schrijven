@@ -17,6 +17,10 @@ Na verloop van tijd verdwijnt de erotische lading uit dit ritueel:
 - **Sleur is géén gebrek aan liefde:** Partners houden zielsveel van elkaar, maar het **SEEKING-systeem** (het erotische nieuwsgierigheidsbrein) valt volledig stil door een teveel aan voorspelbaarheid.
 
 ### Hoe Kink-Aware Principes Sleur Structureel Doorbreken
+Vanuit het [Tweelagenmodel](01-het-tweelagenmodel-in-relatiedynamieken.md) is seksuele sleur een scheefgroei tussen het Ik en het Zelf:
+- **Het Ik (Neocortex):** Managet de relatie functioneel en logistiek, maar over-inhibeert het lichaam met routine en verwachtingen.
+- **Het Zelf (Archicortex/Paleocortex):** Staat affectief en erotisch op de waakvlam; het dopaminerge **SEEKING-systeem** is uitgedoofd.
+
 Binnen kink-dynamieken bestaat zoiets als "automatische seks" vrijwel niet. Een sessie vereist per definitie een bewust ontworpen kader:
 - Wie neemt welke rol aan? Wat is de context? Wat is onze intentie vandaag?
 - Door seks niet te zien als een verplicht biologisch eindstation, maar als een **canvas waarop je scènes en rollen ontwerpt**, verdwijnt de sleur.
@@ -24,17 +28,17 @@ Binnen kink-dynamieken bestaat zoiets als "automatische seks" vrijwel niet. Een 
 
 ---
 
-## 2. De 4 Stappen van de Way-Out (Herstel uit Seksuele Burnout)
+## 2. De 4 Stappen van de Way-Out: Zelfkennis en Herstel
 
-Om uit de seksuele burnout of apathie te geraken, doorloopt het koppel vier opeenvolgende stappen:
+Om uit de seksuele burnout of apathie te geraken, doorloopt het koppel vier opeenvolgende stappen die rusten op **zelfkennis** (weten wat je Zelf aankan, wanneer je moet begrenzen, en welke bedding hulp en ontspanning biedt):
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                 DE 4 STAPPEN VAN DE WAY-OUT                 │
 ├─────────────────────────────────────────────────────────────┤
-│ 1. LUISTEREN NAAR JEZELF                                    │
-│    • Lichaamsbewustzijn hervinden: wat voel ik écht?        │
-│    • Erkenning van emoties, grenzen en latente verlangens.  │
+│ 1. LUISTEREN NAAR JE ZELF (Zelfkennis & Interoceptie)       │
+│    • Lichaamsbewustzijn hervinden: wat voelt mijn Zelf?     │
+│    • Weten wat je aankunt en wanneer je moet begrenzen.     │
 ├─────────────────────────────────────────────────────────────┤
 │ 2. OVERGAVE & ONTKOPPELING                                  │
 │    • Doelgerichtheid en vaste scripts definitief loslaten.  │
@@ -46,11 +50,11 @@ Om uit de seksuele burnout of apathie te geraken, doorloopt het koppel vier opee
 ├─────────────────────────────────────────────────────────────┤
 │ 4. HERVINDEN VAN HARTSTOCHT                                 │
 │    • Intimiteit ontkoppelen van penetratie of orgasmedwang. │
-│    • "Intimitijd" plannen zonder prestatie-eis.             │
+│    • Het SEEKING-systeem heractiveren via speelse polariteit│
 └─────────────────────────────────────────────────────────────┘
 ```
 
-1. **Luisteren naar jezelf:** Terugkeren naar het lichaam. Wat voel ik als ik word aangeraakt? Voel ik werkelijke opwinding, of een plichtmatige reflex? Grenzen en behoeften durven erkennen vóórdat je ze deelt.
+1. **Luisteren naar je Zelf (Zelfkennis):** Terugkeren naar het lichaam. Wat voel ik als ik word aangeraakt? Voel ik werkelijke opwinding, of een plichtmatige reflex? Weten wat je somatisch aankan en welke grenzen nodig zijn. Eerlijkheid over wat je Zelf voelt vóórdat het Ik een wensverhaal construeert.
 2. **Overgave:** Het opgeven van de controle over de uitkomst. Niet meer sturen op *"we moeten klaarkomen"* of *"we moeten seks hebben"*. Overgave aan het moment nodigt bij de partner natuurlijke ontferming en zorg uit (zie [08: BDSM als Co-Creatie](../../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)).
 3. **Co-creatie van de dynamiek:** Samen ontwerpen wat er gebeurt. Nieuwsgierigheid vervangt verwijt. Stopwoorden en check-ins installeren als fundament van rust.
 4. **Hartstocht:** Het erotische vuur herontdekken door penetratie en orgasmedrang tijdelijk uit te sluiten. Spelen met aanraking, spanning, afstand en nabijheid.

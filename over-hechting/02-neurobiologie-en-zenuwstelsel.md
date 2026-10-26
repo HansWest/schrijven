@@ -5,11 +5,14 @@
 
 ---
 
-## 1. De Hersenstam & Het Overlevingsbrein
+## 1. De Hersenstam & Het Overlevingsbrein (Het Zelf)
 
-Hechtingsreacties zijn evolutionair veel ouder dan ons rationele denkvermogen. Voor een pasgeboren zoogdier betekent verlating door de moeder letterlijk de dood. De **hersenstam** registreert relationele afstand of afwijzing dan ook niet als een sociaal ongemak, maar als een acute bedreiging van het biologische voortbestaan.
+Hechtingsreacties zijn evolutionair veel ouder dan ons rationele denkvermogen. Voor een pasgeboren zoogdier betekent verlating door de moeder letterlijk de dood. De **hersenstam en de archicortex/paleocortex (het Zelf)** registreren relationele afstand of afwijzing dan ook niet als een sociaal ongemak, maar als een acute bedreiging van het biologische voortbestaan.
 
-Wanneer er in een relatie stilte, afwijzing of onvoorspelbaarheid ontstaat, scant de hersenstam dit via **neuroceptie** (de onbewuste detectie van gevaar zonder tussenkomst van het denkbrein). Binnen een fractie van een seconde neemt het reptielenbrein de leiding over van de neocortex.
+Wanneer er in een relatie stilte, afwijzing of onvoorspelbaarheid ontstaat, scant het paleobrein dit via **neuroceptie** (de onbewuste detectie van gevaar zonder tussenkomst van het denkbrein). 
+
+> **De Wisselwerking tussen Zelf en Ik:**  
+> Het **Zelf** (subcortex en paleobrein) vuurt de rauwe actietendensen af (de 7 F's hieronder). Het **Ik** (de neocortex) fungeert niet als de motor, maar als de **wereldmodel-simulator** (die de situatie interpreteert en soms catastrofeert) en de **inhibitor** (die de oerdriften probeert af te remmen of weg te drukken). Het Zelf reageert fysiologisch even heftig op het rampscenario dat het Ik simuleert als op een reële fysieke dreiging.
 
 ---
 
@@ -66,7 +69,11 @@ Mensen zijn sociale zoogdieren. Ons zenuwstelsel is ontworpen om gereguleerd te 
 
 ---
 
-## 5. De Betekenis voor Coaching en Relatiewerk
+## 5. De Betekenis voor Coaching en Zelfkennis
 
-1. **Praten helpt niet in de alarmfase:** Wanneer een coachee of partner in Fight of Flight zit, is redeneren zinloos. Eerst moet het lichaam zakken naar de veilige ventrale vagus.
+1. **Praten helpt niet in de alarmfase:** Wanneer een coachee of partner in Fight of Flight zit, is redeneren zinloos. De neocortex is fysiologisch ontkoppeld. Eerst moet het lichaam zakken naar de veilige ventrale vagus.
 2. **Begrijp de logica van de reflex:** Geen enkele hechtingsreactie is "fout" of "gek"; het is een zenuwstelsel dat wanhopig probeert te overleven. Door die reflex met mildheid te begroeten in plaats van met schaamte, ontstaat er ruimte voor herstel (*repair*).
+3. **Zelfkennis als relationeel anker:** Volwassen soevereiniteit ontstaat wanneer het Ik leert begrijpen welke F-reactie het Zelf triggert bij welk wereldbeeld:
+   - *Weten wat je zenuwstelsel aankan* (fysiologische belastbaarheid).
+   - *Weten wanneer je eerder moet vertrekken of begrenzen* (vóórdat de F-reactie de neocortex kaapt).
+   - *Weten welke veilige co-regulatie je durft toe te laten* (troost binnenlaten zonder te over-inhiberen).

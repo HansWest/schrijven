@@ -47,26 +47,27 @@ Spieren hebben ook ontspanning nodig. Wie continu aanspant, raakt moe en trekt v
 - Wie draagt het meeste regelwerk, initiatief of herstelwerk?
 - Welke vaardigheid kunnen we samen oefenen?
 
-### Zenuwstelsel: voelen, merken en bijsturen
+### Zenuwstelsel: voelen, merken en bijsturen (Het Zelf)
 
-Het zenuwstelsel zorgt voor sensitiviteit: je merkt de omgeving, voelt obstakels aankomen en stuurt bij voordat je ertegenaan loopt. In een relatie is dat het vermogen om te merken wat er bij jezelf, bij de ander en tussen jullie gebeurt.
+Het zenuwstelsel zorgt voor sensitiviteit: je merkt de omgeving, voelt obstakels aankomen en stuurt bij voordat je ertegenaan loopt. In de relatie — analoog aan de laag van het **Zelf (archicortex/paleocortex)** in het [Tweelagenmodel](01-het-tweelagenmodel-in-relatiedynamieken.md) — is dat het vermogen om direct somatisch te voelen wat er gebeurt (alarm, verlatingspijn of nieuwsgierig verlangen), los van de verhalen die het hoofd construeert.
 
-Signalen zijn informatie, geen bewijs. Een onrustig gevoel zegt iets over wat iemand ervaart, niet automatisch wie gelijk heeft.
+Signalen zijn informatie, geen bewijs. Een onrustig gevoel in het Zelf zegt iets over fysiologische activering, niet automatisch over wie gelijk heeft.
 
-**Vragen:**
-- Wat merk ik in mijn lijf en gevoel wanneer dit gebeurt?
-- Wat helpt mij om weer overzicht te krijgen?
-- Welke steun kan ik vragen, en wat kan ik zelf doen als de ander er even niet voor kan zijn?
+**Vragen van Zelfkennis:**
+- Wat merkt mijn Zelf in het lichaam wanneer dit gebeurt?
+- Wat kan ons lijf werkelijk aan qua belasting en tempo?
+- Waar moeten we eerder stoppen of vertrekken vóórdat de spanning omslaat in verstarring?
+- Welke steun kan ik vragen en daadwerkelijk toelaten van de ander?
 
 ---
 
-## 3. Als structuur de aandacht overneemt
+## 3. Als structuur de aandacht overneemt (Het Ik verdringt het Zelf)
 
-Structuur is nuttig, maar veel nadruk op structuur kan een signaal zijn. Zoals een lijf dat zich vooral op zijn botten concentreert, mogelijk te weinig soepelheid heeft.
+Structuur is nuttig, maar een krampachtige focus op structuur is een belangrijk diagnostisch signaal:
+- **De dynamiek:** Het **Ik (Neocortex)** probeert met regels, roosters en evaluaties de controle te houden, terwijl het **Zelf** affectief op de waakvlam staat of in paniek is.
+- Soms worden verwijten over regels, afspraken of relatievorm een vervanging voor iets dat lastiger te zeggen is, bijvoorbeeld: *"Ik voel me minder verbonden"*, *"Het is niet meer zo leuk samen"* of *"Ik mis de sprankel (onze SEEKING is doodgeslagen)."* Het gesprek gaat dan over het rooster, de verdeling of de regels, terwijl de onderliggende vraag over de **synergie van twee zenuwstelsels** gaat.
 
-Soms worden verwijten over regels, afspraken of relatievorm een vervanging voor iets dat lastiger te zeggen is, bijvoorbeeld: *"Ik voel me minder verbonden"*, *"Het is niet meer zo leuk samen"* of *"Ik mis de sprankel."* Het gesprek gaat dan over het rooster, de verdeling of de regels, terwijl de onderliggende vraag over de **synergie** gaat.
-
-Een voorbeeld: partners die eindeloos onderhandelen over de verdeling van tijd en taken, maar bij wie elk gesprek stroef blijft. Misschien is niet het schema het probleem, maar de behoefte aan lichtheid, aandacht of waardering.
+Een voorbeeld: partners die eindeloos onderhandelen over de verdeling van tijd en taken, maar bij wie elk gesprek stroef blijft. Misschien is niet het schema het probleem, maar de behoefte van het Zelf aan veiligheid, ontspanning en speelse verbinding.
 
 Let op: dit is een uitnodiging tot nieuwsgierigheid, geen conclusie. Soms hebben structuren echt aandacht nodig, en dat is gewoon nodig werk. De vraag is of de structuur **dient** of **overheerst**.
 

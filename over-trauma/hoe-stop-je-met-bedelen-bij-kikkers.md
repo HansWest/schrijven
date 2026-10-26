@@ -110,6 +110,20 @@ Je stopt niet met bedelen om vervolgens een verbitterde kluizenaar te worden. Je
 
 ---
 
+## 3. Zelfkennis als Sleutel: Het Zelf en het Ik bij Kikkers
+
+Vanuit het [Tweelagenmodel](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) bezien is bedelen bij kikkers een conflict tussen het **Ik** en het **Zelf**:
+- **Het Ik (Neocortex):** Construeert hardnekkig een wereldbeeld waarin de kikker *ooit* zal veranderen (de genezingsfantasie) en dwingt tot over-inhibitie of wanhopige pogingen om het goed te maken.
+- **Het Zelf (Archicortex/Paleocortex):** Krijgt keer op keer een fysiologische dreun te verwerken (`PANIC` en afwijzing) wanneer de kikker kil reageert.
+
+Stoppen met bedelen vraagt om de vier pijlers van somatische **zelfkennis**:
+1. **Weten wat mijn Zelf aankan:** Eerlijk erkennen dat mijn zenuwstelsel niet bestand is tegen herhaalde emotionele afwijzing.
+2. **Weten wanneer ik eerder moet vertrekken:** Niet blijven wachten tot de kikker kwaakt, maar de bakkerij fysiek en emotioneel verlaten zodra je merkt dat er geen brood is.
+3. **Weten welke hulp ik toe kan staan:** Geen dons verwachten van kikkers, maar veilige co-regulatie durven toelaten bij betrouwbare Chosen Family.
+4. **Weten wat mijn SEEKING voedt:** Energie weghalen uit hopeloze overlevingsgevechten en investeren in mensen en passies die het Zelf tot leven wekken.
+
+---
+
 ## Samenvatting: Het Dagelijkse Mantra
 
 Wanneer je merkt dat je weer wilt gaan uitleggen, verdedigen of smeken om empathie, adem dan diep uit en zeg in jezelf:

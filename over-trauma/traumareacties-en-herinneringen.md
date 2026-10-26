@@ -20,6 +20,19 @@ Als de spanning wat is gezakt, kan een gesprek met een vertrouwde persoon of the
 
 Therapie hoort afgestemd te zijn op de persoon en diens draagkracht. Je hoeft niet alles tegelijk te vertellen of een ervaring volledig opnieuw te beleven. Soms is eerst aandacht nodig voor veiligheid, stabilisatie en steun in het dagelijks leven. Bij dissociatie of sterke ontregeling kan een behandelaar helpen inschatten wat op dat moment passend is; jezelf dwingen om dieper in een herinnering te gaan is niet nodig.
 
+## Zelfkennis als anker bij traumareacties
+
+Vanuit het [Tweelagenmodel](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) is een traumareactie een fysiologische ontkoppeling tussen het **Zelf** en het **Ik**:
+- De **archicortex en paleocortex (het Zelf)** schieten bij een trigger in een acute overlevingsreflex (Fight, Flight, Freeze of Fawn) alsof het gevaar van vroeger nú plaatsvindt.
+- Het **Ik (de neocortex)** maakt daar razendsnel een doemscenario of schaamteverhaal omheen (*"ik ben kapot", "ik ben niet veilig"*), wat de paniek in het paleobrein verder versterkt.
+
+Herstel vraagt niet om hard vechten tegen de herinnering, maar om somatische **zelfkennis**:
+1. **Weten wat je zenuwstelsel aankan:** De actuele belastbaarheid respecteren en jezelf niet forceren om situaties te verdragen die je systeem overweldigen.
+2. **Weten wanneer je eerder moet vertrekken:** Micro-signalen van spanning tijdig serieus nemen en jezelf toestemming geven om weg te gaan of een grens te stellen *vóórdat* de hersenstam de regie volledig overneemt.
+3. **Weten welke hulp je kunt toestaan:** Veilige, voorspelbare co-regulatie durven toelaten (bij een betrouwbare partner of therapeut) en de neocorticale muur van *"ik moet alles alleen oplossen"* geleidelijk laten zakken.
+
+---
+
 ## Schaamte en gevoelens
 
 Mensen kunnen denken: *"Dit zou ik niet moeten voelen"* of zich schamen voor hun reactie. Een gevoel is geen bewijs dat je zwak bent of iets verkeerd hebt gedaan. Het kan helpen te onderzoeken waar de schaamte over gaat, welke boodschap je over jezelf hebt geleerd en wat je nu nodig hebt. Doe dat in een tempo dat hanteerbaar blijft; je hoeft gevoelens niet te forceren om ze serieus te nemen.

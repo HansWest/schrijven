@@ -82,20 +82,38 @@ De toevoeging van de **SEEKING-as** lost het raadsel van de vermijdende hechting
 
 ---
 
-## 4. Laag 2: De Laag van het Ik (Neocortex & Strategische Navigatie)
+## 4. Laag 2: De Laag van het Ik (Neocortex, Wereldmodel & Inhibitie)
 
-Waar het Zelf de affectieve werkelijkheid ondergaat, is **het Ik** de neocorticale 'kapitein' die betekenis verleent, oordeelt en strategieën ontwikkelt om de stormen van het Zelf te overleven.
+Waar het Zelf de affectieve werkelijkheid ondergaat, is **het Ik** niet zozeer de primaire aandrijfmotor van gedrag (die motor zit subcorticaal), maar de evolutionaire **simulator en rem**:
 
-Neurobiologisch zetelt het Ik in de **neocortex** (met name de prefrontale cortex, de temporale taalgebieden en de pariëtale associatieschors). Dit is het jongste evolutionaire deel van het brein, dat pas bij de mens tot volledige ontplooiing is gekomen.
-
-Laag 2 beschrijft wat het Ik **doet** om te navigeren in relaties:
-
-1. **Toenadering vs. Distantie:** Fysiek of emotioneel naar de ander toe bewegen versus afstand creëren.
-2. **Hyperactivatie vs. Deactivatie:**  
-   - *Hyperactivatie:* Hechtingssignalen versterken, vastklampen, controleren, protesteren, bellen, de ander dwingen tot geruststelling.
-   - *Deactivatie:* Hechtingssignalen onderdrukken, emoties wegredeneren, vluchten in werk/sport, jezelf isoleren, kille zelfredzaamheid prediken (*"ik heb niemand nodig"*).
+1. **Het Wereldmodel (Generatieve Simulator):**  
+   Het Ik construeert via *predictive processing* continu een intern wereldbeeld. Het voorspelt wat signalen van anderen betekenen.  
+   *De fatale dynamiek:* De archicortex en paleocortex (het Zelf) maken fysiologisch geen onderscheid tussen de feitelijke buitenwereld en de doemscenario's van het Ik. Als het Ik modelleert: *"Ik word afgewezen"*, reageert het Zelf met acute `PANIC`, alsof er werkelijk een fysiek gevaar heerst.
+2. **De Neocortex als Inhibitor (De Rem):**  
+   Evolutionair is de voornaamste taak van de neocortex ten opzichte van de oerdriften **afdalende inhibitie** (afremmen, selectief filteren en uitstellen):
+   - **Hyperactivatie (Inhibitiefalen):** Het Ik slaagt er niet in de opborrelende `PANIC` te remmen en voedt deze met catastrofale verhalen, wat leidt tot dwangmatig aanklampen, scannen en escaleren.
+   - **Deactivatie (Over-inhibitie):** Het Ik trapt de neocorticale rem permanent en rigide in. Het Zelf wordt emotioneel verstikt, behoeften worden ontkend en het Ik modelleert een wereld waarin *"ik niemand nodig heb"*.
 3. **Flexibiliteit vs. Rigiditeit:**  
-   Kan het Ik soepel schakelen tussen strategieën al naargelang de situatie, of draait er een dwingend, geautomatiseerd programma dat ongevoelig is voor de context?
+   Beschikt het Ik over een soepele rem die situationeel kan doseren, of draait er een rigide reflex die doof is voor de context?
+
+---
+
+## 5. Zelfkennis als Kompas: De Vier Navigatievragen
+
+Het doel van hechtingsgroei en volwassen autonomie is niet dat het Ik krampachtig 'beter gedrag aanstuurt', maar het ontwikkelen van **diepe somatische en cognitieve zelfkennis**:
+
+> **De Definitie van Zelfkennis:**  
+> Weten hoe mijn **Zelf** zal reageren op de wereld zoals die **werkelijk is**, én hoe mijn Zelf reageert op het **wereldbeeld dat mijn Ik ervan construeert**.
+
+Deze zelfkennis beantwoordt vier existentiële vragen voor relationele soevereiniteit:
+1. **Wat kan mijn Zelf werkelijk aan? (Belastbaarheid & Capaciteit):**  
+   Eerlijkheid over de fysiologische draagkracht van je zenuwstelsel, los van wat je Ik vindt dat je aan "moet" kunnen.
+2. **Waar en wanneer moet ik eerder vertrekken? (Zelfbehoud & Vroege Begrenzing):**  
+   Het vermogen om subtiele micro-signalen in de archicortex/paleocortex waar te nemen, zodat je situaties verlaat of begrenst *vóórdat* je neocortex uitvalt en je in Fight/Flight/Freeze/Fawn schiet.
+3. **Welke hulp kan en durf ik toe te staan? (Veilige Co-regulatie):**  
+   Weten wie een betrouwbare bedding biedt, en de neocorticale rem durven laten vieren om troost en steun daadwerkelijk in het Zelf te laten landen.
+4. **Wat wekt mijn SEEKING op? (Voeding vs. Overleving):**  
+   Weten welke bedding en speelsheid het Zelf laten ontspannen, zodat levenslust en nieuwsgierigheid weer kunnen stromen.
 
 ---
 
