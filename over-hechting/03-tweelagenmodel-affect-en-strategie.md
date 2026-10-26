@@ -23,31 +23,43 @@ Zolang fysiologische staten van de hersenstam en gedragsmatige navigatiestrategi
 
 ---
 
-## 2. Het Tweelagenmodel: Weerkaart en Navigatiekaart
+## 2. Het Tweelagenmodel: Weerkaart vs. Navigatie, Zelf vs. Ik, Paleobrein vs. Neocortex
 
-Om deze verwarring op te lossen, visualiseren we hechtingsdynamieken niet als één platte vragenlijst, maar als **twee gestapelde kaarten**:
+Om deze verwarring op te lossen, visualiseren we hechtingsdynamieken niet als één platte vragenlijst, maar als **twee gestapelde lagen** die op drie complementaire niveaus begrepen kunnen worden:
+
+| Dimensie | Laag 1: Het Somatische Fundament | Laag 2: De Strategische Bovenbouw |
+| :--- | :--- | :--- |
+| **Functionele Metafoor** | **De Affectieve Weerkaart** (Voelen / Toestand) | **De Strategische Navigatiekaart** (Doen / Gedrag) |
+| **Psychologisch / Fenomenologisch** | **De Laag van het ZELF** (*The Core Self*)<br>Het organismische, prereflectieve zijn; het levende lijf dat affecten ondergaat zonder woorden. | **De Laag van het IK** (*The Narrative Ego*)<br>Het reflectieve, sturende en oordelende subject dat controle zoekt, betekenis construeert en gedrag aanstuurt. |
+| **Neuro-anatomisch & Evolutionair** | **Archicortex, Paleocortex & Subcortex**<br>Hersenstam, PAG, amygdala, hippocampus en limbische oernetwerken; het zoogdier- en reptielenbrein (fylogenetisch oud). | **Neocortex (Isocortex)**<br>Prefrontale cortex, executieve netwerken, taalcentra (Broca/Wernicke) en cognitieve inhibitie (fylogenetisch jong). |
 
 ```
-┌────────────────────────────────────────────────────────┐
-│   LAAG 2: DE STRATEGISCHE KAART (Neocortex / Doen)     │
-│   • Toenadering vs. Afstand                            │
-│   • Hyperactivatie vs. Deactivatie                     │
-│   • Flexibiliteit vs. Rigiditeit (Contextafhankelijk)  │
-└───────────────────────────▲────────────────────────────┘
-                            │  Koppelingsregels (Automatische Stijl)
-┌───────────────────────────▼────────────────────────────┐
-│   LAAG 1: DE AFFECTIEVE WEERKAART (Hersenstam / Voelen)│
-│   • FEAR (Gevaar/Bedreiging)                           │
-│   • PANIC / GRIEF (Verlatingspijn / Scheidingspaniek)  │
-│   • SEEKING (Nieuwsgierigheid, Exploratie, Verlangen)  │
-└────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  LAAG 2: DE LAAG VAN HET IK (Neocortex / Doen & Betekenis)              │
+│  • Het narratieve subject ("Wie ik denk te zijn en wat ik moet doen")  │
+│  • Toenadering vs. Afstand                                             │
+│  • Hyperactivatie vs. Deactivatie                                      │
+│  • Flexibiliteit vs. Rigiditeit (Contextafhankelijkheid)               │
+└───────────────────────────────────▲────────────────────────────────────┘
+                                    │  Koppelingsregels (Automatische Hechtingsstijl)
+┌───────────────────────────────────▼────────────────────────────────────┐
+│  LAAG 1: DE LAAG VAN HET ZELF (Archicortex, Paleocortex & Hersenstam)  │
+│  • Het organismische fundament ("Het prereflectieve, voelende lijf")   │
+│  • FEAR (Gevaar / Bedreiging / Alarm)                                  │
+│  • PANIC / GRIEF (Verlatingspijn / Scheidingspaniek)                   │
+│  • SEEKING (Nieuwsgierigheid, Exploratie, Verlangen)                   │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 3. Laag 1: De Affectieve Kaart (Hersenstam & Paleobrein)
+## 3. Laag 1: De Laag van het Zelf (Archicortex, Paleocortex & Hersenstam)
 
-In plaats van vage emotionele labels hanteren we drie primaire, evolutionair diep ingesleten affectieve systemen (in lijn met de affectieve neurowetenschap van o.a. Jaak Panksepp):
+Laag 1 is de somatische grondtoon van ons bestaan: wat Jaak Panksepp omschrijft als het *core self*. Hier bevindt zich geen taal, geen logische redenering en geen strategisch plan; hier heerst simpelweg het fysiologische 'weer'.
+
+Neuro-anatomisch is deze laag verankerd in de **archicortex** (de oudste schorsgebieden zoals de hippocampus), de **paleocortex** (limbische overgangszones en reukschors) en de **subcorticale kernen van de hersenstam** (o.a. het periaqueductale grijs/PAG en de amygdala). Deze fylogenetisch oeroude structuren delen we met alle zoogdieren.
+
+In plaats van vage emotionele labels onderscheiden we hier drie primaire emotionele besturingssystemen:
 
 1. **FEAR (Bedreiging & Verdediging):**  
    *Is nabijheid of de ander gevaarlijk?*  
@@ -64,22 +76,26 @@ In plaats van vage emotionele labels hanteren we drie primaire, evolutionair die
 De toevoeging van de **SEEKING-as** lost het raadsel van de vermijdende hechtingsstijl definitief op:
 
 - **Lage FEAR + Lage PANIC + Hoge SEEKING = Oprechte Veiligheid:**  
-  Het zenuwstelsel ervaart geen acute dreiging, is niet in scheidingspaniek, en beschikt over vitale energie om de wereld te ontdekken en verbinding aan te gaan.
+  Het zenuwstelsel van het Zelf ervaart geen acute dreiging, is niet in scheidingspaniek, en beschikt over vitale energie om de wereld te ontdekken en verbinding aan te gaan.
 - **Lage FEAR + Lage PANIC + Lage SEEKING = Defensieve Shutdown / Collaps:**  
-  De persoon rapporteert weliswaar geen angst of paniek, maar de levenslust en relationele nieuwsgierigheid zijn doodgeslagen. Het systeem staat op stand-by (dorsale vagus / freeze). Dit is geen veiligheid, maar verdoofde deactivatie.
+  De persoon rapporteert weliswaar geen angst of paniek, maar de levenslust en relationele nieuwsgierigheid zijn doodgeslagen. Het systeem staat op stand-by (dorsale vagus / freeze). Dit is geen veiligheid, maar verdoofde deactivatie van het Zelf.
 
 ---
 
-## 4. Laag 2: De Strategische Kaart (Neocortex & Gedrag)
+## 4. Laag 2: De Laag van het Ik (Neocortex & Strategische Navigatie)
 
-Laag 2 beschrijft wat het denkbrein vervolgens **doet** om te navigeren in relaties:
+Waar het Zelf de affectieve werkelijkheid ondergaat, is **het Ik** de neocorticale 'kapitein' die betekenis verleent, oordeelt en strategieën ontwikkelt om de stormen van het Zelf te overleven.
+
+Neurobiologisch zetelt het Ik in de **neocortex** (met name de prefrontale cortex, de temporale taalgebieden en de pariëtale associatieschors). Dit is het jongste evolutionaire deel van het brein, dat pas bij de mens tot volledige ontplooiing is gekomen.
+
+Laag 2 beschrijft wat het Ik **doet** om te navigeren in relaties:
 
 1. **Toenadering vs. Distantie:** Fysiek of emotioneel naar de ander toe bewegen versus afstand creëren.
 2. **Hyperactivatie vs. Deactivatie:**  
    - *Hyperactivatie:* Hechtingssignalen versterken, vastklampen, controleren, protesteren, bellen, de ander dwingen tot geruststelling.
-   - *Deactivatie:* Hechtingssignalen onderdrukken, emoties wegredeneren, vluchten in werk/sport, jezelf isoleren, kille zelfredzaamheid.
+   - *Deactivatie:* Hechtingssignalen onderdrukken, emoties wegredeneren, vluchten in werk/sport, jezelf isoleren, kille zelfredzaamheid prediken (*"ik heb niemand nodig"*).
 3. **Flexibiliteit vs. Rigiditeit:**  
-   Kan de persoon soepel schakelen tussen strategieën al naargelang de situatie, of draait er een dwingende, automatische reflex die ongevoelig is voor de context?
+   Kan het Ik soepel schakelen tussen strategieën al naargelang de situatie, of draait er een dwingend, geautomatiseerd programma dat ongevoelig is voor de context?
 
 ---
 

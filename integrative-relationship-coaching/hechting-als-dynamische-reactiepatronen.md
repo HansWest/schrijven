@@ -106,34 +106,36 @@ Bij non-monogamie en kinky dynamieken wordt dit principe nog duidelijker én com
 
 ---
 
-## 5. Praktijkprotocol 4: Diagnostiek met het Tweelagenmodel (Weerkaart vs. Navigatie)
+## 5. Praktijkprotocol 4: Diagnostiek met het Tweelagenmodel (Zelf vs. Ik & Weerkaart vs. Navigatie)
 
-Wanneer een coachee vastloopt in relaties, voorkomt het [Tweelagenmodel](../over-hechting/03-tweelagenmodel-affect-en-strategie.md) dat de coach gevoelens en gedrag op één hoop gooit. 
+Wanneer een coachee vastloopt in relaties, voorkomt het [Tweelagenmodel](../over-hechting/03-tweelagenmodel-affect-en-strategie.md) (zie ook [Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)) dat de coach gevoelens en gedrag op één hoop gooit. Het model splitst de ervaring op in:
+1. **Laag 1: Het ZELF (Archicortex & Paleocortex / Hersenstam):** De organismische weerkaart die affecten direct ondergaat zonder woorden.
+2. **Laag 2: Het IK (Neocortex):** Het narratieve ego dat betekenis verleent en strategische plannen maakt.
 
 Stel tijdens de intake en sessies altijd **twee afzonderlijke diagnostische vragen**:
 
-### Vraag 1: Wat is het affectieve weerbericht in het lichaam? (Laag 1)
-Onderzoek de drie primaire emotiesystemen in de hersenstam:
-- **FEAR:** Voelt nabijheid of afhankelijkheid als acuut gevaar/bedreiging?
-- **PANIC / GRIEF:** Voelt afstand of onbereikbaarheid als verpletterende verlatingspijn?
-- **SEEKING:** Is er nog levende nieuwsgierigheid, verlangen en speelse exploratie aanwezig, of is het zenuwstelsel emotioneel 'vlak' en ingezakt?
+### Vraag 1: Wat is het affectieve weerbericht in het Zelf? (Laag 1)
+Onderzoek de drie primaire emotiesystemen in de hersenstam en het paleobrein:
+- **FEAR:** Voelt nabijheid of afhankelijkheid voor het Zelf als acuut gevaar/bedreiging?
+- **PANIC / GRIEF:** Voelt afstand of onbereikbaarheid als rauwe verlatingspijn?
+- **SEEKING:** Is er nog levende nieuwsgierigheid, verlangen en speelse exploratie aanwezig in het Zelf, of staat het systeem fysiologisch op de waakvlam?
 
 > **De SEEKING-Thermometer bij 'Zelfredzaamheid':**  
 > Wanneer een coachee zegt: *"Ik ben prima alleen, relaties zijn alleen maar gedoe"*, kijkt de coach naar Laag 1.  
 > - Is SEEKING hoog (actieve passies, nieuwsgierig naar mensen, vitale levenslust)? → **Veilige, gezonde autonomie**.  
-> - Is SEEKING laag (geen relationele nieuwsgierigheid, vermijdende apathie, functionele leegte)? → **Defensieve shutdown / collaps (dorsale freeze)**. Dezelfde uitspraak, twee totaal verschillende fysiologische toestanden.
+> - Is SEEKING laag (geen relationele nieuwsgierigheid, vermijdende apathie, functionele leegte)? → **Defensieve shutdown / collaps (dorsale freeze van het Zelf)**. Dezelfde uitspraak, twee totaal verschillende fysiologische toestanden.
 
-### Vraag 2: Welke navigatiestrategie draait de neocortex? (Laag 2)
+### Vraag 2: Welke navigatiestrategie draait het Ik in de neocortex? (Laag 2)
 - Wordt er gekozen voor toenadering of afstand?
 - Is er sprake van **hyperactivatie** (aanklampen, claimen, escaleren) of **deactivatie** (afstand nemen, intellectualiseren, kille autonomie)?
-- Is deze strategie **flexibel** (kan de coachee schakelen per situatie) of **rigide** (draait de strategie als een dwangmatige reflex)?
+- Is deze strategie van het Ik **flexibel** (kan de coachee schakelen per situatie) of **rigide** (draait de strategie als een dwangmatige reflex)?
 
 ### Het Doel van Coaching: Van Rigide Reflex naar Flexibele Koppeling
-De hechtingsstijl is de geautomatiseerde koppelingsregel: *"Als ik Laag 1 voel, MOET ik Laag 2 doen."*  
+De hechtingsstijl is de geautomatiseerde koppelingsregel: *"Als mijn Zelf Laag 1 voelt, MOET mijn Ik Laag 2 uitvoeren."*  
 In plaats van de coachee een etiket op te plakken, helpt de coach om de koppeling te vertragen:
-1. **Benoem het weer (Laag 1):** *"Mijn lijf voelt nu PANIC."*
-2. **Onderbreek het automatische script:** *"Mijn oude regel wil nu 20 appjes sturen (Laag 2 Hyperactivatie)."*
-3. **Kies een flexibele, volwassen strategie:** *"Wat heeft mijn volwassen zelf nu nodig om dit op te vangen?"*
+1. **Benoem het weer in het Zelf (Laag 1):** *"Mijn Zelf voelt nu PANIC."*
+2. **Onderbreek het automatische script van het Ik:** *"Mijn oude reflex wil nu 20 appjes sturen (Laag 2 Hyperactivatie)."*
+3. **Kies een flexibele, volwassen strategie:** *"Hoe kan mijn Ik nu liefdevol zorgen voor mijn Zelf, zonder in de oude overlevingskramp te schieten?"*
 
 #### De Drie Ontwikkelingsstappen van 'Soepeler Koppelen' in de Praktijk:
 - **1. Eerder herkennen:** Train de coachee in interoceptie (lichaamsbewustzijn). Leer de micro-signalen herkennen (adem, buik, kaakspanning) *vóórdat* de hersenstam de neocortex kaapt en men vol in de overlevingsstand zit.

@@ -15,7 +15,7 @@ Binnen deze map verkennen we theorieën die helpen de complexiteit van relatione
 ## Documenten in dit Dossier
 
 1. [**01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels**](01-het-tweelagenmodel-in-relatiedynamieken.md)  
-   *Hoe Laag 1 (affectieve fysiologie: FEAR, PANIC, SEEKING) en Laag 2 (gedragsstrategieën) elkaar over en weer aansteken in intieme relaties. De vicieuze cirkel van hyperactivatie versus deactivatie, en waarom relationele veiligheid zonder SEEKING leidt tot relationele doodsheid.*
+   *Hoe Laag 1 (het Zelf: archicortex/paleocortex, affectief weer) en Laag 2 (het Ik: neocortex, navigatiestrategie) elkaar over en weer aansteken in intieme relaties. De fatale kruisverbinding, de strijd tussen twee Ikkers over twee Zelfs, en waarom relationele veiligheid zonder SEEKING leidt tot functionele doodsheid.*
 
 2. [**02: Jullie relatie als levend lijf: structuur, beweging en gevoel**](02-relatie-als-levend-lijf.md)  
    *Botten, spieren en zenuwstelsel als beeld voor jullie gezamenlijke structuur (mens, dier of hybride), waarom veel focus op structuur kan wijzen op te weinig makkelijke synergie, en tips voor overleg over links/rechts en voor/achter.*
