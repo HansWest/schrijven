@@ -59,7 +59,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
     *   [02: Wanneer angst vastloopt](over-angst/02-wanneer-angst-vastloopt.md)
     *   [03: Omgaan met angst](over-angst/03-omgaan-met-angst.md)
 *   [**Kennisbank Trauma & Radicale Acceptatie (Overzicht)**](over-trauma/README.md)
-    *   [Traumareacties: Automatische Bescherming en Herinneringen](over-trauma/traumareacties-en-herinneringen.md)
+    *   [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](over-trauma/traumareacties-en-herinneringen.md)
     *   [Het Zwarte Gat uit de Jeugd (Kikkers, Veren en de Moeder-Gans)](over-trauma/zwarte-gat-uit-de-jeugd.md)
     *   [Hoe Stop je met Bedelen bij Kikkers? (Praktijkgids)](over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)
     *   [**Partner van een Partner met Trauma (Gids & Map)**](over-trauma/partner-van-een-partner-met-trauma/README.md)

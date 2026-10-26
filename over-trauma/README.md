@@ -6,16 +6,18 @@
 
 ## Kernvisie
 
-Jeugdtrauma laat vaak een 'zwart gat' achter in de ziel dat een enorme zwaartekracht uitoefent op het volwassen zenuwstelsel. De natuurlijke neiging is om levenslang te blijven bedelen om donsveren bij de oorspronkelijke veroorzakers (de kikkers) of partners die op hen lijken.
+*Het leven is geen sprookje: shit happens.* Pijn, verlies en schokkende gebeurtenissen horen onvermijdelijk bij het menselijk bestaan. 
 
-Heling bestaat niet uit het forceren van een verandering bij de ander, maar uit **radicale acceptatie**: inzien dat de moeder-gans nooit heeft bestaan, stoppen met het voeden van de genezingsfantasie, en zelf de donsveren en containment organiseren.
+**Trauma is niet de heftigheid van de gebeurtenis, maar het onvermogen van het zenuwstelsel om haar te verwerken en te integreren.** Wanneer er destijds geen *briefing vooraf* was (kaders en voorspelbaarheid) en vooral geen *emotionele respons achteraf* (veilige co-regulatie en ruimte voor ontlading), crasht de tijdstempel-functie van het brein. De ervaring blijft niet bewaard als een herinnering in het *daar-en-toen*, maar vuurt bij triggers telkens opnieuw af alsof het acuut plaatsvindt in het *hier-en-nu*.
+
+Heling bestaat niet uit het forceren van een verandering bij de oorspronkelijke veroorzakers (de kikkers), maar uit **radicale acceptatie en somatische zelfkennis**: inzien dat kikkers geen veren hebben, stoppen met de genezingsfantasie, en het Zelf alsnog de emotionele bedding, validatie en veilige kaders bieden die destijds ontbraken.
 
 ---
 
 ## Documenten in deze Kennisbank
 
-1. [**Traumareacties: Automatische Bescherming en Herinneringen**](traumareacties-en-herinneringen.md)  
-   *Een algemene uitleg over automatische reacties, triggers, herinneringen en het zorgvuldig verwerken van ervaringen.*
+1. [**Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'**](traumareacties-en-herinneringen.md)  
+   *De theoretische kern: de falende tijdstempel van de hippocampus, de twee ontbrekende schakels (briefing vooraf & emotionele respons achteraf), de parallel met gezonde BDSM, en de weg naar somatische integratie.*
 
 2. [**Het Zwarte Gat uit de Jeugd (Kikkers, Veren en de Moeder-Gans)**](zwarte-gat-uit-de-jeugd.md)  
    *De oorspronkelijke kerngedachte en metafoor over de zwaartekracht van trauma en de kikker met pauwenveren.*

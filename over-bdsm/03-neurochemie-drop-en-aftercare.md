@@ -108,6 +108,7 @@ Wie alleen speelt of na afloop geen partner in de buurt heeft (bijvoorbeeld bij 
 
 ## Verwijzingen & Samenhang
 
+- [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) — *Waarom briefing vooraf en emotionele respons/aftercare achteraf het fysiologische verschil maken tussen gezonde integratie en trauma.*
 - [07: Subspace versus Freeze](07-subspace-versus-freeze.md) — *De kalibratie tussen gezonde overgave en traumatische shutdown.*
 - [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De zorgplicht van ontferming en de verantwoordelijkheid voor elkaars kwetsbaarheid.*
 - [Kennisbank Hechting: 02 Neurobiologie en de 7 F's](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Sympathische vs dorsale vagale activatie.*
