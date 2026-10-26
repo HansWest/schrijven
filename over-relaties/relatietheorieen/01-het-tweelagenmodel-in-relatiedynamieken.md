@@ -1,7 +1,7 @@
 # Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels
 
 > **Relatietheorieën — Deel 1**  
-> *Hoe de wisselwerking tussen de affectieve weerkaart (FEAR, PANIC, SEEKING) en gedragsstrategieën de dynamiek tussen partners bepaalt, de wisselwerking tussen het Zelf (archicortex/paleocortex) en het Ik (neocortex), waarom de afwezigheid van ruzie geen veiligheid is, en hoe rigide koppelingsdansen transformeren.*
+> *Hoe de wisselwerking tussen de affectieve weerkaart (FEAR, PANIC, SEEKING) en gedragsstrategieën de dynamiek tussen partners bepaalt, de wisselwerking tussen het Zelf (archicortex/paleocortex) en het Ik (neocortex), waarom de afwezigheid van ruzie geen veiligheid is, en hoe zelfkennis leidt tot relationele soevereiniteit.*
 
 ---
 
@@ -12,63 +12,82 @@ In het [Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affec
 | Dimensie | Laag 1: Het Somatische Fundament | Laag 2: De Strategische Bovenbouw |
 | :--- | :--- | :--- |
 | **Functionele Metafoor** | **De Affectieve Weerkaart** (Voelen / Toestand) | **De Strategische Navigatiekaart** (Doen / Gedrag) |
-| **Psychologisch / Fenomenologisch** | **De Laag van het ZELF** (*The Core Self*)<br>Het organismische, prereflectieve zijn; het levende lijf dat affecten ondergaat zonder woorden. | **De Laag van het IK** (*The Narrative Ego*)<br>Het reflectieve, sturende en oordelende subject dat controle zoekt, betekenis construeert en plannen maakt. |
+| **Psychologisch / Fenomenologisch** | **De Laag van het ZELF** (*The Core Self*)<br>Het organismische, prereflectieve zijn; het levende lijf dat affecten ondergaat zonder woorden. | **De Laag van het IK** (*The Narrative Ego*)<br>Het reflectieve, modellerende subject dat betekenis construeert, de wereld simuleert en remt/filtert. |
 | **Neuro-anatomisch & Evolutionair** | **Archicortex, Paleocortex & Subcortex**<br>Hersenstam, PAG, amygdala, hippocampus en limbische oernetwerken; het zoogdier- en reptielenbrein (fylogenetisch oud). | **Neocortex (Isocortex)**<br>Prefrontale cortex, executieve functies, taalcentra (Broca/Wernicke) en cognitieve inhibitie (fylogenetisch jong). |
 
-### De Fatale Kruisverbinding in Relaties
-In een intieme relatie blijven deze lagen niet netjes geïsoleerd binnen één lichaam. **De tragedie van relationele conflicten is dat de neocorticale strategie (Laag 2: het Ik) van Partner A rechtstreeks binnenkomt als een seismische schok in de archicortex/paleocortex (Laag 1: het Zelf) van Partner B.**
+### De Twee Ware Functies van het Ik (Neocortex)
+Een veelgemaakte denkfout is dat het **Ik** (de neocortex) de primaire aandrijfmotor is van ons gedrag. De neurowetenschap toont het tegendeel: de rauwe motivatie, overlevingsdriften en affecten ontspringen *van onderop* in het **Zelf** (subcortex, hersenstam en paleocortex). 
+
+De neocortex (het Ik) vervult evolutionair twee heel andere, cruciale functies:
+1. **Het Wereldmodel (De Generatieve Simulator):**  
+   Het Ik is een predictiemachine (*predictive processing*). Het bouwt continu een intern wereldbeeld: aannames, betekenissen, hypothesen en verwachtingen over wat de ander bedoelt.  
+   > **De Fatale Feedbackloop:**  
+   > Het fylogenetisch oude Zelf (de archicortex en paleocortex) reageert **net zo hevig en reëel op het interne wereldbeeld dat het Ik construeert als op de fysieke buitenwereld zelf.**
+2. **De Neocortex als Inhibitor (De Rem & Filter):**  
+   Fylogenetisch is de primaire taak van de neocortex ten aanzien van de subcorticale oerdriften **afdalende inhibitie** (afremmen, selectief filteren en uitstellen). Wanneer de neocortex uitvalt (door alcohol, shock of uitputting), stopt gedrag niet — het wordt juist *gedisinhibeerd*.
+
+---
+
+## 2. De Fatale Kruisverbinding in Relaties
+
+In een relationeel conflict communiceren partners zelden op één niveau. De tragedie ontstaat doordat **het wereldbeeld en de inhibitie van Partner A direct inslaan in de paleocortex van Partner B**:
 
 ```
          PARTNER A                                            PARTNER B
-┌─────────────────────────────────┐                  ┌─────────────────────────────────┐
-│ LAAG 2: DE LAAG VAN HET IK      │ ───────────────► │ LAAG 1: DE LAAG VAN HET ZELF    │
-│ (Neocortex / Strategie & Doen)  │                  │ (Archicortex / Paleocortex)     │
-│ • Het Ik trekt zich kil terug   │                  │ • Het Zelf schiet in PANIC      │
-│   of sluit de deur af           │                  │   (rauwe verlatingspijn)        │
-└─────────────────────────────────┘                  └────────────────┬────────────────┘
-                 ▲                                                    │ stuurt aan
-                 │ stuurt aan                                         ▼
-┌────────────────┴────────────────┐                  ┌─────────────────────────────────┐
-│ LAAG 1: DE LAAG VAN HET ZELF    │ ◄─────────────── │ LAAG 2: DE LAAG VAN HET IK      │
-│ (Archicortex / Paleocortex)     │                  │ (Neocortex / Strategie & Doen)  │
-│ • Het Zelf schiet in FEAR       │                  │ • Het Ik gaat eisen, bellen,    │
-│   (beklemming & overspoeling)   │                  │   verwijten en scannen          │
-└─────────────────────────────────┘                  └─────────────────────────────────┘
+┌───────────────────────────────────────────┐        ┌───────────────────────────────────────────┐
+│ LAAG 2: HET IK (Neocortex)                │        │ LAAG 2: HET IK (Neocortex)                │
+│ • Modelleert de wereld:                   │        │ • Modelleert de wereld:                   │
+│   "Nabijheid = Verstikking / Claim"       │        │   "Afstand = Verwerping / Verlating"      │
+│ • Over-inhibitie: Kil afsluiten & remmen  │ ─────► │ • Inhibitiefalen: Schiet in hyperactivatie│
+└───────────────────────────────────────────┘        └─────────────────────┬─────────────────────┘
+                      ▲                                                    │ (roept, claimt, eist)
+                      │ (voelt beklemming)                                 ▼
+┌─────────────────────┴─────────────────────┐        ┌───────────────────────────────────────────┐
+│ LAAG 1: HET ZELF (Archicortex/Paleocortex)│        │ LAAG 1: HET ZELF (Archicortex/Paleocortex)│
+│ • Reageert op B's claimgedrag met:        │ ◄───── │ • Reageert op A's stilte met:             │
+│   FEAR (Overspoeling & Vluchtdrang)       │        │   PANIC / GRIEF (Rauwe verlatingspijn)    │
+└───────────────────────────────────────────┘        └───────────────────────────────────────────┘
 ```
 
-Wat hier fysiologisch gebeurt:
-1. Het **Ik** van Partner A bedenkt een rationele verdediging (*"Ik ga hier nu niet over praten, ik loop weg"*).
-2. Deze neocorticale actie landt bij Partner B niet als een logisch argument, maar vuurt direct in de **archicortex en paleocortex**: het **Zelf** van Partner B ervaart acute existentiële dreiging (PANIC / verlating).
-3. Het **Ik** van Partner B wordt daardoor gekaapt en stuurt een dwingende neocorticale strategie aan (aanklampen, bellen, schreeuwen).
-4. Die hyperactivatie slaat op haar beurt in als een bom in de paleocortex van Partner A (FEAR / verstikking).
-5. Twee denkende **Ikkers** bestrijden elkaar aan de oppervlakte met woorden en verwijten, terwijl twee doodsbange **Zelfs** daaronder vechten voor hun fysiologische overleving.
+1. **Partner A** trekt zich terug om overprikkeling te remmen.
+2. Het **Ik van Partner B** construeert direct een catastrofaal wereldbeeld: *"Hij geeft niet meer om me, ik word in de steek gelaten."*
+3. Het **Zelf van Partner B** (paleocortex) kan het verschil tussen dit denkbeeld en feitelijke verlating niet onderscheiden; het zenuwstelsel schiet in doodsnood (`PANIC/GRIEF`).
+4. Het **Ik van Partner B** faalt in neocorticale inhibitie en vuurt hechtingskreten af (eisen, appen, bellen).
+5. Het **Ik van Partner A** modelleert deze kreten als een agressieve invasie van soevereiniteit.
+6. Het **Zelf van Partner A** voelt fysiologische verstikking (`FEAR`).
+7. Het **Ik van Partner A** trapt de neocorticale rem keihard in (over-inhibitie: kille distantie) en vertrekt.
+
+Twee denkende **Ikkers** bestrijden elkaar met woorden, terwijl twee doodsbange **Zelfs** daaronder vechten voor hun fysiologische overleving.
 
 ---
 
-## 2. De Klassieke Botsing: Wanneer Twee Ikkers Vechten over Twee Zelfs
+## 3. Zelfkennis als Kompas: De Vier Vragen van Navigatie
 
-De meest voorkomende relationele uitputting ontstaat wanneer twee partners met tegenovergestelde, rigide koppelingsregels elkaar ontmoeten:
+De uitweg uit deze vicieuze cirkel is niet "je gedrag krampachtig proberen te managen". Verandering begint bij **diepe somatische en cognitieve zelfkennis**:
 
-### Partner A: De Gepreoccupeerde Koppeling
-- **Het Zelf (Paleocortex):** Zodra er afstand, stilte of onduidelijkheid ontstaat, vuurt het oersignaal van **PANIC/GRIEF** af. Het voelt fysiek als sterven van de kou of verhongeren als een achtergelaten jong.
-- **Het Ik (Neocortex):** Het Ik kan de rauwe pijn van het Zelf niet dragen en construeert een hyperactiverende strategie: *"Ik MOET nu contact afdwingen, eisen, bellen, analyseren en bewijzen eisen dat je van me houdt, anders vergaat mijn Zelf."*
+> **De Kern van Zelfkennis:**  
+> Weten hoe mijn Zelf zal reageren op de wereld zoals die **werkelijk is**, én hoe mijn Zelf reageert op het **wereldbeeld dat mijn Ik ervan construeert**.
 
-### Partner B: De Afwijzend-Vermijdende Koppeling
-- **Het Zelf (Archicortex / Paleocortex):** Zodra er emotionele druk, claims of verwijten binnenkomen, registreert het zenuwstelsel acute **FEAR** (overspoeling, verlies van autonomie, verstikking).
-- **Het Ik (Neocortex):** Het Ik beschermt het overprikkelde Zelf door de luiken fysiologisch dicht te gooien: *"Ik MOET mijn gevoelens uitschakelen, rationeel worden, de ander als hysterisch labelen en fysieke afstand nemen (Deactivatie) om mijn Zelf te behoeden voor vernietiging."*
+Deze zelfkennis vertaalt zich in vier praktische, relationele navigatievragen:
 
-### De Escalatiecyclus
-1. Partner B voelt zich overspoeld; het Ik sluit de verbinding af (Laag 2 Deactivatie).
-2. Deze plotselinge leegte raakt de paleocortex van Partner A: het Zelf schiet in paniekalarm (Laag 1 PANIC).
-3. Het Ik van Partner A intensiveert de aanval om geruststelling af te dwingen (Laag 2 Hyperactivatie).
-4. Deze toegenomen druk bevestigt voor de archicortex van Partner B dat nabijheid levensgevaarlijk is (Laag 1 FEAR).
-5. Partner B verlaat fysiek de kamer of hult zich in ijzige stilte.
+### 1. Wat kan mijn Zelf werkelijk aan? (Belastbaarheid & Capaciteit)
+- Niet wat mijn Ik *vindt* dat ik aan moet kunnen (morele oordelen, perfectionisme, pleasen of 'sterk willen zijn').
+- Eerlijk waarnemen wat de fysiologische draagkracht van je zenuwstelsel is op dít moment van de dag, met déze partner, in déze situatie.
 
-Beide partners handelen vanuit een volkomen logische poging van het **Ik** om het eigen **Zelf** te redden, maar hun strategieën steken over en weer elkaars diepste alarmcentra aan.
+### 2. Waar en wanneer moet ik eerder vertrekken? (Zelfbehoud & Vroege Begrenzing)
+- Weten waar je persoonlijke verzadigingspunt ligt: op een feestje, in een emotioneel gesprek, of bij een familiebezoek.
+- Het vermogen om de vroege signalen in de archicortex te herkennen (knoop in de maag, spierspanning, ademversnelling) en **fysiek of relationeel te vertrekken vóórdat** het paleobrein de neocortex kaapt en je in Fight/Flight/Freeze schiet.
+
+### 3. Welke hulp kan en durf ik toe te staan? (Veilige Co-regulatie)
+- Onderscheid maken tussen 'hulp' die eisen stelt of onveilig voelt, en oprechte, veilige bedding.
+- Weten wie betrouwbare co-regulatie kan bieden, en de moed hebben om de neocorticale rem (*"ik los het zelf wel op"*) tijdelijk te laten zakken zodat de troost daadwerkelijk in het Zelf kan landen.
+
+### 4. Wat wekt mijn SEEKING op? (Voeding versus Overleving)
+- Weten welke bedding, spelvormen en gesprekken het Zelf laten ontspannen, zodat nieuwsgierigheid en verlangen weer kunnen stromen.
 
 ---
 
-## 3. De Rol van SEEKING: Wanneer het Zelf Dooft en het Ik Louter Functioneert
+## 4. De Rol van SEEKING: Wanneer het Zelf Dooft en het Ik Louter Functioneert
 
 Een van de belangrijkste inzichten binnen het relationele Tweelagenmodel is dat **de afwezigheid van ruzie of conflict (lage FEAR en lage PANIC) absoluut geen bewijs is van een gezonde relatie**.
 
@@ -96,69 +115,48 @@ Veel langdurige koppels belanden in een toestand van emotionele en erotische sti
 | **Chronische Oorlog** | **Hoge FEAR, Hoge PANIC**, Lage SEEKING (Het Zelf vecht) | Wederzijdse triggers; de Ikkers vallen elkaar continu aan met verwijten of trekken zich verbitterd terug; chronische uitputting. |
 | **Levendige Intimiteit & Polariteit** | Lage FEAR, Lage PANIC, **Hoge SEEKING** (Het Zelf stroomt) | Veilige haven én lanceerplatform: de Ikkers kunnen veilig afstemmen, waardoor het Zelf van beide partners durft te verlangen, spelen en overgeven. |
 
-> **Cruciaal inzicht:** Een relatie herstelt niet door louter conflicten op te lossen. Ze herleeft pas wanneer het **Ik** ophoudt de relatie louter te beheersen, en de ruimte schept waarin de **paleocorticale SEEKING-as** van het Zelf weer mag ontwaken (zie ook [03: Uit de Seksuele Burnout](03-uit-de-seksuele-burnout-en-sleur.md)).
+> **Cruciaal inzicht:** Een relatie herstelt niet door louter conflicten op te lossen. Ze herleeft pas wanneer het **Ik** ophoudt de relatie louter logistiek te beheersen, en de ruimte schept waarin de **paleocorticale SEEKING-as** van het Zelf weer mag ontwaken (zie ook [03: Uit de Seksuele Burnout](03-uit-de-seksuele-burnout-en-sleur.md)).
 
 ---
 
-## 4. De Ontkoppeling: Het Ik als Liefdevolle Kapitein van het Zelf
+## 5. De Ontkoppeling: Het Ik als Wijze Hoeder van het Zelf
 
-Hoe stapt een koppel uit deze destructieve dans? De verandering begint wanneer het **Ik** niet langer blind de overlevingsreflex van de archicortex uitvoert, maar optreedt als een bewuste, afgestemde 'kapitein' van het eigen **Zelf**:
+Hoe stapt een koppel uit deze destructieve dans? De verandering begint wanneer het **Ik** niet langer blind het eigen Zelf bang maakt met catastrofale wereldmodellen, noch het Zelf verstikt met over-inhibitie, maar optreedt als een **wijze, afgestemde hoeder**:
 
 ```
-                 OUDE REFLEX: DE KAPING DOOR HET WEER
-  [ Zelf voelt PANIC ] ──► [ Ik schiet in Hyperactivatie ] ──► Aanval op partner
+                 OUDE REFLEX: HET IK MAAKT HET ZELF GEK
+  [ Ik modelleert doemscenario ] ──► [ Zelf schiet in PANIC ] ──► Hyperactivatie / Aanval
 
                  NIEUWE REFLEX: HET IK HOEDT HET ZELF
-  [ Zelf voelt PANIC ] ──► [ Ik neemt somatische pauze ]
+  [ Zelf voelt onrust ] ──► [ Ik toetst het wereldmodel: "Is er nú gevaar?" ]
                                       │
                                       ▼
              [ Ik spreekt namens het Zelf met schone kwetsbaarheid ]
 ```
 
-### Stap 1: Voel je Zelf (De Archicorticale Interoceptie)
-In plaats van direct neocorticaal te analyseren of te oordelen over de ander, zak je met de aandacht naar het fysieke lichaam:
-- *"Wat registreert mijn Zelf op dit moment?"*
-- *"Mijn Zelf voelt PANIC (scheidingspijn): er zit een koude leegte in mijn borst."*
-- *"Mijn Zelf voelt FEAR (beklemming): mijn kaken klemmen vast en mijn spieren willen vluchten."*
+### Stap 1: Toets het Wereldbeeld van je Ik
+Vraag je direct af:  
+- *"Reageert mijn lijf nu op wat er feitelijk gebeurt, of op het verhaal dat mijn Ik erover heeft gemaakt?"*
+- Het scheiden van de **feitelijke gebeurtenis** (partner is stil) van de **neocorticale simulatie** (partner houdt niet van mij).
 
-### Stap 2: Het Ik Onderbreekt de Oude Koppelingsregel
-Voordat het Ik neocorticaal in de aanval gaat (schreeuwen, appen of de deur dichtslaan), intervenieert het denkbrein met een bewuste pauze:
-- Geen berichten typen, niet weglopen zonder aankondiging.
-- Drie fysiologische zuchten (twee korte inademingen door de neus, langdurig uitblazen door de mond) om de sympathische storm in de hersenstam te temperen.
-- Het Ik erkent: *"Mijn archicortex vuurt een oud overlevingsalarm af, maar er is nú geen acuut levensgevaar. Ik hoef mijn partner niet aan te vallen of buiten te sluiten."*
+### Stap 2: Voel het Zelf zonder Oordeel (Interoceptie)
+In plaats van direct neocorticaal in de aanval te gaan, erken je de fysieke toestand van het Zelf:
+- *"Mijn Zelf voelt PANIC (koude leegte) of FEAR (beklemming in de borst). Dat mag er zijn; mijn lijf probeert me alleen maar te beschermen."*
+- Pas fysiologische zuchten toe om de storm in de hersenstam te kalmeren.
 
 ### Stap 3: Het Ik Communiceert Schone Kwetsbaarheid Namens het Zelf
-Het Ik gebruikt de neocorticale taal niet als een wapen of een schild, maar om de toestand van het Zelf transparant te maken zonder de partner te beschuldigen:
+Het Ik gebruikt taal niet als een wapen (hyperactivatie) of een muur (deactivatie), maar om de toestand van het Zelf transparant te maken:
 
-- **Niet (Neocorticale Hyperactivatie):**  
+- **Niet (Neocorticale Aanval):**  
   *"Jij geeft nooit om mij, je zit alleen maar achter je beeldscherm!"*  
   *(Effect: vuurt direct FEAR af in de paleocortex van de partner).*
-- **Wel (Het Ik spreekt voor het Zelf):**  
-  *"Als je zo stil bent, schiet mijn Zelf in paniek dat we elkaar kwijtraken. Mijn oude reflex wil nu gaan trekken en eisen, maar ik wil je niet claimen. Zou je me even twee minuten willen vasthouden?"*
-- **Niet (Neocorticale Deactivatie):**  
+- **Wel (Het Ik spreekt voor het Zelf vanuit zelfkennis):**  
+  *"Als je zo stil bent, maakt mijn Ik daar meteen het verhaal van dat we elkaar kwijtraken, en mijn Zelf schiet in paniek. Ik weet dat jij nu rust nodig hebt, maar zou je me even twee minuten je hand willen geven?"*
+- **Niet (Neocorticale Muur):**  
   *"Laat me met rust, je bent volkomen onredelijk en hysterisch!"*  
   *(Effect: vuurt direct PANIC af in de paleocortex van de partner).*
-- **Wel (Het Ik begrenst met behoud van verbinding):**  
-  *"Ik merk dat de intensiteit zo hoog oploopt dat mijn Zelf overspoeld raakt en mijn brein dreigt dicht te klappen. Ik geef om je en wil dit samen oplossen, maar ik heb 20 minuten nodig om mijn lijf te kalmeren. Om 20:30 uur kom ik bij je terug aan de keukentafel."*
-
----
-
-## 5. De Drie Pijlers van Soepeler Koppelen in Relaties
-
-In de relationele praktijk is *soepeler koppelen* geen abstracte theorie, maar een somatische trainingsweg in drie stappen:
-
-### 1. Eerder Herkennen (Voorkom de Paleocorticale Kaping)
-Het opmerken van de allereerste micro-signalen in het lichaam — een lichte verandering in ademhaling, een knoop in de buik, spanning rond de ogen of het verharden van de stem — *vóórdat* de archicortex en hersenstam de neocortex volledig kapen. Hoe sneller de spanning in het Zelf wordt opgemerkt, hoe meer het Ik helder en empathisch 'online' blijft.
-
-### 2. Voor Zijn (Triggerpreventie via Neocorticale Kaders)
-Relaties worden ontspannen naarmate partners leren hun neocortex proactief te gebruiken om elkaars Zelf gerust te stellen vóórdat er een trigger ontstaat.  
-*Voorbeeld:* *"Ik heb een zware werkdag gehad en ben sensorisch overprikkeld; als ik vanavond stiller ben, is dat geen afstand van jou, maar rust voor mijn lijf."*  
-Door deze expliciete kadering hoeft de paleocortex van de partner geen verlatingsalarm (PANIC) te slaan.
-
-### 3. Er Sneller Uit Zijn (Repair & Co-regulatie)
-Wanneer er toch een botsing ontstaat, meet de kwaliteit van de relatie zich af aan de snelheid van herstel (*repair*):
-- **Stap A (Self-care door het eigen Ik):** Het Ik weet wat het eigen Zelf fysiologisch nodig heeft om te zakken (wandelen, aarden, koud water, verzwaarde deken, ademhaling), zonder de partner te dwingen als externe regulator te fungeren.
-- **Stap B (Co-regulatie Toestaan):** De overlevingsreflex van het Ik wil zich vaak hoogmoedig verharden of de ander afwijzen. Soepeler koppelen betekent dat het Ik de verdediging durft te laten zakken en toestaat dat de partner het Zelf fysiek aanraakt, troost en co-reguleert.
+- **Wel (Begrenzing vanuit zelfkennis):**  
+  *"Ik merk dat de prikkels zo hoog oplopen dat mijn Zelf overspoeld raakt. Om te voorkomen dat ik dichtklap, moet ik nu even 20 minuten wandelen om mijn lijf te laten zakken. Om 20:30 uur kom ik weer bij je terug."*
 
 ---
 
@@ -166,10 +164,10 @@ Wanneer er toch een botsing ontstaat, meet de kwaliteit van de relatie zich af a
 
 In volwassen intieme relaties transformeren partners van twee botsende overlevingsmachines naar twee **co-regulerende organismen**:
 
-1. Ze begrijpen dat het **Zelf** van de ander (in de archicortex en paleocortex) niet boosaardig of manipulatief is, maar geprogrammeerd door oude evolutionaire en hechtingsnood.
-2. Ze begrijpen dat het **Ik** van de ander (in de neocortex) louter probeert te beschermen wat kwetsbaar is, ook al pakt de gekozen strategie destructief uit.
-3. Door de koppelingsregels tussen het Zelf en het Ik samen te ontcijferen, dooft het relationele slagveld.
-4. Binnen die herwonnen veiligheid kan de levensenergie van het Zelf — het dopaminerge **SEEKING-systeem** — weer voluit stromen in intimiteit, speelsheid en erotische polariteit.
+1. **Zelfkennis:** Ze weten hoe hun eigen Zelf reageert op de wereld en op hun eigen gedachten; ze weten wat ze aankunnen, wanneer ze moeten vertrekken en welke hulp ze kunnen toelaten.
+2. **Begrip voor de Ander:** Ze begrijpen dat het **Zelf** van de partner (archicortex/paleocortex) niet boosaardig is, maar reageert vanuit diepe biologische overlevingsnood.
+3. **Rust in de Simulator:** Het **Ik** stopt met het voeden van doemscenario's en hanteert een flexibele, dienende rem.
+4. **Herstel van SEEKING:** Binnen die herwonnen veiligheid kan de levensenergie van het Zelf — nieuwsgierigheid, speelsheid, seksualiteit en verwondering — weer volop stromen.
 
 ---
 
@@ -177,5 +175,5 @@ In volwassen intieme relaties transformeren partners van twee botsende overlevin
 
 - [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) — *Structuur, beweging en synergie tussen partners.*
 - [03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur](03-uit-de-seksuele-burnout-en-sleur.md) — *Het heractiveren van het SEEKING-systeem in vastgelopen intimiteit.*
-- [Kennisbank Hechting: 03 Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) — *De fundamentele neurobiologische en evolutionaire theorie.*
-- [Integrative Relationship Coaching: Praktijkprotocol 4](../../integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md#5-praktijkprotocol-4-diagnostiek-met-het-tweelagenmodel-weerkaart-vs-navigatie) — *Diagnostische vragen en coachinginterventies rond het Zelf en het Ik.*
+- [Kennisbank Hechting: 03 Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) — *De fundamentele neurobiologische theorie.*
+- [Integrative Relationship Coaching: Praktijkprotocol 4](../../integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md#5-praktijkprotocol-4-diagnostiek-met-het-tweelagenmodel-zelf-vs-ik--weerkaart-vs-navigatie) — *Diagnostische vragen en coachinginterventies rond het Zelf en het Ik.*
