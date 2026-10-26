@@ -17,7 +17,7 @@ Heling bestaat niet uit het forceren van een verandering bij de oorspronkelijke 
 ## Documenten in deze Kennisbank
 
 1. [**Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'**](traumareacties-en-herinneringen.md)  
-   *De theoretische kern: de falende tijdstempel van de hippocampus, de twee ontbrekende schakels (briefing vooraf & emotionele respons achteraf), de parallel met gezonde BDSM, en de weg naar somatische integratie.*
+   *De theoretische kern: de taxonomie van 7 manieren van herinneren (expliciet, somatisch, emotionele flashbacks, sensorisch, amnesie, intellectualiserend, re-enactment) gekoppeld aan overlevingsreacties (Fight, Flight, Freeze, Fawn, Flop), de falende tijdstempel van de hippocampus, het tweelagenmodel (Zelf vs. Ik), en de route naar somatische integratie.*
 
 2. [**Het Zwarte Gat uit de Jeugd (Kikkers, Veren en de Moeder-Gans)**](zwarte-gat-uit-de-jeugd.md)  
    *De oorspronkelijke kerngedachte en metafoor over de zwaartekracht van trauma en de kikker met pauwenveren.*
