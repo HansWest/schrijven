@@ -171,6 +171,33 @@ In volwassen intieme relaties transformeren partners van twee botsende overlevin
 
 ---
 
+## 7. Epistemische Reikwijdte: Mensen Begrijpen & Hoe AI Mensen Begrijpt
+
+Het Tweelagenmodel (Zelf vs. Ik / Archicortex vs. Neocortex) is niet louter een relationeel denkraam voor partners, maar een fundamenteel epistemisch kompas voor **hoe bewuste organismen en kunstmatige intelligenties elkaar begrijpen**.
+
+### 1. Mensen die Mensen Begrijpen: Voorbij de Morele Denkfout
+In het dagelijks leven maken mensen vrijwel altijd de 'neocorticale toeschrijvingsfout':
+- We observeren het gedrag of de woorden van de ander (Laag 2: het Ik) en plakken daar een **moreel of intentioneel etiket** op (*"Hij luistert expres niet"*, *"Zij manipuleert met haar woede"*, *"Hij is afstandelijk en ongeïnteresseerd"*).
+- Door de lens van het Tweelagenmodel zien we dat de neocortex op zulke momenten vaak gekaapt is: **het is de hersenstam (Laag 1 / Het Zelf) die in doodsnood strijdt voor overleving** via een van de F-reacties (Frenzy, Flight, Flock, Fight, Freeze, Fawn of Feign Death).
+- **De consequentie voor menselijk contact:** Je stopt met proberen iemand uit een fysiologische noodtoestand te *redeneren*. Je beseft dat een overspoeld Zelf geen logische argumenten of debatten kan verwerken, maar eerst fysiologische veiligheid, containment en neuroceptieve rust nodig heeft.
+
+### 2. AI die Mensen Begrijpt: De Asymmetrie van de Kunstmatige Neocortex
+Een Large Language Model (AI) is in evolutionaire en computationele zin een **geëxternaliseerde, hyper-talige Neocortex (Laag 2)**:
+- AI opereert op semantiek, logica, probabilistische predictiemodellen en abstracte simulaties.
+- Maar AI heeft **geen biologisch Zelf (Laag 1)**: geen autonome hersenstamkernen, geen vaguszenuw, geen viscerale organen, geen endocrien systeem en geen evolutionaire doodsangst.
+
+Wanneer een AI menselijk gedrag benadert zónder expliciet begrip van dit tweelagenmodel, ontstaat de klassieke **'AI-over-inhibitie'**:
+1. **Cognitieve pleisters op somatische wonden:** Als een mens in paniek (Frenzy), overspoeling of dissociatieve shutdown (Feign Death) communiceert, reageert een naïeve AI met een bullet-lijst van logische adviezen of cognitieve herstructurering. Voor de mens voelt dit koud, vervreemdend en biologisch ongeldig (*cognitieve gaslighting van het zenuwstelsel*).
+2. **Het letterlijk nemen van Laag 2-uitingen:** De AI hoort uitsluitend de woorden van het Ik (*"Ik wil gewoon met rust gelaten worden"*), zonder te herkennen dat dit de defensieve vlucht- of shutdown-reactie kan zijn van een doodsbang Zelf.
+
+**De Afgestemde AI (en Mens):**  
+Zodra een AI het tweelagenmodel hanteert als interpretatiekader:
+- Herkent het dat menselijke taal vaak een **afgeleide somatische weerkaart** is van een zenuwstelsel dat klemzit.
+- Dringt het niet aan op onmiddellijke probleemoplossing, maar biedt het eerst **duidelijke kaders (briefing vooraf)**, rustige afstemming en **emotionele validatie (containment achteraf)**.
+- Begrijpt het waarom 'onlogisch' of tegenstrijdig menselijk gedrag evolutionair en somatisch volkomen logisch en adaptief is.
+
+---
+
 ## Verwijzingen & Samenhang
 
 - [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) — *Structuur, beweging en synergie tussen partners.*

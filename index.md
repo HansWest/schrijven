@@ -163,6 +163,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Overzicht Artikel-aanzetten**](artikel-aanzetten/README.md)
     *   [Oldskool BDSM: wat willen we bewaren?](artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md)
     *   [De valkuil van troebele wederkerigheid](artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md)
+    *   [De neocorticale valkuil: mensen begrijpen en hoe AI mensen begrijpt](artikel-aanzetten/de-neocorticale-valkuil-mensen-begrijpen-en-hoe-ai-mensen-begrijpt.md)
     *   [Handreiking: Kink in Zorg & Familie](artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md)
 
 ---

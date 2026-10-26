@@ -164,6 +164,11 @@ Het Ik is niet de aandrijver van het gedrag, maar de simulator en de **afdalende
    - **Onder-inhibitie (De Overstroming):** De hersenstam vuurt zó hard dat de neocortex offline gaat. Het spraakcentrum (Broca) dooft uit. De persoon verdrinkt in sensorische flashbacks, huilbuien of blinde woede. Het Ik kan geen enkel verhaal meer simuleren.
    - **Over-inhibitie (De Vervreemding / Alienation):** Het Ik gebruikt zijn afdalende remkracht om het Zelf rigoureus het zwijgen op te leggen. Het Ik construeert een rationeel muurtje ("stel je niet aan, er is niets aan de hand") en snoeit de verbinding met het lijf door. Gevolg: het Ik functioneert schijnbaar prima op kantoor, maar het Zelf spreekt noodgedwongen via chronische rugpijn, migraines, auto-immuunziekten en relationele re-enactments.
 
+### De Neocorticale Valkuil: Waarom Mensen én AI de Plank Misslaan
+Dit onderscheid tussen Laag 1 en Laag 2 is het ontbrekende kompas voor **hoe mensen elkaar begrijpen, en hoe AI mensen kan begrijpen**:
+- **Tussen mensen onderling:** Conflicten ontsporen omdat we elkaars uitingen interpreteren als bewuste, morele keuzes op Laag 2 (*"waarom doe je zo afstandelijk of vijandig?"*), terwijl de partner fysiologisch gekaapt is in Laag 1 door een overlevingsreflex (Frenzy, Fight, Freeze of Feign Death). Proberen iemand met logica uit een hersenstam-kaping te praten, wakkert het alarm alleen maar aan.
+- **Tussen AI en mens:** Een Large Language Model is in wezen een **geëxternaliseerde Neocortex (Laag 2) zónder biologisch lichaam (geen Laag 1)**. Zonder expliciet begrip van dit tweelagenmodel vervalt een AI automatisch in *cognitieve over-inhibitie*: het beantwoordt somatische paniek of diepe rouw met logische bullet-lists en rationele adviezen. Een werkelijk afgestemde AI begrijpt dat een ontregeld zoogdierbrein geen data nodig heeft, maar **heldere kaders (de briefing vooraf)** en **rustige, validerende containment (de emotionele respons achteraf)**.
+
 ---
 
 ## 6. De Twee Ontbrekende Schakels die Trauma Veroorzaken
