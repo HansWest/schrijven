@@ -87,6 +87,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
     *   [**Relatietheorieën & Interactionele Modellen**](over-relaties/relatietheorieen/README.md)
         *   [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
         *   [02: Jullie relatie als levend lijf: structuur, beweging en gevoel](over-relaties/relatietheorieen/02-relatie-als-levend-lijf.md)
+        *   [03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur](over-relaties/relatietheorieen/03-uit-de-seksuele-burnout-en-sleur.md)
     *   [**Relaties Beëindigen: Breuk, Verlies & Verlaten Worden**](over-relaties/over-relaties-beeindigen/README.md)
         *   [01: Verlaten Worden: Neurobiologie, Rouw en Waardigheid](over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
 
@@ -103,6 +104,8 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**06: Deconstructie van BDSM: Acroniem, Polariteit & Het Speelveld**](over-bdsm/06-deconstructie-van-bdsm-en-het-speelveld.md)
 *   [**07: Subspace versus Freeze (Flow vs. Traumareactie)**](over-bdsm/07-subspace-versus-freeze.md)
 *   [**08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's**](over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)
+*   [**09: Het Verbreken van D/s: De-collaring, Rouw & Herstructurering**](over-bdsm/09-het-verbreken-van-ds-de-collaring-en-rouw.md)
+*   [**10: Van Vanilla naar Kink: Het Speeltuinmodel & Bewuste Kaders**](over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md)
 *   [**Cube of Consent (Overzicht)**](cube-of-consent/README.md)
     *   [**Het Cube of Consent Model (Assen, 48 Posities & Diagnostiek)**](cube-of-consent/het-cube-of-consent-model.md)
     *   [**Consent is een gesprek**](cube-of-consent/consent-is-een-gesprek.md)
@@ -160,6 +163,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Overzicht Artikel-aanzetten**](artikel-aanzetten/README.md)
     *   [Oldskool BDSM: wat willen we bewaren?](artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md)
     *   [De valkuil van troebele wederkerigheid](artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md)
+    *   [Handreiking: Kink in Zorg & Familie](artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md)
 
 ---
 

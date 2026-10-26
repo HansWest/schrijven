@@ -20,6 +20,9 @@ Binnen deze map verkennen we theorieën die helpen de complexiteit van relatione
 2. [**02: Jullie relatie als levend lijf: structuur, beweging en gevoel**](02-relatie-als-levend-lijf.md)  
    *Botten, spieren en zenuwstelsel als beeld voor jullie gezamenlijke structuur (mens, dier of hybride), waarom veel focus op structuur kan wijzen op te weinig makkelijke synergie, en tips voor overleg over links/rechts en voor/achter.*
 
+3. [**03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur**](03-uit-de-seksuele-burnout-en-sleur.md)  
+   *Waarom conventionele intimiteit vastloopt in automatische scripts, de 4 stappen van de Way-Out, waarom overpleasen een schending van zelf-consent is, gecontroleerde polariteit en het 4-fasen protocol (Yes/No/Maybe, Wheel of Consent & The Scene Container).*
+
 ---
 
 ## Verbanden elders in de Workspace

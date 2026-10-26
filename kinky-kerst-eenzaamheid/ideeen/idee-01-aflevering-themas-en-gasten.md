@@ -25,6 +25,10 @@ Dit document bundelt de specifieke inhoudelijke suggesties en brainstormnotities
 ---
 
 ## 3. Red Flags, Verslaving & Relatiestress
+- **Winter-Kink, Alcohol & Feestdagenstress:**
+  - *Seks/kink als pleister op de relationele wond:* Rond december stapelen familieverplichtingen en relationele wrijvingen zich op. BDSM versterkt wat er al onder de oppervlakte ligt; een intense scène gebruiken als emotionele resetknop is spelen met vuur. Stelregel: *"Als er onopgeloste spanning aan de keukentafel heerst, blijft de speelkamer op slot."*
+  - *Alcohol en koud weer:* Alcohol verlaagt cognitieve remmingen en verdooft perifere zenuwbanen. Vasodilatatie vergroot het risico op snelle onderkoeling bij ijsspel; bij hete was of impact play raakt de pijnperceptie verstoord waardoor weefselschade te laat wordt opgemerkt. Echte consent vereist een nuchter zenuwstelsel.
+  - *Spelen onder druk:* Prestatiedruk versus emotioneel afdwingen; pleasen vanuit het hoofd (om vrede of iets terug te krijgen) versus authentieke overgave.
 - **Cuckolding & Seksuele Fantasieën:** Wat maakt het een van de meest gezochte dynamieken online? Psychologie van overgave, vernedering, voyeurisme en consent.
 - **Seksverslaving vs. Kink:** Wanneer is passie een gezonde expressie en wanneer wordt het een dwangmatige demping van innerlijke leegte of trauma?
 - **Toxische D/s Dynamieken:**

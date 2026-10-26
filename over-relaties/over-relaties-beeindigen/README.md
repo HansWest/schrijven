@@ -21,6 +21,7 @@ Wanneer woorden van liefde of dankbaarheid botsen met de daadwerkelijke beslissi
 
 ## Verwijzingen & Samenhang
 
+- [Het Verbreken van D/s: De-collaring, Rouw & Herstructurering](../../over-bdsm/09-het-verbreken-van-ds-de-collaring-en-rouw.md) — *De specifieke dynamiek bij het verbreken van een D/s-, 24/7- of TPE-relatie: verlies van de externe prefrontale cortex, disenfranchised grief en het de-collaring ritueel.*
 - [Over Boosheid als Secundaire Emotie](../../over-emoties/over-boos/README.md) — *Waarom boosheid een beschermend schild is voor kwetsbaarder verdriet en hoe je de energie ontlaadt zonder te rumineren.*
 - [Neurobiologie & De Hersenstam in Hechting](../../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Waarom verlating voelt als acute levensbedreiging.*
 - [Relatiecoaching Praktijk](../../integrative-relationship-coaching/relatie-coaching.md) — *Kaders voor begeleiding bij relationele crises.*

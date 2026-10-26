@@ -42,6 +42,12 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 8. [**08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's**](08-bdsm-als-cocreatie-de-twee-driehoeken.md)  
    *Oldskool BDSM-waarden: Overgave & Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Ambacht), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn) en RACK bij trauma-gerelateerd spelen.*
 
+9. [**09: Het Verbreken van D/s: De-collaring, Rouw & Herstructurering**](09-het-verbreken-van-ds-de-collaring-en-rouw.md)  
+   *De neurobiologie van verbroken co-regulatie (24/7 en TPE), disenfranchised grief, het transitieritueel van de De-collaring en het 4-fasen herstelprotocol voor de Dominant en submissieve.*
+
+10. [**10: Van Vanilla naar Kink: Het Speeltuinmodel & Bewuste Kaders**](10-van-vanilla-naar-kink-het-speeltuinmodel.md)  
+    *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink (o.a. choking) en het Speeltuinmodel in 5 stappen.*
+
 
 ---
 
