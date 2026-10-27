@@ -31,7 +31,10 @@ BDSM is geen monolithische seksuele voorkeur, maar een paraplubegrip voor een ri
 
 ### De Vier Basiscomponenten
 1. **Bondage (B):**  
-   Het fysiek fixeren van het lichaam (met touw, leer, handboeien of tapes) of het dragen van betekenisvolle accessoires zoals halsbanden, polsbanden en blinddoeken. Het kan puur esthetisch zijn, functioneel (om iemand op zijn plek te houden), of somatisch (het diepe gevoel van 'gehouden worden' en overgave).
+   Het fysiek fixeren van het lichaam (met touw, leer, handboeien of tapes) of het dragen van betekenisvolle accessoires zoals halsbanden, polsbanden en blinddoeken. Het kan puur esthetisch zijn, functioneel (om iemand op zijn plek te houden), of somatisch (het diepe gevoel van 'gehouden worden' en overgave).  
+   - **Single Column Tie:** Een bondageknoop om één afzonderlijk ledemaat (alleen 1 pols of 1 enkel), bijvoorbeeld als basismanchet om een ledemaat afzonderlijk te fixeren aan een ankerpunt of meubel.
+   - **Double Column Tie:** Een bondageknoop waarbij twee ledematen met elkaar worden verbonden (twee polsen aan elkaar, of twee enkels tegen elkaar).
+   - *Veiligheidsprincipe:* Bij zowel de single als double column tie is anatomische kennis essentieel om zenuwbeknelling (zoals bij de nervus radialis aan de pols) en belemmering van de doorbloeding te voorkomen.
 2. **Discipline (D):**  
    Het opleggen en nauwgezet uitvoeren van taken en afspraken. Dit varieert van expliciet erotische handelingen tot alledaagse huishoudelijke rituelen (zoals schoenen poetsen, drankjes volgens protocol inschenken, houdingsdiscipline of stilteregels).
 3. **Dominantie & Submissie (D/s):**  

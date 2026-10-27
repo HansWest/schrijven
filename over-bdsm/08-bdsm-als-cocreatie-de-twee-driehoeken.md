@@ -73,6 +73,7 @@ De Dom draagt de verantwoordelijkheid om wensen over te brengen met diep respect
 ### 3. Materiaal & Techniek: Het Ambacht
 Dominantie uit zich vaak via instrumenten en fysieke interventies: touw, leer, klemmen, impact tools, adem of sensorische onthouding:
 - **Kennis van het ambacht:** Anatomische risicozones (zenuwbanen, bloedvaten, gewrichten), rek- en breekkracht van materialen, hygiëne en dosering.
+  - *Voorbeeld touw (Single vs. Double Column):* Weten hoe je een **Single Column Tie** (het afzonderlijk binden van 1 pols of 1 enkel, bijv. aan een meubel of ankerpunt) aanlegt versus een **Double Column Tie** (waarbij twee polsen aan elkaar of twee enkels tegen elkaar worden gebonden), en bij beide zenuwbanen vrijwaren van knellende druk.
 - **Niet experimenteren op de partner:** De Dom leert technieken vooraf of onder deskundige begeleiding, heeft noodprotocollen klaar (zoals veiligheidsscharen bij touw) en weet hoe een scène fysiologisch zorgvuldig wordt opgebouwd en afgebouwd.
 
 ---

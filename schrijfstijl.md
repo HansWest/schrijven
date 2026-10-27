@@ -8,8 +8,10 @@
 - Spreek de lezer geregeld rechtstreeks aan. Gebruik retorische vragen en herhaling om een gedachte te laten landen, niet als vaste formule.
 - Combineer speelsheid, woordgrappen en droge humor met openhartigheid en nuchtere ernst. Wees niet bang voor rauwe taal als die natuurlijk past, maar forceer haar niet.
 - Erken dat het leven rommelig of oneerlijk kan zijn; vervang dat niet door opgewekte clichés. Laat naast ongemak ook ruimte voor nieuwsgierigheid, groei en plezier.
+- Prik archetypes en mediaclichés nuchter door: stel niet het statische plaatje centraal, maar de feilbare mens, de relatie en de alledaagse praktijk.
 - Gebruik korte, stellige zinnen naast langere, meanderende zinnen voor een gesproken ritme. Een kernachtige uitspraak of terzijde mag een punt markeren.
 - Markeer zelfbedachte kernwoorden alleen wanneer dat de betekenis helpt; houd hoofdletters en cursivering consequent.
+- Hanteer bij theoretische diepgang een gelaagde structuur (tweetrap): houd het hoofdverhaal verhalend, laagdrempelig en invoelbaar, en bundel vakjargon, academische kaders of literatuur in een expliciet verdiepend slotdeel.
 - Behoud de eigenzinnige toon, maar neem formuleringen, begrippen of voorbeelden uit eerdere stukken niet automatisch over. Maak per nieuw stuk nieuw taalwerk.
 - Redigeer op helderheid en spelling zonder de stem glad, afstandelijk of formeel te maken. Reproduceer geen typefouten uit een voorbeeld.
 
