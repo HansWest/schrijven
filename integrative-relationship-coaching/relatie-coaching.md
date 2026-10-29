@@ -34,7 +34,9 @@ Emotioneel efficiënt communiceren betekent niet dat we gevoelens zo snel mogeli
 
 ### Van verwijt naar kwetsbare boodschap
 
-Een verwijt dat met *jij* begint, kan soms een onuitgesproken boodschap over onze eigen kwetsbaarheid bevatten. Achter “Jij luistert nooit” kan bijvoorbeeld zitten: “Ik voel me alleen en wil graag merken dat je me hoort.”
+> ***Verwijt* geeft *verwij*dering; expressie van wensen of van pijn geeft toenadering.**
+
+Een verwijt dat met *jij* begint, kan soms een onuitgesproken boodschap over onze eigen kwetsbaarheid bevatten. Achter “Jij luistert nooit” kan bijvoorbeeld zitten: “Ik voel me alleen en wil graag merken dat je me hoort.” Verwijten duwen de ander fysiologisch in de verdediging (het pantser gaat dicht). Het openhartig uitspreken van de onderliggende pijn of het positieve verlangen nodigt juist uit tot contact en co-regulatie.
 
 Probeer daarom te benoemen wat je zelf ervaart, zonder de ander meteen verantwoordelijk te maken voor de oplossing:
 
@@ -61,6 +63,8 @@ Vragen die daarbij kunnen helpen:
 - Waarvoor zou ik mijn partner vooraf om begrip of vergeving willen vragen?
 - Hoe wil ik reageren als mijn partner mij vertelt dat ik pijn heb gedaan?
 - Wat helpt ons om na een botsing weer contact te maken?
+
+*(Zie voor een verdiepende methodiek, werkvormen en protocollen: [Conflicthantering in (Poly)liefdesrelaties](over-conflicten/README.md).)*
 
 ## 3. Monogame overtuigingen opnieuw bekijken
 
