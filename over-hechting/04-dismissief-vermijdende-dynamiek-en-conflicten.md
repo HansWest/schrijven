@@ -1,15 +1,15 @@
-# Dismissief-Vermijdende Hechting: Conflictdynamiek, Blauwdruk & Verborgen Behoeften
+# Afwijzend-Vermijdende Hechting (Dismissing-Avoidant / DA): Conflictdynamiek, Blauwdruk & Verborgen Behoeften
 
 > **Algemene Hechtingstheorie — Deel 4**  
-> *Waarom de dismissief-vermijdende partner uitcheckt bij emotionele confrontaties; de 3 conflictresponsen (Pleasing, Defensiviteit, Afwijzing); de mismatch in relationele reparatie; en de onuitgesproken behoeften volgens de Integrated Attachment Theory.*
+> *Waarom de afwijzend-vermijdende partner (in de volksmond ook wel dismissief-vermijdend genoemd) uitcheckt bij emotionele confrontaties; de 3 conflictresponsen (Pleasing, Defensiviteit, Afwijzing); de mismatch in relationele reparatie; en de onuitgesproken behoeften volgens de Integrated Attachment Theory.*
 
 ---
 
-## 1. De Psychologische Blauwdruk van de Dismissief-Vermijder (DA)
+## 1. De Psychologische Blauwdruk van de Afwijzend-Vermijder (DA)
 
 In intieme relaties roept weinig gedrag zoveel eenzaamheid en frustratie op als de partner die letterlijk of figuurlijk 'uitcheckt' zodra een gesprek emotioneel geladen wordt. De partner wil praten, verbinden en herstellen, maar stuit op een stenen muur of een kille blik.
 
-Om deze dynamiek constructief te navigeren, moeten we begrijpen wat er in de vroege kindertijd van de dismissief-vermijdende mens (DA) is gebeurd:
+Om deze dynamiek constructief te navigeren, moeten we begrijpen wat er in de vroege kindertijd van de afwijzend-vermijdende mens (DA) is gebeurd:
 - **De Geconditioneerde Les:** In het gezin van herkomst werden emotionele kwetsbaarheid, verdriet of behoeftigheid genegeerd, belachelijk gemaakt of bestraft. Het kind leerde: *"Als ik emotioneel ben, ben ik een last. Kwetsbaarheid staat gelijk aan zwakte, falen of defect zijn."*
 - **De Overlevingsstrategie:** Het kind ontwikkelde een rigide deactiverende strategie van extreme zelfredzaamheid (*hyper-independence*). Het autonome zenuwstelsel koppelde het ervaren van relationele afhankelijkheid aan acuut gevaar.
 
@@ -23,7 +23,7 @@ Wanneer een partner een probleem aankaart of emotionele diepgang zoekt, voelt he
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│              DE 3 CONFLICTRESPONSEN VAN DE DISMISSIEF-VERMIJDER        │
+│              DE 3 CONFLICTRESPONSEN VAN DE AFWIJZEND-VERMIJDER (DA)    │
 ├────────────────────────────────────────────────────────────────────────┤
 │ 1. PLEASING (Schijnverzoening)                                         │
 │    • Een snelle, oppervlakkige verontschuldiging ("Ja sorry, je hebt   │
@@ -95,7 +95,7 @@ In de hechtingspsychologie (onder meer de *Integrated Attachment Theory*) wordt 
 
 ## 5. Hoe Navigeer je een DA-Partner? (Praktische Richtlijnen)
 
-Als partner of begeleider bereik je een dismissief-vermijdende persoon **nooit** via emotionele druk of schuldinductie. De volgende communicatieregels zijn essentieel:
+Als partner of begeleider bereik je een afwijzend-vermijdend persoon (DA) **nooit** via emotionele druk of schuldinductie. De volgende communicatieregels zijn essentieel:
 
 1. **Communiceer behoeften vriendelijk en oordeelvrij:**  
    Vervang verwijten (*"Jij bent er nooit voor mij"*) door neutrale, concrete verzoeken (*"Ik zou het heel fijn vinden als we vanavond samen 20 minuten wandelen zonder telefoons"*).

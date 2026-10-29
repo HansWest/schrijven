@@ -15,7 +15,50 @@ In de relationele en somatische realiteit klopt dat niet:
 
 ---
 
-## 2. De Dubbele Oorsprong: Primaire Blauwdruk én Volwassen Aanwas
+## 2. De Nederlandse Hechtingstaxonomie (Standaardmodel)
+
+Om in theorie en klinische praktijk dezelfde taal te spreken, baseren we ons op het vier-categoriënmodel van **Bartholomew & Horowitz (1991)**, dat volwassen hechting indeelt op basis van twee fundamentele dimensies: **het beeld van het Zelf** (Zelfbeeld: ben ik liefde waard?) en **het beeld van de Ander** (Anderbeeld: is de ander betrouwbaar en beschikbaar?).
+
+```
+                       HET 2x2 HECHTINGSMODEL (Bartholomew & Horowitz)
+                       
+                                   BEELD VAN DE ANDER
+                             POSITIEF (+)           NEGATIEF (-)
+                      ┌──────────────────────┬──────────────────────┐
+         POSITIEF (+) │   VEILIG GEHECHT     │ AFWIJZEND-VERMIJDEND │
+                      │   (Secure)           │ (Dismissing-Avoidant)│
+BEELD VAN             ├──────────────────────┼──────────────────────┤
+HET ZELF NEGATIEF (-) │ ANGSTIG-             │ ANGSTIG-VERMIJDEND   │
+                      │ GEPREOCCUPEERD (AP)  │ (Fearful-Avoidant)   │
+                      │ (Ambivalent)         │ (Gedesorganiseerd)   │
+                      └──────────────────────┴──────────────────────┘
+```
+
+### De Vier Volwassen Patronen Ontleed:
+
+1. **Veilig gehecht (*Secure*):**
+   - *Positief zelfbeeld, positief anderbeeld.*
+   - De persoon voelt zich van nature waardevol en vertrouwt erop dat anderen responsief en betrouwbaar zijn. Kan zowel hechten en troost ontvangen als autonoom functioneren.
+2. **Angstig-gepreoccupeerd (*Anxious-Preoccupied* / AP) — (Klassiek: *Angstig-ambivalent*):**
+   - *Negatief zelfbeeld, positief anderbeeld.*
+   - De persoon voelt zich innerlijk tekortschieten of onveilig zonder bevestiging, terwijl de ander als bron van redding wordt gezien. Reageert op dreiging met hyperactivatie: claimen, controleren, piekeren en angst om verlaten te worden.
+3. **Afwijzend-vermijdend (*Dismissing-Avoidant* / DA) — (In literatuur ook: *Dismissief-vermijdend*):**
+   - *Positief zelfbeeld (defensief), negatief anderbeeld.*
+   - De persoon schermt zich af door overmatige zelfredzaamheid (*hyper-independence*). Emotionele afhankelijkheid wordt gezien als zwakte of defect; bij conflicten checkt de DA emotioneel uit en bouwt muren.
+4. **Angstig-vermijdend (*Fearful-Avoidant* / FA) — (Volwassen manifestatie van *Gedesorganiseerd*):**
+   - *Negatief zelfbeeld, negatief anderbeeld.*
+   - Het meest pijnlijke conflict: de persoon verlangt intens naar nabijheid, maar wantrouwt die tegelijkertijd dodelijk (de verraadwond). Wisselt af tussen aanklampen (Fight) en plotselinge radiostilte of stonewalling (Flight/Freeze).
+
+> **Aansluiting op de Kind-ontwikkelingspsychologie (Ainsworth & Main):**  
+> In de ontwikkelingspsychologie bij jonge kinderen (het Vreemde-Situatie-experiment van Mary Ainsworth) heten deze vier typen:  
+> • **Type B:** Veilig gehecht (*Secure*)  
+> • **Type A:** Onveilig-vermijdend (*Insecure-Avoidant* $\rightarrow$ de kinderlijke voorloper van DA)  
+> • **Type C:** Onveilig-ambivalent / afwerend (*Insecure-Resistant/Ambivalent* $\rightarrow$ de voorloper van AP)  
+> • **Type D:** Gedesorganiseerd / gedesoriënteerd (*Disorganized* $\rightarrow$ de voorloper van FA)
+
+---
+
+## 3. De Dubbele Oorsprong: Primaire Blauwdruk én Volwassen Aanwas
 
 ### A. De Primaire Blauwdruk (Kindertijd)
 De vroegste levensjaren vormen het basisfundament van onze hechting. De hersenstam en het limbische systeem leren in interactie met de primaire verzorgers:
@@ -32,7 +75,7 @@ Het is een wijdverbreid misverstand dat je hechtingspatroon na je adolescentie '
 
 ---
 
-## 3. Relationele Specificiteit: De Tussenruimte Tussen Twee Zenuwstelsels
+## 4. Relationele Specificiteit: De Tussenruimte Tussen Twee Zenuwstelsels
 
 Hechting is geen monoloog, maar een duet tussen twee zenuwstelsels. Wat er in jou aan reacties ontbrandt, ontstaat in de **tussenruimte**:
 
@@ -50,7 +93,7 @@ Hechting is geen monoloog, maar een duet tussen twee zenuwstelsels. Wat er in jo
 
 ---
 
-## 4. De Weg naar Verandering: Zelfkennis en Herbedrading
+## 5. De Weg naar Verandering: Zelfkennis en Herbedrading
 
 Als hechtingspatronen dynamische reacties zijn en geen rigide identiteiten, betekent dit dat ze fundamenteel getransformeerd kunnen worden:
 

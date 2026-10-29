@@ -93,8 +93,9 @@ De manier waarop we intiem zijn, is geen toevallige verzameling voorkeuren. Het 
 
 > **"Vertel me hoe je bemind werd, en ik vertel je hoe je de liefde bedrijft."**
 
-- **Angstig-gehechte patronen:** Seks wordt vaak onbewust ingezet als hechtingslijm of geruststelling (*"Als we seks hebben, weet ik zeker dat je me niet verlaat"*). De focus ligt obsessief op de goedkeuring en nabijheid van de ander.
-- **Vermijdend-gehechte patronen:** Seks is vaak prettig zolang het puur fysiek of technisch blijft, maar zodra emotionele versmelting dreigt, treedt deactivering op. Of er is een voorkeur voor soloseks, pornografie of fantasieën waarin autonomie gewaarborgd blijft.
+- **Angstig-gepreoccupeerde patronen (AP):** Seks wordt vaak onbewust ingezet als hechtingslijm of geruststelling (*"Als we seks hebben, weet ik zeker dat je me niet verlaat"*). De focus ligt obsessief op de goedkeuring en nabijheid van de ander.
+- **Afwijzend-vermijdende patronen (DA):** Seks is vaak prettig zolang het puur fysiek of technisch blijft, maar zodra emotionele versmelting dreigt, treedt deactivering op. Of er is een voorkeur voor soloseks, pornografie of fantasieën waarin autonomie gewaarborgd blijft.
+- **Angstig-vermijdende patronen (FA):** Een intense slingerbeweging tussen vurige passie en plotselinge seksuele shutdown of afkeer zodra de intimiteit de 'verraadwond' raakt.
 - **Trauma en de Verbeelding:** Juist bij vroegkinderlijk of relationeel trauma is de **erotische verbeelding** vaak de enige plek geweest waar autonomie, agency en genot behouden konden worden. Fantasieën en kink kunnen dienen als een transformatieve arena waarin oude machteloosheid wordt herschreven naar soevereine controle en spel (zie ook [06: Deconstructie van BDSM en het Speelveld](../../over-bdsm/06-deconstructie-van-bdsm-en-het-speelveld.md)).
 
 ---

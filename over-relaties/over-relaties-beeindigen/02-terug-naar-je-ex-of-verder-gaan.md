@@ -1,7 +1,7 @@
-# Terug naar je Ex of Verder Gaan: De DA-Breukdynamiek, de 20/30%-Regel en de Valkuil van Social Media
+# Terug naar je Ex of Verder Gaan: De Afwijzend-Vermijdende (DA) Breukdynamiek, de 20/30%-Regel en de Valkuil van Social Media
 
 > **Dossier Relaties Beëindigen — Deel 2**  
-> *Waarom hopen op verandering vaak een illusie is; de psychologie van de dismissief-vermijdende partner bij een relatiebreuk; waarom 'flexen' op sociale media averechts werkt; en een concrete beslisboom voor hereniging versus loslaten.*
+> *Waarom hopen op verandering vaak een illusie is; de psychologie van de afwijzend-vermijdende (DA / dismissieve) partner bij een relatiebreuk; waarom 'flexen' op sociale media averechts werkt; en een concrete beslisboom voor hereniging versus loslaten.*
 
 ---
 
@@ -23,9 +23,9 @@ Zonder een fundamentele en actieve verschuiving naar **verworven veiligheid (*ea
 
 ---
 
-## 2. De Psychologie van de Dismissief-Vermijder (DA) bij een Breuk
+## 2. De Psychologie van de Afwijzend-Vermijder (DA) bij een Breuk
 
-Wanneer een dismissief-vermijdende partner vertrekt, ontstaat er bij de achterblijvende partner vaak een volkomen verkeerd beeld van wat er intern bij de DA gebeurt:
+Wanneer een afwijzend-vermijdende partner (DA) vertrekt, ontstaat er bij de achterblijvende partner vaak een volkomen verkeerd beeld van wat er intern bij de DA gebeurt:
 
 1. **De Onderliggende Overtuiging van Falen:**  
    Een DA vertrekt zelden uit pure wreedheid of arrogantie. Onder hun gereserveerde schild draagt de vermijder vaak de pijnlijke overtuiging:  
@@ -37,13 +37,13 @@ Wanneer een dismissief-vermijdende partner vertrekt, ontstaat er bij de achterbl
 
 ## 3. Twee Fatale Averechtse Strategieën
 
-Wie probeert een dismissief-vermijdende ex terug te winnen met standaardadviezen van het internet, veroorzaakt vrijwel altijd het tegenovergestelde effect:
+Wie probeert een afwijzend-vermijdende ex (DA) terug te winnen met standaardadviezen van het internet, veroorzaakt vrijwel altijd het tegenovergestelde effect:
 
 ### Valkuil 1: Het 'Perfecte Leven' Posten op Social Media (De "Beter-Af"-Bevestiging)
 Veel coaches raden aan om direct na een breuk volop foto's te posten waarop je straalt, uitgaat, successen viert of aantrekkelijk poseert, in de hoop de ex jaloers te maken.
 
 > **Wat er écht gebeurt in het hoofd van de DA:**  
-> Een dismissief-vermijder voelt bij het zien van jouw bruisende sociale media **geen jaloezie of gemis, maar diepe opluchting**.  
+> Een afwijzend-vermijder voelt bij het zien van jouw bruisende sociale media **geen jaloezie of gemis, maar diepe opluchting**.  
 > Het bevestigt namelijk hun diepste overtuiging: *"Zie je wel, ze heeft het fantastisch zonder mij. Ik heb het juiste gedaan door te vertrekken; ze is veel beter af zonder mijn aanwezigheid."*  
 > Door te flexen ontneem je de DA elk schuldgevoel en elke reden om zijn eigen aandeel in het mislukken van de relatie te onderzoeken.
 

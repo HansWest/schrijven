@@ -1,7 +1,7 @@
 # Emotionele Voltooiing: Iets Doen 'Met' Emoties in Plaats van 'Aan' Emoties
 ## De Somatische Cyclus, Primaire versus Secundaire Emoties en Online Begeleiding
 
-> **Kennisbank Emoties — Hoofddocument**  
+> **Kennisbank Emoties - Hoofddocument**  
 > *Waarom emoties biologische golven zijn die om voltooiing vragen; het fundamentele verschil tussen iets doen 'met' versus 'aan' een emotie; de ontkrachting van de catharsis-mythe; hoe je voorkomt dat iemand de 'verkeerde' emotie ontlaadt; en concrete diagnostische scripts voor online en chat-begeleiding.*
 
 ---
@@ -24,7 +24,7 @@ De moderne somatische psychologie (o.a. Peter Levine, Leslie Greenberg, Karla Mc
 ```
 
 ### Waarom Emoties Vastlopen (Onvoltooide Cycli)
-Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens wordt geblokkeerd — omdat de situatie te overweldigend was, omdat je als kind werd afgewezen als je boos of verdrietig was, of omdat sociale conventies expressie verbieden — **blijft de fysiologische energie als het ware 'binnen' jezelf in het zenuwstelsel**:
+Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens wordt geblokkeerd - omdat de situatie te overweldigend was, omdat je als kind werd afgewezen als je boos of verdrietig was, of omdat sociale conventies expressie verbieden - **blijft de fysiologische energie als het ware 'binnen' jezelf in het zenuwstelsel**:
 - De spieren blijven aangespannen (spierpantsering).
 - De ademhaling blijft oppervlakkig of klemzitten, of juist overdreven groot voor het moment.
 - Het brein blijft cognitieve verhalen spinnen om de chronische lichamelijke spanning te verklaren.
@@ -37,7 +37,7 @@ Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet lout
 
 > **Het Experiment met Roofvogels & Scheinfütterung (Sham Feeding):**  
 > In klassieke ethologische en fysiologische studies met roofvogels (zoals gieren en valken) en roofdieren werd onderzocht waardoor honger en jachtdrift worden gestild. Wanneer dieren aten via een fistel waardoor het voedsel de maag direct weer verliet (de maag raakte dus fysiologisch en calorisch *niet* gevuld), gebeurde er iets fascinerends:  
-> Het dier bleef niet eindeloos doorscheuren. Na een periode van intensief vlees van botten scheuren met de snavel, trekken met de klauwen en slikken, stopte de roofvogel uit zichzelf en viel in een diepe, verzadigde rust. **De uitvoering van het fysieke motorprogramma zelf — het daadwerkelijk scheuren van het vlees van de botten — had een driftontladend, verzadigend effect (*Aktionssättiging*).**  
+> Het dier bleef niet eindeloos doorscheuren. Na een periode van intensief vlees van botten scheuren met de snavel, trekken met de klauwen en slikken, stopte de roofvogel uit zichzelf en viel in een diepe, verzadigde rust. **De uitvoering van het fysieke motorprogramma zelf - het daadwerkelijk scheuren van het vlees van de botten - had een driftontladend, verzadigend effect (*Aktionssättiging*).**  
 > 
 > Het omgekeerde experiment was nog veelzeggender: voedde men een roofvogel of roofdier rechtstreeks via een maagsonde (een volle maag en calorische verzadiging zónder de motorische handeling), dan bleef het dier rusteloos, gespannen en gefrustreerd. Zodra het alsnog een karkas aangeboden kreeg, begon het alsnog bezeten vlees van het bot te scheuren, ondanks de overvolle maag!
 
@@ -77,7 +77,7 @@ Neurowetenschappelijk onderzoek (o.a. door prof. Brad Bushman) heeft deze 'stoom
 
 ## 3. De Valkuil van de 'Verkeerde' Emotie Voltooien (Primair vs. Secundair)
 
-Een van de meest gemaakte en schadelijke fouten in emotieregulatie — zowel door individuen zelf als in online coaching — is het **voltooien van de verkeerde emotie**.
+Een van de meest gemaakte en schadelijke fouten in emotieregulatie - zowel door individuen zelf als in online coaching - is het **voltooien van de verkeerde emotie**.
 
 In de Emotion-Focused Therapy (Leslie Greenberg) en somatische psychologie onderscheiden we twee lagen:
 
@@ -165,7 +165,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
   1. **Weg 1: Het gevecht aangaan en herstel afdwingen.**  
      - De confrontatie aangaan over wat er is afgepakt of niet is gegeven.
      - De overschreden grens helder en onwrikbaar markeren (*"Tot hier en niet verder"*).
-     - De fysiologische kracht van woede gebruiken om in actie te komen aangaande de dingen die voor jou belangrijk zijn — vechten *voor* iets in plaats van louter *tegen* iemand.
+     - De fysiologische kracht van woede gebruiken om in actie te komen aangaande de dingen die voor jou belangrijk zijn - vechten *voor* iets in plaats van louter *tegen* iemand.
      - De schadeloosstelling of het herstel ontvangen.
   2. **Weg 2: Vergeving en Definitieve Kwijtschelding van de Schuld.**  
      - Als de ander een 'kikker' is (geen capaciteit tot empathie of herstel) of de dader is overleden/onbereikbaar, kan Weg 1 niet worden voltooid.
@@ -252,10 +252,22 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 ---
 
 ### K. Hopeloosheid & Wanhoop: De Noodrem van het Zenuwstelsel en de Paradox van Rust
-* **De openstaande rekening:** Chronische, uitputtende overbelasting van het zenuwstelsel; alle actieve overlevings- en hechtingsstrategieën zijn vastgelopen; het organisme kan de fysiologische pijn niet langer dragen.
-* **Het specifieke sluitstuk:** **Radicale prikkelstop, ontlasting van alle eisen én de fysiek beleefde ervaring van rust in een levend lijf.**
-  - **De "Hopeloosheid" Paradox (Hans West):** Hopeloosheid is geen wens om dood te zijn, maar een overlevingsemotie die schreeuwt om 'niet-meer-voelen'. De tragische verwarring van het Ik is dat het denkt dat de fysieke dood de enige uitweg is. Maar *de dood brengt geen rust*, want rust is een levende sensatie die je alleen kunt ervaren als je ademt.
-  - Het sluitstuk is daarom het bieden van een absolute, veilige landingsbaan: zintuiglijke rust, warmte, een verzwaarde deken, zachte co-regulerende nabijheid en het stopzetten van elk moeten (zie ook [De Hopeloosheid Paradox](../artikel-aanzetten/de-hopeloosheid-paradox-rust-versus-de-dood.md)).
+* **De openstaande rekening:** Chronische, uitputtende overbelasting van het zenuwstelsel; de dwingende eis aan het Zelf om aan 100% van alle eisen en verwachtingen te blijven voldoen; alle actieve hechtings- en vechtstrategieën zijn vastgelopen.
+  - **De realistische functie van hopeloosheid:** Als je van jezelf eist dat je alles perfect blijft doen en overal aan blijft voldoen, is hopeloosheid een volstrekt *terechte* en accurate emotie. De situatie ís dan ook hopeloos. De emotie vertelt je niet dat het leven voorbij is, maar dat jouw huidige eisenpakket biologisch onhaalbaar is.
+  - **De over-over-vermoeidheid:** De loodzware uitputting bij depressie en wanhoop is de fysiologische noodrem van het lijf. Het lichaam trekt de stekker eruit om zelfverbranding te voorkomen: *"Jij stopt niet met rennen op een doodlopend spoor, dus dwing ik je tot stilstand."*
+* **Het specifieke sluitstuk:** **Radicale prikkelstop, het faillissement van de perfectionistische eisenlijst (overstappen naar het 60%-leven), de overgang naar rouw én de fysiek beleefde ervaring van rust in een levend lijf.**
+  - **De "Hopeloosheid" Paradox (Hans West):** Hopeloosheid is geen wens om dood te zijn, maar een overlevingsemotie die schreeuwt om 'rust' of 'niet-meer-voelen'. De tragische verwarring van het Ik is dat het denkt dat de fysieke dood de enige uitweg is. Maar *de dood brengt geen rust*, want rust is een levende sensatie die je alleen kunt ervaren als je rustig kan ademen.
+  - **De bevrijdende 60%-regel:** Hoe ziet een léven eruit als je maar aan 60% van al die eisen hoefde te voldoen? Geïnspireerd door Winnicotts *good enough*-principe: zestig procent is biologisch en relationeel ruim voldoende om te gedijen. Zodra de lat zakt van 100% naar 60%, verdwijnt de biologische grond onder de hopeloosheid.
+  - **Wat hopeloosheid inhoudelijk nodig heeft:**
+    1. *Gelijk krijgen (Erkenning van het faillissement):* Geen giftig positivisme of valse hoop ("Er is altijd hoop!", "Kom op!"), maar de nuchtere validatie: *"Je hebt gelijk, deze wedstrijd ís op deze manier ook hopeloos."* De opluchting dat de strijd gestaakt mag worden.
+    2. *Capitulatie (De witte vlag):* Officiële toestemming om op te geven naar de innerlijke tiran; niet sterven, maar het onmogelijke contract ontbinden.
+    3. *Van verlamming naar rouw:* Tranen toelaten over het ideaal of de verwachting die definitief onhaalbaar is gebleken. Rouw maakt de gestolde wanhoop vloeibaar.
+  - **De relationele bedding van 'de ander':**
+    1. *Stille, niet-eisende aanwezigheid:* Co-regulatie op de bank of in de kamer zonder conversatiedwang, glimlachplicht of dankbaarheidsplicht.
+    2. *Tolerantie van het nulpunt (Geen fix-drang):* De ander die niet in paniek raakt of krampachtig ladders in de put gooit, maar rustig op de rand kan zitten: *"Het is donker hier beneden, maar ik blijf bij je."*
+    3. *Zorg dragen zonder martelaarschap:* Tijdelijk de praktische container dragen zonder passief-agressieve zuchten of verwijten.
+    4. *De 60%-bevestiging:* *"Ik hou niet van je om je energie of productiviteit; zelfs als je vandaag op 10% vegeteert, ben je voor mij helemaal welkom."*
+  - Het concrete sluitstuk is daarom het bieden van een absolute, veilige landingsbaan: zintuiglijke rust, warmte, een verzwaarde deken, zachte co-regulerende nabijheid en het stopzetten van elk moeten (zie ook [De Hopeloosheid Paradox](../artikel-aanzetten/de-hopeloosheid-paradox-rust-versus-de-dood.md)).
 * **Wat er gebeurt als het sluitstuk ontbreekt:** De cliënt raakt gevangen in suïcidale ideatie omdat het rationele brein geen andere uitweg meer ziet om de overprikkelde hersenstam tot stilstand te brengen.
 
 ---
@@ -391,8 +403,8 @@ Wanneer een emotie niet alleen somatisch is ontladen, maar ook cognitief kan wor
 
 ## Verwijzingen & Samenhang
 
-- [Omgaan met Emoties: Voelen, Begrijpen en Kiezen](omgaan-met-emoties.md) — *De basisprincipes van interoceptie en vertragen.*
-- [Over Boosheid: Schild, Energie en Grenzen](over-boos/README.md) — *Diepere uitwerking van boosheid als secundaire emotie en de ontkrachting van Bushmans catharsis-mythe.*
-- [01: Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) — *De interactie tussen het Zelf (paleocortex) en het Ik (neocortex simulator).*
-- [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) — *De overlevingsreacties (Frenzy tot Feign Death) en de 7 manieren van herinneren.*
-- [Hoe Stop je met Bedelen bij Kikkers?](../over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md) — *Somatische rouw en het staken van de genezingsfantasie.*
+- [Omgaan met Emoties: Voelen, Begrijpen en Kiezen](omgaan-met-emoties.md) - *De basisprincipes van interoceptie en vertragen.*
+- [Over Boosheid: Schild, Energie en Grenzen](over-boos/README.md) - *Diepere uitwerking van boosheid als secundaire emotie en de ontkrachting van Bushmans catharsis-mythe.*
+- [01: Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) - *De interactie tussen het Zelf (paleocortex) en het Ik (neocortex simulator).*
+- [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) - *De overlevingsreacties (Frenzy tot Feign Death) en de 7 manieren van herinneren.*
+- [Hoe Stop je met Bedelen bij Kikkers?](../over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md) - *Somatische rouw en het staken van de genezingsfantasie.*

@@ -1,7 +1,7 @@
-# Angstig-Vermijdende Hechting: De Sabotagecyclus, de Verraadwond en de Muur van Pijn
+# Angstig-Vermijdende Hechting (Fearful-Avoidant / FA): De Sabotagecyclus, de Verraadwond en de Muur van Pijn
 
 > **Algemene Hechtingstheorie — Deel 5**  
-> *Waarom mensen met fearful avoidance (angstig-vermijdend) hun eigen relaties saboteren; het conflict tussen intens verlangen en doodsangst voor pijn; stonewalling als 'pomp-test'; en hoe je de onderbewuste verraadwond heelt.*
+> *Waarom mensen met een angstig-vermijdende hechtingsstijl (Fearful-Avoidant / FA, de volwassen manifestatie van gedesorganiseerde hechting) hun eigen relaties saboteren; het conflict tussen intens verlangen en doodsangst voor pijn; stonewalling als 'pomp-test'; en hoe je de onderbewuste verraadwond heelt.*
 
 ---
 

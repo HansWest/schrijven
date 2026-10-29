@@ -131,13 +131,13 @@ In de vroege jeugd leert het kind drie dingen tegelijk:
 
 ### Profielenoverzicht in het Tweelagenmodel
 
-| Hechtingsprofiel | Laag 1: FEAR | Laag 1: PANIC | Laag 1: SEEKING | Laag 2: Gedragsstrategie | De Aangeleerde Koppelingsregel |
+| Hechtingsprofiel (Nederlands / Code) | Laag 1: FEAR | Laag 1: PANIC | Laag 1: SEEKING | Laag 2: Gedragsstrategie | De Aangeleerde Koppelingsregel |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Veilig (Secure)** | Laag | Laag | **Hoog** | **Flexibel:** toenadering bij nood, exploratie bij rust | *"Als ik angst/gemis voel, vraag ik steun; daarna kan ik weer vrij spelen."* (Flexibele brug) |
-| **Gepreoccupeerd (Anxious)** | Matig/Hoog | **Hoog** | Laag/Matig | **Hyperactivatie:** aanklampen, claimen, scannen | *"Als ik onrust voel, moet ik direct escaleren en vastklampen, anders verlies ik de ander."* (Rigide koppeling) |
-| **Afwijzend (Dismissing)** | Laag (of gedissocieerd) | Laag (verdoofd) | **Laag** | **Deactivatie:** afstand, kille autonomie, shutdown | *"Als ik nood voel, moet ik het uitschakelen en alles alleen doen; steun zoeken is gevaarlijk."* (Rigide deactivatie) |
-| **Angstig-Vermijdend (Fearful)** | **Hoog** | **Hoog** | Laag | **Toenadering-vermijdingsconflict:** aantrekken en afstoten | *"Ik heb de ander wanhopig nodig, maar nabijheid vernietigt mij."* (Tegenstrijdige koppeling) |
-| **Gedesorganiseerd (Disorganized)** | **Extreem Hoog** | **Extreem Hoog** | Geblokkeerd | **Fragmentatie:** freeze, fawnen, plots uithalen | *"De bron van veiligheid is tevens de bron van terreur."* (Koppeling breekt volledig in stukken) |
+| **1. Veilig gehecht (*Secure*)** | Laag | Laag | **Hoog** | **Flexibel:** toenadering bij nood, exploratie bij rust | *"Als ik angst/gemis voel, vraag ik steun; daarna kan ik weer vrij spelen."* (Flexibele brug) |
+| **2. Angstig-gepreoccupeerd (*Anxious-Preoccupied* / AP)** | Matig/Hoog | **Hoog** | Laag/Matig | **Hyperactivatie:** aanklampen, claimen, scannen | *"Als ik onrust voel, moet ik direct escaleren en vastklampen, anders verlies ik de ander."* (Rigide koppeling) |
+| **3. Afwijzend-vermijdend (*Dismissing-Avoidant* / DA)** | Laag (of gedissocieerd) | Laag (verdoofd) | **Laag** | **Deactivatie:** afstand, kille autonomie, shutdown | *"Als ik nood voel, moet ik het uitschakelen en alles alleen doen; steun zoeken is gevaarlijk."* (Rigide deactivatie) |
+| **4. Angstig-vermijdend (*Fearful-Avoidant* / FA)** | **Hoog** | **Hoog** | Laag | **Toenadering-vermijdingsconflict:** aantrekken en afstoten | *"Ik heb de ander wanhopig nodig, maar nabijheid vernietigt mij."* (Tegenstrijdige koppeling) |
+| **Gedesorganiseerd (*Disorganized*)** (Acuut trauma) | **Extreem Hoog** | **Extreem Hoog** | Geblokkeerd | **Fragmentatie:** freeze, fawnen, plots uithalen | *"De bron van veiligheid is tevens de bron van terreur."* (Koppeling breekt volledig in stukken) |
 
 ---
 

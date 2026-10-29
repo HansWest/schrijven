@@ -7,7 +7,13 @@
 
 ## 1. Theoretisch Fundament: Voorbij het Label 'Hechtingsstijl'
 
-In traditionele hechtingsmodellen (Bowlby, Ainsworth) worden mensen vaak ingedeeld in vier vaste hokjes: *veilig*, *angstig-gepreoccupeerd*, *afwijzend-vermijdend*, of *gedesorganiseerd/angstig-vermijdend*. In de relationele praktijk en coaching blijkt deze typering vaak te rigide:
+In de volwassen hechtingspsychologie (Bartholomew & Horowitz) worden traditioneel vier hechtingsstijlen onderscheiden op basis van het zelfbeeld en het beeld van de ander:
+- **1. Veilig gehecht (*Secure*)** (+ Zelf / + Ander)
+- **2. Angstig-gepreoccupeerd (*Anxious-Preoccupied* / AP)** (- Zelf / + Ander) — ook wel *angstig-ambivalent*
+- **3. Afwijzend-vermijdend (*Dismissing-Avoidant* / DA)** (+ Zelf / - Ander) — ook bekend als *dismissief-vermijdend*
+- **4. Angstig-vermijdend (*Fearful-Avoidant* / FA)** (- Zelf / - Ander) — de volwassen vorm van *gedesorganiseerde* hechting
+
+In de relationele praktijk en coaching blijkt deze typering echter vaak te rigide wanneer men het als een vaststaand persoonlijkheidsetiket hanteert:
 
 1. **Geen Karaktertrek, maar een Overlevingspatroon:**
    - Hechting is geen vaste eigenschap van iemands persoonlijkheid, maar een **geconditioneerd neurobiologisch reactiepatroon** van het autonome zenuwstelsel en de hersenstam.
@@ -52,7 +58,7 @@ Wanneer een hechtingspatroon acuut wordt getriggerd, is de neocortex (het denken
   - *Buitenwereld:* Fysiek weglopen, contact plotseling verbreken, obsessieve afleiding, overmatig werken/sporten, verdoving via middelen (alcohol, drugs).
   - *Binnenwereld:* Zich mentaal terugtrekken in het eigen hoofd, dagdromen/fantasie, over-intellectualiseren om niet te hoeven voelen, emotioneel uitchecken.
 - **Flock (Kudde zoeken):** In paniek vrienden rondbellen of datingapps openen ter afleiding van de leegte.
-- **Fight (Vechten — De Kat op de Kast):** Niet per se doelgerichte boosheid, maar de reactie van een kat die in het nauw gedreven op de kast zit: een ongerichte bol klauwen die puur veiligheid zoekt door alles met sneren, kille jij-bakken en cynisme op brute afstand te houden (angstig-dismissive reactie).
+- **Fight (Vechten — De Kat op de Kast):** Niet per se doelgerichte boosheid, maar de reactie van een kat die in het nauw gedreven op de kast zit: een ongerichte bol klauwen die puur veiligheid zoekt door alles met sneren, kille jij-bakken en cynisme op brute afstand te houden (afwijzend-vermijdende DA- of angstig-vermijdende FA-reactie).
 - **Freeze (Bevriezen — Vertrouwen op Schutkleuren):** Zoals een dier dat roerloos stilzit en vertrouwt op camouflage terwijl de vijand vlakbij is; jezelf muisstil houden, emoties bevriezen, 'opgaan in het behang' in de hoop dat de bui overwaait. De motor draait op volle toeren, maar de rem staat erop.
 - **Fawn (Pleasen — De Sociale Schutkleur):** Waar Freeze fysieke camouflage is, fungeert Fawn als een sociale schutkleur: door preventieve submissie en inschikkelijkheid word je onzichtbaar/ongevaarlijk voor machtzoekers in de groep. Eigen behoeften worden gewist om onder de radar te blijven.
 - **Feign Death (Schijndood & Depressie):** De reactie op totale hopeloosheid (overgave in de bek van het roofdier); diepe depressieve apathie, status laten varen, emotionele analgesie (niet meer reageren op pijn), geen honger meer hebben en acute somatische lediging (angstige diarree).
