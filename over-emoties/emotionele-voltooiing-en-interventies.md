@@ -31,9 +31,9 @@ Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens 
 
 **Emotionele voltooiing** betekent dat het brein woorden mag vinden voor de emotie die gevoeld wordt en dat het organisme de biologische cyclus alsnog veilig mag afmaken. Het zenuwstelsel krijgt het fysiologische signaal dat de actie is volbracht, waardoor het stresssysteem definitief kan terugkeren naar de veilige basis van de ventrale vagus.
 
-### Het Ethologische Bewijs: Het Gier-experiment en de Motorische Eindhandeling (*Consummatory Act*)
+### De Ethologische Analogie: Het Gier-experiment en de Motorische Eindhandeling (*Consummatory Act*)
 
-Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet louter met woorden of passief wachten kan worden opgelost, sluit naadloos aan bij een klassiek biologisch en ethologisch principe (o.a. beschreven door Wallace Craig, Konrad Lorenz en Niko Tinbergen): het onderscheid tussen **appetitief gedrag** (*Appetenzverhalten*) en de **consummatorische eindhandeling** (*Endhandlung* of *Consummatory Act*).
+Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet louter met woorden of passief wachten kan worden opgelost, laat zich helder begrijpen via een klassieke **ethologische analogie** (o.a. geworteld in het werk van Wallace Craig, Konrad Lorenz en Niko Tinbergen): het onderscheid tussen **appetitief gedrag** (*Appetenzverhalten*) en de **consummatorische eindhandeling** (*Endhandlung* of *Consummatory Act*).
 
 > **Het Experiment met Roofvogels & Scheinfütterung (Sham Feeding):**  
 > In klassieke ethologische en fysiologische studies met roofvogels (zoals gieren en valken) en roofdieren werd onderzocht waardoor honger en jachtdrift worden gestild. Wanneer dieren aten via een fistel waardoor het voedsel de maag direct weer verliet (de maag raakte dus fysiologisch en calorisch *niet* gevuld), gebeurde er iets fascinerends:  
@@ -42,7 +42,7 @@ Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet lout
 > Het omgekeerde experiment was nog veelzeggender: voedde men een roofvogel of roofdier rechtstreeks via een maagsonde (een volle maag en calorische verzadiging zónder de motorische handeling), dan bleef het dier rusteloos, gespannen en gefrustreerd. Zodra het alsnog een karkas aangeboden kreeg, begon het alsnog bezeten vlees van het bot te scheuren, ondanks de overvolle maag!
 
 #### De Neurobiologische Parallel met Menselijke Emoties
-Dit principe legt bloot waarom traditionele praattherapie of rationele geruststelling emotionele ontlading vaak blokkeert:
+Deze analogie illustreert haarscherp waarom traditionele praattherapie of rationele geruststelling emotionele ontlading vaak blokkeert:
 - **Cognitieve geruststelling is de 'maagsonde' van de psychologie:** Je vult de neocortex met rationele verklaringen en geruststelling (*"Je bent nu veilig", "Het is al jaren geleden", "Je moet het loslaten"*), maar de subcorticale hersenstam en het autonome zenuwstelsel hebben hun biologische motorprogramma nog **niet** mogen afdraaien.
 - **De emotie is pas 'voltooid' als de motorische eindhandeling somatisch is voltrokken:** 
   - Bij **woede** moet het lijf de spierspanning van het wegduwen, begrenzen of fysiek pal staan ontladen.
