@@ -1,6 +1,6 @@
 # De Onderliggende Ideeën & Theorieën: Neurobiologie, Systemen en de Anatomie van de Botsing
 
-> **Integrative Relationship Coaching — Conflicttheorie & Dynamiek**  
+> **Integrative Relationship Coaching - Conflicttheorie & Dynamiek**  
 > *Waarom rationele argumenten sneuvelen in het aangezicht van de hersenstam, hoe het Tweelagenmodel de dynamiek van escalatie verklaart, en wat psychobiologie, PACT (Stan Tatkin), en John Gottman's werk ons leren over het 'goede gevecht'.*
 
 ---
@@ -41,7 +41,7 @@ Dit is de arena van het conflict. Vaak denken we dat het gevecht pas begint wann
 #### De Metafoor van het Voorspel: De Voorbereiding *IS* het Gevecht
 Hier maken we vaak een hardnekkige denkfout: we zien de voorfase als een droog, administratief opstapje om het gevecht straks mogelijk te maken. 
 
-Vergelijk het met goede seksualiteit: **het zogenaamde 'voorspel' is geen bureaucratische voorwaarde om seks mogelijk te maken; het *is* seks.** De blik, het vertragen, het ontkleden, het aftasten en het opvoeren van de erotische spanning — het is integraal onderdeel van het vrijen zelf. 
+Vergelijk het met goede seksualiteit: **het zogenaamde 'voorspel' is geen bureaucratische voorwaarde om seks mogelijk te maken; het *is* seks.** De blik, het vertragen, het ontkleden, het aftasten en het opvoeren van de erotische spanning - het is integraal onderdeel van het vrijen zelf. 
 
 Precies zo verhoudt de voorbereiding zich tot conflict:
 > **De voorbereidende fasen zijn geen proloog op het conflict; ze *zijn* het conflict.**
@@ -49,14 +49,14 @@ Precies zo verhoudt de voorbereiding zich tot conflict:
 Al het innerlijke en relationele werk dat plaatsvindt voordat de eerste zin wordt uitgesproken, is een vitaal onderdeel van het positieve uitvechten:
 
 1. **De Pijncalculatie: Conflictpijn versus de Pijn van het Uitblijven:**  
-   Een conflict aangaan doet pijn en vraagt energie. Maar minstens zo cruciaal is het doordenken van de **pijn die het *uitblijven* van het conflict zal geven**: het sluipende gif van wrok, de kille distantie, het zelfverlies en de verachting (Gottmans dodelijkste ruiter). Wie de prijs van het zwijgen helder voor ogen heeft, stapt met een heel andere vastberadenheid de arena in.
+   Een conflict aangaan doet pijn en vraagt energie. Maar minstens zo cruciaal is het doordenken van de **pijn die het *uitblijven* van het conflict zal geven**: het sluipende gif van wrok, de kille distantie, het zelfverlies en de verachting (Gottmans dodelijkste 'ruiter'). Wie de prijs van het zwijgen helder voor ogen heeft, stapt met een heel andere vastberadenheid de arena in.
 2. **Het Doordenken van de 'Ultimate Price':**  
    Wat staat er ultiem op het spel? Wat als de uitkomst is dat we onze structuur moeten omgooien, of dat een gekoesterde fantasie sneuvelt? Het onder ogen zien van het uiterste scenario ontzenuwt de paniek van het onbekende.
 3. **Strategie en Emotionele Timing:**  
    Niet impulsief je gal spuwen vanuit een gekaapte hersenstam, maar bewust nadenken over bedding, setting en momentum.
 4. **Mastery: De Gerichte Stoot en Heilzame Afschrikking:**  
    In de krijgskunst (en in Stan Tatkins PACT-kader) gaat meesterschap (*mastery*) niet over blind om je heen maaien, maar over **uiterste precisie**. Het vermogen om met één gerichte, zuivere observatie precies de vinger op de zere plek te leggen, zonder nodeloze nevenschade aan te richten.  
-   Bovendien heeft het tonen van *mastery* — laten voelen dat je soeverein bent, gegrond staat en een harde klap zóu *kunnen* uitdelen (begrenzen met tanden en klauwen) — een diep regulerend effect: het zorgt ervoor dat de ander zich wel twee keer bedenkt om jou een eerste klap te geven. Gezonde weerbaarheid voorkomt pestgedrag en nodeloos geweld; het dwingt wederzijds respect en terughoudendheid af.
+   Bovendien heeft het tonen van *mastery* - laten voelen dat je soeverein bent, gegrond staat en een harde klap zóu *kunnen* uitdelen (begrenzen met tanden en klauwen) - een diep regulerend effect: het zorgt ervoor dat de ander zich wel twee keer bedenkt om jou een eerste klap te geven. Gezonde weerbaarheid voorkomt pestgedrag en nodeloos geweld; het dwingt wederzijds respect en terughoudendheid af.
 
 *Grapple* omvat vervolgens het zorgvuldige werk van **excavation** (opgraving):
 - Wat ligt er onder de oppervlakte van het verwijt?
@@ -154,7 +154,7 @@ Zodra het zenuwstelsel een relationeel signaal interpreteert als een existentië
 
 ## 4. PACT: 'Fighting in the Pocket' (Stan Tatkin)
 
-Stan Tatkin (ontwikkelaar van de *Psychobiological Approach to Couple Therapy* — PACT) legt de vinger op een zere plek in moderne relaties: **we vechten via de verkeerde kanalen.**
+Stan Tatkin (ontwikkelaar van de *Psychobiological Approach to Couple Therapy* - PACT) legt de vinger op een zere plek in moderne relaties: **we vechten via de verkeerde kanalen.**
 
 Wanneer spanning oploopt, grijpen partners massaal naar WhatsApp, e-mail of telefoongesprekken. Neurobiologisch is dit een ramp:
 - Bij tekstberichten ontbreken **prosodie** (intonatie), **oogcontact**, **micro-expressies** en **lichaamshouding**.

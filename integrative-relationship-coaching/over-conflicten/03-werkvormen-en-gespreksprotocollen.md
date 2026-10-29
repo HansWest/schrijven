@@ -1,6 +1,6 @@
 # Werkvormen en Gespreksprotocollen voor Coaches en Partners
 
-> **Integrative Relationship Coaching — Gespreksstructuren & Containers**  
+> **Integrative Relationship Coaching - Gespreksstructuren & Containers**  
 > *Waarom improviseren tijdens een ruzie faalt: praktische protocollen om van een destructieve vechtpartij een transformerend conflictritueel te maken.*
 
 ---
@@ -9,7 +9,7 @@
 
 Wanneer het zenuwstelsel in alarm schiet, daalt het reflectieve vermogen van de neocortex naar een historisch dieptepunt. Partners vallen automatisch terug op hun meest primitieve scripts: overschreeuwen, dichtklappen, sarcastische steken of claimen.
 
-Om een constructief conflict aan te gaan — de fase van *Grapple* (het bewuste worstelen) — heb je een **container** nodig: een afgesproken structuur die het gevecht omsluit en voorkomt dat de relationele dijken doorbreken.
+Om een constructief conflict aan te gaan - de fase van *Grapple* (het bewuste worstelen) - heb je een **container** nodig: een afgesproken structuur die het gevecht omsluit en voorkomt dat de relationele dijken doorbreken.
 
 In dit document vind je vier beproefde protocollen en werkvormen voor koppels en polyamoreuze netwerken.
 
@@ -86,7 +86,7 @@ Een eis of verwijt duwt de partner onvermijdelijk in de verdediging. Het openleg
 
 Wanneer partners weten dat een confrontatie noodzakelijk is, improviseren ze meestal niet met succes. Een **Fight Plan** is een vooraf overeengekomen set afspraken over hoe jullie 'de ring in stappen'. 
 
-Het vertrekt vanuit één fundamenteel uitgangspunt: **we strijden niet met mensen die we niet belangrijk vinden, en we strijden niet om zaken die er niet toe doen.** Het feit dat er frictie is en dat jullie dit gesprek aangaan, betekent dat er iets van grote waarde beschermd of hersteld wil worden — voor jezelf, of voor jullie *samen*.
+Het vertrekt vanuit één fundamenteel uitgangspunt: **we strijden niet met mensen die we niet belangrijk vinden, en we strijden niet om zaken die er niet toe doen.** Het feit dat er frictie is en dat jullie dit gesprek aangaan, betekent dat er iets van grote waarde beschermd of hersteld wil worden - voor jezelf, of voor jullie *samen*.
 
 Net zoals het 'voorspel' in de seks geen bureaucratische voorwaarde is maar al integraal seks *ís*, is het doordenken van een Fight Plan al het gevecht zelf. Het doordenken van de *ultimate price*, het afwegen van de pijn van het conflict tegen de sluipende pijn van het zwijgen, en het oefenen in gerichte relationele precisie (laten voelen dat je een harde klap zóu kunnen uitdelen, waardoor niemand hoeft te slaan) vormen de helft van de overwinning.
 
@@ -106,7 +106,7 @@ Net zoals het 'voorspel' in de seks geen bureaucratische voorwaarde is maar al i
 
 1. **De Intentie-verklaring (De Opening):**  
    Begin altijd met het herbevestigen van de relatieband en de betekenis van het gevecht:  
-   > *"We vechten niet met mensen die ons koud laten, en we strijden al zeker niet om dingen die we onbelangrijk vinden. Dat we dit conflict aangaan, betekent dat er iets op het spel staat dat waardevol is voor mij — of voor ons samen. Mijn doel is niet om jou te verslaan, maar om die waarheid op tafel te krijgen."*
+   > *"We vechten niet met mensen die ons koud laten, en we strijden al zeker niet om dingen die we onbelangrijk vinden. Dat we dit conflict aangaan, betekent dat er iets op het spel staat dat waardevol is voor mij - of voor ons samen. Mijn doel is niet om jou te verslaan, maar om die waarheid op tafel te krijgen."*
 2. **De Fysieke Setting:**  
    - Geen telefoons in de kamer (in vliegtuigmodus in een andere ruimte).
    - Twee stoelen tegenover elkaar op anderhalve meter afstand (*in the pocket*).
@@ -162,15 +162,15 @@ Voorkomen is beter dan genezen. De **RADAR-methodiek** (oorspronkelijk gepionier
 
 ### De 5 Fasen van de RADAR:
 
-1. **R — Review (Terugblik & Viering):**  
+1. **R - Review (Terugblik & Viering):**  
    Wat ging er fantastisch de afgelopen twee weken? Welke momenten van intimiteit, humor of steun hebben we ervaren? (Laat het zenuwstelsel landen in dankbaarheid).
-2. **A — Agree on Agenda (Agenda Bepalen):**  
+2. **A - Agree on Agenda (Agenda Bepalen):**  
    Ieder brengt maximaal 2 punten in. Schrijf ze op een briefje. Bepaal samen de volgorde.
-3. **D — Discuss (Onderzoeken via het Tweelagenmodel):**  
+3. **D - Discuss (Onderzoeken via het Tweelagenmodel):**  
    Bespreek de punten één voor één. Niet direct in de oplossingsstand; onderzoek eerst: welke laag raakt dit? Is dit een kwestie van botten (afspraken), spieren (vaardigheid/inspanning) of zenuwstelsel (overprikkeling/angst)?
-4. **A — Action Steps (Kleine, Haalbare Aanpassingen):**  
+4. **A - Action Steps (Kleine, Haalbare Aanpassingen):**  
    Wat is de kleinste concrete verandering die we de komende twee weken gaan uitproberen? Geen megalomane beloftes, maar micro-stappen (*"We zetten onze telefoons om 21:00 uur uit als we samen zijn"*).
-5. **R — Reconnect & Aftercare (Herverbinding):**  
+5. **R - Reconnect & Aftercare (Herverbinding):**  
    Sluit af met bewuste ontspanning: een knuffel van minstens 30 seconden (oxytocine-aanmaak), samen thee drinken, of even wandelen. Bespreek geen nieuwe zware thema's meer.
 
 ---

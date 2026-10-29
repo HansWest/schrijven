@@ -1,6 +1,6 @@
 # Oefeningen, Werkbladen en Somatische Praktijken
 
-> **Integrative Relationship Coaching — Praktijkgids**  
+> **Integrative Relationship Coaching - Praktijkgids**  
 > *Concrete oefeningen, werkbladen en somatische interventies om frictie in (poly)liefdesrelaties hanteerbaar te maken, het zenuwstelsel te aarden en de ware behoefte op te delven.*
 
 ---
@@ -36,11 +36,11 @@ Gebruik dit werkblad solo of samen met een partner/coach wanneer een conflict bl
 
 ### Het Invulschema:
 
-1. **Stap 1: Het Verwijt (Laag 2 — Het Ik)**  
+1. **Stap 1: Het Verwijt (Laag 2 - Het Ik)**  
    *Schrijf zonder censuur op wat je de ander wilt verwijten:*  
    > *"Jij..."* (bijv. *"Jij zit alleen maar op je telefoon met je nieuwe partner te chatten terwijl we samen eten"*).
 
-2. **Stap 2: De Somatische Gewaarwording (Laag 1 — Het Zelf)**  
+2. **Stap 2: De Somatische Gewaarwording (Laag 1 - Het Zelf)**  
    *Wat gebeurt er fysiek in je lijf op dat moment?*  
    > (bijv. Knoop in de maag, druk op het borstbeen, koude vingers, brok in de keel, ademhaling stokt).
 

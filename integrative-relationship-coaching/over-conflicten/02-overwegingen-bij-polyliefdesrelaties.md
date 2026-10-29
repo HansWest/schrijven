@@ -1,6 +1,6 @@
 # Overwegingen en Dynamieken in Meervoudige Liefdesrelaties (Polyamorie)
 
-> **Integrative Relationship Coaching — Polyamorie & Conflictdynamiek**  
+> **Integrative Relationship Coaching - Polyamorie & Conflictdynamiek**  
 > *Over het rimpeleffect van spanning in een web van relaties, de verleiding van triangulatie, de fysiologische botsing tussen NRE en ORE, en waarom compersie nooit een verplichting mag zijn.*
 
 ---
@@ -9,7 +9,7 @@
 
 In een monogame relatie is er één diade: de wisselwerking tussen persoon A en persoon B. Wanneer het daar botst, blijft de storm in principe binnen die vier muren.
 
-In consensuele non-monogamie en polyamorie is een relatie geen eiland, maar een **knooppunt in een netwerk**. Zelfs in de eenvoudigste vorm — een 'Vee' (partner A heeft een relatie met scharnierpartner B, die ook een relatie heeft met partner C) — bestaan er niet twee, maar vier dynamische krachtenvelden:
+In consensuele non-monogamie en polyamorie is een relatie geen eiland, maar een **knooppunt in een netwerk**. Zelfs in de eenvoudigste vorm - een 'Vee' (partner A heeft een relatie met scharnierpartner B, die ook een relatie heeft met partner C) - bestaan er niet twee, maar vier dynamische krachtenvelden:
 
 ```
                       Partner B

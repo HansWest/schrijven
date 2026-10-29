@@ -14,6 +14,7 @@
 - Hanteer bij theoretische diepgang een gelaagde structuur (tweetrap): houd het hoofdverhaal verhalend, laagdrempelig en invoelbaar, en bundel vakjargon, academische kaders of literatuur in een expliciet verdiepend slotdeel.
 - Behoud de eigenzinnige toon, maar neem formuleringen, begrippen of voorbeelden uit eerdere stukken niet automatisch over. Maak per nieuw stuk nieuw taalwerk.
 - Redigeer op helderheid en spelling zonder de stem glad, afstandelijk of formeel te maken. Reproduceer geen typefouten uit een voorbeeld.
+- Gebruik voor gedachtestreepjes, terzijdes of toelichtingen een gewoon liggend streepje met spaties eromheen (" - ") in plaats van een lange em-dash ("—").
 
 ## Stijl van een nieuw stukje bekijken
 

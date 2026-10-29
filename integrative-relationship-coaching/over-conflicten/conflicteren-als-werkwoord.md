@@ -1,6 +1,6 @@
 # Conflicteren als Werkwoord: De Kunst van het Goede Gevecht
 
-> **Integrative Relationship Coaching — Grondtekst & Essay**  
+> **Integrative Relationship Coaching - Grondtekst & Essay**  
 > *Waarom conflict geen systeemfout is, maar de geboorteplek van relationele vernieuwing. Over de drieledige cyclus van het gezonde conflict, de kunst van de opgraving, en hoe we leren vechten zonder elkaar kwijt te raken.*
 
 ---
@@ -9,7 +9,7 @@
 
 Binnen **Integrative Relationship Coaching** beschouwen we relaties niet als statische monumenten, maar als levende organismen. En een levend organisme dat beweegt, schuurt onvermijdelijk tegen zijn omgeving en zijn mede-bewoners aan.
 
-Toch heerst er een hardnekkig taboe op ruzie. In de populaire psychologie — en niet minder binnen de wereld van polyamorie en bewuste relaties — wordt harmonie vaak verward met veiligheid. Wie ruzie heeft, denkt al snel dat er iets mis is met de 'match', dat de communicatie faalt, of dat men emotioneel niet volwassen genoeg is.
+Toch heerst er een hardnekkig taboe op ruzie. In de populaire psychologie - en niet minder binnen de wereld van polyamorie en bewuste relaties - wordt harmonie vaak verward met veiligheid. Wie ruzie heeft, denkt al snel dat er iets mis is met de 'match', dat de communicatie faalt, of dat men emotioneel niet volwassen genoeg is.
 
 Binnen eigentijdse conflictbegeleiding (en geïnspireerd door modern werk rondom *good fighting*) keren we deze gedachte resoluut om: **conflicten zijn geen negatieve calamiteiten, maar noodzakelijke en potentieel transformerende processen.** 
 
@@ -21,7 +21,7 @@ Er is een diepere wetmatigheid die we in de hitte van een ruzie makkelijk verget
 
 Wanneer een voorbijganger op straat je afsnijdt of een collega waar je niets mee hebt een botte opmerking maakt, haal je je schouders op. Je checkt mentaal uit. Je laat het langs je heen glijden. De echte tegenpool van liefde en verbinding is dan ook niet woede of strijd, maar **onverschilligheid**.
 
-Dat er strijd ontstaat — dat twee (of meer) mensen de ring in stappen, het ongemak verdragen en de confrontatie aangaan — bewijst dat er iets op het spel staat. Het betekent dat er iets van diepe waarde in het geding is:
+Dat er strijd ontstaat - dat twee (of meer) mensen de ring in stappen, het ongemak verdragen en de confrontatie aangaan - bewijst dat er iets op het spel staat. Het betekent dat er iets van diepe waarde in het geding is:
 - **Waardevol voor jezelf:** een grens die niet langer overschreden mag worden, een behoefte aan autonomie, of een fundamentele waarheid over wie jij bent.
 - **Waardevol voor jullie *samen*:** de vurige overtuiging dat deze relatie te kostbaar is om te laten verkillen in lauwe beleefdheid, en dat jullie samen sterker kunnen worden dan de huidige barst.
 
@@ -66,7 +66,7 @@ Wie pas begint na te denken over veiligheid, intentie en kaders op het moment da
 ### De Metafoor van het Voorspel: De Voorbereiding *IS* het Gevecht
 We maken rondom conflicten vaak dezelfde denkfout als mensen die intimiteit reduceren tot een technisch eindpunt: we zien de voorbereiding als een verplicht nummertje om het echte werk straks mogelijk te maken. 
 
-In werkelijkheid geldt: **het zogenaamde 'voorspel' in de seks is geen bureaucratische voorwaarde om het spel mogelijk te maken; het *is* seks.** De blik, het vertragen, het ontkleden, het aftasten en het opvoeren van de spanning — het is integraal onderdeel van het vrijen zelf. 
+In werkelijkheid geldt: **het zogenaamde 'voorspel' in de seks is geen bureaucratische voorwaarde om het spel mogelijk te maken; het *is* seks.** De blik, het vertragen, het ontkleden, het aftasten en het opvoeren van de spanning - het is integraal onderdeel van het vrijen zelf. 
 
 Precies zo is het met de voorfase van conflict:
 > **De voorbereidende fasen maken het goede conflict niet mogelijk; ze *zijn* het conflict.**
@@ -77,7 +77,7 @@ Al het innerlijke en relationele werk dat plaatsvindt voordat de eerste zin aan 
 - **Strategie en timing:** Bewust kiezen voor bedding, setting en momentum in plaats van reactief je gal spuwen.
 - **Mastery: De gerichte stoot en gezonde afschrikking:**  
   In de krijgskunst gaat meesterschap niet over blind geweld, maar over **uiterste precisie**. Het vermogen om met één gerichte observatie exact de kern te raken zonder nodeloze schade aan te richten.  
-  Het laten zien van je *mastery* — laten voelen dat je soeverein bent, gegrond staat en een harde klap zóu *kunnen* uitdelen (begrenzen met tanden en klauwen) — heeft een diep regulerende werking: het zorgt ervoor dat de ander zich inhoudt om jou een eerste klap te geven. Weerbaarheid dwingt wederzijds respect af en voorkomt roekeloze escalatie.
+  Het laten zien van je *mastery* - laten voelen dat je soeverein bent, gegrond staat en een harde klap zóu *kunnen* uitdelen (begrenzen met tanden en klauwen) - heeft een diep regulerende werking: het zorgt ervoor dat de ander zich inhoudt om jou een eerste klap te geven. Weerbaarheid dwingt wederzijds respect af en voorkomt roekeloze escalatie.
 
 ### De Kernvaardigheid: Excavation (Opgraving)
 De kernvaardigheid in deze voorfase is *excavation* (opgraving): het zorgvuldig onderzoeken van wat er werkelijk speelt onder de oppervlakte van het verwijt. Dit gebeurt via een vijfdelig protocol:

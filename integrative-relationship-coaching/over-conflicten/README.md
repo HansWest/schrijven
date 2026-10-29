@@ -1,13 +1,13 @@
 # Conflicteren als Werkwoord: Navigeren van Spanning en Groei in (Poly)liefdesrelaties
 
-> **Integrative Relationship Coaching — Module Conflicthantering**  
+> **Integrative Relationship Coaching - Module Conflicthantering**  
 > *Waarom conflict niet het faillissement van de liefde is, maar de zuurstof voor intimiteit. Over de neurobiologie van botsen, de specifieke dynamiek van meervoudige liefdesrelaties, en concrete werkvormen om samen te vechten zonder elkaar te slopen.*
 
 ---
 
 ## Waarom deze module?
 
-In bijna elke relatiecultuur — en misschien nog wel sterker binnen polyamorie en bewuste relaties — heerst een hardnekkige fabel: **dat een goede relatie een relatie zonder wrijving is.** 
+In bijna elke relatiecultuur - en misschien nog wel sterker binnen polyamorie en bewuste relaties - heerst een hardnekkige fabel: **dat een goede relatie een relatie zonder wrijving is.** 
 
 Als er ruzie is, zo fluistert onze vrees, dan past het blijkbaar niet. Dan hebben we gefaald in onze communicatie, zijn we niet "verlicht" genoeg, of hebben we onze "hechtingswonden nog niet voldoende geheeld". Zeker in de polyamoreuze wereld kan die druk torenhoog zijn: we hebben immers boeken vol theorieën gelezen over *compersie*, *radicale eerlijkheid* en *communicatieprotocollen*. Wanneer het dan toch ontploft over een uitgelopen date, een vergeten appje of een knagend gevoel van achterstelling, slaat niet zelden de schaamte toe.
 
