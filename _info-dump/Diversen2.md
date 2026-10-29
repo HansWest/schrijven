@@ -1,3 +1,6 @@
+
+# diversen 
+
 het cultiveren van veiligheid, met name binnen non-monogame structuren. Het onderscheid tussen een 'Safe Haven' (troost bij nood) en een 'Secure Base' (platform voor groei) biedt een strategische methode om relationele rollen te verdelen.
 ---
 
