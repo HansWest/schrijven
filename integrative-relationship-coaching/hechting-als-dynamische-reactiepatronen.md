@@ -152,7 +152,76 @@ In plaats van de coachee een etiket op te plakken, helpt de coach om de koppelin
 
 ---
 
-## 6. Samenvattend Advies voor de Beoefenaar / Coach
+## 6. Praktijkprotocol 4: De "Als-Dan" Hechtingsnavigatiekaart (Voor Zelf en Partner)
+
+Omdat **niemand 100% veilig gehecht is** en overlevingspatronen worden uitgelokt door specifieke situaties, vermoeidheid of de dynamiek in de tussenruimte, stappen we in coaching resoluut af van de statische identiteitsclaim (*"Ik ben nu eenmaal een vermijder of pleaser"*).
+
+We vervangen het etiket door een **concrete, operationele navigatiekaart**:  
+> *"Als ik merk dat patroon X in mij wordt uitgelokt: wat kan IK op dat moment het beste doen, en wat kan mijn PARTNER het beste doen om co-regulatie en veiligheid te herstellen?"*
+
+```
+                 DE "ALS-DAN" HECHTINGSNAVIGATIEKAART
+                 
+           [ Trigger / Uitlokking in Situatie of Tussenruimte ]
+                                    │
+                                    ▼
+                 [ Herken het Acute Reactiepatroon ]
+                                    │
+    ┌───────────────────────────────┼───────────────────────────────┐
+    ▼                               ▼                               ▼
+[ ANGSTIG-GEPREOCCUPEERD ]   [ AFWIJZEND-VERMIJDEND ]   [ ANGSTIG-VERMIJDEND ]
+(Hyperactivatie / AP)        (Deactivatie / DA)         (Conflict / FA)
+    │                               │                               │
+    ├─► Wat voelt het Zelf?         ├─► Wat voelt het Zelf?         ├─► Wat voelt het Zelf?
+    ├─► Wat doet IK?                ├─► Wat doet IK?                ├─► Wat doet IK?
+    └─► Wat doet de PARTNER?        └─► Wat doet de PARTNER?        └─► Wat doet de PARTNER?
+```
+
+### De Drie Protocollen in Detail:
+
+#### 1. Wanneer het Angstig-Gepreoccupeerde (AP) Patroon Ontvlamt
+* **Wat het Zelf voelt (Laag 1):** Rauwe scheidingspaniek (PANIC), hartkloppingen, knoop in de maag, alertheid: *"Ik verlies de ander, ik word verlaten."*
+* **Wat de automatische reflex is:** Claimen, 10 appjes sturen, controleren, drama forceren om direct contact af te dwingen (*Frenzy / Fight*).
+* **Wat IK op dat moment het beste kan doen:**
+  1. *Communicatiepauze:* Leg de telefoon fysiek weg; stuur geen berichten zolang de hartslag verhoogd is.
+  2. *Somatische zelfregulatie:* Fysiologische zucht (twee keer kort inademen door de neus, langzaam uitblazen), voeten stevig op de vloer, handen op de buik leggen.
+  3. *Van verwijt naar kwetsbaar verlangen:* Zodra gekalmeerd, niet met de vinger wijzen (*"Jij reageert nooit"*), maar zacht uitspreken: *"Ik merkte dat ik even onrustig werd en behoefte had aan nabijheid; vind je het fijn als we vanavond even rustig samen zitten?"*
+* **Wat mijn PARTNER op dat moment het beste kan doen:**
+  1. *Niet defensief worden of wegvluchten:* Begrijp dat de dwingende toon een paniekreactie van de hersenstam is, geen bewuste aanval.
+  2. *Expliciete voorspelbaarheid en nabijheid bieden:* Zeg helder: *"Ik zie dat je onrustig bent. Ik ben nu even bezig met [taak], maar ik hou van je en om 20:00 ben ik er helemaal voor jou."*
+  3. *Lijfelijke co-regulatie:* Een rustige, stevige omhelzing of een zachte hand doet meer dan een uur logisch discussiëren.
+
+---
+
+#### 2. Wanneer het Afwijzend-Vermijdende (DA) Patroon Ontvlamt
+* **Wat het Zelf voelt (Laag 1):** Beklemming, fysiologische overdosis aan prikkels, het gevoel 'klem' te zitten; drang om te verdwijnen (*Flight / Freeze*).
+* **Wat de automatische reflex is:** Emotioneel uitchecken, kille blik, defensieve sneren (*"Je overdrijft altijd"*), fysiek weglopen of dagenlange stilte.
+* **Wat IK op dat moment het beste kan doen:**
+  1. *De time-out helder aankondigen:* Verdwijn niet zomaar, maar geef een veilige grens aan: *"Ik merk dat ik overspoeld raak en rust nodig heb. Ik ga nu een uur wandelen, en om 21:00 praten we rustig verder."*
+  2. *De afspraak nakomen:* Keer op de afgesproken tijd ook werkelijk terug, zodat de partner niet in verlatingspaniek raakt.
+  3. *Somatisch ontprikkelen:* Geen zware analyses in je hoofd, maar het lijf ontspannen (bewegen, koude lucht, douchen).
+* **Wat mijn PARTNER op dat moment het beste kan doen:**
+  1. *Niet achter de DA aan rennen:* De deur blokkeren of een gesprek forceren activeert acute sympathische paniek bij de vermijder.
+  2. *De ruimte gunnen zónder passief-agressieve lading:* Laat de ander rustig gaan met de bevestiging: *"Fijn dat je het aangeeft, neem je tijd, we zien elkaar straks."*
+  3. *Lichtheid en praktische waardering:* Na de time-out niet direct opnieuw zwaar escaleren, maar beginnen met een nuchtere vraag of een praktische bijdrage (*acts of service*) erkennen.
+
+---
+
+#### 3. Wanneer het Angstig-Vermijdende (FA) Patroon Ontvlamt
+* **Wat het Zelf voelt (Laag 1):** Acute verraadwond, diep wantrouwen, doodsangst voor controleverlies gecombineerd met een wanhopig verlangen naar liefde.
+* **Wat de automatische reflex is:** De 'pomp-test' (de partner testen via ijzige stilte om te kijken of die blijft investeren), afwisselend vastklampen en de partner woedend afstoten.
+* **Wat IK op dat moment het beste kan doen:**
+  1. *De projectie ontmaskeren:* Zeg tegen jezelf: *"Dit intense gevoel van verraad is oud jeugdzeer dat nú wordt aangeraakt. Deze partner is niet mijn ouder."*
+  2. *Stoppen met testen:* Stop met de 'silent treatment' als toetssteen. Vraag jezelf af: *"Wat heb ik nú fysiologisch nodig om me veilig te voelen?"*
+  3. *Om veilige bedding vragen:* *"Ik voel me plotseling doodsbang en wil mezelf afsluiten; wil je me gewoon even vasthouden zonder dat we hoeven te praten?"*
+* **Wat mijn PARTNER op dat moment het beste kan doen:**
+  1. *Een anker zijn dat blijft liggen:* Niet wegrennen (bevestigt verlating) én niet dwingend forceren (bevestigt controleverlies).
+  2. *Niet meegaan in de test:* Zeg rustig en liefdevol: *"Ik zie dat je een muur optrekt en me probeert weg te duwen. Je hoeft me niet te testen om te zien of ik om je geef. Ik blijf hier rustig zitten tot je zover bent."*
+  3. *Voorspelbaarheid en zachtheid:* Laat zien dat de relatie bestand is tegen deze storm, waardoor het zenuwstelsel langzaam leert dat nabijheid niet tot vernietiging leidt.
+
+---
+
+## 7. Samenvattend Advies voor de Beoefenaar / Coach
 
 - **Vervang het etiket door nieuwsgierigheid:** Vraag niet: *"Welke hechtingsstijl heeft deze persoon?"*, maar vraag: *"Welk reactiepatroon wordt in deze specifieke relatie opgeroepen, en wat is de functie daarvan voor het zenuwstelsel?"*
 - **Kijk naar de chemie tussen twee zenuwstelsels:** Onderzoek waarom partner A dit patroon activeert en partner B niet.

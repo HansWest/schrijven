@@ -7,11 +7,21 @@
 
 ## 1. Het Failliet van het Statische Hechtingshokje
 
-In de traditionele psychologie (en op sociale media) wordt hechting vaak gereduceerd tot een vast etiket: *"Ik heb een angstige hechtingsstijl, en mijn ex had een vermijdende stijl."* Dit schept de illusie dat hechting een onwrikbare eigenschap is, zoals je bloedgroep of oogkleur.
+In de traditionele psychologie (en op sociale media) wordt hechting vaak gereduceerd tot een vast etiket: *"Ik ben een angstige hechter, en mijn ex is een vermijder."* Dit schept de illusie dat hechting een onwrikbare eigenschap is, zoals je bloedgroep of oogkleur.
 
-In de relationele en somatische realiteit klopt dat niet:
-1. **Hechting is een geconditioneerd zenuwstelsel-patroon:** Het zijn reflexen van het autonome zenuwstelsel die ooit noodzakelijk waren om in de kindertijd fysieke of emotionele nabijheid af te dwingen, of juist om jezelf te beschermen tegen afwijzing, chaos of verstikking.
-2. **Dynamisch en veranderlijk:** Het zenuwstelsel is plastisch. Patronen kunnen doorheen het leven vervagen, versterken of ingrijpend transformeren.
+In de relationele en somatische realiteit klopt dat fundamenteel niet:
+1. **Niemand is 100% veilig gehecht:**  
+   Veiligheid is geen permanent diploma of een onkwetsbare staat. Ieder menselijk zenuwstelsel heeft breekpunten, overbelastingszones en vroegkinderlijke gevoeligheden. Zelfs iemand met een stevige veilige hechtingsbasis zal bij extreme vermoeidheid, rouw, existentiële stress of een onveilige dynamiek terugvallen in primitieve overlevingsreflexen.
+2. **Hechting is een geconditioneerd zenuwstelsel-patroon:**  
+   Het zijn automatische reacties van het autonome zenuwstelsel en de hersenstam die ooit noodzakelijk waren om in de kindertijd fysieke of emotionele nabijheid af te dwingen (hyperactivatie), of juist om jezelf te beschermen tegen afwijzing, chaos of verstikking (deactivatie).
+3. **Situaties en personen lokken patronen uit:**  
+   Een 'hechtingsstijl' sluimert als een latent neuraal programma. Het wordt *uitgelokt* door specifieke situaties (slaapgebrek, ziekte, financiële druk) en specifieke relationele triggers in de tussenruimte. Dezelfde persoon kan bij een voorspelbare, rustige partner volkomen ontspannen en veilig functioneren, bij een kille partner in panisch aanklampen schieten, en bij een overspoelende partner plotseling emotioneel uitchecken.
+4. **Van Identiteit naar Functionele Navigatie:**  
+   Het gaat in het volwassen relationele leven dan ook zelden om de statische identiteitsclaim: *"Ik ben een [hokje]..."*.  
+   Het gaat om nuchtere zelfobservatie en constructieve partner-afstemming:  
+   > *"Als ik mij [...] voel, of als ik merk dat ik [...] reageer:"*  
+   > • *Wat kan IK op dat moment het beste doen om mijn eigen zenuwstelsel te reguleren?*  
+   > • *Wat kan MIJN PARTNER op dat moment het beste doen om co-regulatie en veiligheid te bieden?*
 
 ---
 
