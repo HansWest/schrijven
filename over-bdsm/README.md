@@ -48,12 +48,20 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 10. [**10: Van Vanilla naar Kink: Het Speeltuinmodel & Bewuste Kaders**](10-van-vanilla-naar-kink-het-speeltuinmodel.md)  
     *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink (o.a. choking) en het Speeltuinmodel in 5 stappen.*
 
+11. [**11: De Kink-GPS: Gezond Verlangen versus Aangeprate Obsessie**](11-de-kink-gps-gezond-verlangen-versus-obsessie.md)  
+    *Zelfonderzoek en diagnostiek: de Waarom-nu check, de broodje-kaas-test voor consent, de emotionele tijdscan (voorkomen van de binge-purge cirkel) en expansie (sprankel) versus vernauwing (schrompel).*
+
+12. [**12: Op Zoek naar je Domina: Valkuilen, Verwachtingen en de Match**](12-op-zoek-naar-je-domina-valkuilen-en-de-match.md)  
+    *Van fantasie naar werkelijkheid: sub-frenzy ontzenuwen, de illusie van 'gratis' (pro vakvrouw vs particulier), waarom je eerst kennis koopt en geen spullen, en het alibi van BDSM.*
+
+13. [**13: Dominantie Ontwikkelen: De Driehoek in de Praktijk**](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
+    *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
 
 ---
 
 ## Verbindingen in de Workspace
 
-- [Cube of Consent](../cube-of-consent/README.md) — *Consent als doorlopende afstemming, met aandacht voor veiligheid, grenzen, informatie en machtsverschillen.*
-- [Hechting & Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) — *Hoe hechting en zenuwstelsels interacteren met kink.*
-- [Kinky Kerst & Eenzaamheid](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/README.md) — *Toepassing op eenzaamheid, feestdagen en gekozen familie.*
-- [Relatie Coaching Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) — *Praktische coachingsinterventies en communicatie.*
+- [Cube of Consent](../cube-of-consent/README.md) - *Consent als doorlopende afstemming, met aandacht voor veiligheid, grenzen, informatie en machtsverschillen.*
+- [Hechting & Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) - *Hoe hechting en zenuwstelsels interacteren met kink.*
+- [Kinky Kerst & Eenzaamheid](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/README.md) - *Toepassing op eenzaamheid, feestdagen en gekozen familie.*
+- [Relatie Coaching Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) - *Praktische coachingsinterventies en communicatie.*

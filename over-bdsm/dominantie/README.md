@@ -9,6 +9,9 @@ Dit dossier binnen de BDSM-kennisbank richt zich specifiek op de psychologie, et
 - [**04: Dominantie Hoeft Niets te Bewijzen**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md)  
   *Over authentieke innerlijke autoriteit versus performatieve dominantie, trots tonen zonder validatie-afhankelijkheid, en de criteria voor betekenisvolle protocollen in de D/s-relatie.*
 
+- [**13: Dominantie Ontwikkelen: De Driehoek in de Praktijk**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
+  *Over het ontwikkelen van leiderschap zonder clichés, de drie hoeken (Lust, Ethiek, Ambacht), rituelen als overgangsdrempels en het verdragen van de rommelige realiteit.*
+
 ---
 
 ## Samenvatting van de Kernvisie
