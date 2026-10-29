@@ -15,3 +15,6 @@
 
 3. [**Infodumping vs. Smalltalk: Twee Verschillende Hechtingstalen**](infodumping-vs-smalltalk.md)  
    *Waarom het delen van een special interest relatiebevestiging geeft voor iemand met ASS, waarom dit botst met neurotypische koetjes-en-kalfjes, en hoe je dit navigeert.*
+
+4. [**'Social Chess': Strategische Psychologie en Effectieve Communicatie**](social-chess-en-strategische-communicatie.md)  
+   *Hoe je sociale interacties optimaliseert met bewuste strategieën; van wederzijdse interesse en directe communicatie tot actieve reflectie, micro-betrouwbaarheid en het compenseren van een beperkt werkgeheugen.*

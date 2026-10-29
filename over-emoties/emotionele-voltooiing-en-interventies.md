@@ -251,6 +251,15 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
+### K. Hopeloosheid & Wanhoop: De Noodrem van het Zenuwstelsel en de Paradox van Rust
+* **De openstaande rekening:** Chronische, uitputtende overbelasting van het zenuwstelsel; alle actieve overlevings- en hechtingsstrategieën zijn vastgelopen; het organisme kan de fysiologische pijn niet langer dragen.
+* **Het specifieke sluitstuk:** **Radicale prikkelstop, ontlasting van alle eisen én de fysiek beleefde ervaring van rust in een levend lijf.**
+  - **De "Hopeloosheid" Paradox (Hans West):** Hopeloosheid is geen wens om dood te zijn, maar een overlevingsemotie die schreeuwt om 'niet-meer-voelen'. De tragische verwarring van het Ik is dat het denkt dat de fysieke dood de enige uitweg is. Maar *de dood brengt geen rust*, want rust is een levende sensatie die je alleen kunt ervaren als je ademt.
+  - Het sluitstuk is daarom het bieden van een absolute, veilige landingsbaan: zintuiglijke rust, warmte, een verzwaarde deken, zachte co-regulerende nabijheid en het stopzetten van elk moeten (zie ook [De Hopeloosheid Paradox](../artikel-aanzetten/de-hopeloosheid-paradox-rust-versus-de-dood.md)).
+* **Wat er gebeurt als het sluitstuk ontbreekt:** De cliënt raakt gevangen in suïcidale ideatie omdat het rationele brein geen andere uitweg meer ziet om de overprikkelde hersenstam tot stilstand te brengen.
+
+---
+
 ## 5. Online Begeleiding: Mensen Helpen de Juiste Emotie te Vinden
 
 In online contexten (chat, e-mail, fora, beeldbellen of WhatsApp) ontbreekt fysiek contact. Daardoor trappen coaches en gesprekspartners massaal in de valkuil van **cognitieve over-inhibitie** (direct logisch advies geven) of **het meegaan in de secundaire emotie** (meeroepen met iemands woede).

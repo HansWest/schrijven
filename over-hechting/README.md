@@ -23,6 +23,12 @@ Hoewel iedereen een primaire hechtingsbasis meekrijgt uit de vroege jeugd, zijn 
 3. [**03: Het Tweelagenmodel van Hechting: Affectieve Kaart, Strategie & Koppelingsregels**](03-tweelagenmodel-affect-en-strategie.md)  
    *Oplossing van het 'appels-en-peren'-probleem: Laag 1 affectieve weerkaart (FEAR, PANIC, SEEKING), Laag 2 gedragsstrategieën, en hechtingsstijlen als aangeleerde automatische koppelingsregels.*
 
+4. [**04: Dismissief-Vermijdende Hechting: Conflictdynamiek, Blauwdruk & Verborgen Behoeften**](04-dismissief-vermijdende-dynamiek-en-conflicten.md)  
+   *Waarom de DA uitcheckt; de 3 conflictresponsen (Pleasing, Defensiviteit, Afwijzing); de mismatch in behoeften en relationele reparatie; en de onuitgesproken behoeften volgens Integrated Attachment Theory.*
+
+5. [**05: Angstig-Vermijdende Hechting: De Sabotagecyclus, de Verraadwond en de Muur van Pijn**](05-angstig-vermijdende-sabotage-en-de-verraadwond.md)  
+   *Waarom mensen met fearful avoidance hun eigen relaties saboteren; verlangen vs. angst voor pijn; de sabotagecyclus; stonewalling als 'pomp-test'; en het helen van de verraadwond.*
+
 ---
 
 ## Praktische Koppelingen elders in de Workspace

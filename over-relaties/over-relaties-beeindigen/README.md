@@ -17,6 +17,9 @@ Wanneer woorden van liefde of dankbaarheid botsen met de daadwerkelijke beslissi
 1. [**01: Verlaten Worden — Neurobiologie, Rouw en Waardigheid**](01-verlaten-worden-en-relatiebreuk.md)  
    *Uitgebreide analyse van wat er gebeurt bij verlating: de neurobiologische ontwenningsreactie (Fisher, Sbarra), dankbaarheid als afsluiting versus jouw antwoord, selectieve abstractie, het duaal procesmodel van rouw (Stroebe & Schut), en de wisselwerking tussen verdriet en boosheid.*
 
+2. [**02: Terug naar je Ex of Verder Gaan: De DA-Breukdynamiek, de 20/30%-Regel en de Valkuil van Social Media**](02-terug-naar-je-ex-of-verder-gaan.md)  
+   *Waarom hopen op verandering vaak een illusie is; de psychologie van de dismissief-vermijdende partner bij een relatiebreuk; waarom 'flexen' op sociale media averechts werkt; en een concrete beslisboom voor hereniging versus loslaten.*
+
 ---
 
 ## Verwijzingen & Samenhang

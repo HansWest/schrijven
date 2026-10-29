@@ -129,6 +129,7 @@ Spreek geen permanente gedragsverandering af, maar een afgebakend micro-experime
 
 - [01: Het Tweelagenmodel in Relatiedynamieken](01-het-tweelagenmodel-in-relatiedynamieken.md) — *Waarom relationele harmonie zonder SEEKING leidt tot erotische stilstand.*
 - [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) — *Structuur, beweging en synergie tussen partners.*
+- [04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander](04-de-erotische-paradox-en-het-mysterie-van-verlangen.md) — *Esther Perels inzichten over erotiek als levenslust versus louter overleven, de zes huwelijken en de soevereiniteit van verlangen.*
 - [BDSM 08: BDSM als Co-Creatie: De Twee Driehoeken](../../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *Overgave en ontferming als relationele motoren.*
 - [BDSM 10: Van Vanilla naar Kink: Het Speeltuinmodel](../../over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md) — *Praktische stappen voor stellen die kaders willen verkennen.*
 - [Cube of Consent: 4D Model](../../cube-of-consent/het-cube-of-consent-model.md) — *Driver, Meaning, Action en Recipient ontrafeld.*

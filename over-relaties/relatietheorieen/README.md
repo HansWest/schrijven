@@ -23,6 +23,9 @@ Binnen deze map verkennen we theorieën die helpen de complexiteit van relatione
 3. [**03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur**](03-uit-de-seksuele-burnout-en-sleur.md)  
    *Waarom conventionele intimiteit vastloopt in automatische scripts, de 4 stappen van de Way-Out, waarom overpleasen een schending van zelf-consent is, gecontroleerde polariteit en het 4-fasen protocol (Yes/No/Maybe, Wheel of Consent & The Scene Container).*
 
+4. [**04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander**](04-de-erotische-paradox-en-het-mysterie-van-verlangen.md)  
+   *Waarom liefde en verlangen elkaars tegenpolen kunnen worden; de lessen uit 20 jaar 'Mating in Captivity' (Esther Perel); hoe frictieloze technologie het erotische zenuwstelsel verdooft; erotiek als vitaliteit versus louter overleven; de 'Zes Huwelijken'; en een concreet zelfonderzoek naar de soevereiniteit van verlangen.*
+
 ---
 
 ## Verbanden elders in de Workspace

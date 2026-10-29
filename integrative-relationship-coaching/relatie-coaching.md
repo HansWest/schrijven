@@ -161,3 +161,30 @@ In de coachingpraktijk hanteren we vijf leidende principes:
 
 *(Zie voor een verdere uitwerking: [Verlaten Worden: Neurobiologie, Rouw en Waardigheid](../over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) en [Over Boosheid als Secundaire Emotie](../over-emoties/over-boos/README.md).)*
 
+---
+
+## 9. Diagnostiek en Structuur: Safe Haven vs. Secure Base & Het HEARTS-model
+
+Binnen zowel monogame als non-monogame relaties helpt het om helder te differentiëren tussen twee fundamentele hechtingsfuncties en concrete verbindingsindicatoren:
+
+### A. Safe Haven versus Secure Base
+In de relationele hechtingstheorie vervullen partners twee complementaire rollen:
+1. **De Safe Haven (De Veilige Haven):**  
+   De plek waar je naar terugkeert bij nood, angst, ziekte of emotionele ontreddering. Hier zoek je troost, opvang, co-regulatie en beschutting.
+2. **De Secure Base (De Veilige Uitvalsbasis):**  
+   Het platform van waaruit je de wereld instapt, risico's durft te nemen, nieuwe projecten start of je autonomie viert. De partner fungeert als springplank voor groei en exploratie.
+
+*Strategische toepassing in non-monogamie en brede relatienetwerken:*  
+Het expliciteren van deze rollen voorkomt relationele overbelasting. Niet elke partner hoeft tegelijkertijd jouw exclusieve Safe Haven én Secure Base te zijn. Door bewust af te stemmen wie welke rol natuurlijk belichaamt, ontstaat er rust in het systeem.
+
+### B. Het HEARTS-model als Relationeel Diagnostisch Instrument
+Om snel te bepalen waar de verbinding tussen partners stagneert of lekt, gebruikt de coach het **HEARTS-model**:
+- **H — Here (Aanwezigheid):** Zijn partners werkelijk fysiek en mentaal aanwezig in het hier en nu, of zijn ze afwezig achter telefoons en to-do-lijstjes?
+- **E — Express Delight (Vreugde Uiten):** Laten partners elkaar nog merken dat ze blij zijn om elkaar te zien? Is er nog een glimlach, een twinkeling of een compliment?
+- **A — Attunement (Fijnafstemming):** Is er sensitiviteit voor elkaars subtiele lichamelijke signalen en gemoedstoestanden?
+- **R — Rituals (Rituelen):** Zijn er bewuste rituelen van begroeting, afscheid, naar bed gaan of wekelijks contact?
+- **T — Turning Towards (Toewending):** Draaien partners naar elkaar toe bij kleine contactbiedingen (*bids for connection* volgens Gottman), of keren ze zich af?
+- **S — Self (Zelfregulatie):** Neemt iedere partner verantwoordelijkheid voor de eigen emotionele weerkaart en zelfzorg, in plaats van de ander te overladen?
+
+*(Zie voor strategische communicatietechnieken bij cliënten: ['Social Chess' & Strategische Communicatie](../over-autisme/sociaal-navigeren/social-chess-en-strategische-communicatie.md).)*
+

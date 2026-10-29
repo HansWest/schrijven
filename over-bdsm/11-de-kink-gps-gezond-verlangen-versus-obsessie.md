@@ -136,3 +136,13 @@ Consent is geen statisch formulier dat je eenmalig afvinkt. Het is een dynamisch
 ### 5. Normaliseren met Nuchterheid en Humor
 Pathologiseer niet wat ongebruikelijk is. De menselijke erotische verbeelding is een creatief en grillig orgaan. Door met milde humor en open nieuwsgierigheid te vragen: *"Wat brengt deze scène jou?"*, ontwapen je het defensieve schild en ontstaat er ruimte voor waarachtig zelfinzicht.
 
+### 6. Kink en Verslaving: Chemsex, Fetisj-Ontkoppeling & het 'Terugleer'-Protocol
+Een specifiek klinisch vraagstuk binnen de kink-praktijk is de verstrengeling tussen **kink/fetisj en middelengebruik (chemsex)**:
+- **De Vicieuze Neurale Koppelingsregel:** Vaak ontstaat een sterke pavloviaanse associatie tussen een specifieke fetisj (bijv. rubber, leer, puppy play of impact play) en harddrugs (zoals crystal meth, GHB, ketamine of 3-MMC). Het zenuwstelsel kan de fetisj op den duur niet meer beleven zónder de chemische roes, en omgekeerd wakkert de fetisj direct intense *cravings* aan.
+- **De Oplossing: "Terugleren" in Micro-doses:**
+  In plaats van de cliënt te dwingen zijn authentieke fetisj voorgoed te begraven (wat leidt tot schaamte en terugval), adviseert Hans West het proces van **ontkoppeling en terugleren**:
+  1. *De fetisj nuchter beleven:* De cliënt ervaart de fetisj (bijvoorbeeld het aantrekken van een rubberen pak of masker) in strikt afgebakende, korte momenten zónder enig middelengebruik.
+  2. *De harde stop bij craving:* Zodra de trek (*craving*) naar middelen te hoog oploopt, stopt de cliënt direct en legt hij de spullen weg. Zo leert het dopaminerge SEEKING-systeem langzaam dat de fetisj op zichzelf kan bestaan en ontlaadt de dwingende chemische reflex.
+- **Objectieve Monitoring:**
+  Begeleid cliënten om gebruik, poly-substantie interacties en tolerantieniveaus nauwkeurig bij te houden (bijvoorbeeld via de app *Journal* of een gestructureerd logboek). Dit haalt de dynamiek uit de schaamtevolle mist van het Ik en brengt het terug naar feitelijke data en somatische zelfsturing.
+
