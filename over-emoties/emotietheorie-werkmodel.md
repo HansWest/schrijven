@@ -100,6 +100,14 @@ Herhaalde ervaringen en gevolgen kunnen verwachtingen en reacties vormen. Daardo
 
 Verandering betekent niet dat een gevoel meteen verdwijnt. Soms ontstaat er eerst meer ruimte om het te herkennen, er woorden aan te geven en anders te handelen. Soms zijn praktische aanpassingen, relationeel herstel of professionele behandeling nodig. De coach helpt onderzoeken en oefenen, maar schrijft niet voor wat iemand hoort te voelen.
 
+### De Laatste Fase van Grip: Uitleggen en Zingeving (Hilarion Petzold)
+
+In de **Integratieve Therapie van Hilarion Petzold** wordt de voltooiing van emotionele integratie niet gezien als louter interne zelfregulatie in isolatie. De ultieme consolidatie van 'grip krijgen' op emoties vindt plaats wanneer iemand in staat is om:
+1. **Aan anderen uit te leggen hoe diegene met die emoties omgaat:** Het verwoorden van een heldere, persoonlijke 'emotionele handleiding' naar partners, vrienden of lotgenoten. Dit toont aan dat het reflectieve ik niet langer overspoeld raakt door de emotionele impuls, maar getuige kan zijn van het eigen proces en dit relationeel kan communiceren.
+2. **Existentiële Zingeving te verlenen (Petzolds 5e Zuil: Waarden & Zingeving):** Betekenis geven aan wat de emotionele ervaring heeft gekost en opgeleverd. De doorgemaakte emotie of crisis wordt getransformeerd tot waarden, zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*).
+
+---
+
 ## Grenzen en zorgvuldigheid
 
 - Forceer geen emotie, herinnering, vergeving of lichamelijke oefening.
