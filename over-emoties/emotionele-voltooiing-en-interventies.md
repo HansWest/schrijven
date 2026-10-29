@@ -173,7 +173,7 @@ Gebruik onderstaande **vijf diagnostische hefbomen** om iemand online naar de pr
 - **Secundaire emotie (Spinning):**  
   Lange lappen tekst, uitroeptekens, herhaling van wat *de ander* allemaal fout heeft gedaan (*"En toen deed hij dit, en dat is toch idioot?!"*). Dit is het Ik dat in de neocortex rondjes rent om de fysiologische pijn daaronder niet te voelen.
 - **Primaire emotie (Sinking):**  
-  Korte zinnen, witregels, haperingen, kwetsbare woorden (*"Ik voel me zo leeg", "Ik mis het", "Ik ben gewoon bang"*). De energie zakt van het hoofd naar het lijf.
+  Korte zinnen, witregels, haperingen, kwetsbare woorden (*"Ik voel me zo leeg", "Ik mis het", "Ik ben gewoon bang"*). De aandacht zakt van het hoofd naar de gevoelde emoties, en het levende lijf.
 
 ### 2. De Bodyguard-Vraag
 Zeg nooit: *"Je bent niet echt boos, je bent gewoon verdrietig"* (dat voelt als betutteling). Gebruik de metafoor van de beschermer:
@@ -222,32 +222,39 @@ Wanneer je voor jezelf of in begeleiding een emotionele cyclus wilt voltooien:
 
 ---
 
-## 7. De Laatste Fase van Meesterschap: Uitleggen, Zingeving en Petzolds Integratieve Therapie
+## 7. De Laatste Fase van Meesterschap: Uitleggen, Zingeving en Petzolds Hermeneutische Spiraal
 
 Binnen de **Integratieve Therapie van Hilarion Petzold** stopt het verkrijgen van werkelijke 'grip' op emoties niet bij individuele zelfregulatie of het sluiten van de somatische cyclus in je eentje.
 
-Petzold stelt dat het integratieve therapeutische proces pas zijn volwassen consolidatie bereikt in de fase van **Sinnfindung (Zingeving), Solidarisering en Transmissie**:
+Petzold beschrijft de manier waarop de mens de wereld, zijn emoties en zichzelf leert kennen via **"die hermeneutische Spirale"** (ook wel de *herakliteïsche spiraal* van ervaring en inzicht):
+
+$$\text{Wahrnehmen (Waarnemen)} \longrightarrow \text{Erfassen (Benoemen)} \longrightarrow \text{Verstehen (Begrijpen)} \longrightarrow \text{Erklären (Uitleggen \& Zingeving)}$$
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│             DE INTEGRATIEVE SLOTAANSLUITING (HILARION PETZOLD)         │
+│             DE HERMENEUTISCHE SPIRAAL (HILARION PETZOLD)               │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. SOMATISCHE EN COGNITIEVE VOLTOOIING (Interoceptie & Woorden vinden) │
-│    • Het lijf ontlaadt de reflex; het brein vindt taal voor het        │
-│      primaire gevoel (de geïnformeerde lijfelijkheid / Leiblichkeit).  │
+│ 1. WAHRNEHMEN (Lijfelijke Resonantie / Leiblichkeit)                   │
+│    • De zintuiglijke en lichamelijke registratie in het levende lijf.  │
+│    • Aandacht geven aan de fysiologische sensaties en actie-impulsen.  │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 2. UITLEGGEN AAN ANDEREN (Relationele Transparantie & Handleiding)     │
-│    • Je kunt aan partners, vrienden of lotgenoten helder uitleggen hoe │
-│      jouw emoties werken en hoe jij ermee omgaat.                      │
-│    • Je bent niet langer de 'patient' of speelbal van de storm, maar   │
-│      de kalme gids en vertaler van je eigen zenuwstelsel.              │
+│ 2. ERFASSEN (Woorden vinden & Begripsmatig vatten)                     │
+│    • Het brein vindt taal en concepten voor de gevoelde ervaring.      │
+│    • Het onderscheiden van primaire emoties van secundaire dekmantels. │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 3. ZINGEVING EN WAARDEN (De 5e Zuil van Identiteit)                   │
-│    • Welke betekenis en existentiële waarde ontleen je aan deze pijn?  │
-│    • De doorgemaakte emotie wordt omgezet in moreel kompas, empathie   │
-│      voor anderen en bewuste keuzes in je levensstijl.                 │
+│ 3. VERSTEHEN (Biografisch & Relationeel Begrijpen)                     │
+│    • De emotie plaatsen in de levensloop, de context en het relationele│
+│      netwerk: "Wat raakt dit in mijn geschiedenis en behoeften?"       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 4. ERKLÄREN & SINNFINDUNG (Uitleggen aan Anderen & Zingeving)          │
+│    • Je kunt aan anderen helder uitleggen hoe jouw emoties werken en   │
+│      hoe jij ermee omgaat (de eigen 'emotionele handleiding').         │
+│    • Existentiële zingeving (de 5e Zuil van Identiteit): de ervaring   │
+│      wordt omgezet in morele waarden en maatschappelijke solidariteit. │
 └────────────────────────────────────────────────────────────────────────┘
 ```
+
+Doordat dit proces een **spiraal** is (geïnspireerd op Heraclitus' *Panta rhei*: alles stroomt), keer je bij een volgende crisis of emotionele golf nooit terug op hetzelfde punt van ontreddering. Je doorloopt de beweging opnieuw, maar telkens vanaf een **hogere trede van reflectie, volwassenheid en handelingsbekwaamheid**.
 
 ### 1. Waarom 'Uitleggen aan Anderen' het Zenuwstelsel Verankert
 Zolang je een emotie alleen maar intern probeert te beheersen of af te remmen, blijft er een risico op terugval in de oude automatische reflexen. Pas wanneer je in staat bent om **aan een ander rustig uit te leggen wat er in jou gebeurt en hoe jij daarmee omgaat**:

@@ -102,9 +102,9 @@ Verandering betekent niet dat een gevoel meteen verdwijnt. Soms ontstaat er eers
 
 ### De Laatste Fase van Grip: Uitleggen en Zingeving (Hilarion Petzold)
 
-In de **Integratieve Therapie van Hilarion Petzold** wordt de voltooiing van emotionele integratie niet gezien als louter interne zelfregulatie in isolatie. De ultieme consolidatie van 'grip krijgen' op emoties vindt plaats wanneer iemand in staat is om:
-1. **Aan anderen uit te leggen hoe diegene met die emoties omgaat:** Het verwoorden van een heldere, persoonlijke 'emotionele handleiding' naar partners, vrienden of lotgenoten. Dit toont aan dat het reflectieve ik niet langer overspoeld raakt door de emotionele impuls, maar getuige kan zijn van het eigen proces en dit relationeel kan communiceren.
-2. **Existentiële Zingeving te verlenen (Petzolds 5e Zuil: Waarden & Zingeving):** Betekenis geven aan wat de emotionele ervaring heeft gekost en opgeleverd. De doorgemaakte emotie of crisis wordt getransformeerd tot waarden, zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*).
+In de **Integratieve Therapie van Hilarion Petzold** — en zijn epistemische model van **"die hermeneutische Spirale"** (*Wahrnehmen $\rightarrow$ Erfassen $\rightarrow$ Verstehen $\rightarrow$ Erklären*) — wordt de manier waarop we de wereld, onze emoties en onszelf leren kennen voorgesteld als een opwaartse spiraal. De voltooiing van emotionele integratie stopt niet bij interne zelfregulatie in isolatie, maar bereikt haar volwassen consolidatie wanneer iemand in staat is om:
+1. **Aan anderen uit te leggen hoe diegene met die emoties omgaat (*Erklären*):** Het verwoorden van een heldere, persoonlijke 'emotionele handleiding' naar partners, vrienden of lotgenoten. Dit toont aan dat het reflectieve ik niet langer overspoeld raakt door de emotionele impuls van het levende lijf (*Leiblichkeit*), maar getuige kan zijn van het eigen proces en dit relationeel kan communiceren.
+2. **Existentiële Zingeving te verlenen (Petzolds 5e Zuil: Waarden & Zingeving):** Betekenis geven aan wat de emotionele ervaring heeft gekost en opgeleverd. De doorgemaakte emotie of crisis wordt getransformeerd tot waarden, zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*). Doordat het een spiraal is, keert men bij een volgende crisis nooit terug op hetzelfde punt van machteloosheid, maar op een hoger niveau van meesterschap.
 
 ---
 
