@@ -7,10 +7,10 @@
 
 ## 1. Boosheid als Secundaire Emotie & Beschermend Schild
 
-In de wetenschappelijke emotietheorieën (onder meer van Paul Ekman en de cognitieve psychologie) ontstaat boosheid wanneer een persoonlijke grens wordt overschreden, wanneer er sprake is van ervaren onrecht, of wanneer we worden geconfronteerd met een situatie die we niet kunnen controleren.
+In de wetenschappelijke emotietheorieën (onder meer van Paul Ekman en de cognitieve psychologie) ontstaat boosheid wanneer een persoonlijke grens wordt overschreden, wanneer er sprake is van ervaren onrecht (*"mij is iets afgepakt, of mij is niet gegeven waar ik recht op had"*), of wanneer we worden geconfronteerd met een situatie die we niet kunnen controleren.
 
 In de psychologische praktijk fungeert boosheid vaak als een **secundaire emotie**:
-- **Het schild:** Boosheid is een actieve, energieke reactie die het brein razendsnel opwerpt als defensieve pantsering.
+- **Het schild & de rationalisatie:** Boosheid is een actieve, energieke reactie die het brein razendsnel opwerpt als defensieve pantsering (de dekmantel).
 - **De primaire kern:** Onder het vuur van de boosheid liggen vrijwel altijd de veel kwetsbaardere, rauwere primaire emoties verborgen: *machteloosheid, afwijzing, existentiële angst en diep verdriet*.
 
 Het voelt voor de hersenstam minder bedreigend om woedend te zijn dan om zich volkomen overgeleverd, afgewezen of machteloos te voelen. Boosheid geeft immers een gevoel van controle en fysieke kracht.
@@ -40,8 +40,8 @@ In tegenstelling tot verdriet — dat fysiologisch vertraagt, de blik naar binne
 
 De vrijkomende energie kan twee volstrekt verschillende kanten op bewegen:
 
-1. **Constructieve Mobilisatie (Waardigheid & Grenzen):**  
-   Die energie kan helpen om een duidelijke streep te trekken en zelfrespect te herwinnen: *"Ik accepteer deze behandeling niet langer, ik ga niet smeken of onderhandelen, en ik kies nu voor mijn eigen waardigheid."* Hier fungeert boosheid als een gezonde motor voor begrenzing.
+1. **Constructieve Mobilisatie (Vechten vóór in plaats van tegen):**  
+   Die energie kan helpen om in actie te komen aangaande de dingen die voor jou belangrijk zijn — door te vechten *voor* iets in plaats van louter *tegen* iemand, om een duidelijke streep te trekken en zelfrespect te herwinnen: *"Ik accepteer deze behandeling niet langer, ik ga niet smeken of onderhandelen, en ik kies nu voor mijn eigen waardigheid."* Hier fungeert boosheid als een gezonde motor voor begrenzing.
 2. **Destructieve Ruminatie & Verbittering:**  
    Wanneer boosheid niet wordt ontladen maar eindeloos in het hoofd wordt herkauwd (*rumineren*), slaat ze om in chronische stress en toxische wrok. Zeker bij herhaalde kwetsuren ontstaat het risico dat boosheid zich verhardt tot verbittering tegen hele groepen of het leven zelf (*"alle vrouwen/mannen zijn onbetrouwbaar"*), wat uiteindelijk leidt tot verharding en sociaal isolement.
 
