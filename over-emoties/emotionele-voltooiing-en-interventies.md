@@ -210,7 +210,7 @@ Wanneer je voor jezelf of in begeleiding een emotionele cyclus wilt voltooien:
    - Wat is het verhaal dat mijn Ik erover simuleert?  
    - Wat is de rauwe fysieke sensatie in het Zelf (temperatuur, druk, spanning)?
 3. **De Primaire Emotie Ontdekken:**  
-   Prik door de secundaire dekmantel heen met de Bodyguard- of 60-seconden-toets.
+   Letterlijk ont-dek welke primaire emotie onder de secundaire dekmantel leeft met de Bodyguard- of 60-seconden-toets.
 4. **Het Passende Voltooiingskanaal Kiezen:**  
    - *Somatisch:* Schudden, muurduwen, huilen, zuchten.  
    - *Relationeel:* Kwetsbaarheid delen met een veilige ander; om troost of containment vragen.  
