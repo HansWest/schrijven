@@ -31,6 +31,26 @@ Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens 
 
 **Emotionele voltooiing** betekent dat het brein woorden mag vinden voor de emotie die gevoeld wordt en dat het organisme de biologische cyclus alsnog veilig mag afmaken. Het zenuwstelsel krijgt het fysiologische signaal dat de actie is volbracht, waardoor het stresssysteem definitief kan terugkeren naar de veilige basis van de ventrale vagus.
 
+### Het Ethologische Bewijs: Het Gier-experiment en de Motorische Eindhandeling (*Consummatory Act*)
+
+Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet louter met woorden of passief wachten kan worden opgelost, sluit naadloos aan bij een klassiek biologisch en ethologisch principe (o.a. beschreven door Wallace Craig, Konrad Lorenz en Niko Tinbergen): het onderscheid tussen **appetitief gedrag** (*Appetenzverhalten*) en de **consummatorische eindhandeling** (*Endhandlung* of *Consummatory Act*).
+
+> **Het Experiment met Roofvogels & Scheinfütterung (Sham Feeding):**  
+> In klassieke ethologische en fysiologische studies met roofvogels (zoals gieren en valken) en roofdieren werd onderzocht waardoor honger en jachtdrift worden gestild. Wanneer dieren aten via een fistel waardoor het voedsel de maag direct weer verliet (de maag raakte dus fysiologisch en calorisch *niet* gevuld), gebeurde er iets fascinerends:  
+> Het dier bleef niet eindeloos doorscheuren. Na een periode van intensief vlees van botten scheuren met de snavel, trekken met de klauwen en slikken, stopte de roofvogel uit zichzelf en viel in een diepe, verzadigde rust. **De uitvoering van het fysieke motorprogramma zelf — het daadwerkelijk scheuren van het vlees van de botten — had een driftontladend, verzadigend effect (*Aktionssättiging*).**  
+> 
+> Het omgekeerde experiment was nog veelzeggender: voedde men een roofvogel of roofdier rechtstreeks via een maagsonde (een volle maag en calorische verzadiging zónder de motorische handeling), dan bleef het dier rusteloos, gespannen en gefrustreerd. Zodra het alsnog een karkas aangeboden kreeg, begon het alsnog bezeten vlees van het bot te scheuren, ondanks de overvolle maag!
+
+#### De Neurobiologische Parallel met Menselijke Emoties
+Dit principe legt bloot waarom traditionele praattherapie of rationele geruststelling emotionele ontlading vaak blokkeert:
+- **Cognitieve geruststelling is de 'maagsonde' van de psychologie:** Je vult de neocortex met rationele verklaringen en geruststelling (*"Je bent nu veilig", "Het is al jaren geleden", "Je moet het loslaten"*), maar de subcorticale hersenstam en het autonome zenuwstelsel hebben hun biologische motorprogramma nog **niet** mogen afdraaien.
+- **De emotie is pas 'voltooid' als de motorische eindhandeling somatisch is voltrokken:** 
+  - Bij **woede** moet het lijf de spierspanning van het wegduwen, begrenzen of fysiek pal staan ontladen.
+  - Bij **verdriet** moet het organisme de vocale kreet, de trillende middenrifsamentrekking van het snikken en de fysieke omhulling van troost ervaren.
+  - Bij **angst** moet het zenuwstelsel de neurogene ontlading (het trillen en schudden) of de volbrachte vluchtactie registreren.
+
+Pas wanneer de biologische *Endhandlung* daadwerkelijk somatisch is voltrokken, stuurt de hersenstam de neurochemische **'Done'-code** door het zenuwstelsel, waarna het organisme kan terugkeren naar rust.
+
 ---
 
 ## 2. Iets Doen MET een Emotie versus Iets Doen AAN/TEGEN een Emotie
