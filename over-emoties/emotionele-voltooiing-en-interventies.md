@@ -100,48 +100,134 @@ Het mechanisme werkt ook andersom: mensen die in hun jeugd zijn gestraft voor bo
 
 ---
 
-## 4. Wat doe je CONCREET 'MET' Verschillende Emoties?
+## 4. Het Specifieke Sluitstuk: Welk Gedrag of Welke Situatie Maakt een Emotie 'Af'?
 
-Wanneer je hebt vastgesteld dat er geen acuut fysiek gevaar dreigt, kun je per primaire emotie de volgende adaptieve acties inzetten:
+Een emotie is biologisch en relationeel gezien geen willekeurige gemoedstoestand die vanzelf slijt door simpelweg afwachten. **Een emotie is een gerichte fysiologische honger, een openstaande rekening of een relationele actiedrang die vraagt om een heel specifiek interactief of somatisch sluitstuk.**
 
-### A. Woede (RAGE / Grenssignaal)
-- **Evolutionair signaal:** *"Er is over een grens heengegaan; een behoefte wordt geblokkeerd; er is onrecht"* of *"Mij is iets afgepakt, of mij is niet gegeven waar ik recht op had; er is onrecht."*
-- **Somatic Action Tendency:** Voorwaartse kracht, spierspanning in armen en kaken, stevige gronding.
-- **Wat je ermee DOET:**
-  - *Isometrische tegendruk:* Zet je handen plat tegen een stevige muur. Duw met 15-20% van je spierkracht, voel hoe je schouders, core en voeten een onwrikbare barrière vormen. Dit geeft het brein het fysieke bewijs dat je in staat bent jezelf te beschermen.
-  - *Helder begrenzen:* Formuleer een 'schone nee' zonder verwijt: *"Dit accepteer ik niet. Als dit doorgaat, trek ik me terug."*
-  - *Constructieve actie:* Zet de energie om in het veranderen van je werksituatie, relatievoorwaarden of praktische leefomgeving.
+Zolang dat specifieke sluitstuk ontbreekt, kan het zenuwstelsel de cyclus niet voltooien. De emotie blijft dan 'openstaan', gaat lekken in het dagelijks functioneren, of verstart in spierpantsering, wrok, dwangmatig piekeren of chronische vermoeidheid.
 
-### B. Verdriet & Rouw (PANIC / Verliessignaal)
-- **Evolutionair signaal:** *"Iets van grote waarde is verloren; een hechtingsband is gebroken; een verwachting is gestorven."* Kortom: *"Ik ben iets kwijt en ik ga dat ook niet meer terugkrijgen in mijn leven."*
-- **Somatic Action Tendency:** Energie daalt, spieren verzachten, het lichaam wil vouwen en rusten, huilen.
-- **Wat je ermee DOET:**
-  - *Tranen toelaten:* Huilen activeert het parasympathische zenuwstelsel en scheidt chemische stressstoffen (o.a. prolactine en ACTH) af via het traanvocht.
-  - *Zoogdier-bedding:* Kruip onder een zware deken, drink warme thee, leg een hand op je borstbeen en wieg zachtjes.
-  - *Getuigenis toelaten:* Een veilige vriend of coach vragen: *"Ik ben verdrietig. Je hoeft niets op te lossen of te zeggen, wil je er gewoon even bij zijn?"*
-  - *Symbolische integratie:* Een afscheidsritueel uitvoeren, de hoop op de 'kikker' definitief begraven (zie [Hoe Stop je met Bedelen bij Kikkers?](../over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)).
+Hieronder werken we voor de verschillende gevoelens systematisch uit **welke openstaande rekening er speelt, welk gedrag of welke situatie er nodig is om het gevoel 'af te maken', en wat er gebeurt als het sluitstuk ontbreekt**:
 
-### C. Angst & Bezorgdheid (FEAR / Dreigings- & Onzekerheidssignaal)
-- **Evolutionair signaal:** *"Er is onvoorspelbaarheid; ik mis overzicht of controle; er dreigt gevaar."*
-- **Somatic Action Tendency:** Scannen, verhoogde waakzaamheid, vluchtdrang.
-- **Wat je ermee DOET:**
-  - *De Oriëntatiereflex activeren:* Kijk heel langzaam rond in de fysieke kamer. Laat je ogen rusten op vier neutrale objecten en benoem hun kleur. Dit dwingt de hersenstam te registreren: *"Er staat hier op dít moment geen roofdier."*
-  - *Vlucht-ontlading:* Beweeg je benen, loop stevig door, schud je enkels los om de adrenaline uit de grote beenspieren af te voeren.
-  - *Feiten scheiden van de Neocorticale Simulator:* Schrijf op wat er feitelijk vaststaat versus wat je Ik erbij verzint. Maak een concreet noodplan: *"Als X gebeurt, dan doe ik Y."*
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HET SPECIFIEKE SLUITSTUK PER EMOTIE                  │
+├────────────────────┬───────────────────────────────────────────────────┤
+│ EMOTIE             │ SPECIFIEK SLUITSTUK (GEDRAG / SITUATIE)           │
+├────────────────────┼───────────────────────────────────────────────────┤
+│ 1. Verdriet        │ Troost ontvangen & je er werkelijk voor openstellen│
+│ 2. Boosheid        │ Gevecht aangaan / grens stellen ÓF schuld afboeken│
+│ 3. Schaamte        │ Trots, erkenning & verwelkoming in een ándere kring│
+│ 4. Geilheid        │ Seksuele ontlading & loom verzadigde aftercare    │
+│ 5. Nieuwsgierigheid│ De AHA-erlebnis bereiken én delen met anderen     │
+│ 6. Schuldgevoel    │ Concrete schadevergoeding & reparatie (quitte)    │
+│ 7. Angst           │ De veilige haven fysiek bereiken & verifiëren     │
+│ 8. Walging         │ Zuivering & radicale, onomkeerbare distantie      │
+│ 9. Jaloezie        │ Herbevestiging van verbinding en parameters       │
+│ 10. Eenzaamheid    │ Resonerende, ongemaskeerde wederkerigheid         │
+└────────────────────┴───────────────────────────────────────────────────┘
+```
 
-### D. Schaamte ("Ik ben defect / ongewenst / in de steek gelaten")
-- **Evolutionair signaal:** *"Dreiging van sociale verbanning uit de groep of hechtingsverlies."*
-- **Somatic Action Tendency:** Ineenschrompelen, blik afwenden, verstarren, door de grond willen zakken en 'er niet willen zijn'.
-- **Wat je ermee DOET:**
-  - *Empathische getuigenis:* Schaamte overleeft isolatie, maar lost op zodra het wordt gedeeld met een veilige ander die reageert zonder oordeel: *"Ik begrijp je volkomen; je bent niet gek of kapot."*
-  - *Taalscheiding:* Maak het onderscheid tussen **Schuld** (*"ik heb een inschattingsfout gemaakt"*) en **Schaamte** (*"ik ben een mislukkeling"*).
+---
 
-### E. Walging / Disgust (Besmettings- en Integriteitssignaal)
-- **Evolutionair signaal:** *"Dit is toxisch, vies, grensoverschrijdend of tast mijn morele integriteit aan."*
-- **Somatic Action Tendency:** Terugdeinzen, uitspugen, afkeer tonen.
-- **Wat je ermee DOET:**
-  - *Fysieke en energetische reiniging:* Letterlijk douchen, handen wassen, kleding wisselen, de kamer luchten.
-  - *Radicale distantie:* Fysiek en digitaal afstand nemen van de giftige situatie of persoon; contact verbreken zonder onderhandeling.
+### A. Verdriet & Rouw (PANIC / Verliessignaal)
+* **De openstaande rekening:** Er is een onherroepelijk verlies opgetreden; een hechtingsband is verbroken; een dierbare hoop of verwachting is gestorven: *"Ik ben iets kwijt en ik ga dat ook niet meer terugkrijgen in mijn leven."*
+* **Het specifieke sluitstuk:** **Troost ontvangen (en de moed hebben om je er werkelijk voor open te stellen).**
+  - Verdriet vraagt evolutionair om de nabijheid en ontferming (*splagchnizomai*) van een ander zoogdier.
+  - Het wordt afgemaakt wanneer je neocorticale pantsering mag zakken en je lichaam zacht mag worden in de armen van een ander, onder een zware deken, of in het bijzijn van een veilige getuige die niets probeert op te lossen of te sussen.
+  - *Somatische actie:* Tranen laten stromen (chemische ontlading van stressstoffen via het traanvocht), zuchten en ineenkrullen.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Verdriet 'in je eentje verbijten' of huilen achter een gesloten deur zonder troost toe te laten, laat het zenuwstelsel achter in hechtingsverlatenheid (*grief loops*). De cyclus voltooit pas wanneer het brein registreert: *"Ik heb gehuild, ik ben vastgehouden, ik ben niet alleen achtergelaten in de kou."*
+
+---
+
+### B. Boosheid & Woede (RAGE / Grenssignaal)
+* **De openstaande rekening:** Er is over een grens heengegaan; er is iets afgepakt; er is iets onthouden waar je recht op had; er is onrecht aangedaan: *"Mij is iets afgepakt, of mij is niet gegeven waar ik recht op had; er is onrecht."*
+* **Het specifieke sluitstuk (Twee Wegen):**
+  1. **Weg 1: Het gevecht aangaan en herstel afdwingen.**  
+     - De confrontatie aangaan over wat er is afgepakt of niet is gegeven.
+     - De overschreden grens helder en onwrikbaar markeren (*"Tot hier en niet verder"*).
+     - De fysiologische kracht van woede gebruiken om in actie te komen aangaande de dingen die voor jou belangrijk zijn — vechten *voor* iets in plaats van louter *tegen* iemand.
+     - De schadeloosstelling of het herstel ontvangen.
+  2. **Weg 2: Vergeving en Definitieve Kwijtschelding van de Schuld.**  
+     - Als de ander een 'kikker' is (geen capaciteit tot empathie of herstel) of de dader is overleden/onbereikbaar, kan Weg 1 niet worden voltooid.
+     - Boosheid wordt dan afgemaakt door een soeverein besluit van het Ik: **het definitief afboeken van de openstaande vordering**. Je stopt met wachten op de schadevergoeding die nooit komt. Je verklaart de schuld failliet, waardoor de energetische lijn naar de ander wordt doorgeknipt.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Binnensmonds blijven morren, passieve agressie of 'kussens slaan' zonder grens of kwijtschelding $\rightarrow$ de sympathische adrenaline blijft circuleren en verhardt tot chronische wrok (*resentment*).
+
+---
+
+### C. Schaamte: Trots, Erkenning & Verwelkoming in een Ándere Groep
+* **De openstaande rekening:** Sociale vernedering, afwijzing of verbanning; het gevoel fundamenteel 'misvormd', 'vies' of 'onaangepast' te zijn in de ogen van de oorspronkelijke groep: ineenschrompelen, de blik afwenden, door de grond willen zakken en 'er niet willen zijn'.
+* **Het specifieke sluitstuk:** **Gezien, gewaardeerd en geëerd worden in een ándere gemeenschap (Chosen Family / Peer group).**
+  - Schaamte die is opgelopen in Groep A (bijv. een benauwend gezin van herkomst, een strenge religie of een burgerlijke norm die jouw kink of neurodiversiteit afwees) **kan niet worden afgemaakt binnen Groep A**.
+  - Het wordt afgemaakt doordat je aansluiting vindt bij Groep B (gelijkgestemden, de kink-community, neurodivergente vrienden) waar exact datgene waarvoor je werd beschaamd wordt begroet met **trots, herkenning, fascinatie en erotische of sociale validatie**.
+  - Het scheiden van gedrag (*schuld*: "ik heb een fout gemaakt") van identiteit (*schaamte*: "ik ben een mislukkeling").
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Jezelf blijven isoleren en proberen de goedkeuring te winnen van de mensen die je hebben beschaamd ([bedelen bij kikkers](../over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)), met chronische sociale fobie en minderwaardigheid tot gevolg.
+
+---
+
+### D. Geilheid & Erotisch Verlangen (LUST): Bevrediging & Verzadigde Aftercare
+* **De openstaande rekening:** Fysiologische en hormonale stuwing van dopamine, testosteron en oxytocine; een sensuele en relationele drift naar versmelting, overgave, penetratie of dominantie.
+* **Het specifieke sluitstuk:** **Fysieke en erotische bevrediging, gevolgd door verzadigde aftercare.**
+  - Het fysieke orgasme of de diepe sensuele ontlading lost de sympathische piek op.
+  - Maar geilheid als *emotionele en hechtingsstaat* wordt pas echt afgemaakt wanneer er na de daad een veilige landingsbaan is: loom tegen elkaar aan liggen, huid-op-huidcontact, een glas water, een warme deken (het voorkomen van de drop via aftercare; zie [03: Neurochemie, Drop & Aftercare](../over-bdsm/03-neurochemie-drop-en-aftercare.md)).
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Seks zonder emotionele bedding of abrupte emotionele afstand direct na het klaarkomen (post-coïtale dysforie). Het lichaam heeft wel fysiek ontladen, maar het hechtingssysteem blijft hongerig, beschaamd of eenzaam achter.
+
+---
+
+### E. Nieuwsgierigheid & Verwondering (SEEKING): De AHA-Erlebnis én het Delen
+* **De openstaande rekening:** Een cognitief en dopaminerg mysterie; een ontbrekend puzzelstuk; de biologische drang om de werkelijkheid te exploreren en te doorgronden.
+* **Het specifieke sluitstuk:** **Het vinden van het inzicht (de AHA-erlebnis) én het delen van de ontdekking met anderen.**
+  - Het zoogdierenbrein exploreert niet in een vacuüm. Een ontdekking is pas 'af' wanneer we haar kunnen tonen aan de stam: *"Kijk eens wat ik gevonden en begrepen heb!"*
+  - De blik van herkenning, nieuwsgierigheid en verwondering bij de ander sluit de dopaminerge zoektocht af en zet deze om in sociale cohesie, trots en betekenis.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Dwangmatig blijven door-studeren, honderd browsertabs open laten staan, rusteloos blijven zoeken zonder ooit te landen in synthese of dialoog.
+
+---
+
+### F. Schuldgevoel (GUILT): Afbetaling, Compensatie & Herstel
+* **De openstaande rekening:** Je hebt je eigen waarden of een afspraak met een ander geschonden; er is feitelijke schade of pijn berokkend.
+* **Het specifieke sluitstuk:** **Afbetaling en concrete reparatie (*Restitution*).**
+  - Schuldgevoel is een fysiologische 'schuldrekening'. Het lost niet op door eindeloos *"sorry, sorry, ik ben zo stom"* te herhalen (dat is defensief pleasen/fawn).
+  - Het wordt afgemaakt door de schade concreet te compenseren: de gebroken vaas vergoeden, de rotzooi opruimen, nieuw betrouwbaar gedrag tonen over langere tijd, of een passende genoegdoening leveren.
+  - Zodra de benadeelde (of je eigen geweten) constateert: *"We staan weer quitte, de rekening is vereffend"*, zakt het schuldgevoel ogenblikkelijk weg.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Chronische zelfkastijding, neurotische boetedoening of jezelf straffen zonder ooit iets concreets te repareren.
+
+---
+
+### G. Angst & Bezorgdheid (FEAR): De Veilige Haven Fysiek Bereiken
+* **De openstaande rekening:** Detectie van een potentiële dreiging; verlies van controle; gevaar van fysieke of emotionele verwonding.
+* **Het specifieke sluitstuk:** **Het fysiek bereiken van een veilige haven en de sensorische bevestiging door het lijf.**
+  - De vluchtweg succesvol voltooien (letterlijk weg zijn bij de bron van onveiligheid).
+  - De fysiologische oriëntatiereflex: de deuren op slot doen, de voeten op de vloer zetten, langzaam rondkijken in de kamer en lijfelijk vaststellen: *"Er is hier nú geen roofdier."*
+  - Vlucht-ontlading via de grote beenspieren (wandelen, schudden).
+* **Wat er gebeurt als het sluitstuk ontbreekt:** In de onveilige situatie blijven zitten terwijl je probeert jezelf 'moed in te praten', of angst proberen weg te redeneren met statistieken terwijl de hersenstam in acute alarmtoestand blijft.
+
+---
+
+### H. Walging & Aversie (DISGUST): Zuivering & Radicale Distantie
+* **De openstaande rekening:** Besmetting, vergiftiging, binnendringen van iets wat toxisch is of je fysieke en morele integriteit schendt.
+* **Het specifieke sluitstuk:** **Reiniging en het definitief verbreken van het contact.**
+  - Fysiek: uitspugen, overgeven, handen wassen, douchen, kleding wisselen, de kamer luchten.
+  - Relationeel: iemand blokkeren, de sleutel inleveren, een grens trekken die geen millimeter onderhandelbaar is (*"Ik wil hier niets meer mee te maken hebben"*).
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Geforceerd beleefd blijven tegen mensen of situaties die je letterlijk doen walgen, waardoor de aversie naar binnen slaat als chronische misselijkheid of auto-immuunreacties.
+
+---
+
+### I. Jaloezie & Afgunst: Herbevestiging vs. Eigen Bouwkracht
+* **De openstaande rekening:** 
+  - *Jaloezie (angst voor verlies):* De dreiging dat jouw unieke positie of hechtingsaandacht door een rivaal wordt overgenomen.
+  - *Afgunst (pijn om het gemis):* Een ander heeft iets wat jij wanhopig graag zelf had willen hebben.
+* **Het specifieke sluitstuk:**
+  - *Voor Jaloezie:* **Herbevestiging van de verbinding en exclusiviteit door de partner.** Een heldere toezegging, een fysieke knuffel en het afbakenen van de relatieparameters: *"Ik kies voor jou; jij bent mijn veilige haven."*
+  - *Voor Afgunst:* **Het eigen verlangen eerlijk erkennen en omzetten in actieve SEEKING.** Niet de ander naar beneden halen, maar jezelf afvragen: *"Wat heeft die ander dat ik blijkbaar zelf zo ontzettend mis?"* en vervolgens zelf aan het werk gaan om dat in je eigen leven te creëren.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Jaloezie afreageren via controle, surveillance en wantrouwen; afgunst laten rotten tot verbitterd cynisme.
+
+---
+
+### J. Eenzaamheid: Resonerende Wederkerigheid
+* **De openstaande rekening:** Fysiologische isolatie; honger naar spiegeling en resonantie van het Zelf.
+* **Het specifieke sluitstuk:** **Eén authentieke ontmoeting waarin je gezien wordt zoals je werkelijk bent.**
+  - Eenzaamheid wordt niet afgemaakt door 'onder de mensen te zijn' op een druk feestje (daar voel je je vaak nóg eenzamer).
+  - Het wordt afgemaakt door **resonerende wederkerigheid**: oogcontact, een openhartig gesprek van tien minuten, of een aanraking waarin je niet hoeft te maskeren.
+* **Wat er gebeurt als het sluitstuk ontbreekt:** Doomscrollen op social media of vluchtige oppervlakkige dates; dit vult de maag niet en vergroot de fysiologische leegte.
 
 ---
 

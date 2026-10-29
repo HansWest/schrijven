@@ -16,7 +16,7 @@ Binnen deze kennisbank kijken we naar emoties voorbij moraliserende oordelen ("g
 
 ### Algemene Theorieën & Werkmodellen
 1. [**Emotionele Voltooiing: Iets Doen 'Met' Emoties in Plaats van 'Aan' Emoties**](emotionele-voltooiing-en-interventies.md)  
-   *De fysiologische cyclus, het partnerschap met emoties, de ontkrachting van de catharsis-mythe, primaire vs. secundaire emoties en online diagnostische scripts (o.a. Bodyguard-vraag en 60-seconden-toets).*
+   *De fysiologische cyclus, het partnerschap met emoties, de ontkrachting van de catharsis-mythe, het Sleutel-Slot-sluitstuk per emotie (wat maakt verdriet, woede, schaamte, geilheid e.a. werkelijk af?), online diagnostische scripts en Petzolds hermeneutische spiraal.*
 2. [**Emotieproces: Werkmodel voor Coaching**](emotietheorie-werkmodel.md)  
    *Het overkoepelende fasenmodel voor emotionele verwerking, arousal en integratie.*
 3. [**Omgaan met Emoties: Voelen, Begrijpen en Kiezen**](omgaan-met-emoties.md)  
