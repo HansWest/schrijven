@@ -67,6 +67,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
         *   [02: Grenzen, Zelfbehoud & Co-Regulatie](over-trauma/partner-van-een-partner-met-trauma/02-grenzen-en-zelfbehoud-voor-de-partner.md)
         *   [03: Het Trauma-Adrenaline Dilemma (Veilig vs. Spannend)](over-trauma/partner-van-een-partner-met-trauma/03-het-trauma-adrenaline-dilemma-veilig-versus-spannend.md)
     *   [**Kennisbank Emoties (Overzicht)**](over-emoties/README.md)
+        *   [Emotionele Voltooiing: Iets Doen 'Met' Emoties in Plaats van 'Aan' Emoties](over-emoties/emotionele-voltooiing-en-interventies.md)
         *   [Emotieproces: Werkmodel voor Coaching](over-emoties/emotietheorie-werkmodel.md)
         *   [Omgaan met Emoties: Voelen, Begrijpen & Kiezen](over-emoties/omgaan-met-emoties.md)
         *   [Over Boosheid: Schild, Energie en Grenzen](over-emoties/over-boos/README.md)

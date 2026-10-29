@@ -15,13 +15,15 @@ Binnen deze kennisbank kijken we naar emoties voorbij moraliserende oordelen ("g
 ## Documenten in deze Kennisbank
 
 ### Algemene Theorieën & Werkmodellen
-1. [**Emotieproces: Werkmodel voor Coaching**](emotietheorie-werkmodel.md)  
+1. [**Emotionele Voltooiing: Iets Doen 'Met' Emoties in Plaats van 'Aan' Emoties**](emotionele-voltooiing-en-interventies.md)  
+   *De fysiologische cyclus, het partnerschap met emoties, de ontkrachting van de catharsis-mythe, primaire vs. secundaire emoties en online diagnostische scripts (o.a. Bodyguard-vraag en 60-seconden-toets).*
+2. [**Emotieproces: Werkmodel voor Coaching**](emotietheorie-werkmodel.md)  
    *Het overkoepelende fasenmodel voor emotionele verwerking, arousal en integratie.*
-2. [**Omgaan met Emoties: Voelen, Begrijpen en Kiezen**](omgaan-met-emoties.md)  
+3. [**Omgaan met Emoties: Voelen, Begrijpen en Kiezen**](omgaan-met-emoties.md)  
    *Praktische handvatten voor het waarnemen van lichaamssignalen, vertragen bij oplopende spanning en compassievol stilstaan bij behoeften.*
-3. [**Emoties, Leren & Gedrag**](emoties-leren-en-gedrag.md)  
+4. [**Emoties, Leren & Gedrag**](emoties-leren-en-gedrag.md)  
    *Conditionering, bekrachtiging en hoe automatische gedragspatronen inslijten en hervormd kunnen worden.*
-4. [**Emoties Opmerkingen & Aforismen**](emoties%20opmerkingen.md)  
+5. [**Emoties Opmerkingen & Aforismen**](emoties%20opmerkingen.md)  
    *Kernachtige inzichten over schuld, boosheid, spijt, rouw en emotionele afhankelijkheid.*
 
 ### Specifieke Emoties & Themadossiers
