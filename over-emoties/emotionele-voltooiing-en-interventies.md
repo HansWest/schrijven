@@ -24,12 +24,12 @@ De moderne somatische psychologie (o.a. Peter Levine, Leslie Greenberg, Karla Mc
 ```
 
 ### Waarom Emoties Vastlopen (Onvoltooide Cycli)
-Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens wordt geblokkeerd — omdat de situatie te overweldigend was, omdat je als kind werd afgewezen als je boos of verdrietig was, of omdat sociale conventies expressie verbieden — **blijft de fysiologische energie ingekapseld in het zenuwstelsel**:
+Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens wordt geblokkeerd — omdat de situatie te overweldigend was, omdat je als kind werd afgewezen als je boos of verdrietig was, of omdat sociale conventies expressie verbieden — **blijft de fysiologische energie als het ware 'binnen' jezelf in het zenuwstelsel**:
 - De spieren blijven aangespannen (spierpantsering).
-- De ademhaling blijft oppervlakkig of klemzitten.
+- De ademhaling blijft oppervlakkig of klemzitten, of juist overdreven groot voor het moment.
 - Het brein blijft cognitieve verhalen spinnen om de chronische lichamelijke spanning te verklaren.
 
-**Emotionele voltooiing** betekent dat het organisme de biologische cyclus alsnog veilig mag afmaken. Het zenuwstelsel krijgt het fysiologische signaal dat de actie is volbracht, waardoor het stresssysteem definitief kan terugkeren naar de veilige basis van de ventrale vagus.
+**Emotionele voltooiing** betekent dat het brein woorden mag vinden voor de emotie die gevoeld wordt en dat het organisme de biologische cyclus alsnog veilig mag afmaken. Het zenuwstelsel krijgt het fysiologische signaal dat de actie is volbracht, waardoor het stresssysteem definitief kan terugkeren naar de veilige basis van de ventrale vagus.
 
 ---
 
@@ -51,7 +51,7 @@ Neurowetenschappelijk onderzoek (o.a. door prof. Brad Bushman) heeft deze 'stoom
 > **Agressief ventileren kalmeert niet, maar wakkert het sympathische alarmsysteem juist aan.**  
 > Door woedend te slaan of te schreeuwen zonder constructieve bedding, 'prime' je de neurale paden van vijandigheid. Het brein leert dat de wereld een strijdtoneel is. 
 > 
-> Iets doen *met* woede betekent niet dat je destructief uithaalt, maar dat je de fysiologische kracht van woede gebruikt om **een duidelijke grens te trekken, jezelf te beschermen of een onrecht aan te pakken**.
+> Iets doen *met* woede betekent niet dat je destructief uithaalt, maar dat je de fysiologische kracht van woede gebruikt om in actie te komen aangaande de dingen die voor jou belangrijk zijn. Door bijvoorbeeld te vechten *voor* iets in plaats van *tegen* iemand, bijvoorbeeld door **een duidelijke grens te trekken, jezelf te beschermen of een onrecht aan te pakken**.
 
 ---
 
@@ -65,7 +65,7 @@ In de Emotion-Focused Therapy (Leslie Greenberg) en somatische psychologie onder
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   HET TWEE-LAGENMODEL VAN EMOTIES                      │
 ├────────────────────────────────────────────────────────────────────────┤
-│  SECUNDAIRE EMOTIE (De Dekmantel / Het Schild)                         │
+│  SECUNDAIRE EMOTIE (De Dekmantel / Het Schild / De Rationalisatie)     │
 │  • Een reactieve emotie ÓP of IN PLAATS VAN de oorspronkelijke pijn.   │
 │  • Vaak: Agressieve woede, wrok, cynisme, intellectualisering of       │
 │          juist aangeleerde hulpeloosheid en pleasen (Fawn).            │
@@ -105,7 +105,7 @@ Het mechanisme werkt ook andersom: mensen die in hun jeugd zijn gestraft voor bo
 Wanneer je hebt vastgesteld dat er geen acuut fysiek gevaar dreigt, kun je per primaire emotie de volgende adaptieve acties inzetten:
 
 ### A. Woede (RAGE / Grenssignaal)
-- **Evolutionair signaal:** *"Er is over een grens heengegaan; een behoefte wordt geblokkeerd; er is onrecht."*
+- **Evolutionair signaal:** *"Er is over een grens heengegaan; een behoefte wordt geblokkeerd; er is onrecht"* of *"Mij is iets afgepakt, of mij is niet gegeven waar ik recht op had; er is onrecht."*
 - **Somatic Action Tendency:** Voorwaartse kracht, spierspanning in armen en kaken, stevige gronding.
 - **Wat je ermee DOET:**
   - *Isometrische tegendruk:* Zet je handen plat tegen een stevige muur. Duw met 15-20% van je spierkracht, voel hoe je schouders, core en voeten een onwrikbare barrière vormen. Dit geeft het brein het fysieke bewijs dat je in staat bent jezelf te beschermen.
@@ -113,7 +113,7 @@ Wanneer je hebt vastgesteld dat er geen acuut fysiek gevaar dreigt, kun je per p
   - *Constructieve actie:* Zet de energie om in het veranderen van je werksituatie, relatievoorwaarden of praktische leefomgeving.
 
 ### B. Verdriet & Rouw (PANIC / Verliessignaal)
-- **Evolutionair signaal:** *"Iets van grote waarde is verloren; een hechtingsband is gebroken; een verwachting is gestorven."*
+- **Evolutionair signaal:** *"Iets van grote waarde is verloren; een hechtingsband is gebroken; een verwachting is gestorven."* Kortom: *"Ik ben iets kwijt en ik ga dat ook niet meer terugkrijgen in mijn leven."*
 - **Somatic Action Tendency:** Energie daalt, spieren verzachten, het lichaam wil vouwen en rusten, huilen.
 - **Wat je ermee DOET:**
   - *Tranen toelaten:* Huilen activeert het parasympathische zenuwstelsel en scheidt chemische stressstoffen (o.a. prolactine en ACTH) af via het traanvocht.
@@ -131,7 +131,7 @@ Wanneer je hebt vastgesteld dat er geen acuut fysiek gevaar dreigt, kun je per p
 
 ### D. Schaamte ("Ik ben defect / ongewenst / in de steek gelaten")
 - **Evolutionair signaal:** *"Dreiging van sociale verbanning uit de groep of hechtingsverlies."*
-- **Somatic Action Tendency:** Ineenschrompelen, blik afwenden, verstarren.
+- **Somatic Action Tendency:** Ineenschrompelen, blik afwenden, verstarren, door de grond willen zakken en 'er niet willen zijn'.
 - **Wat je ermee DOET:**
   - *Empathische getuigenis:* Schaamte overleeft isolatie, maar lost op zodra het wordt gedeeld met een veilige ander die reageert zonder oordeel: *"Ik begrijp je volkomen; je bent niet gek of kapot."*
   - *Taalscheiding:* Maak het onderscheid tussen **Schuld** (*"ik heb een inschattingsfout gemaakt"*) en **Schaamte** (*"ik ben een mislukkeling"*).
