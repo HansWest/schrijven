@@ -249,8 +249,9 @@ $$\text{Wahrnehmen (Waarnemen)} \longrightarrow \text{Erfassen (Benoemen)} \long
 │ 4. ERKLÄREN & SINNFINDUNG (Uitleggen aan Anderen & Zingeving)          │
 │    • Je kunt aan anderen helder uitleggen hoe jouw emoties werken en   │
 │      hoe jij ermee omgaat (de eigen 'emotionele handleiding').         │
-│    • Existentiële zingeving (de 5e Zuil van Identiteit): de ervaring   │
-│      wordt omgezet in morele waarden en maatschappelijke solidariteit. │
+│    • De zingevingsfase van de hermeneutische spiraal: de ervaring      │
+│      wordt omgezet in een moreel kompas en maatschappelijke            │
+│      solidariteit (Homo Solidarius).                                   │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -262,13 +263,14 @@ Zolang je een emotie alleen maar intern probeert te beheersen of af te remmen, b
 - Creëer je een transparante, veilige sociale bedding: de ander hoeft niet meer te raden naar jouw geslotenheid of bang te zijn voor jouw uitbarstingen, omdat je jouw eigen 'emotionele handleiding' overhandigt.
 - Wordt de emotie genormaliseerd en ontdaan van schaamte: het is geen 'gek defect' meer, maar een begrijpelijke biologische reactie met een heldere gebruiksaanwijzing.
 
-### 2. Zingeving als Richtinggevende Kracht (De 5e Zuil van Identiteit)
-In Petzolds model van de *Vijf Zuilen van Identiteit* (Lichaam/Gezondheid, Sociaal Netwerk, Werk/Prestatie, Materiële Zekerheid, en **Waarden & Zingeving**) is zingeving de ultieme stabilisator van de menselijke psyche:
+### 2. De Zingevingsfase van de Hermeneutische Spiraal (Sinnfindung)
+In de hermeneutische spiraal is de zingevingsfase (*Sinnfindung*) de ultieme richtinggevende kracht:
+- **Welke existentiële waarde ontleen je aan deze woede, dit verdriet of deze doorgemaakte crisis?**
+- De pijn wordt getransformeerd tot een moreel kompas, diepe zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*).
 - *"Wat heeft deze woede mij geleerd over wat ik wérkelijk belangrijk vind om voor te vechten?"*
 - *"Wat heeft dit verdriet mij geleerd over de waarde van verbinding en wat ik in mijn leven niet meer terugkrijg?"*
-- *"Welke existentiële les neem ik mee, en hoe maakt dit mij tot een empathischer, betrouwbaarder en solidairder mens (Homo Solidarius)?"*
 
-Wanneer een emotie niet alleen somatisch is ontladen, maar ook cognitief kan worden uitgelegd aan een ander en existentieel van zingeving is voorzien, is de cirkel van grip en emotionele meesterschap definitief rond.
+Wanneer een emotie niet alleen somatisch is ontladen, maar ook cognitief kan worden uitgelegd aan een ander en in de hermeneutische spiraal van existentiële zingeving is voorzien, is de cirkel van grip en emotionele meesterschap definitief rond.
 
 ---
 
