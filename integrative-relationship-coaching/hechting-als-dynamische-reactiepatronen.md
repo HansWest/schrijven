@@ -223,7 +223,7 @@ We vervangen het etiket door een **concrete, operationele navigatiekaart**:
 
 ## 7. Samenvattend Advies voor de Beoefenaar / Coach
 
-- **Vervang het etiket door nieuwsgierigheid:** Vraag niet: *"Welke hechtingsstijl heeft deze persoon?"*, maar vraag: *"Welk reactiepatroon wordt in deze specifieke relatie opgeroepen, en wat is de functie daarvan voor het zenuwstelsel?"*
+- **Vervang het etiket door nieuwsgierigheid:** Vraag niet: *"Welke hechtingsstijl heeft deze persoon?"*, maar vraag: *"Welk reactiepatroon wordt in deze specifieke relatie opgeroepen, en wat is de functie daarvan voor het zenuwstelsel van deze partner?"*
 - **Kijk naar de chemie tussen twee zenuwstelsels:** Onderzoek waarom partner A dit patroon activeert en partner B niet.
-- **Herbedrading gebeurt somatisch:** Inzicht in je patronen heelt niets; het ervaren van *rupture and repair* (breuk en herstel) zonder dat de relatie instort, heelt de hersenstam.
+- **Herbedrading gebeurt somatisch:** Inzicht in je patronen heelt weinig, het geeft je mogelijk hoop omdat je nu beter een strategie zou kunnen bedenken. Maar het is het ervaren van *rupture and repair* (breuk en herstel) zonder dat de relatie instort, dat de hersenstam verandert.
 
