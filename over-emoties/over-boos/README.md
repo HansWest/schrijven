@@ -31,7 +31,7 @@ Het voelt voor de hersenstam minder bedreigend om woedend te zijn dan om zich vo
 
 ## 2. De Neurobiologie: Sympathische Mobilisatie
 
-In tegenstelling tot verdriet — dat fysiologisch vertraagt, de blik naar binnen richt en aanzet tot rust via het parasympathische systeem — activeert boosheid acuut het **sympathische zenuwstelsel** (de vecht-of-vluchtrespons):
+In tegenstelling tot verdriet - dat fysiologisch vertraagt, de blik naar binnen richt en aanzet tot rust via het parasympathische systeem - activeert boosheid acuut het **sympathische zenuwstelsel** (de vecht-of-vluchtrespons):
 - Adrenaline en noradrenaline stromen door de bloedbaan.
 - De hartslag versnelt, spieren spannen zich aan en de ademhaling verdiept.
 - De focus versmalt tot de vermeende bron van dreiging of onrecht.
@@ -41,7 +41,7 @@ In tegenstelling tot verdriet — dat fysiologisch vertraagt, de blik naar binne
 De vrijkomende energie kan twee volstrekt verschillende kanten op bewegen:
 
 1. **Constructieve Mobilisatie (Vechten vóór in plaats van tegen):**  
-   Die energie kan helpen om in actie te komen aangaande de dingen die voor jou belangrijk zijn — door te vechten *voor* iets in plaats van louter *tegen* iemand, om een duidelijke streep te trekken en zelfrespect te herwinnen: *"Ik accepteer deze behandeling niet langer, ik ga niet smeken of onderhandelen, en ik kies nu voor mijn eigen waardigheid."* Hier fungeert boosheid als een gezonde motor voor begrenzing.
+   Die energie kan helpen om in actie te komen aangaande de dingen die voor jou belangrijk zijn - door te vechten *voor* iets in plaats van louter *tegen* iemand, om een duidelijke streep te trekken en zelfrespect te herwinnen: *"Ik accepteer deze behandeling niet langer, ik ga niet smeken of onderhandelen, en ik kies nu voor mijn eigen waardigheid."* Hier fungeert boosheid als een gezonde motor voor begrenzing.
 2. **Destructieve Ruminatie & Verbittering:**  
    Wanneer boosheid niet wordt ontladen maar eindeloos in het hoofd wordt herkauwd (*rumineren*), slaat ze om in chronische stress en toxische wrok. Zeker bij herhaalde kwetsuren ontstaat het risico dat boosheid zich verhardt tot verbittering tegen hele groepen of het leven zelf (*"alle vrouwen/mannen zijn onbetrouwbaar"*), wat uiteindelijk leidt tot verharding en sociaal isolement.
 
@@ -98,6 +98,6 @@ Gezond herstel ontstaat wanneer de energie van boosheid je helpt rechtop te staa
 
 ## Verbanden elders in de Workspace
 
-- [Relaties Beëindigen: Verlaten Worden](../../over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) — *De toepassing van boosheid en rouw bij een relatiebreuk.*
-- [Kennisbank Hechting: De 7 F's](../../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Fight als defensieve hechtingsreactie van de hersenstam.*
-- [Omgaan met Emoties](../omgaan-met-emoties.md) — *Het algemene model voor voelen, begrijpen en kiezen.*
+- [Relaties Beëindigen: Verlaten Worden](../../over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) - *De toepassing van boosheid en rouw bij een relatiebreuk.*
+- [Kennisbank Hechting: De 7 F's](../../over-hechting/02-neurobiologie-en-zenuwstelsel.md) - *Fight als defensieve hechtingsreactie van de hersenstam.*
+- [Omgaan met Emoties](../omgaan-met-emoties.md) - *Het algemene model voor voelen, begrijpen en kiezen.*

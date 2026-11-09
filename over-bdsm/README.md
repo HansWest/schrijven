@@ -9,7 +9,7 @@
 
 Kink en BDSM zijn geen geïsoleerde seksuele eigenaardigheden, maar complexe, gelaagde systemen van menselijke interactie waarin macht, fysieke intensiteit, erotische expressie en diepe hechtingsverlangens samenkomen.
 
-Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching — hanteren we scherpe analytische kaders:
+Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - hanteren we scherpe analytische kaders:
 1. **Gelaagdheid in relaties:** Power exchange bestaat binnen duidelijke niveaus en overstijgt nooit fundamentele mensenrechten (het Gateau-model).
 2. **Techniek vs. Betekenis:** Dezelfde fysieke handeling kan totaal andere emotionele en neurologische ladingen dragen.
 3. **Somatische Realiteit:** Het zenuwstelsel reageert op chemische pieken en dalen (Drop) die bewuste aftercare vereisen.
@@ -56,6 +56,12 @@ Om BDSM helder en veilig te navigeren — zowel persoonlijk als binnen coaching 
 
 13. [**13: Dominantie Ontwikkelen: De Driehoek in de Praktijk**](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
     *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
+
+14. [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)  
+    *De psychologische architectuur van emotioneel sadomasochisme: het 'Feeling Wheel for Emotional S/M' van vahavta, de erotisering van schaamte en machteloosheid, polyvagale dynamieken en richtlijnen voor emotionele aftercare.*
+
+15. [**15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)  
+    *De complementaire binnenwereld van de Dominant: de acht dominante spiegelpolen, het voorkomen van Domdrop, de Techniek-Betekenis koppeling in uitvoering, de 4 fasen van de emotionele boog (Descent, Pivot, Ascent, Landing) en polyvagale safeguards.*
 
 ---
 

@@ -31,6 +31,9 @@ Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens 
 
 **Emotionele voltooiing** betekent dat het brein woorden mag vinden voor de emotie die gevoeld wordt en dat het organisme de biologische cyclus alsnog veilig mag afmaken. Het zenuwstelsel krijgt het fysiologische signaal dat de actie is volbracht, waardoor het stresssysteem definitief kan terugkeren naar de veilige basis van de ventrale vagus.
 
+> **Het Repressiemodel van Hilarion Petzold (1993a, Band II):**  
+> In de Integratieve Therapie formuleert Petzold exact dit fysiologische mechanisme: *Wanneer expressieve impulsen van het organisme (zoals het uiten van primaire emoties, verdriet, woede of behoefte aan nabijheid) permanent gewelddadig worden onderdrukt óf stelselmatig geen relationele resonantie ontvangen, worden deze situaties tot directe bron van chronische aandoeningen en somatisatie.* Emotionele voltooiing vereist derhalve niet alleen een individuele motorische ontlading, maar ook een omgeving die veilige, niet-oordelende resonantie biedt (zie ook [Grondslagen van Integratieve Therapie](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md)).
+
 ### De Ethologische Analogie: Het Gier-experiment en de Motorische Eindhandeling (*Consummatory Act*)
 
 Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet louter met woorden of passief wachten kan worden opgelost, laat zich helder begrijpen via een klassieke **ethologische analogie** (o.a. geworteld in het werk van Wallace Craig, Konrad Lorenz en Niko Tinbergen): het onderscheid tussen **appetitief gedrag** (*Appetenzverhalten*) en de **consummatorische eindhandeling** (*Endhandlung* of *Consummatory Act*).
@@ -117,6 +120,11 @@ Het zenuwstelsel schakelt daarom instinctief over naar een **secundaire emotie: 
 ### De Omgekeerde Dekmantel: Huilen in plaats van Boos zijn
 Het mechanisme werkt ook andersom: mensen die in hun jeugd zijn gestraft voor boosheid, hebben geleerd woede af te splitsen. Wanneer hun grenzen met voeten worden getreden, worden ze niet boos, maar schieten ze in een **secundaire hulpeloosheid of tranen** (*"Waarom overkomt mij dit altijd?"*). 
 - Het voltooien van dat 'verdriet' lost niets op, omdat het zenuwstelsel eigenlijk de gezonde, assertieve **Fight-energie** nodig heeft om "STOP" te zeggen.
+
+### De Emotieverdubbelaar & Luc Ciompi's Affectlogica
+De vicieuze dynamiek tussen primaire en secundaire emoties wordt neurologisch aangedreven door **de Emotieverdubbelaar**:
+1. **Affectlogica (Luc Ciompi):** Het subcorticale middenbrein dwingt de neocortex om gedachten te genereren die naadloos aansluiten op het affect. Angst dwingt tot *angstdenken* (rampscenario's, kudde zoeken); boosheid dwingt tot *boosheidsdenken* (focus op schuld, vergelding); geilheid dwingt tot *lustdenken*; schaamte dwingt tot *schaamtedenken* (ik faal fundamenteel).
+2. **De Meta-Emotie als Verdubbelaar:** Vervolgens reageert het zelfbewuste Ik emotioneel op de eigen toestand: bang worden dat je bang wordt (angst voor de angst $\rightarrow$ paniek), boos worden op jezelf omdat je boos bent (interne kramp), of redenen bedenken waarom het schaamtevol is om je te schamen. Hierdoor ontstaat een recursieve feed-forward loop waarin het brein verse brandstof blijft sturen naar de hersenstam (zie het hoofdartikel [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](de-emotie-verdubbelaar-en-affectlogica.md)).
 
 ---
 

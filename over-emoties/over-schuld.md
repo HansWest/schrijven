@@ -40,6 +40,13 @@ Sommige mensen voelen zich bijna altijd schuldig, ook wanneer ze veel geven of n
 
 Vraag jezelf af: *Welke verantwoordelijkheid is werkelijk van mij? Welke verantwoordelijkheid hoort bij de ander of bij de omstandigheden? Welke norm probeer ik te halen, en is die redelijk?* Je kunt leren van een situatie zonder alle schuld op je te nemen.
 
+### De Schuldverdubbelaar: Schuld over je Schuldgevoel
+Een bijzonder hardnekkige vorm van ondermijnend schuldgevoel ontstaat wanneer het gevoel zichzelf verdubbelt:
+- **Intra-psychisch:** Je voelt je schuldig dát je je schuldig voelt (*"Waarom voel ik me nou wéér schuldig over een gezonde grens? Mijn therapeut zei toch dat ik 'nee' mag zeggen?! Nu faal ik zelfs in grenzen stellen!"*).
+- **Relationeel:** Wanneer jouw schuldgevoel de ander belast (*"Nu zit ik hier met een schuldig gezicht en moet mijn partner míj weer gaan troosten terwijl ik degene was die te laat kwam"*).
+
+In beide gevallen treedt de [Emotieverdubbelaar](de-emotie-verdubbelaar-en-affectlogica.md) in werking: het denkende Ik plakt een moreel oordeel bovenop het primaire gevoel, waardoor de spanning zichzelf vermenigvuldigt en constructief relationeel herstel blokkeert.
+
 ## Verwijten en schuld pingpong
 
 Een beschuldiging kan een echte pijn of onvervulde behoefte uitdrukken, maar lokt vaak verdediging of een tegenbeschuldiging uit. In plaats van *"jij bent schuldig"* kun je proberen te zeggen wat je hebt waargenomen, wat het met je deed en wat je vraagt:

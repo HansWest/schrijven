@@ -1,7 +1,7 @@
 # Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'
 ## Traumareacties, het Tweekoppige Brein en de Manieren van Herinneren
 
-> **Kennisbank Trauma — Hoofddocument**  
+> **Kennisbank Trauma - Hoofddocument**  
 > *Waarom trauma niet de heftigheid van een gebeurtenis is, maar het onvermogen om haar te integreren; de taxonomie van 7 manieren van herinneren gekoppeld aan de overlevingsreacties van het zenuwstelsel (de F-reacties: Frenzy, Flight, Fight, Freeze, Fawn, Feign Death), de falende tijdstempel van de hippocampus, en de weg naar somatische integratie.*
 
 ---
@@ -18,6 +18,20 @@ Waarom groeit de ene pijnlijke gebeurtenis uit tot een gewoon verdrietige herinn
 Het antwoord luidt: **Trauma is niet de heftigheid van de gebeurtenis, maar het onvermogen van het zenuwstelsel om die heftige ervaring te verwerken en te integreren.**
 
 Trauma ontstaat wanneer een ervaring zó overweldigend is dat de fysiologische en emotionele verwerkingscapaciteit van het organisme bezwijkt, waardoor de herinnering niet netjes in het archief van het verleden kan worden opgeborgen, maar blijft rondspoken als een levende, actieve dreiging in het heden.
+
+### Het Etiologische Kader van Hilarion Petzold: De Drie Bronnen van Ziekte
+In de Integratieve Therapie van **Hilarion Petzold** (1993a, Band II) wordt het ontstaan van trauma, hechtingswonden en psychosomatische klachten gevat in drie elkaar aanvullende gezondheids- en ziektemodellen:
+
+1. **Het Model van Ontwikkelingsbeschadigingen (Stimulatie-pathologie):**  
+   Ziekte ontstaat wanneer de aard, dosering of continuïteit van prikkels de draagkracht en verwerkingscapaciteit (*coping capacity*) van het organisme overschrijden. Petzold onderscheidt vier fundamentele vormen:
+   - **Trauma (Overstimulering):** Acute, verpletterende prikkels die de hippocampus laten crashen en de overlevingsreflexen activeren.
+   - **Deficiëntie / Tekort (Onderstimulering):** Het structurele ontbreken van wezenlijke hechtingsinput (emotionele verwaarlozing, gebrek aan affectie, het 'Zwarte Gat').
+   - **Stoornis (Onduidelijke of onderbroken stimulering):** Ambivalente, onsamenhangende of grillig afgebroken signalen van hechtingsfiguren waardoor hechtingsverwarring ontstaat.
+   - **Conflict (Tegenstrijdige stimulering):** Dubbele bindingen (*double binds*) en onverenigbare eisen die het zenuwstelsel permanent in spanning houden.
+2. **Het Model van Meervoudige, Tijd-Geëxtendeerde Belasting (Ereignisketten):**  
+   Pathologie is zelden het gevolg van één enkel geïsoleerd drama, maar ontstaat meestal door *gebeurtenisketens* en langdurige cumulatieve micro-stressoren die de veerkracht van het zenuwstelsel langzaam uithollen.
+3. **Het Repressiemodel van Ziekte:**  
+   Wanneer expressieve impulsen van het organisme (primaire emoties zoals verdriet, woede of behoefte aan nabijheid) stelselmatig gewelddadig worden onderdrukt of *structureel geen relationele resonantie* ontvangen, slaat de fysiologische energie noodgedwongen naar binnen. Dit leidt tot chronische neuromusculaire kramp, somatisatie en dorsale shutdown (zie ook [Grondslagen van Integratieve Therapie](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md)).
 
 ---
 
@@ -46,7 +60,7 @@ In normale omstandigheden fungeert de **hippocampus** als de bibliothecaris van 
 ### De Amnesie van het Zenuwstelsel
 Tijdens een overweldigende gebeurtenis crasht de hippocampus echter door een toxische vloedgolf van adrenaline en cortisol (catecholaminen). Het autobiografische verwerkingsproces stagneert ogenblikkelijk:
 - De herinnering kan niet ordelijk worden gecodeerd of van een datum worden voorzien.
-- De rauwe sensorische prikkels — een specifieke geur van aftershave, een toonhoogte in iemands stem, spanning in de kaken, een plotselinge schaduw of het gevoel van klemzitten — worden **zonder tijdslabel** opgeslagen in de hersenstam en de paleocortex (de laag van het [Zelf](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)).
+- De rauwe sensorische prikkels - een specifieke geur van aftershave, een toonhoogte in iemands stem, spanning in de kaken, een plotselinge schaduw of het gevoel van klemzitten - worden **zonder tijdslabel** opgeslagen in de hersenstam en de paleocortex (de laag van het [Zelf](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)).
 
 Wanneer een trigger in het heden deze sensorische snaren raakt, denkt het zenuwstelsel niet: *"Goh, dit herinnert me aan vroeger."*  
 **Het Zelf ervaart fysiologisch dat het HIER EN NU opnieuw gebeurt.** De pupillen verwijden, de keel knijpt dicht, de ademhaling stokt (apneu) en het lichaam schiet in doodsnood.
@@ -121,11 +135,11 @@ Elke overlevingsreactie van het autonome zenuwstelsel kent zijn eigen karakteris
 | Traumareactie (De F's) | Autonome Toestand | Primaire Geheugenmodus | Somatische Expressie in het Heden | Typische Cognitieve / Relationele Manifestatie |
 | :--- | :--- | :--- | :--- | :--- |
 | **Frenzy** (Koortsachtige Fixatie & Craving) | Acute sympathische dopamine- en adrenaline-craving (gekaapte SEEKING) | **Obsessieve Ruminatie & Craving-Re-enactment** | Gejaagdheid in vingers/handen, tunnelvisie, verhoogde hartslag, innerlijke brandende rusteloosheid | Dwangmatig contact forceren, obsessief checken en refreshen, hechtingspaniek: *"Als ik nú geen respons krijg, ga ik kapot."* |
-| **Flight** (Vluchten — Naar Buiten of Binnen) | Sympathische hyperarousal (Mobilisatie / Vermijding) | **Somatisch-Procedureel & Intellectualisering** | Rusteloze benen, oppervlakkige borstademhaling, onvermogen om stil te zitten, hartkloppingen | Werkverslaving, rationaliseren, relaties abrupt ontvluchten: *"Als ik maar hard genoeg ren en denk, kan niemand me raken."* |
+| **Flight** (Vluchten - Naar Buiten of Binnen) | Sympathische hyperarousal (Mobilisatie / Vermijding) | **Somatisch-Procedureel & Intellectualisering** | Rusteloze benen, oppervlakkige borstademhaling, onvermogen om stil te zitten, hartkloppingen | Werkverslaving, rationaliseren, relaties abrupt ontvluchten: *"Als ik maar hard genoeg ren en denk, kan niemand me raken."* |
 | **Flock** (Kudde Zoeken / Zwermen) | Sociale paniek & sympathische hechtingsnood | **Externe Bevestigings-Re-enactment & Afleiding** | Spreekdrang, niet alleen kunnen zijn, gejaagde fysieke onrust die pas zakt bij een ander | In paniek vrienden rondbellen, apps openen om vreemden te ontmoeten ter afleiding van de leegte ("honger naar getuigenis"). |
-| **Fight** (Vechten — De Kat op de Kast) | Sympathische hyperarousal (Defensieve Agressie) | **Somatisch-Motorisch & Relationele Strijd** | Geklemde kaken, vuisten ballen, spanning in nek en schouders, plotselinge explosieve woede | Wantrouwen, controledrang, relationele strijd aangaan: *"Iedereen wil over me heen lopen; ik moet als eerste slaan."* |
-| **Freeze** (Bevriezen — Schutkleuren) | Gelijktijdige Sympathische + Dorsale activatie (Gaspedaal én rem vol ingetrapt) | **Sensorische Flashbacks & Emotionele Flashbacks** | Apneu (adem inhouden), ijskoude handen/voeten, spierverstijving, plotselinge verlammende angst | Hypervigilantie, sensorische overgevoeligheid (geluiden, geuren), zich onzichtbaar maken: *"Als ik beweeg, ga ik dood."* |
-| **Fawn** (Pleasen — Sociale Schutkleur) | Gemaskeerde sympathische angst achter ventrale mimicry (Appeasement) | **Intellectualiserend Narratief & Relationele Re-enactment** | Chronische spierspanning in keel en hals, geforceerd glimlachen, inslikken van woorden | Zelfopoffering, pleasen, [bedelen bij kikkers](hoe-stop-je-met-bedelen-bij-kikkers.md): *"Het ligt aan mij; als ik maar nuttig en lief genoeg ben, word ik niet verlaten."* |
+| **Fight** (Vechten - De Kat op de Kast) | Sympathische hyperarousal (Defensieve Agressie) | **Somatisch-Motorisch & Relationele Strijd** | Geklemde kaken, vuisten ballen, spanning in nek en schouders, plotselinge explosieve woede | Wantrouwen, controledrang, relationele strijd aangaan: *"Iedereen wil over me heen lopen; ik moet als eerste slaan."* |
+| **Freeze** (Bevriezen - Schutkleuren) | Gelijktijdige Sympathische + Dorsale activatie (Gaspedaal én rem vol ingetrapt) | **Sensorische Flashbacks & Emotionele Flashbacks** | Apneu (adem inhouden), ijskoude handen/voeten, spierverstijving, plotselinge verlammende angst | Hypervigilantie, sensorische overgevoeligheid (geluiden, geuren), zich onzichtbaar maken: *"Als ik beweeg, ga ik dood."* |
+| **Fawn** (Pleasen - Sociale Schutkleur) | Gemaskeerde sympathische angst achter ventrale mimicry (Appeasement) | **Intellectualiserend Narratief & Relationele Re-enactment** | Chronische spierspanning in keel en hals, geforceerd glimlachen, inslikken van woorden | Zelfopoffering, pleasen, [bedelen bij kikkers](hoe-stop-je-met-bedelen-bij-kikkers.md): *"Het ligt aan mij; als ik maar nuttig en lief genoeg ben, word ik niet verlaten."* |
 | **Feign Death** (Schijndood & Hopeloosheids-Collaps) | Pure dorsale vagale shutdown (Bradycardie, hypotensie, endorfines) | **Dissociatieve Amnesie & Somatische Verdoving ("Witte Vlekken")** | Spierverslapping (atonie), flauwvallen, gevoelloosheid (analgesie), extreme apathie en zwaarte | Witte vlekken in de biografie, 'uitchecken', leegte, apathische depressie: *"Er is niets gebeurd / Het maakt toch allemaal niets uit."* |
 
 ---
@@ -204,7 +218,7 @@ Een zoogdier (en een mens) kan enorme schokken doorstaan, mits er direct na aflo
 - Het lichaam moet mogen schudden, trillen, diep huilen, zuchten en briesen (Levine's neurogene ontlading).
 - Er moet een veilige ander zijn die **emotionele respons** geeft: *"Ik zie hoe enorm je geschrokken bent. Het was afschuwelijk en oneerlijk. Huil het er maar uit, ik hou je vast, je bent nu veilig bij mij."*
 
-Zodra die respons echter ontbreekt — of wanneer de omgeving reageert met kille ontkenning, verwijt of veroordeling (*"stel je niet aan", "grote jongens huilen niet", "je mag niet boos zijn"*):
+Zodra die respons echter ontbreekt - of wanneer de omgeving reageert met kille ontkenning, verwijt of veroordeling (*"stel je niet aan", "grote jongens huilen niet", "je mag niet boos zijn"*):
 1. Wordt de natuurlijke motorische ontlading afgesneden om de hechtingsrelatie niet te verliezen (*fawn / over-inhibitie*).
 2. Moet het zenuwstelsel de overlevingsenergie noodgedwongen bevriezen en inkapselen in het eigen weefsel.
 3. Blijft de wond ongeheeld en tijdloos ronddolen als een sensorische, somatische of emotionele flashback.
@@ -279,10 +293,11 @@ De herinnering verhuist van de spieren en de hersenstam naar het bibliotheekarch
 
 ## Verwijzingen & Samenhang
 
-- [Het Zwarte Gat uit de Jeugd](zwarte-gat-uit-de-jeugd.md) — *De metafoor van kikkers, veren en de moeder-gans.*
-- [Hoe Stop je met Bedelen bij Kikkers?](hoe-stop-je-met-bedelen-bij-kikkers.md) — *Praktijkgids voor radicale acceptatie, emotionele ontwenning en somatische rouw.*
-- [01: Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) — *Het samenspel tussen het Zelf (paleocortex) en het Ik (wereldmodel-simulator).*
-- [02: Neurobiologie, Hersenstam & De 7 F's in Hechting](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *De polyvagaal theorie, neuroceptie en overlevingsresponsen.*
-- [08: BDSM als Co-Creatie: De Twee Driehoeken](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De verantwoordelijkheid voor elkaars 'gemankeerde kind' en RACK.*
-- [07: Subspace versus Freeze](../over-bdsm/07-subspace-versus-freeze.md) — *Het somatische onderscheid tussen gezonde overgave en traumatische shutdown.*
-- [Partner van een Partner met Trauma](partner-van-een-partner-met-trauma/README.md) — *Gids voor het navigeren van onvoorspelbare hechtingspatronen en trauma-triggers.*
+- [Grondslagen van Integratieve Therapie en Coaching (Petzold)](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De drie gezondheids- en ziektemodellen en de vier wegen van genezing.*
+- [Het Zwarte Gat uit de Jeugd](zwarte-gat-uit-de-jeugd.md) - *De metafoor van kikkers, veren en de moeder-gans.*
+- [Hoe Stop je met Bedelen bij Kikkers?](hoe-stop-je-met-bedelen-bij-kikkers.md) - *Praktijkgids voor radicale acceptatie, emotionele ontwenning en somatische rouw.*
+- [01: Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) - *Het samenspel tussen het Zelf (paleocortex) en het Ik (wereldmodel-simulator).*
+- [02: Neurobiologie, Hersenstam & De 7 F's in Hechting](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) - *De polyvagaal theorie, neuroceptie en overlevingsresponsen.*
+- [08: BDSM als Co-Creatie: De Twee Driehoeken](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *De verantwoordelijkheid voor elkaars 'gemankeerde kind' en RACK.*
+- [07: Subspace versus Freeze](../over-bdsm/07-subspace-versus-freeze.md) - *Het somatische onderscheid tussen gezonde overgave en traumatische shutdown.*
+- [Partner van een Partner met Trauma](partner-van-een-partner-met-trauma/README.md) - *Gids voor het navigeren van onvoorspelbare hechtingspatronen en trauma-triggers.*

@@ -11,6 +11,7 @@ Bestanden die de gebruiker in `_info-dump/` plaatst, zijn bedoeld als materiaal 
 - Zoek per onderwerp de passende bestaande thematische kennisbank, projectmap, artikeltekst of notities. Integreer de inhoud daar waar die past; voorkom onnodige duplicaten, maar herschrijf ideeën gerust passend bij de context.
 - Is er een zelfstandige, kansrijke artikelinvalshoek, leg die dan vast als een eigen aanzet in `artikel-aanzetten/`. Beschrijf kort de kern, mogelijke invalshoek en structuur, plus eventuele vragen of claims die nog verificatie nodig hebben.
 - Behoud betekenisvolle nuance en maak onzekerheden zichtbaar. Presenteer onbevestigde beweringen uit het bronmateriaal niet als feiten.
+- ABSOLUUT VERBOD OP HET HALLUCINEREN VAN BRONNEN: De auteur vindt het extreem onprettig als literatuurverwijzingen, podcasts, afleveringstitels of broncontext worden gefantaseerd of plausibel ingevuld. Verzin NOOIT afleveringstitels of context. Vraag de auteur om de juiste link/bron of markeer als `[Bron / exacte titel nog te verifiëren door auteur: onderwerp XYZ]`.
 - Werk verwijzingen en relevante overzichten bij als bestanden worden toegevoegd of verplaatst.
 - Verwijder een bronbestand pas nadat alle bruikbare inhoud duurzaam is verwerkt in bestaande documenten of een artikelaanzet. Als dat niet lukt of de bestemming onduidelijk is, laat het bronbestand staan en leg uit wat nog een keuze vraagt.
 - Laat `INSTRUCTIES.md` altijd staan. Ruim verwerkte bronbestanden op en meld kort waar de inhoud terechtgekomen is en of er iets bewust niet is overgenomen.

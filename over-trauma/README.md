@@ -35,8 +35,9 @@ Heling bestaat niet uit het forceren van een verandering bij de oorspronkelijke 
 
 ## Verbindingen in de Workspace
 
-- [BDSM als Co-Creatie: Trauma-gerelateerd Spelen, RACK & Het Gemankeerde Kind](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *Hoe vroege stressoren fetishes voeden en hoe de dader-slachtoffer valkuil wordt voorkomen.*
-- [Subspace versus Freeze](../over-bdsm/07-subspace-versus-freeze.md) — *Het polyvagale onderscheid tussen flow/overgave en traumatische dorsale vagale shutdown.*
+- [Grondslagen van Integratieve Therapie en Coaching (Petzold)](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De drie gezondheids- en ziektemodellen (overstimulering, cumulatieve belasting en repressie) en de vier wegen van genezing.*
+- [BDSM als Co-Creatie: Trauma-gerelateerd Spelen, RACK & Het Gemankeerde Kind](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Hoe vroege stressoren fetishes voeden en hoe de dader-slachtoffer valkuil wordt voorkomen.*
+- [Subspace versus Freeze](../over-bdsm/07-subspace-versus-freeze.md) - *Het polyvagale onderscheid tussen flow/overgave en traumatische dorsale vagale shutdown.*
 - [Hechting als Dynamische Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/01-reactiepatronen-en-relatietypen.md)
 - [Psychologie, Kink & Hechting (Idee 03)](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md)
 - [Relatie Coaching & Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md)

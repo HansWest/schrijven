@@ -111,5 +111,7 @@ Wie alleen speelt of na afloop geen partner in de buurt heeft (bijvoorbeeld bij 
 - [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) — *Waarom briefing vooraf en emotionele respons/aftercare achteraf het fysiologische verschil maken tussen gezonde integratie en trauma.*
 - [07: Subspace versus Freeze](07-subspace-versus-freeze.md) — *De kalibratie tussen gezonde overgave en traumatische shutdown.*
 - [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De zorgplicht van ontferming en de verantwoordelijkheid voor elkaars kwetsbaarheid.*
+- [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) — *De psychologische dynamiek van emotionele S/M en de erotisering van schaamte en overgave.*
+- [15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) — *De anatomie van Domdrop door morele schuld, het 'Drop the Mask'-protocol en de 48-uurs integratiecheck.*
 - [Kennisbank Hechting: 02 Neurobiologie en de 7 F's](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Sympathische vs dorsale vagale activatie.*
 - [Kinky Kerst & Eenzaamheid: Hechting & Kink](../kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md) — *Aftercare bij feestdagen en eenzaamheid.*

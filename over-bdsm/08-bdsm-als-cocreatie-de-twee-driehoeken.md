@@ -174,6 +174,8 @@ Wederzijdse aanspreekbaarheid, radicale eerlijkheid over triggers en een onvoorw
 - [01: Het Gateau-Model (Vier Relatielagen)](01-het-gateau-model-relatielagen.md) — *De scheiding tussen Topping, Relatierichting en Levensfundament.*
 - [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) — *De biochemische basis van ontlading en nazorg.*
 - [07: Subspace versus Freeze](07-subspace-versus-freeze.md) — *De 3-stappentest op de vloer en het polyvagale onderscheid.*
+- [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) — *De psychologische belevingspolen van de onderdaan en de erotisering van overgave.*
+- [15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) — *De complementaire holding-polen van de Dominant, de paradox van de twee spiegels en safeguards.*
 - [Cube of Consent: Assen en Machtsverschillen](../cube-of-consent/het-cube-of-consent-model.md) — *Informed consent en relationele veiligheid.*
 - [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) — *Overlevingspatronen en het zenuwstelsel.*
 - [Oldskool BDSM Waarden en Gebruiken](../artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md) — *Rituelen, respect en vakmanschap in historisch perspectief.*

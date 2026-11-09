@@ -6,6 +6,9 @@
 
 ## Thematische Mappen & Onderdelen
 
+### 0. [Het Brein, de Beleving en de Relatie: ASS & Partners](het-brein-de-beleving-en-de-relatie-ass.md)
+*Fundamenteel overzicht van de neurobiologie (grijze/witte stof, lokale connectiviteit, amygdala), contextblindheid, Rejection Sensitivity Dysphoria (RSD), en praktische relationele afstemming.*
+
 ### 1. [Wat is Masking? (`wat-is-masking/`)](wat-is-masking/README.md)
 *De sociale schutkleur, het onderdrukken van autistische expressie, en de prijs van de autistische kater.*
 - [Masking Herkennen: Voorbeelden en Onderscheid met Aanpassen](wat-is-masking/masking-herkennen-en-onderscheiden.md)

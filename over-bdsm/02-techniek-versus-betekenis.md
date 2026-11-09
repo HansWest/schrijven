@@ -1,6 +1,6 @@
 # De Techniek-Betekenis Splitsing in Kink (Technique-Meaning Split)
 
-> **Algemene BDSM-Theorie — Deel 2**  
+> **Algemene BDSM-Theorie - Deel 2**  
 > *Waarom dezelfde fysieke handeling radicaal verschillende psychologische en somatische effecten kan hebben, afhankelijk van de betekenislaag.*
 
 ---
@@ -56,3 +56,17 @@ In de KinkAwareCoach taxonomie worden ervaringstags gebruikt om de neurologische
 
 ### Conclusie voor Coaching & Beoefening
 Vraag nooit alleen: *"Wat doe je in BDSM?"*, maar vraag: *"Wat beleeft je zenuwstelsel in de overdracht van die handeling?"*
+
+---
+
+## 4. De Betekenislaag in Kaart: Het Gevoelswiel voor Emotionele S/M
+
+Om de betekenislaag praktisch en visueel hanteerbaar te maken, bouwen we voort op het *Feeling Wheel for Emotional S/M* van vahavta. Waar de fysieke techniek immers slechts de prikkel levert, brengt dit wiel de acht fundamentele belevingspolen van de onderdaan in kaart:
+* **Overgave & Devotie:** *Surrendering* en *Devoted* (het lichte spectrum van dienstbaarheid, aanbidding en transcendentie);
+* **Hechting & Veiligheid:** *Owned* en *Objectified* (de bevrijding van eigendom zijn en de rust van instrumentalisering);
+* **Intensiteit & Alarm:** *Fearful* en *Powerless* (het gecontroleerd bespelen van het sympathische zenuwstelsel en het breken van weerstand);
+* **Schaduw & Loutering:** *Ashamed* en *Degraded* (de erotisering van sociale taboes, vernedering en inferioriteit binnen een veilige container).
+
+Voor de volledige analyse van deze belevingspolen, de dynamiek van emotioneel masochisme en de richtlijnen voor aftercare, zie:
+* [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)
+* [**15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)
