@@ -12,6 +12,7 @@ Deze map bevat zelfstandige, kansrijke invalshoeken voor toekomstige artikelen d
 - [Handreiking: Kink & BDSM in de Eerste- en Tweedelijnszorg](handreiking-eerste-en-tweedelijnszorg-kink.md) - diagnostische kaders (DSM-5-TR, ICD-11), het profiel van de eenzame kinkster, do's & don'ts en de 3-vragen kink-check voor zorgverleners.
 - [De interne vergadertafel: wie zit er aan het stuur als ik het niet eens ben met mezelf?](de-interne-vergadertafel.md) - essay-concept en werkvorm (IDRS) over innerlijke tegenstrijdigheden, Robert Ornsteins multimind-concept, de archetypen aan tafel (van perfectionist en Japie tot het zwarte gat en ons beestje) en het installeren van Winnicotts Good Enough Parent en de Voorzitter.
 - [Het geschenk van de bodem: waarom we verlangen naar emotionele overgave en vernedering](emotionele-sm-en-het-verlangen-naar-overgave.md) - essay-concept over de psychologische diepte van emotionele S/M, de bevrijding van niet meer hoeven presteren, de Zes Somatische Hongers (erotische onmacht, ontmaskering, praise) en het Multi-Track Equalizer Model.
+- [Tussen overgave en overleven: subspace, hersenstamreflexen en de kantelmomenten in BDSM](subspace-traumasporen-en-de-kantelmomenten.md) - essay en praktische gids over de relatie tussen subspace en overlevingsreflexen (Fight, Flight, Freeze, Fawn, Feign Death), de terechte angst voor daderschap bij de Dominant, en handvatten voor het navigeren van de kantelmomenten.
 
 ## Werkwijze
 
