@@ -60,3 +60,9 @@
 5. **Praktijkrealiteit relativeert dogmatische theorie:**
    - Voeg altijd de rommelige, doorleefde praktijk toe die zwart-witmodellen nuanceert (bijv. eigenaarschap relativeren met *"of wel: maar dan volgens afspraak - 'want juist wat je bezit kun je uitlenen'"*, of de serotonine-dip die zich pas na anderhalve dag meldt).
    - Onderscheid bij aftercare altijd scherp tussen de *biologische* zorg (suikers, warmte, water) en de *emotionele* erkenning (praise voor de getoonde moed en overgave).
+6. **Geen academische scharnieren of schoolse overgangszinnetjes:**
+   - Vermijd didactische bruggetjes en aankondigingen zoals *"Hieronder volgt de ontleding van..."*, *"Zoals we zagen in..."*, of *"Om dit te begrijpen moeten we kijken naar..."*.
+   - Open alinea's en secties direct met de inhoudelijke kern, een prikkelende stelling of een rake uitsmijter. Laat de logica van het betoog het werk doen zonder meta-aankondigingen over de opbouw.
+7. **Rauwe observaties en spreekkamer-anekdotes:**
+   - Veranker theoretische concepten in concrete, doorleefde observaties uit de praktijk of vanaf de speelvloer (bijv. *"In mijn praktijk zie ik regelmatig..."*, *"Ik heb meegemaakt dat..."*, of een kort, scherp praktijkbeeld).
+   - Dit doorbreekt abstracte symmetrie, verhoogt het doorleefde karakter en ontzenuwt elke suggestie van mechanische of door AI gegenereerde tekst.
