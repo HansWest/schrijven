@@ -213,3 +213,4 @@ Iedere onderdanige kan op basis van deze zes vragen binnen enkele seconden aange
 * [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Overgave en ontferming als relationeel fundament.*
 * [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *De complementaire binnenwereld van de Dominant, de holding-polen en het voorkomen van Domdrop.*
 * [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *De interactie tussen de lustmotor van de Dom en de hechtingsstijl van de sub.*
+* [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) - *De 5 hersenstamreflexen, dual awareness, het kantelmoment, de 10%-waakvlam en tremorontlading.*

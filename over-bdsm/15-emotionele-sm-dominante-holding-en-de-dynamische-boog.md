@@ -282,3 +282,4 @@ Fysieke spierpijn meldt zich de volgende ochtend; psychologische drop meldt zich
 * [13: Dominantie Ontwikkelen: De Driehoek in de Praktijk](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) - *De autonome lustmotor van de Dominant.*
 * [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
 * [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Het polyvagale kader en de resonantie tussen D/s-stijlen.*
+* [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) - *Het empathisch kompas van de Dominant, de angst voor daderschap en de timing van de ontlading.*

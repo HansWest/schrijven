@@ -195,3 +195,4 @@ Door de faders naast elkaar te leggen, zien partners direct waar hun natuurlijke
 * [13: Dominantie Ontwikkelen: De Driehoek in de Praktijk](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) - *De autonome lustmotor van de Dominant.*
 * [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
 * [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *De complementaire holding-polen van de Dominant.*
+* [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) - *De diepere subcorticale reflexen onder subspace (de 5 hersenstamprogramma's) en het kantelmoment.*

@@ -76,7 +76,7 @@ Als sub vraagt het spelen met deze lagen geen passieve lijdzaamheid, maar juist 
 ### Tijdens de scène:
 * **Houd de 10%-waakvlam brandend:** Laat je voor negentig procent meevoeren door de spanning, de overgave of de impact, maar houd tien procent van je aandacht verankerd in de fysieke ruimte van het hier-en-nu. Zodra je merkt dat die waakvlam dooft en de partner in jouw beleving letterlijk verandert in een onveilige figuur uit het verleden, is het tijd om direct te pauzeren.
 * **Herken het verschil tussen smelten en verdoven:** Subspace voelt doorgaans warm, zwaar en levendig aan. Voel je daarentegen een kille, holle gevoelloosheid opkomen waarbij het je allemaal niets meer kan schelen en je emotioneel 'uitcheckt'? Zie dat dan niet als een overwinning van je uithoudingsvermogen, maar als een signaal van je zenuwstelsel om aan de rem te trekken.
-* **Geef ruimte aan fysieke ontlading:** Wanneer opgekropte spanning loslaat, reageert het zoogdierenlijf vaak met beven, klappertanden, koude rillingen of tranen. Schrik hier niet van en veroordeel het niet als zwakte. Dit is de natuurlijke manier waarop het autonome zenuwstelsel overtollige lading afvoert. Het is tevens een dierlijke expressie van de behoefte aan zorg die volkomen terecht is.
+* **Geef ruimte aan fysieke ontlading:** Wanneer opgekropte spanning loslaat, reageert het zoogdierenlijf vaak met beven, klappertanden, koude rillingen of tranen. Schrik hier niet van en veroordeel het niet als zwakte. Dit is de natuurlijke manier waarop het autonome zenuwstelsel overtollige lading afvoert. Het is tevens een dierlijke expressie van "behoefte aan zorg" die volkomen terecht is (natuurlijk kan je er bij gevorderd spel ook weer mee laten spelen binnen duidelijke kaders, maar in de basis vraagt het om een veilige bedding).
 
 ---
 
@@ -93,7 +93,7 @@ Het is belangrijk om te beseffen dat **deze angst volkomen terecht en gezond is*
 * **Kalibreer voorbij 'regels naleven':** Vaar nooit uitsluitend op het feit dat de onderdanige (nog) geen stopwoord gebruikt. Mensen die gewend zijn te overleven door te behagen (*fawn*), zullen soms glimlachend instemmen terwijl ze innerlijk ver over hun grenzen gaan. Kijk naar de fysiologie: de spanning rond de kaken, de ademfrequentie, de temperatuur van de handen en de uitdrukking in de ogen.
 * **Voel de kwaliteit van het verzet:** In scènes met fysieke strijd of dominantie is het van groot belang te voelen wát er verzet biedt. Voelt het tegenstribbelen elastisch, warm en vitaal? Of voel je een krampachtige, wanhopige verstrakking waarin oude angst doorklinkt? Bij twijfel vertraag je direct het tempo en breng je rust in de greep.
 * **Het 'Masker af'-protocol:** Wanneer je voelt dat de scène ontspoort of dat de ander wegzakt in paniek of doffe apathie, laat je de dominante rol per direct vallen. Geen strenge blik meer, geen gebiedende stem, en vooral geen spoor van irritatie of teleurstelling. Schakel direct over naar de gewone menselijke ontmoeting: gebruik elkaars gewone voornamen, spreek zacht en bied rustige, fysieke aarding totdat de ander weer helder aanwezig is.
-* **Smoor de ontlading niet:** Wanneer een onderdanige na een intens moment begint te trillen of huilen, bestaat bij de Dom soms de neiging om direct te sussen en te troosten (*"stil maar, er is niets aan de hand"*). Daarmee loop je het risico dat iemand voelt dat dit er niet mag zijn, waardoor het ontladingsproces voortijdig wordt afgekapt. Beter is het om een rustige, dragende aanwezigheid te bieden: houd de ander stevig vast, wees als een kalme rots in de branding en geef het lichaam de tijd om rustig uit te trillen.
+* **Smoor de ontlading niet:** Wanneer een onderdanige na een intens moment begint te trillen of huilen, bestaat bij de Dom soms de neiging om direct te sussen en te troosten (*"stil maar, er is niets aan de hand"*). Daarmee loop je het risico dat iemand voelt dat dit er niet mag zijn, waardoor het ontladingsproces voortijdig wordt afgekapt. Beter is het om een rustige, dragende aanwezigheid te bieden: houd de ander vast (mits er geen sprake is van een actieve Flight-reflex, waarbij insluiting paniek wekt), wees als een kalme rots in de branding en geef het lichaam de tijd om rustig uit te trillen.
 
 ---
 
@@ -104,7 +104,7 @@ De helende waarde van een intense scène wordt voor een groot deel bepaald door 
 1. **Re-humanisering:**  
    Sluit de scène altijd af als twee gelijkwaardige volwassenen. Leg de rolverdeling bewust af.
    * *Biologisch:* Eet iets met suikers om de bloedsuikerspiegel te herstellen, drink water, geef een warme deken en trek comfortabele kleding aan.
-   * *Emotioneel:* Geef expliciete waardering en praise voor de moed en overgave van de ander, en kijk elkaar aan als gelijkwaardige partners.
+   * *Emologisch:* Geef expliciete waardering voor het genot dat jij hebt mogen ervaren door dit spel, spreek praise en erkenning uit voor de moed en overgave van de ander, en kijk elkaar aan als gelijkwaardige partners.
 2. **De check-in na 24 tot 48 uur:**  
    Fysieke reacties merk je vaak direct, maar psychologische resonantie meldt zich vaak pas na een dag of twee, wanneer endorfines en adrenaline zijn uitgewerkt en de serotonine-dip intreedt. Vraag elkaar expliciet:
    * *"Voelt wat we gedaan hebben nog steeds goed en kloppend, of knaagt er ergens schuld, schaamte of minderwaardigheid?"*
@@ -130,3 +130,4 @@ Binnen die speelruimte mogen volwassen mensen met elkaar onderzoeken wat in het 
 * [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Somatische Hongers van de onderdanige.*
 * [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *Dominante holding-dimensies, de 4-fasenboog en preventie van Domdrop.*
 * [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Het polyvagale mengpaneel en resonantie tussen stijlen.*
+

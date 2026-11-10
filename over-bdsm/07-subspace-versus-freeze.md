@@ -119,5 +119,7 @@ Vraag niet: *"Gaat het?"* (een freeze-systeem antwoordt bijna altijd reflexmatig
 - [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) — *De biochemische cyclus van endorfines, dopamine, cortisol en aftercare.*
 - [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De verantwoordelijkheid voor elkaars kwetsbaarheid en trauma-gerelateerd spelen.*
 - [09: Het Verbreken van D/s: De-collaring & Rouw](09-het-verbreken-van-ds-de-collaring-en-rouw.md) — *De neurobiologie van het wegvallen van co-regulatie.*
+- [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) — *De Zes Somatische Hongers van de onderdanige.*
+- [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) — *Verdieping: de 5 hersenstamreflexen, dual awareness, het kantelmoment en neurogene tremorontlading.*
 - [Kennisbank Hechting: 02 Neurobiologie en de 7 F's](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Freeze, Fawn en dorsale vagale shutdown.*
 - [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) — *Hoe het brein gevaar detecteert.*
