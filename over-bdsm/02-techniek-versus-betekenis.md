@@ -59,14 +59,18 @@ Vraag nooit alleen: *"Wat doe je in BDSM?"*, maar vraag: *"Wat beleeft je zenuws
 
 ---
 
-## 4. De Betekenislaag in Kaart: Het Gevoelswiel voor Emotionele S/M
+## 4. De betekenislaag in kaart: van gevoelswiel naar multi-track equalizer
 
-Om de betekenislaag praktisch en visueel hanteerbaar te maken, bouwen we voort op het *Feeling Wheel for Emotional S/M* van vahavta. Waar de fysieke techniek immers slechts de prikkel levert, brengt dit wiel de acht fundamentele belevingspolen van de onderdanige (submissive) in kaart:
-* **Overgave & Devotie:** *Surrendering* en *Devoted* (het lichte spectrum van dienstbaarheid, aanbidding en transcendentie);
-* **Hechting & Veiligheid:** *Owned* en *Objectified* (de bevrijding van eigendom zijn en de rust van instrumentalisering);
-* **Intensiteit & Alarm:** *Fearful* en *Powerless* (het gecontroleerd bespelen van het sympathische zenuwstelsel en het breken van weerstand);
-* **Schaduw & Loutering:** *Ashamed* en *Degraded* (de erotisering van sociale taboes, vernedering en inferioriteit binnen een veilige container).
+Om de betekenislaag praktisch en hanteerbaar te maken, werd in de BDSM-theorie vaak gegrepen naar het *Feeling Wheel for Emotional S/M* van vahavta. In onze Kennisbank hebben we dit radiale wiel doorontwikkeld naar het **Multi-Track Equalizer Model**, omdat een cirkel de illusie wekt dat verlangens elkaar uitsluiten en omdat seksualiteit er ten onrechte uit was weggelaten. Waar de fysieke techniek immers slechts de prikkel levert, brengt de equalizer de **Zes Somatische Hongers** van de onderdanige (submissive) in kaart:
+* **Rust & ontlading:** Het hoofd uit, keuzestress elimineren, *transient hypofrontality*.
+* **Erotische onmacht:** De soevereiniteitsoverdracht over de eigen lust en opwinding (kuisheid, edging, ruined orgasms, overstimulatie).
+* **Geborgenheid:** Eigendom, containment, de veilige haven (*splagchnizomai*).
+* **Het hier-en-nu:** Sympathisch alarm, spanning en zintuiglijke impact die piekeren stilleggen.
+* **Ontmaskering:** Schaamte, gêne en het erotisch doorprikken van sociale maskers.
+* **Erkenning & trots:** Praise, bekrachtiging en de diepe vervulling van *the good sub*.
+* *Frame:* **De-personificatie:** Het lichaam tijdelijk benaderen als instrument, sculptuur of meubelstuk (in plaats van een intersubjectieve gesprekspartner).
 
-Voor de volledige analyse van deze belevingspolen, de dynamiek van emotioneel masochisme en de richtlijnen voor aftercare, zie:
+Voor de volledige analyse van deze belevingsdimensies, de dynamiek van emotionele S/M en de richtlijnen voor holding en aftercare, zie:
 * [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)
-* [**15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)
+* [**15: Emotionele S/M: De Dominante Dimensies, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)
+* [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)

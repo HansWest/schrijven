@@ -1,6 +1,6 @@
 # BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's
 
-> **Algemene BDSM-Theorie — Deel 8**  
+> **Algemene BDSM-Theorie - Deel 8**  
 > *De dynamiek van Oldskool BDSM, de wisselwerking tussen Overgave en Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Techniek), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn) en trauma-gerelateerd spelen (RACK).*
 
 ---
@@ -38,7 +38,7 @@ Overgave betekent in deze context geen militaire capitulatie of hulpeloze passiv
 
 ### 2. De Ontferming van de Dom (De Tweede O)
 Ontferming is veel meer dan vriendelijkheid of medelijden. Het is de actieve bescherming van en zorg voor de kwetsbaarheid die door het spel wordt gecreëerd:
-- **Etymologische wortel (*splagchnizomai*):** In de klassieke teksten duidt ontferming op een diep fysiek gevoel in de ingewanden of de buik — een diep geraakt zijn door de kwetsbaarheid van de ander dat direct aanzet tot handelende zorg en bescherming (zoals de barmhartige Samaritaan).
+- **Etymologische wortel (*splagchnizomai*):** In de klassieke teksten duidt ontferming op een diep fysiek gevoel in de ingewanden of de buik - een diep geraakt zijn door de kwetsbaarheid van de ander dat direct aanzet tot handelende zorg en bescherming (zoals de barmhartige Samaritaan).
 - **Zorg voor gecreëerde kwetsbaarheid:** Juist omdat de Dom de sub doelbewust in een staat van fysieke, emotionele of erotische weerloosheid brengt, rust op de Dom de absolute morele plicht om zich over die staat te ontfermen.
 - *Zeker bij liefdevolle dominantie, impact play of ageplay is de actieve verantwoordelijkheid voor deze twee O's de kurk waarop de psychologische integriteit van de dynamiek drijft.*
 
@@ -94,7 +94,7 @@ Tegenover de Dom-driehoek staat een volwaardige Sub-driehoek. Onderdanigheid vra
 
 ### 1. Verlangen & Overgave: De Motor van Onderdanigheid (analoog aan Lust)
 Waar bij de Dom de lust het gaspedaal is, is bij de sub het **authentieke innerlijke verlangen naar overgave** de motor:
-- Het is de actieve behoefte om controle los te laten, sensaties te verwerken, zich te openen of dienstbaar te zijn.
+- Het is de actieve behoefte om controle los te laten, sensaties te verwerken, zich te openen of dienstbaar te zijn - uitgesplitst in de Zes Somatische Hongers van het zenuwstelsel in [Document 14](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md).
 - Wetenschappelijk onderzoek (o.a. Sagarin et al., 2009; Ambler et al., 2017) toont aan dat gezonde overgave een complexe mentale prestatie is die leidt tot *transiënte hypofrontaliteit* en flow (zie [07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 - Zonder eigen, authentiek verlangen vervalt onderwerping in passief 'pleasen' (*fawning*) of een holle verplichting.
 
@@ -141,7 +141,7 @@ Het is een hardnekkig stigma dat mensen met trauma niet zouden mogen genieten va
 
 ### RACK en het 'Gemankeerde Kind'
 Binnen RACK (*Risk-Aware Consensual Kink*) erkennen beide partners de risico's van trauma-gerelateerd spel:
-- **Gedeelde zorg:** Beide partners dragen verantwoordelijkheid voor elkaars kwetsbare stukken — het 'gemankeerde kind' in ieder van ons.
+- **Gedeelde zorg:** Beide partners dragen verantwoordelijkheid voor elkaars kwetsbare stukken - het 'gemankeerde kind' in ieder van ons.
 - **De drogreden ontmaskerd:** De opvatting *"Het is jouw trauma, dus het is 100% jouw probleem om tijdig rood te roepen"* is binnen volwassen BDSM onzin. Bij intense triggers blokkeert het zenuwstelsel (freeze/fawn) en faalt het spraakvermogen (zie [07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 
 ### Het gevaar van de Dader-Slachtoffer verschuiving
@@ -169,13 +169,15 @@ Wederzijdse aanspreekbaarheid, radicale eerlijkheid over triggers en een onvoorw
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen & samenhang
 
-- [01: Het Gateau-Model (Vier Relatielagen)](01-het-gateau-model-relatielagen.md) — *De scheiding tussen Topping, Relatierichting en Levensfundament.*
-- [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) — *De biochemische basis van ontlading en nazorg.*
-- [07: Subspace versus Freeze](07-subspace-versus-freeze.md) — *De 3-stappentest op de vloer en het polyvagale onderscheid.*
-- [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) - *De psychologische belevingspolen van de onderdanige (submissive) en de erotisering van overgave.*
-- [15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) — *De complementaire holding-polen van de Dominant, de paradox van de twee spiegels en safeguards.*
-- [Cube of Consent: Assen en Machtsverschillen](../cube-of-consent/het-cube-of-consent-model.md) — *Informed consent en relationele veiligheid.*
-- [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) — *Overlevingspatronen en het zenuwstelsel.*
-- [Oldskool BDSM Waarden en Gebruiken](../artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md) — *Rituelen, respect en vakmanschap in historisch perspectief.*
+- [01: Het Gateau-Model (Vier Relatielagen)](01-het-gateau-model-relatielagen.md) - *De scheiding tussen Topping, Relatierichting en Levensfundament.*
+- [02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) - *Waarom dezelfde fysieke handeling verschillende ladingen draagt.*
+- [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) - *De biochemische basis van ontlading en nazorg.*
+- [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *De 3-stappentest op de vloer en het polyvagale onderscheid.*
+- [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
+- [15: Emotionele S/M: De Dominante Dimensies en Veiligheidskaders](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) - *De complementaire holding-polen van de Dominant, de paradox van de twee spiegels en safeguards.*
+- [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Het polyvagale kader en de resonantie tussen D/s-stijlen.*
+- [Cube of Consent: Assen en Machtsverschillen](../cube-of-consent/het-cube-of-consent-model.md) - *Informed consent en relationele veiligheid.*
+- [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) - *Overlevingspatronen en het zenuwstelsel.*
+- [Oldskool BDSM Waarden en Gebruiken](../artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md) - *Rituelen, respect en vakmanschap in historisch perspectief.*

@@ -58,13 +58,13 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
     *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
 
 14. [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)  
-    *De psychologische architectuur van emotioneel sadomasochisme: het 'Feeling Wheel for Emotional S/M' van vahavta, de erotisering van schaamte en machteloosheid, polyvagale dynamieken en richtlijnen voor emotionele aftercare.*
+    *Waarom het klassieke 8-delige wiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering naar de-personificatie; de Zes Somatische Hongers (inclusief erotische onmacht, kuisheid, ruined orgasms en overstimulatie); en het Multi-Track Equalizer Model.*
 
-15. [**15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)  
-    *De complementaire binnenwereld van de Dominant: de acht dominante spiegelpolen, het voorkomen van Domdrop, de Techniek-Betekenis koppeling in uitvoering, de 4 fasen van de emotionele boog (Descent, Pivot, Ascent, Landing) en polyvagale safeguards.*
+15. [**15: Emotionele S/M: De Dominante Dimensies, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)  
+    *De binnenwereld en autonome lustmotor van de Dominant: de zes holding- en regiedimensies (inclusief de Seksuele Soeverein en Praise), het voorkomen van Domdrop, de paradox van de twee spiegels, de Techniek-Betekenis koppeling en de 4 fasen van de sessieboog.*
 
 16. [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  
-    *Voorbij de illusie van tegengestelden: het Multi-Track Equalizer model, de polyvagale neurobiologie (ventraal anker, erotisch spel, subspace trance), de authentieke lustmotor en kwetsbaarheid van de Dominant, en de resonantie versus frictie tussen de zes D/s-relatiestijlen.*
+    *Voorbij de illusie van tegengestelden: het Multi-Track Equalizer model op de Zes Hongers, de polyvagale neurobiologie (ventraal anker, erotisch spel, subspace trance), en de resonantie versus frictie tussen de zeven D/s-relatiestijlen.*
 
 ---
 
