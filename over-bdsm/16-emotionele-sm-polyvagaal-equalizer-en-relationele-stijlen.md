@@ -81,7 +81,7 @@ Het autonome zenuwstelsel kent drie primaire evolutionaire lagen, die binnen BDS
 
 Een van de meest hardnekkige misstanden is de reductie van de Dominant tot een kille technicus, een onverstoorbaar rotsblok, of een veredelde dienstverlener die enkel de fantasieën van de onderdanige bedient ("topping from the bottom").
 
-Zoals uiteengezet in [Document 08](08-bdsm-als-cocreatie-de-twee-driehoeken.md), [Document 13](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) en [Document 15](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) heeft authentieke dominantie een **volledig autonome innerlijke lustmotor**.
+Zoals uiteengezet in [Document 08](08-bdsm-als-cocreatie-de-twee-driehoeken.md), [Document 13](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) en [Document 15](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) heeft authentieke dominantie een **volledig autonome innerlijke lustmotor**.
 
 ### Wat beleeft de dominant werkelijk?
 
@@ -193,5 +193,5 @@ Door de faders naast elkaar te leggen, zien partners direct waar hun natuurlijke
 * [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *Polyvagaal onderscheid tussen gezonde overgave en traumatische shutdown.*
 * [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Overgave en ontferming (splagchnizomai).*
 * [13: Dominantie Ontwikkelen: De Driehoek in de Praktijk](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) - *De autonome lustmotor van de Dominant.*
-* [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
-* [15: Emotionele S/M: De Dominante Dimensies en Veiligheidskaders](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) - *De complementaire holding-polen van de Dominant.*
+* [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
+* [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *De complementaire holding-polen van de Dominant.*

@@ -1,4 +1,4 @@
-# Emotionele S/M: de dominante dimensies, de dynamische boog en veiligheidskaders
+# Emotionele S/M: dominante holding, de dynamische boog en veiligheidskaders
 
 > **Centrale Source of Truth (SSOT) - Document 15 in de Kennisbank BDSM & Kink-Aware Theorie**  
 > *Over de innerlijke belevingswereld en lustmotor van de Dominant, de zes holding- en regiedimensies, de deconstructie van objectivering naar de-personificatie, de Techniek-Betekenis koppeling in de praktijk, de dramaturgische sessieboog (Descent, Pivot, Ascent, Landing) en polyvagale safeguards tegen emotionele drop.*
@@ -7,7 +7,7 @@
 
 ## 1. Inleiding: de dominant is geen projectiescherm
 
-In [Document 14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) heb ik de subjectieve binnenwereld van de onderdanige ontleed aan de hand van de Zes Hongers van het zenuwstelsel. 
+In [Document 14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) heb ik de subjectieve binnenwereld van de onderdanige ontleed aan de hand van de Zes Hongers van het zenuwstelsel. 
 
 Binnen consensuele machtsongelijkheid dreigt echter een klassieke, hardnekkige valkuil: het beeld dat de Dominant louter fungeert als een onverstoorbaar projectiescherm, een kille technicus zonder zenuwstelsel, of een veredelde dienstverlener die passief de verlangens van de onderdanige bedient (*"topping from the bottom"*). 
 
@@ -280,5 +280,5 @@ Fysieke spierpijn meldt zich de volgende ochtend; psychologische drop meldt zich
 * [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *Polyvagaal onderscheid tussen gezonde overgave en traumatische shutdown.*
 * [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Overgave en ontferming (splagchnizomai).*
 * [13: Dominantie Ontwikkelen: De Driehoek in de Praktijk](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) - *De autonome lustmotor van de Dominant.*
-* [14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
+* [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Hongers van de onderdanige en het Multi-Track Equalizer Model.*
 * [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Het polyvagale kader en de resonantie tussen D/s-stijlen.*

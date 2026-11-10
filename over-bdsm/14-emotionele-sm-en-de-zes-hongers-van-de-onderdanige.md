@@ -1,4 +1,4 @@
-# Emotionele S/M: De Zes Hongers van de Onderdanige en het Multi-Track Equalizer-Model
+# Emotionele S/M en de zes hongers van de onderdanige
 
 > **Centrale Source of Truth (SSOT) - Document 14 in de Kennisbank BDSM & Kink-Aware Theorie**  
 > *Waarom het klassieke 8-delige gevoelswiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering; de zes werkelijke hongers van het zenuwstelsel (inclusief erotische onmacht, kuisheid, ruined orgasms en overstimulatie); en een direct werkbaar diagnostisch kompas voor de praktijk.*
@@ -211,5 +211,5 @@ Iedere onderdanige kan op basis van deze zes vragen binnen enkele seconden aange
 * [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) - *Biochemische mechanismen achter endorfinepieken en de post-scene landing.*
 * [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *Polyvagaal onderscheid tussen gezonde overgave en traumatische dissociatie.*
 * [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Overgave en ontferming als relationeel fundament.*
-* [15: Emotionele S/M: De Dominante Dimensies & De Dynamische Boog](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) - *De complementaire binnenwereld van de Dominant, de holding-polen en het voorkomen van Domdrop.*
-* [16: Emotionele S/M: Polyvagaal Model & Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *De interactie tussen de lustmotor van de Dom en de hechtingsstijl van de sub.*
+* [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *De complementaire binnenwereld van de Dominant, de holding-polen en het voorkomen van Domdrop.*
+* [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *De interactie tussen de lustmotor van de Dom en de hechtingsstijl van de sub.*

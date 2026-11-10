@@ -57,10 +57,10 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 13. [**13: Dominantie Ontwikkelen: De Driehoek in de Praktijk**](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
     *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
 
-14. [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)  
+14. [**14: Emotionele S/M en de Zes Hongers van de Onderdanige**](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)  
     *Waarom het klassieke 8-delige wiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering naar de-personificatie; de Zes Somatische Hongers (inclusief erotische onmacht, kuisheid, ruined orgasms en overstimulatie); en het Multi-Track Equalizer Model.*
 
-15. [**15: Emotionele S/M: De Dominante Dimensies, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)  
+15. [**15: Emotionele S/M: Dominante Holding en de Dynamische Boog**](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)  
     *De binnenwereld en autonome lustmotor van de Dominant: de zes holding- en regiedimensies (inclusief de Seksuele Soeverein en Praise), het voorkomen van Domdrop, de paradox van de twee spiegels, de Techniek-Betekenis koppeling en de 4 fasen van de sessieboog.*
 
 16. [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  

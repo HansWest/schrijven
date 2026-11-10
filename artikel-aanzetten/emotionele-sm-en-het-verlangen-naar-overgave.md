@@ -75,8 +75,8 @@ Emotionele S/M biedt de **radicale bevrijding van de bodem**:
 
 ## 5. Relevante bestaande stukken in de workspace
 
-* [14: Emotionele S/M en het Gevoelswiel voor Submissieven](../over-bdsm/14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) - *De SSOT van de Zes Somatische Hongers en het Multi-Track Equalizer Model.*
-* [15: Emotionele S/M: De Dominante Dimensies en Veiligheidskaders](../over-bdsm/15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) - *De complementaire holding- en regiedimensies van de Dominant.*
+* [14: Emotionele S/M en de Zes Hongers van de Onderdanige](../over-bdsm/14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De SSOT van de Zes Somatische Hongers en het Multi-Track Equalizer Model.*
+* [15: Emotionele S/M: Dominante Holding en de Dynamische Boog](../over-bdsm/15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md) - *De complementaire holding- en regiedimensies van de Dominant.*
 * [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](../over-bdsm/16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Polyvagale akkoorden en D/s-archetypen.*
 * [02: De Techniek-Betekenis Splitsing in Kink](../over-bdsm/02-techniek-versus-betekenis.md) - *Het fundament: fysieke handeling versus somatische beleving.*
 * [03: Neurochemie, Drop & Aftercare](../over-bdsm/03-neurochemie-drop-en-aftercare.md) - *De biochemische fysiologie van endorfinedaling en kwetsbaarheid.*

@@ -71,6 +71,6 @@ Om de betekenislaag praktisch en hanteerbaar te maken, werd in de BDSM-theorie v
 * *Frame:* **De-personificatie:** Het lichaam tijdelijk benaderen als instrument, sculptuur of meubelstuk (in plaats van een intersubjectieve gesprekspartner).
 
 Voor de volledige analyse van deze belevingsdimensies, de dynamiek van emotionele S/M en de richtlijnen voor holding en aftercare, zie:
-* [**14: Emotionele S/M en het Gevoelswiel voor Submissieven**](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md)
-* [**15: Emotionele S/M: De Dominante Dimensies, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)
+* [**14: Emotionele S/M en de Zes Hongers van de Onderdanige**](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)
+* [**15: Emotionele S/M: Dominante Holding en de Dynamische Boog**](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)
 * [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)
