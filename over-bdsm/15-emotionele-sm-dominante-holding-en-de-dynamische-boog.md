@@ -117,7 +117,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 ---
 
 ### De-personificatie aan dominante zijde: de beeldhouwer & instrumentalist
-Net zoals we in Document 14 hebben vastgesteld dat 'objectivering' voor de onderdanige geen emotie is maar een relationele lens, geldt dat exact zo voor de Dominant.
+Net zoals ik in Document 14 heb vastgesteld dat 'objectivering' voor de onderdanige geen emotie is maar een relationele lens, geldt dat exact zo voor de Dominant.
 
 **De-personificatie aan dominante zijde** is de bewuste keuze om de partner tijdelijk niet te ontmoeten als een intersubjectieve gesprekspartner, maar als:
 1. *Een sculptuur / kunstwerk (Esthetische lens):* Het met trots en fijnzinnigheid bewonderen van spiertonus, lijnen, touwpatronen of de glans van lak en leer;
@@ -168,7 +168,7 @@ Het antwoord verschilt al naar gelang het perspectief:
    In de BDSM-literatuur werd de binnenwereld van de onderdanige als eerste gedetailleerd in kaart gebracht (zoals het oorspronkelijke Gevoelswiel van vahavta). De samenleving begrijpt intuïtief immers wel waarom iemand de leiding wil hebben, maar stelt bij onderwerping direct de pathologiserende vraag: *"Waarom zou een gezond, autonoom mens zich vrijwillig klein of machteloos willen voelen?"* Omdat onderdanigen taal nodig hadden om hun verlangens te ontwarren van trauma en schaamte, werd de submissieve ervaring als eerste geboetseerd. Vanuit die historische blik leek het alsof de Dominant 'slechts' de spiegel was die de behoeften van de sub opving.
 
 2. **Erotisch & somatisch (De autonome lustmotor van de Dom):**  
-   Wanneer we de Dominant echter reduceren tot louter een spiegel van submissieve verlangens, ontstaat dienstbare schijndominantie. Zoals beschreven in [Document 13: Dominantie Ontwikkelen](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) heeft authentieke dominantie een **eigen, autonome lustmotor** nodig. Zonder die innerlijke drang verliest het spel zijn spanning en ligt de weg open naar zware Domdrop en wrok.
+   Wanneer je de Dominant echter reduceert tot louter een spiegel van submissieve verlangens, ontstaat dienstbare schijndominantie. Zoals beschreven in [Document 13: Dominantie Ontwikkelen](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) heeft authentieke dominantie een **eigen, autonome lustmotor** nodig. Zonder die innerlijke drang verliest het spel zijn spanning en ligt de weg open naar zware Domdrop en wrok.
 
 3. **Relationeel (De co-emergentie van twee spiegels):**  
    In een volwassen, doorleefde dynamiek zijn het **twee spiegels - de een hol, de ander bol - die elkaar aankijken**:
@@ -188,7 +188,7 @@ Zoals de kam en het dal van één en dezelfde golf: noch de Dominant noch de ond
 
 ## 4. De techniek-betekenis koppeling in uitvoering
 
-In [Document 02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) zagen we dat de techniek slechts de drager is. In emotionele S/M bepaalt de gekozen dominante dimensie de volledige psychologische lading van de handeling:
+In [Document 02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) beschrijf ik dat de techniek slechts de drager is. In emotionele S/M bepaalt de gekozen dominante dimensie de volledige psychologische lading van de handeling:
 
 | Handeling (Fysieke techniek) | Leidsman / Structuur | Seksuele Soeverein | Inquisitor / Ontmaskering | Waker & Hoeder | Bevestigende Meester (Praise) |
 | :--- | :--- | :--- | :--- | :--- | :--- |

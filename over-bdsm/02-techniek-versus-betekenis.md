@@ -61,7 +61,7 @@ Vraag nooit alleen: *"Wat doe je in BDSM?"*, maar vraag: *"Wat beleeft je zenuws
 
 ## 4. De betekenislaag in kaart: van gevoelswiel naar multi-track equalizer
 
-Om de betekenislaag praktisch en hanteerbaar te maken, werd in de BDSM-theorie vaak gegrepen naar het *Feeling Wheel for Emotional S/M* van vahavta. In onze Kennisbank hebben we dit radiale wiel doorontwikkeld naar het **Multi-Track Equalizer Model**, omdat een cirkel de illusie wekt dat verlangens elkaar uitsluiten en omdat seksualiteit er ten onrechte uit was weggelaten. Waar de fysieke techniek immers slechts de prikkel levert, brengt de equalizer de **Zes Somatische Hongers** van de onderdanige (submissive) in kaart:
+Om de betekenislaag praktisch en hanteerbaar te maken, werd in de BDSM-theorie vaak gegrepen naar het *Feeling Wheel for Emotional S/M* van vahavta. In mijn werk en theorievorming heb ik dit radiale wiel doorontwikkeld naar het **Multi-Track Equalizer Model**; ik werk liever met dit model omdat een cirkel de illusie wekt dat verlangens elkaar uitsluiten en omdat seksualiteit er ten onrechte uit was weggelaten. Waar de fysieke techniek immers slechts de prikkel levert, brengt de equalizer de **Zes Somatische Hongers** van de onderdanige (submissive) in kaart:
 * **Rust & ontlading:** Het hoofd uit, keuzestress elimineren, *transient hypofrontality*.
 * **Erotische onmacht:** De soevereiniteitsoverdracht over de eigen lust en opwinding (kuisheid, edging, ruined orgasms, overstimulatie).
 * **Geborgenheid:** Eigendom, containment, de veilige haven (*splagchnizomai*).

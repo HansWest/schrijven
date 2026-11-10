@@ -21,7 +21,7 @@ Er bestaan alleen gewone mensen die opgewonden raken van een specifieke machtsdy
 
 ## De Driehoek van Dominantie
 
-Om stevig in je leiderschap te staan, bouwen we dominantie op rondom drie dragende hoeken:
+Om stevig in je leiderschap te staan, bouw ik dominantie op rondom drie dragende hoeken:
 
 ```
                       [ HOEK 1: LUST ]

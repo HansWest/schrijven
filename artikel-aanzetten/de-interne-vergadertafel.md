@@ -82,7 +82,7 @@ In plaats van te vechten tegen ongewenste impulsen, visualiseren we de menselijk
 
 ## 5. Werkvorm: Interne dialoog uitgespeeld (IDRS)
 
-In het artikel werken we de concrete methodiek uit waarmee lezers en professionals direct aan de slag kunnen:
+In het artikel werk ik de concrete methodiek uit waarmee lezers en professionals direct aan de slag kunnen:
 - **Twee stoelen neerzetten (Gestalt hot-chair):** Niet in je hoofd blijven malen, maar fysiek van positie wisselen en de houding van de criticus of het kind aannemen.
 - **Het dialoogscript:** Woordelijk uitschrijven wat de verschillende stemmen roepen.
 - **De interventie van de voorzitter:** Hoe je met rustige stem de regie terughaalt en de Voedende Ouder uitnodigt om het kind te begrenzen en te troosten.

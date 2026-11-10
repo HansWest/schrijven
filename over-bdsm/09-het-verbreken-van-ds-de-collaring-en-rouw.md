@@ -20,7 +20,7 @@ Het verbreken van een D/s-relatie (Dominant/submissief) heeft een totaal andere 
 
 ## 2. Het Verlies van de 'Secure Base': Neurobiologische Ontregeling
 
-Buiten de kink-gemeenschap wordt een ingestorte submissieve na een 24/7-breuk geregeld gediagnosticeerd als "ziekelijk afhankelijk" of lijdend aan "persoonlijkheidsproblematiek". Vanuit een kink-aware lens zien we iets fundamenteel anders: **het abrupte wegvallen van fysiologische co-regulatie**.
+Buiten de kink-gemeenschap wordt een ingestorte submissieve na een 24/7-breuk geregeld gediagnosticeerd als "ziekelijk afhankelijk" of lijdend aan "persoonlijkheidsproblematiek". Vanuit een kink-aware lens zie ik iets fundamenteel anders: **het abrupte wegvallen van fysiologische co-regulatie**.
 
 ### De Dominant als Externe Prefrontale Cortex
 In een diepe 24/7- of TPE-relatie fungeert het zenuwstelsel en het besluitvormend vermogen van de Dominant als de **externe prefrontale cortex** van de sub:

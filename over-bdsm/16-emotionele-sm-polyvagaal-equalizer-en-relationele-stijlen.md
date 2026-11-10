@@ -42,7 +42,7 @@ Emoties en somatische verlangens in S/M zijn geen kompasnaalden die maar naar é
 
 ## 2. Het polyvagale zenuwstelsel: de neurobiologie van emotionele S/M
 
-Om te begrijpen hoe deze emotionele akkoorden in het lichaam functioneren, kijken we naar de polyvagaaltheorie van Dr. Stephen Porges (zie ook [Document 07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
+Om te begrijpen hoe deze emotionele akkoorden in het lichaam functioneren, kijk ik naar de polyvagaaltheorie van Dr. Stephen Porges (zie ook [Document 07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 
 Het autonome zenuwstelsel kent drie primaire evolutionaire lagen, die binnen BDSM met elkaar mengen tot unieke belevingsstaten:
 
@@ -136,7 +136,7 @@ Wanneer de dominante natuur en de submissieve hongers op elkaar aansluiten, onts
 
 ### De resonantie- en frictiematrix in de praktijk
 
-Hier zien we waarom sommige verzoeken van onderdanigen een Dominant compleet leegzuigen of blokkeren:
+Hier zie je in de praktijk waarom sommige verzoeken van onderdanigen een Dominant compleet kunnen leegzuigen of blokkeren:
 
 #### Casus A: De 'Vuilnisbak' vs. De Aristocraat (Grote frictie)
 * **Sub wenst:** Extreme verbale degradatie, spugen, benoemd worden als waardeloos vuil (*Ontmaskering / Extreme de-personificatie*).
@@ -157,7 +157,7 @@ Hier zien we waarom sommige verzoeken van onderdanigen een Dominant compleet lee
 
 ## 5. De Multi-Track Equalizer: hoe stel je een sessie samen?
 
-In plaats van een draaischijf gebruiken we het **Equalizer-model van de Zes Hongers**. Zowel de onderdanige als de dominante partner stellen vooraf (of intuïtief) hun faders in:
+In plaats van een draaischijf werk ik liever met het **Equalizer-model van de Zes Hongers**. Zowel de onderdanige als de dominante partner stellen vooraf (of intuïtief) hun faders in:
 
 ```
 [ AKKOORD: DEVOTIONELE ONTWAPENING MET EROTISCHE ONMACHT ]

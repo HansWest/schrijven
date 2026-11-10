@@ -30,7 +30,7 @@ Het vormt de ultieme toepassing van de [Techniek-Betekenis Splitsing (Document 0
 
 ---
 
-## 2. Het failliet van het 8-delige wiel: naar emotionele waarheid
+## 2. Voorbij het 8-delige wiel: naar emotionele waarheid
 
 Om de belevingswereld van onderdanigen in kaart te brengen, werd in de kinky literatuur jarenlang gegrepen naar een radiaal diagram: het *Feeling Wheel for Emotional S/M* van BDSM-auteur **vahavta** (geïnspireerd op het klassieke emotiewiel van Robert Plutchik).
 
@@ -43,10 +43,10 @@ Hoewel dit wiel historisch waardevol was om psychologische BDSM serieus te nemen
 3. **Het ontbreken van beloning en trots:**  
    Het oude wiel kende alleen vrome dienstbaarheid of diepe vernedering. De fysiologische rush van erkenning (*praise*), het gevoel van trots na het doorstaan van een beproeving (*"The Good Sub"*), en de speelse, ondeugende kant van onderwerping (*bratty* gedrag) ontbraken volkomen.
 
-### Voorbij het wiel: het Multi-Track Equalizer Model
+### Voorbij 'wiel' naar een Multi-Track Equalizer Model
 Een wiel suggereert bovendien dat tegenoverliggende emoties elkaar opheffen (zoals in kleurenleer). In BDSM heffen tegenpolen elkaar echter niet op; ze versterken elkaar. Devotie en vernedering sluiten elkaar niet uit, maar vormen samen een intens sacraal akkoord.
 
-Daarom werken we met het **Multi-Track Equalizer Model**: de innerlijke ervaring van de onderdanige bestaat niet uit een statische taartpunt, maar uit **autonome belevingsassen** die als faders op een mengpaneel gelijktijdig op verschillende volumes kunnen klinken.
+Daarom werken ik liever met het **Multi-Track Equalizer Model**: de innerlijke ervaring van de onderdanige bestaat niet uit een statische taartpunt, maar uit **autonome belevingsassen** die als faders op een mengpaneel gelijktijdig op verschillende volumes kunnen klinken.
 
 ---
 
@@ -67,9 +67,9 @@ De-personificatie is dus het *vehikel*, niet de emotie zelf.
 
 ## 4. De zes werkelijke hongers van de onderdanige
 
-Wanneer we zoeken naar **emotionele waarheid die begrijpelijk en werkbaar is**, kijken we naar de fysiologische en psychologische honger van het levende lijf. Waar verlangt het zenuwstelsel naar als iemand op de knieën zakt? 
+Wanneer ik zoek naar **emotionele waarheid die begrijpelijk en werkbaar is**, kijk ik naar de fysiologische en psychologische honger van het levende lijf. Waar verlangt het zenuwstelsel naar als iemand op de knieën zakt? 
 
-In de praktijk laat de binnenwereld van onderdanigheid zich herleiden tot **zes fundamentele hongers**:
+In de praktijk zou je de binnenwereld van sw submissive kunen herleiden tot **zes fundamentele hongers**:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
