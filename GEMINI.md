@@ -41,6 +41,7 @@
 3. **Rake volkstaal en scènetaal:**
    - Wees niet bang voor ongepolijste, directe bewoordingen ("empathieloze eikels" in plaats van afstandelijke metaforen).
    - Gebruik begrippen uit de community ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd.
+   - **Gebruik 'onderdanige' of 'submissive' (NOOIT 'onderdaan'):** Gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub". Gebruik **nooit** het woord "onderdaan" (dat klinkt feodaal/politiek en is geen scènetaal).
 
 ---
 

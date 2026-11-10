@@ -15,6 +15,7 @@
 - Rake volkstaal en nuchterheid: wees niet bang voor ongepolijste, directe bewoordingen ("empathieloze eikels" in plaats van afstandelijke metaforen zoals "empathieloze bulldozers").
 - Natuurlijk spreektaalritme: gebruik levendige spreektaalwendingen en nuanceerders ("namelijk dat hele vermogen", "weer wat meer leren omarmen", "in het brein, voornamelijk...") waardoor de tekst klinkt als een openhartig gesprek aan de keukentafel in plaats van een academisch essay.
 - Authentieke scènetaal en geuzennamen: noem specifieke begrippen uit de community en de eigen praktijk ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd bij naam.
+- Gebruik 'onderdanige' of 'submissive' (nooit 'onderdaan'): gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub", nooit "onderdaan" (wat feodaal of staatsrechtelijk klinkt en niet past bij de authentieke taal van de speelvloer).
 - Markeer zelfbedachte kernwoorden alleen wanneer dat de betekenis helpt; houd hoofdletters en cursivering consequent.
 - Hanteer bij theoretische diepgang een gelaagde structuur (tweetrap): houd het hoofdverhaal verhalend, laagdrempelig en invoelbaar, en bundel vakjargon, academische kaders of literatuur in een expliciet verdiepend slotdeel.
 - Behoud de eigenzinnige toon, maar neem formuleringen, begrippen of voorbeelden uit eerdere stukken niet automatisch over. Maak per nieuw stuk nieuw taalwerk.
