@@ -87,21 +87,21 @@ In de praktijk zou je de binnenwereld van sw submissive kunen herleiden tot **ze
 ---
 
 ### Fader 1: De honger naar rust (Het hoofd uit / Overgave van het ego)
-* **De psychologische kern:** In het dagelijks leven draagt de volwassene een loodzware verantwoordelijkheid: leidinggeven, knopen doorhakken, het gezin managen, moreel zuiver handelen. Dat put het executieve brein (de neocortex) chronisch uit.
-* **De somatische werkelijkheid:** De diepe zucht van verlichting wanneer iemand anders het stuur overneemt. Het prefrontale werkgeheugen schakelt terug (*transiënte hypofrontaliteit*). Je hoeft niets meer te bedenken; je hoeft alleen maar te reageren op de stem en de hand van de ander.
-* **Het spectrum:** Van het vrijwillig neerleggen van de controle (ontspannen overgave) tot de diepe fysiologische trance waarin het lichaam niet eens meer kán sturen.
+* **De psychologische kern:** In het dagelijks leven draagt de volwassene een loodzware verantwoordelijkheid: leidinggeven, knopen doorhakken, het gezin managen, moreel zuiver handelen. Dat put het denkende brein (de executieve neocortex) chronisch uit.
+* **De somatische werkelijkheid:** De diepe zucht van verlichting wanneer iemand anders het stuur overneemt. Het prefrontale werkgeheugen schakelt terug (wel *transiënte hypofrontaliteit* genoemd). Je hoeft *niets* meer te bedenken; je hoeft alleen maar te reageren op de stem en de hand van de ander.
+* **Het spectrum:** Van het vrijwillig neerleggen van de controle (ontspannen overgave) tot aan de diepe fysiologische trance waarin je jouw lichaam niet eens meer kán sturen.
 
 ---
 
 ### Fader 2: De honger naar erotische onmacht (Lust & Seksuele Soevereiniteitsoverdracht)
 * **De psychologische kern:** De overdracht van de meest intieme, autonome reflex die een mens bezit: de eigen seksuele opwinding en het orgasme worden overgedragen aan de Dominant.
-* **De somatische werkelijkheid:** De onderdanige wil niet louter teder bemind worden, maar begeert, gebruikt en geëxploreerd worden zónder de prestatiedruk om 'goed in bed te zijn'.
+* **De somatische werkelijkheid:** De onderdanige wil niet louter teder bemind worden, maar begeerd, gebruikt en geëxploreerd worden zónder de prestatiedruk om 'goed in bed te zijn'.
 
 Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 
 #### A. Kuisheid & Ontzegging (Chastity & Orgasm Control)
 * *Neurobiologie:* Het fysiek blokkeren van autonome masturbatie of erectie/ontlading. Normaal dooft een orgasme de dopaminerge zoekdrift (*satiation*). Door ontlading structureel te weigeren, blijft het **SEEKING-systeem dagen- of wekenlang op maximale spanning staan**. Elke blik of aanraking van de Dom slaat in als een blikseminslag.
-* *Emotionele waarheid:* De kooi is een 24/7 tastbaar gewicht dat bij elke beweging herinnert: *"Jouw geslachtsdeel is niet van jou, het is eigendom van de Meester/Vrouwe."* Tegelijkertijd biedt het enorme mentale rust: je hoeft je eigen driften niet meer te managen; de sleutel ligt bij de ander.
+* *Emotionele waarheid:* Een 'kooitje' is een 24/7 tastbaar gewicht dat bij elke beweging herinnert: *"Jouw geslachtsdeel is niet van jou, het is eigendom van de Meester/Meesteres."* Tegelijkertijd biedt het enorme mentale rust: je hoeft je eigen driften niet meer te managen; de sleutel ligt bij de ander.
 
 #### B. Ruined Orgasms (Verpeste orgasmes)
 * *Neurobiologie:* De motorische bekkenkrampen van het klaarkomen vinden wel plaats, maar de stimulatie wordt abrupt gestaakt of onaangenaam gemaakt. De oxytocine- en endorfine-explosie wordt afgekapt. De biologische 'Done'-code ontbreekt.
@@ -116,19 +116,19 @@ Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 
 ---
 
-### Fader 3: De honger naar geborgenheid (Owned / Hechtingsveiligheid)
+### Fader 3: De honger naar geborgenheid (Being 'Owned' / Hechtingsveiligheid)
 * **De psychologische kern:** De opheffing van existentiële eenzaamheid. De wereld is koud, chaotisch en onverschillig; binnen de relatiecontainer is er een veilige haven.
-* **De somatische werkelijkheid:** Het warme, zware gevoel van een halsband, een hand die stevig in je nek rust, of een lichaam dat je na afloop strak inpakt in dekens.
-* **De formule:** *"Omdat ik van jou ben, zorgt jouw kracht voor mij. Niemand anders mag mij aanraken."* Het zenuwstelsel ontspant in de ventrale vagus van veilige hechting.
+* **De somatische werkelijkheid:** Het warme, zware gevoel van een halsband, een hand die stevig in je nek rust, of een lichaam dat jou na afloop strak inpakt in dekens.
+* **De formule:** *"Omdat ik van jou ben, zorgt jouw kracht voor mij. Niemand anders mag mij aanraken (of wel: maar dan volgens afspraak -'want juist wat je bezit kan je uitlenen')."* Het zenuwstelsel ontspant in de ventrale vagus van veilige hechting.
 
 ---
 
 ### Fader 4: De honger naar het hier-en-nu (Prikkel, Pijn & Subspace)
-* **De psychologische kern:** Pijn en dreiging zijn de meest efficiënte biologische concentratie-instrumenten van de natuur. Wie pijn lijdt of bang is, kan zich simpelweg niet meer bezighouden met deadlines, rekeningen of relatiestress.
+* **De psychologische kern:** Pijn en dreiging zijn de meest efficiënte biologische concentratie-instrumenten van de natuur. Wie pijn lijdt of bang is, *kan* zich simpelweg niet meer bezighouden met deadlines, rekeningen of relatiestress.
 * **De somatische werkelijkheid:** 
-  1. *De anticipatie:* Het suizen van het rietje, het geluid van het leer; de sympathische adrenaline-piek die het lichaam messcherp maakt.
+  1. *De anticipatie:* Het suizen van het rietje, het geluid van het rubber of het leer; de sympathische adrenaline-piek die het lichaam 'scherp' maakt.
   2. *De prikkelverwerking:* De intense brandende sensatie op de huid.
-  3. *De vlucht naar binnen (Subspace):* De hersenstam overspoelt het systeem met endorfines en lichaamseigen opiaten om de prikkel te dempen. Dit resulteert in een zwevende, dromerige toestand van fysieke euforie en diepe vrede.
+  3. *De vlucht naar binnen (Subspace):* De hersenstam raakt in zijn eigen specifieke staat van zijn -hersenstamreacties-. Dit resulteert in een specifieke toestand soms met fysieke euforie en diepe vrede (achteraf).
 
 ---
 
@@ -142,7 +142,7 @@ Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 ### Fader 6: De honger naar erkenning en trots (Praise, Beloning & Dienstbaarheid)
 * **De psychologische kern:** De fundamentele behoefte om van waarde te zijn voor een bewonderde autoriteit, en bevestigd te worden in je loyaliteit en inzet.
 * **De somatische werkelijkheid:** De gloed die door de borstkas trekt bij de woorden: *"Goed zo, brave meid"* of *"Wat heb je dit dapper doorstaan"*. 
-* **Het herstel van waardigheid:** Waar schaamte en overgave het ego afbreken, bouwt *praise* de waardigheid weer op vanuit een zuivere hechtingsbron. De onderdanige voelt zich niet een mislukkeling, maar een beproefde, loyale en gekoesterde bondgenoot.
+* **Het herstel van waardigheid:** Waar schaamte en overgave het ego afbreken, bouwt *praise* de waardigheid weer op vanuit een D/s hechtingsbron. De onderdanige voelt zich niet een mislukkeling, maar een beproefde, loyale en gekoesterde bondgenoot ('slavinnentrots').
 
 ---
 
@@ -151,7 +151,7 @@ Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 Een sessie is geen statische toestand, maar een dramaturgische golfbeweging over de faders van de equalizer:
 
 ```
-                  DE DYNAMISCHE SESSIEBOG
+                  DE DYNAMISCHE SESSIEBOOG (De 'Golf')
                   
     [ ANTICIPATIE ] ──► [ AFDALING IN DE SCHADUW ] ──► [ DE KENTERING ] ──► [ DE LANDING ]
     Spanning, alert,    Prikkels, schaamte,           Overgave,           Geborgenheid,
@@ -170,7 +170,7 @@ Een sessie is geen statische toestand, maar een dramaturgische golfbeweging over
 Het onderschatten van de diepte van deze faders leidt tot ernstige vormen van **Subdrop** (en bij de Dominant tot **Domdrop**; zie [Document 03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md)).
 
 ### Waarom emotionele drop optreedt:
-1. **De neurochemische val:** Na uren van torenhoge dopamine, adrenaline en endorfine stort de hormoonspiegel abrupt in. Zonder zorgvuldige aftercare slaat die biologische leegte om in eenzaamheid, depressieve gevoelens of acute zelftwijfel.
+1. **De neurochemische val:** Na uren van torenhoge dopamine, adrenaline en endorfine stort de hormoonspiegel abrupt in. Serotonines lijken uitgeput te zijn geraakt in het spel en de aftercare, waar je na anderhalve dag 'zweven' pas tegenaan loopt. Zeker zonder zorgvuldige aftercare slaat die biologische leegte om in eenzaamheid, depressieve gevoelens of acute zelftwijfel.
 2. **De kater van de ontmaskering:** Wanneer de scène voorbij is maar de Dominant afstandelijk weggaat, blijft de onderdanige achter in de rauwe schaamte van Fader 5. Het Zelf voelt zich plotseling vies, gebruikt of afgedankt in plaats van gekoesterd.
 3. **Het ontbreken van de 'Done'-code:** Zeker bij praktijken als *ruined orgasms* of kuisheid moet de Dominant emotioneel en verbaal compenseren wat fysiek is onthouden. De ontzegging van genot vereist een overvloed aan hechtingsbevestiging.
 
@@ -184,7 +184,7 @@ Het onderschatten van de diepte van deze faders leidt tot ernstige vormen van **
 
 ## 7. Praktische toepassing: het intake- en afstemmingskompas
 
-In plaats van te verdwalen in ingewikkelde theorieën, biedt dit zes-hongersmodel een **direct werkbaar kompas** voor intakegesprekken, koppels en pre-scene onderhandelingen:
+In plaats van te verdwalen in ingewikkelde theorieën of ein-de-lo-ze 'sublijsten', biedt dit zes-hongersmodel een **werkbaar kompas** voor 'inquiry'-gesprekken, koppeloverleg, pre-scene en debriefing onderhandelingen:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -201,7 +201,7 @@ In plaats van te verdwalen in ingewikkelde theorieën, biedt dit zes-hongersmode
 └──────────────────────────┴──────────────────────────────────────────────────┘
 ```
 
-Iedere onderdanige kan op basis van deze zes vragen binnen enkele seconden aangeven welke faders vandaag wijd open mogen staan, welke op een kier horen, en welke faders absoluut dicht moeten blijven om hertraumatisering te voorkomen.
+Iedere onderdanige kan op basis van deze zes vragen binnen enkele seconden aangeven welke faders vandaag wijd open mogen staan, welke op een kier horen, en welke faders absoluut dicht moeten blijven, bijvoorbeeld om hertraumatisering te voorkomen.
 
 ---
 

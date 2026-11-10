@@ -66,6 +66,9 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 16. [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  
     *Voorbij de illusie van tegengestelden: het Multi-Track Equalizer model op de Zes Hongers, de polyvagale neurobiologie (ventraal anker, erotisch spel, subspace trance), en de resonantie versus frictie tussen de zeven D/s-relatiestijlen.*
 
+17. [**17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM**](17-subspace-traumasporen-en-de-kantelmomenten.md)  
+    *Over de verwantschap tussen de roes van onderwerping en oude beschermingsreflexen van het zenuwstelsel; de vijf gezichten van subspace (Fight, Flight, Frenzy, Freeze & Fawn, Feign Death); dual awareness; de diagnostiek van het kantelmoment; en het empathisch kompas van de Dominant.*
+
 ---
 
 ## Verbindingen in de Workspace

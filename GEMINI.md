@@ -21,10 +21,10 @@
 
 ## 2. Perspectief en Taal
 
-1. **Perspectief (Ik-vorm als standaard):**
-   - De auteur schrijft in het algemeen in de **ik-vorm** (persoonlijk, direct, vanuit eigen observatie en doorleefde ervaring).
-   - Slechts zelden in de **wij-vorm** (alleen wanneer er expliciet verwezen wordt naar een gezamenlijke dynamiek of collectieve ervaring).
-   - **Vraag altijd vóór het schrijven om bevestiging:** Moet dit stuk in de ik-vorm (standaard) of bij uitzondering in de wij-vorm geschreven worden?
+1. **Perspectief (Ik-vorm als persoonlijke stem):**
+   - De auteur schrijft als individu/persoon in de **ik-vorm** (persoonlijk, direct, vanuit eigen observatie, coachingspraktijk en doorleefde ervaring).
+   - Gebruik **nooit** corporatieve, koninklijke of afstandelijke meervoudsvormen zoals "we werken met", "in onze kennisbank", "zien we" of "leren we". Schrijf altijd: *"ik werk liever met"*, *"in mijn werkmodel"*, *"zie ik"* of *"beschrijf ik"*.
+   - De wij-vorm is uitsluitend toegestaan wanneer er letterlijk verwezen wordt naar de twee partners samen binnen een scène of dynamiek (bijv. *"wat we gedaan hebben"* of *"wat leren we hiervan in de debriefing"*).
 2. **Taal:**
    - Standaard is natuurlijk, direct Nederlands. Vraag bij twijfel vooraf in welke taal geschreven moet worden.
 
@@ -42,3 +42,21 @@
    - Wees niet bang voor ongepolijste, directe bewoordingen ("empathieloze eikels" in plaats van afstandelijke metaforen).
    - Gebruik begrippen uit de community ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd.
 
+---
+
+## 4. Schrijfstijl en Doorleefde Stem van de Auteur
+
+1. **Spreektaal vóór jargon (vakterm als terzijde, niet als hoofdtoon):**
+   - Zet altijd de herkenbare menselijke ervaring en het gewone woord voorop.
+   - Introduceer academische of medische vaktermen relativerend en tussen haakjes (bijv. *"het denkende brein (de executieve neocortex)"*, of *"wel transiënte hypofrontaliteit genoemd"*).
+2. **Auditieve klemtoon en gesproken ritme:**
+   - Schrijf zinnen die natuurlijk en vloeiend klinken als ze hardop worden uitgesproken.
+   - Gebruik cursivering doelgericht om de gesproken klemtoon op sleutelwoorden te sturen (bijv. `Je hoeft *niets* meer te bedenken`, `Wie bang is, *kan* zich niet meer bezighouden met...`).
+   - Schuw klankverleners en spreektaalaccenten niet (bijv. `ein-de-lo-ze 'sublijsten'`).
+3. **Scènetermen en geuzennamen ongegeneerd gebruiken:**
+   - Gebruik de authentieke taal van de speelvloer (bijv. `'kooitje'`, `'slavinnentrots'`, `'inquiry'`, `'pre-scene'`, `'de Golf'`).
+4. **Directe tweede persoon bij somatische sensaties:**
+   - Spreek in lichamelijke beschrijvingen het lijf van de lezer direct aan (`"waarin je jouw lichaam niet eens meer kán sturen"`, `"een hand die jou inpakt"`) in plaats van afstandelijke, passieve constructies (`"het lichaam"`).
+5. **Praktijkrealiteit relativeert dogmatische theorie:**
+   - Voeg altijd de rommelige, doorleefde praktijk toe die zwart-witmodellen nuanceert (bijv. eigenaarschap relativeren met *"of wel: maar dan volgens afspraak - 'want juist wat je bezit kun je uitlenen'"*, of de serotonine-dip die zich pas na anderhalve dag meldt).
+   - Onderscheid bij aftercare altijd scherp tussen de *biologische* zorg (suikers, warmte, water) en de *emotionele* erkenning (praise voor de getoonde moed en overgave).
