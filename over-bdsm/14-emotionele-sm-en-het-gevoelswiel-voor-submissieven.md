@@ -1,7 +1,7 @@
-# Emotionele S/M en het gevoelswiel voor submissieven
+# Emotionele S/M: De Acht Dimensies voor Submissieven en het Equalizer-Model
 
 > **Centrale Source of Truth (SSOT) - Document 14 in de Kennisbank BDSM & Kink-Aware Theorie**  
-> *Over de psychologische architectuur van psychologisch sadomasochisme, de erotisering van taboe-emoties (schaamte, degradatie, machteloosheid) en het in kaart brengen van de innerlijke belevingswereld van de onderdaan.*
+> *Over de psychologische architectuur van psychologisch sadomasochisme, de erotisering van taboe-emoties (schaamte, degradatie, machteloosheid), de polyvagale grondslag en het in kaart brengen van de innerlijke belevingswereld van de onderdaan als multi-track equalizer.*
 
 ---
 
@@ -30,32 +30,36 @@ Het vormt de ultieme toepassing van de [Techniek-Betekenis Splitsing (Document 0
 
 ---
 
-## 2. Het Gevoelswiel voor Emotionele S/M
+## 2. Voorbij de Cirkel: De Acht Emotionele Dimensies
 
-Om de complexe emotionele ladingen van onderdanen inzichtelijk en bespreekbaar te maken, ontwikkelde maker **vahavta** het *Feeling Wheel for Emotional S/M* `[Bron / exacte herkomst nog te verifiëren door auteur: 'Feeling Wheel for Emotional S/M' door vahavta]`. 
+Om de complexe emotionele ladingen van onderdanen inzichtelijk en bespreekbaar te maken, werd oorspronkelijk gebruik gemaakt van een radiaal diagram (geïnspireerd op het *Feeling Wheel for Emotional S/M* van maker **vahavta**). 
 
-Geïnspireerd door klassieke emotiewielen uit de psychologie, ordent dit model de subjectieve ervaring van de submissieve in **acht emotionele kernpolen** (de binnenste ring), die elk uitwaaieren naar specifieke sub-gevoelens en nuances (de buitenste ring).
+Hoewel een cirkel handig leek voor een 360°-overzicht, creëert een 'wiel' een fundamentele psychologische misvatting: **het suggereert dat tegenoverliggende polen elkaar opheffen** (zoals in de kleurenleer van Plutchik) en dat je slechts in één taartpunt tegelijk kunt verkeren.
 
-```mermaid
-flowchart TD
-    subgraph Wiel ["Het Gevoelswiel voor Emotionele S/M (vahavta)"]
-        direction TB
-        SUR["1. SURRENDERING<br/>(Overgave)"]
-        POW["2. POWERLESS<br/>(Machteloos)"]
-        FEAR["3. FEARFUL<br/>(Angstig)"]
-        OWN["4. OWNED<br/>(Bezit)"]
-        OBJ["5. OBJECTIFIED<br/>(Geobjectiveerd)"]
-        ASH["6. ASHAMED<br/>(Beschaamd)"]
-        DEG["7. DEGRADED<br/>(Gedegradeerd)"]
-        DEV["8. DEVOTED<br/>(Toegewijd)"]
-    end
+In de doorleefde realiteit van BDSM werken emoties echter niet als tegengestelde vectoren. Devotie en degradatie heffen elkaar niet op; ze versterken elkaar juist tot een intens sacraal akkoord.
+
+Daarom hanteren we het **Multi-Track Equalizer Model**: de subjectieve ervaring van de submissieve bestaat uit **acht autonome emotionele dimensies**, die als faders op een mengpaneel onafhankelijk van elkaar worden opengedraaid en gelaagd:
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│             DE ACHT EMOTIONELE DIMENSIES VOOR SUBMISSIEVEN                  │
+├──────────────────────────┬──────────────────────────────────────────────────┤
+│ 1. DEVOTED (Toegewijd)   │ Vrome adoratie, heilig ontzag, dienstbaarheid    │
+│ 2. OWNED (Bezit)         │ Geborgenheid, gekoesterd eigendom, veilige band  │
+│ 3. SURRENDERING (Overgave│ Loslaten van controle, zachtheid, vloeibaarheid  │
+│ 4. OBJECTIFIED (Object)  │ Lichaam als instrument, sculptuur, ontzield      │
+│ 5. POWERLESS (Onmachtig) │ Fysieke/mentale onmacht, overgeleverd, ontwapend │
+│ 6. FEARFUL (Angstig)     │ Anticipatie, adrenaline, rilling, alarm          │
+│ 7. ASHAMED (Beschaamd)   │ Blozen, naaktheid, exposure van verborgen kwetsb.│
+│ 8. DEGRADED (Gedegradeerd│ Statusontmanteling, kleinheid, absolute nietigheid│
+└──────────────────────────┴──────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 3. De acht belevingspolen ontleed: het licht-donker spectrum
 
-De acht belevingspolen op het wiel zijn niet gelijk van aard of intensiteit. Ze bewegen zich over een fundamentele **Licht-Donker As**. 
+De acht belevingsdimensies bewegen zich over een fundamentele **Licht-Donker As**: 
 
 * **Het Lichte Spectrum (Hechting, Zorgeloosheid & Verheffing):** Prikkels die het zenuwstelsel voeden met verbinding, vrome adoratie, gekoesterde afhankelijkheid en de rust van niet meer hoeven sturen. Het zenuwstelsel rust in een mengvorm van ventraal vagaal (veilige hechting) en ontspannen overgave.
 * **Het Donkere Spectrum (Schaduw, Ontluistering & Catharsis):** Prikkels die afdalen naar wat psycholoog Carl Gustav Jung de existentiële schaduw noemde. Het bewust opzoeken van morele taboes, inferioriteit, walging, angst en vernedering. Hier wordt het sympathische zenuwstelsel gealarmeerd of het dorsaal vagale systeem geprikkeld, maar binnen een bewaakte container met consent.

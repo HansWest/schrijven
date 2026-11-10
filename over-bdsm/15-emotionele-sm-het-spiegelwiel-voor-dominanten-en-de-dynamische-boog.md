@@ -1,31 +1,31 @@
-# Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders
+# Emotionele S/M: De Dominante Dimensies, de Dynamische Boog en Veiligheidskaders
 
 > **Centrale Source of Truth (SSOT) — Document 15 in de Kennisbank BDSM & Kink-Aware Theorie**  
-> *Over de innerlijke belevingswereld en lustmotor van de Dominant, de acht spiegelpolen, de Techniek-Betekenis koppeling in de praktijk, de dramaturgische sessieboog (Descent, Pivot, Ascent) en polyvagale safeguards tegen emotionele drop.*
+> *Over de innerlijke belevingswereld en lustmotor van de Dominant, de acht complementaire holding-dimensies, de Techniek-Betekenis koppeling in de praktijk, de dramaturgische sessieboog (Descent, Pivot, Ascent) en polyvagale safeguards tegen emotionele drop.*
 
 ---
 
 ## 1. Inleiding: De Dominant is Geen Projectiescherm
 
-In [Document 14: Emotionele S/M en het Gevoelswiel voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) werd de subjectieve binnenwereld van de onderdaan ontleed aan de hand van acht belevingspolen op de Licht-Donker As. 
+In [Document 14: Emotionele S/M en de Acht Dimensies voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) werd de subjectieve binnenwereld van de onderdaan ontleed aan de hand van acht belevingsdimensies op de Licht-Donker As. 
 
 Binnen consensuele machtsongelijkheid dreigt echter een klassieke valkuil: het beeld dat de Dominant louter fungeert als een onverstoorbaar projectiescherm, een regisseur zonder zenuwstelsel, of een kille uitvoerder van de behoeften van de sub. 
 
 Zoals uiteengezet in [Document 08: BDSM als Co-Creatie](08-bdsm-als-cocreatie-de-twee-driehoeken.md) en [Document 13: Dominantie Ontwikkelen](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) is authentieke dominantie echter een actieve dans. De Dominant bezit een eigen neurobiologische lustmotor, eigen emotionele polen, relationele hechtingsbehoeften en zéér reële psychologische kwetsbaarheden. 
 
-Wie emotionele S/M wil onderhandelen en vormgeven, heeft daarom een **tweezijdig model** nodig: een spiegelwiel dat de dynamiek tussen *Overgave* en *Ontferming* (*splagchnizomai*) tastbaar maakt.
+Wie emotionele S/M wil onderhandelen en vormgeven, heeft daarom een **tweezijdig model** nodig: een meersporen-architectuur die de dynamiek tussen *Overgave* en *Ontferming* (*splagchnizomai*) tastbaar maakt.
 
 ---
 
-## 2. Het Spiegelwiel voor Dominanten
+## 2. De Acht Dominante Holding-Dimensies
 
 Waar de submissieve partner beleeft wat er wordt *ontvangen* en *doorvoeld*, opereert de Dominant vanuit wat er wordt *aangestuurd*, *gedragen*, *begrensd* en *geëxploreerd*. 
 
-Elke pool op het gevoelswiel voor submissieven heeft een exact complementaire spiegelpool aan de zijde van de Dominant:
+Elke dimensie aan submissieve zijde heeft een exact complementaire holding-dimensie aan de zijde van de Dominant:
 
 ```
 ┌──────────────────────────────────────┬──────────────────────────────────────┐
-│  SUBMISSIEVE BELEVING (VAHAVTA)       │  DOMINANTE SPIEGELPOOL (HOLDING/DRIVE│
+│  SUBMISSIEVE DIMENSIE (BELEVING)     │  DOMINANTE DIMENSIE (HOLDING / DRIVE)│
 ├──────────────────────────────────────┼──────────────────────────────────────┤
 │ 1. Devoted (Toegewijd / Aanbiddend)  │ 1. Sovereign (Soeverein / Verheven)  │
 │ 2. Owned (Bezit / Geborgen)          │ 2. Guardian (Waker & Hoeder)         │
@@ -38,7 +38,7 @@ Elke pool op het gevoelswiel voor submissieven heeft een exact complementaire sp
 └──────────────────────────────────────┴──────────────────────────────────────┘
 ```
 
-Hieronder volgt de ontleding van de acht dominante spiegelpolen, gerangschikt van puur licht naar diepe schaduw:
+Hieronder volgt de ontleding van de acht dominante holding-dimensies, gerangschikt van puur licht naar diepe schaduw:
 
 ---
 

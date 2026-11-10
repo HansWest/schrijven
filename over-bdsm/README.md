@@ -63,6 +63,9 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 15. [**15: Emotionele S/M: Het Spiegelwiel voor Dominanten, de Dynamische Boog en Veiligheidskaders**](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md)  
     *De complementaire binnenwereld van de Dominant: de acht dominante spiegelpolen, het voorkomen van Domdrop, de Techniek-Betekenis koppeling in uitvoering, de 4 fasen van de emotionele boog (Descent, Pivot, Ascent, Landing) en polyvagale safeguards.*
 
+16. [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  
+    *Voorbij de illusie van tegengestelden: het Multi-Track Equalizer model, de polyvagale neurobiologie (ventraal anker, erotisch spel, subspace trance), de authentieke lustmotor en kwetsbaarheid van de Dominant, en de resonantie versus frictie tussen de zes D/s-relatiestijlen.*
+
 ---
 
 ## Verbindingen in de Workspace
