@@ -1,7 +1,7 @@
 # Emotionele S/M: De Acht Dimensies voor Submissieven en het Equalizer-Model
 
 > **Centrale Source of Truth (SSOT) - Document 14 in de Kennisbank BDSM & Kink-Aware Theorie**  
-> *Over de psychologische architectuur van psychologisch sadomasochisme, de erotisering van taboe-emoties (schaamte, degradatie, machteloosheid), de polyvagale grondslag en het in kaart brengen van de innerlijke belevingswereld van de onderdaan als multi-track equalizer.*
+> *Over de psychologische architectuur van psychologisch sadomasochisme, de erotisering van taboe-emoties (schaamte, degradatie, machteloosheid), de polyvagale grondslag en het in kaart brengen van de innerlijke belevingswereld van de onderdanige (submissive) als multi-track equalizer.*
 
 ---
 
@@ -32,7 +32,7 @@ Het vormt de ultieme toepassing van de [Techniek-Betekenis Splitsing (Document 0
 
 ## 2. Voorbij de Cirkel: De Acht Emotionele Dimensies
 
-Om de complexe emotionele ladingen van onderdanen inzichtelijk en bespreekbaar te maken, werd oorspronkelijk gebruik gemaakt van een radiaal diagram (geïnspireerd op het *Feeling Wheel for Emotional S/M* van maker **vahavta**). 
+Om de complexe emotionele ladingen van onderdanigen (submissives) inzichtelijk en bespreekbaar te maken, werd oorspronkelijk gebruik gemaakt van een radiaal diagram (geïnspireerd op het *Feeling Wheel for Emotional S/M* van maker **vahavta**). 
 
 Hoewel een cirkel handig leek voor een 360°-overzicht, creëert een 'wiel' een fundamentele psychologische misvatting: **het suggereert dat tegenoverliggende polen elkaar opheffen** (zoals in de kleurenleer van Plutchik) en dat je slechts in één taartpunt tegelijk kunt verkeren.
 
@@ -110,18 +110,18 @@ De meest verheven en spirituele pool van het wiel. Hier transformeert de onderwe
 * **Dependent (Afhankelijk):** *[☀️ Licht / Hechting]* Het vrijwillig en met vertrouwen overdragen van de regie over het eigen welzijn en genot.
 
 ### 2. Owned (Eigendom / Bezit zijn) - [Hechtend licht spectrum]
-De fundamentele hechtingspool binnen D/s. Eigendom zijn biedt een diepe psychologische rust: het ontslaat de onderdaan van de existentiële eenzaamheid van het zelfstandige volwassen bestaan. *"Omdat ik van jou ben, draag jij de verantwoordelijkheid."*
+De fundamentele hechtingspool binnen D/s. Eigendom zijn biedt een diepe psychologische rust: het ontslaat de onderdanige van de existentiële eenzaamheid van het zelfstandige volwassen bestaan. *"Omdat ik van jou ben, draag jij de verantwoordelijkheid."*
 * **Protected (Beschermd):** *[☀️ Puur licht]* De veilige haven: omdat ik bezit ben, zorgt mijn eigenaar voor mij. Niemand anders mag mij raken;
 * **Claimed (Opgeëist / Geclaimd):** *[☀️ Puur licht]* Het vervullende gevoel gemarkeerd, gewild en onvoorwaardelijk toegeëigend te zijn;
 * **Bound-to (Gebonden aan):** *[☀️ Licht / Verbinding]* Het warme besef van onverbrekelijke loyaliteit en toewijding aan deze specifieke meester of vrouwe;
 * **Controlled (Gecontroleerd / Beheerst):** *[☀️ Licht met strakke kaders]* Elk detail van houding, kleding of adem wordt gereguleerd, wat rust brengt in een overprikkeld brein.
 
 ### 3. Surrendering (Overgave) - [Dienstbaar licht spectrum]
-Het actieve en vrijwillige besluit om de wapens en de controle neer te leggen. Waar machteloosheid passief kan voelen, is overgave een bewuste relationele gift: de onderdaan schenkt de regie aan de ander.
+Het actieve en vrijwillige besluit om de wapens en de controle neer te leggen. Waar machteloosheid passief kan voelen, is overgave een bewuste relationele gift: de onderdanige schenkt de regie aan de ander.
 * **Submissive (Onderdanig):** *[☀️ Licht]* De innerlijke kalmte en bereidheid om te volgen, te buigen en te luisteren;
 * **Obedient (Gehoorzaam):** *[☀️ Licht]* De voldoening van het punctueel en foutloos uitvoeren van bevelen, protocollen en taken;
 * **Sacrificial (Opofferend):** *[☀️ Licht met overgave]* Het gevoel jezelf weg te schenken ter meerdere eer en glorie van de partner of het ritueel;
-* **Helpless (Hulpeloos):** *[⚖️ Overgang naar schaduw]* De overgave bereikt de grens waar de onderdaan somatisch beseft zelf echt niets meer te kunnen uitrichten.
+* **Helpless (Hulpeloos):** *[⚖️ Overgang naar schaduw]* De overgave bereikt de grens waar de onderdanige somatisch beseft zelf echt niets meer te kunnen uitrichten.
 
 ### 4. Objectified (Geobjectiveerd) - [Scharnierpool: Waarde versus Ontmenselijking]
 Deze pool toont haarscherp hoe dezelfde categorie twee volkomen tegenovergestelde ladingen kan dragen, afhankelijk van de intentie:
@@ -150,7 +150,7 @@ Schaamte is een van de meest sociaal pijnlijke en isolerende emoties. In BDSM wo
 * **Embarrassed (In verlegenheid gebracht):** *[⚖️ Lichte schaduw / Speels]* Blozen, ongemak en stunteligheid die liefdevol of streng geobserveerd worden;
 * **Exposed (Blootgesteld):** *[🌑 Schaduw]* Fysiek, seksueel of psychologisch volkomen ontbloot voor het observerende oog van de ander;
 * **Humiliated (Vernederd):** *[🌑 Schaduw]* De knieval maken; jezelf kleiner weten dan de ander en die minderwaardigheid publiekelijk of ritueel moeten belichamen;
-* **Bullied (Gepest / Geïntimideerd):** *[🌑 Diepe schaduw]* Het speelse of genadeloze treiteren dat de sociale superioriteit van de Dominant en de hulpeloosheid van de onderdaan onderstreept.
+* **Bullied (Gepest / Geïntimideerd):** *[🌑 Diepe schaduw]* Het speelse of genadeloze treiteren dat de sociale superioriteit van de Dominant en de hulpeloosheid van de onderdanige onderstreept.
 
 ### 8. Degraded (Gedegradeerd) - [Diep-donker spectrum: De Psychologische Bodem]
 De meest compromisloze schaduwpool van het wiel. Waar schaamte gaat over sociaal falen, gaat degradatie over het actieve verlies van status, waardigheid en menselijke verhevenheid. Dit is de duik naar de absolute bodem, waar het ego niets meer overeind kan houden.
@@ -188,7 +188,7 @@ Net zoals een hete sauna het ijsbad erna intenser maakt, fungeert emotionele ver
 Het wiel laat zien dat een BDSM-ervaring zelden statisch op één plek blijft. De werkelijke alchemie van emotionele S/M ontstaat door het **bewust bewegen over de licht-donker as**:
 
 1. **De afdaling in de schaduw (donker):** Een scène kan openen met strenge begrenzende controle, oplopende anticipatie-angst (*Fearful: Dread-filled*) of verbale ontluistering (*Ashamed: Exposed* en *Degraded: Small*). Hier wordt het trotse volwassen ego doelbewust ontmanteld en de controle gebroken;
-2. **De kentering via de scharnierpolen:** Via gerichte functionele inzet (*Objectified: Useful*) of het toelaten van de eigen ontwapende kwetsbaarheid (*Powerless: Vulnerable*) kantelt het verweer van de onderdaan om in actieve overgave;
+2. **De kentering via de scharnierpolen:** Via gerichte functionele inzet (*Objectified: Useful*) of het toelaten van de eigen ontwapende kwetsbaarheid (*Powerless: Vulnerable*) kantelt het verweer van de onderdanige om in actieve overgave;
 3. **De opname in het licht (verheffing & geborgenheid):** De ontlading culmineert in overgave (*Surrendering: Submissive*) en landt uiteindelijk in pure devotie, bezit en bescherming (*Owned: Protected* en *Devoted: Enraptured*).
 
 Juist dit contrastmechanisme maakt de beleving zo transformerend voor het zenuwstelsel: de diepte van de doorgemaakte schaduw bepaalt de helderheid en de verlossing van het licht bij de landing.
@@ -202,10 +202,10 @@ Het onderschatten van emotionele S/M leidt tot de zwaarste vormen van **Subdrop*
 ### Waarom emotionele drop gevaarlijker is dan fysieke drop:
 1. **Onzichtbaarheid:** Fysieke vermoeidheid of spierpijn is tastbaar. Een emotionele kras (een nare smaak over vernederende woorden) sluipt geruisloos naar binnen en openbaart zich pas na 24 tot 48 uur als eenzaamheid, zelfhaat of relationele vervreemding;
 2. **De grens tussen spel en realiteit vervaagt:** Als een Dominant zegt: *"Je bent een waardeloos stuk vuil"*, kan het subcorticale brein (het Zelf) vergeten dat dit een rol binnen een scène was, zeker wanneer de aarding na afloop tekortschiet;
-3. **Domdrop door schuldgevoel:** Een Dominant die een onderdaan emotioneel heeft gebroken of vernederd, kan de volgende dag overspoeld worden door intense schuld en twijfel: *"Wat voor monster ben ik eigenlijk dat ik dit tegen iemand zeg van wie ik hou?"*
+3. **Domdrop door schuldgevoel:** Een Dominant die een onderdanige emotioneel heeft gebroken of vernederd, kan de volgende dag overspoeld worden door intense schuld en twijfel: *"Wat voor monster ben ik eigenlijk dat ik dit tegen iemand zeg van wie ik hou?"*
 
 ### Richtlijnen voor aftercare bij emotionele S/M:
-* **Expliciete re-humanisering:** Haal de onderdaan direct na afloop uit de rol. Spreek de persoon aan bij zijn/haar eigen voornaam;
+* **Expliciete re-humanisering:** Haal de onderdanige (sub) direct na afloop uit de rol. Spreek de persoon aan bij zijn/haar eigen voornaam;
 * **Spiegelen van waarde:** Benoem expliciet dat de gehoorzaamheid, de overgave en de getoonde kwetsbaarheid dapper en diep gewaardeerd waren;
 * **Fysieke ontprikkeling:** Warme dekens, suikers, oogcontact en een rustige stem om het zenuwstelsel terug te loodsen naar de ventraal vagale toestand van veiligheid;
 * **De 48-uurs check-in:** Plan altijd een kort contactmoment op dag twee om te polsen of er geen residu van schaamte of zelfverwijt is blijven hangen.

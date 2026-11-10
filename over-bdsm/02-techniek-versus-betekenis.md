@@ -61,7 +61,7 @@ Vraag nooit alleen: *"Wat doe je in BDSM?"*, maar vraag: *"Wat beleeft je zenuws
 
 ## 4. De Betekenislaag in Kaart: Het Gevoelswiel voor Emotionele S/M
 
-Om de betekenislaag praktisch en visueel hanteerbaar te maken, bouwen we voort op het *Feeling Wheel for Emotional S/M* van vahavta. Waar de fysieke techniek immers slechts de prikkel levert, brengt dit wiel de acht fundamentele belevingspolen van de onderdaan in kaart:
+Om de betekenislaag praktisch en visueel hanteerbaar te maken, bouwen we voort op het *Feeling Wheel for Emotional S/M* van vahavta. Waar de fysieke techniek immers slechts de prikkel levert, brengt dit wiel de acht fundamentele belevingspolen van de onderdanige (submissive) in kaart:
 * **Overgave & Devotie:** *Surrendering* en *Devoted* (het lichte spectrum van dienstbaarheid, aanbidding en transcendentie);
 * **Hechting & Veiligheid:** *Owned* en *Objectified* (de bevrijding van eigendom zijn en de rust van instrumentalisering);
 * **Intensiteit & Alarm:** *Fearful* en *Powerless* (het gecontroleerd bespelen van het sympathische zenuwstelsel en het breken van weerstand);

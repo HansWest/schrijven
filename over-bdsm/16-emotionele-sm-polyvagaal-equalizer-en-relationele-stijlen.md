@@ -7,7 +7,7 @@
 
 ## 1. Voorbij het Wiel: De Illusie van Tegengestelden
 
-In [Document 14](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) en [Document 15](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) werd de belevingswereld van onderdanen en dominanten geordend in een 'gevoelswiel'. Hoewel een wiel grafisch uitstekend werkt als een 360°-overzicht van nuances, kleeft er een fundamenteel gevaar aan de wielmetafoor: **de aanname dat tegenoverliggende polen elkaar uitsluiten of opheffen.**
+In [Document 14](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) en [Document 15](15-emotionele-sm-het-spiegelwiel-voor-dominanten-en-de-dynamische-boog.md) werd de belevingswereld van onderdanigen (submissives) en dominanten geordend in een 'gevoelswiel'. Hoewel een wiel grafisch uitstekend werkt als een 360°-overzicht van nuances, kleeft er een fundamenteel gevaar aan de wielmetafoor: **de aanname dat tegenoverliggende polen elkaar uitsluiten of opheffen.**
 
 In klassieke emotiewielen uit de psychologie (zoals die van Robert Plutchik, gebaseerd op kleurenleer) heffen tegenovergestelden elkaar op: vreugde en verdriet of angst en woede neutraliseren elkaar als tegengestelde vectoren.
 
@@ -29,7 +29,7 @@ In klassieke emotiewielen uit de psychologie (zoals die van Robert Plutchik, geb
 │   het toegangspoortje tot het ander, geen tegengestelde.                   │
 │                                                                             │
 │ • Fearful (Adrenaline) ↔ Owned (Geborgenheid):                              │
-│   Een onderdaan kan rillen van existentiële angst voor de zweep terwijl     │
+│   Een onderdanige kan rillen van existentiële angst voor de zweep terwijl   │
 │   het zenuwstelsel zich tegelijkertijd volkomen veilig en gekoesterd weet   │
 │   in de armen van de meester.                                               │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -77,7 +77,7 @@ Het autonome zenuwstelsel kent drie primaire evolutionaire lagen, die binnen BDS
 
 ## 3. De Authentieke Binnenwereld van de Dominant
 
-Een van de meest hardnekkige misstanden in de kinky literatuur is de reductie van de Dominant tot een kille technicus, een onverstoorbaar rotsblok, of een veredelde dienstverlener die enkel de fantasieën van de onderdaan bedient ("topping from the bottom").
+Een van de meest hardnekkige misstanden in de kinky literatuur is de reductie van de Dominant tot een kille technicus, een onverstoorbaar rotsblok, of een veredelde dienstverlener die enkel de fantasieën van de onderdanige bedient ("topping from the bottom").
 
 Zoals uiteengezet in [Document 08](08-bdsm-als-cocreatie-de-twee-driehoeken.md) en [Document 13](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) heeft authentieke dominantie echter een **volledig autonome innerlijke lustmotor**.
 
@@ -101,7 +101,7 @@ Zoals uiteengezet in [Document 08](08-bdsm-als-cocreatie-de-twee-driehoeken.md) 
 
 ## 4. D/s Relatiestijlen: Resonantie versus Frictie
 
-Onderdanen hebben niet zomaar "verlangens"; ze hebben een **hechtings- en relatiestijl**. En Dominanten opereren vanuit een eigen **dominante natuur**.
+Onderdanigen (submissives) hebben niet zomaar "verlangens"; ze hebben een **hechtings- en relatiestijl**. En Dominanten opereren vanuit een eigen **dominante natuur**.
 
 Wanneer de stijl van de Dominant en de behoeften van de sub op elkaar aansluiten, ontstaat er moeiteloze erotische resonantie. Maar wanneer een submissief verlangen botst met de morele of erotische identiteit van de Dominant, ontstaat er destructieve frictie.
 
@@ -131,7 +131,7 @@ Wanneer de stijl van de Dominant en de behoeften van de sub op elkaar aansluiten
 
 ### De Resonantie- en Frictiematrix in de Praktijk
 
-Hier zien we waarom sommige verzoeken van onderdanen een Dominant compleet leegzuigen of blokkeren:
+Hier zien we waarom sommige verzoeken van onderdanigen een Dominant compleet leegzuigen of blokkeren:
 
 #### Casus A: De 'Vuilnisbak' vs. De Aristocraat (Grote Frictie)
 * **Sub wenst:** Extreme verbale degradatie, spugen, benoemd worden als waardeloos vuil (*Degraded / Inquisitor* pool).

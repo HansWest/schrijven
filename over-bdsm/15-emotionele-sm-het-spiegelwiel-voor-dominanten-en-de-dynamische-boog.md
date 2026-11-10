@@ -7,7 +7,7 @@
 
 ## 1. Inleiding: De Dominant is Geen Projectiescherm
 
-In [Document 14: Emotionele S/M en de Acht Dimensies voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) werd de subjectieve binnenwereld van de onderdaan ontleed aan de hand van acht belevingsdimensies op de Licht-Donker As. 
+In [Document 14: Emotionele S/M en de Acht Dimensies voor Submissieven](14-emotionele-sm-en-het-gevoelswiel-voor-submissieven.md) werd de subjectieve binnenwereld van de onderdanige (submissive) ontleed aan de hand van acht belevingsdimensies op de Licht-Donker As. 
 
 Binnen consensuele machtsongelijkheid dreigt echter een klassieke valkuil: het beeld dat de Dominant louter fungeert als een onverstoorbaar projectiescherm, een regisseur zonder zenuwstelsel, of een kille uitvoerder van de behoeften van de sub. 
 
@@ -71,7 +71,7 @@ Hieronder volgt de ontleding van de acht dominante holding-dimensies, gerangschi
 
 ### 4. Sculptor (De Beeldhouwer & Instrumentalist) — [Scharnierpool: Esthetiek vs. Kilte]
 *Spiegelt Submissieve Pool: Objectified*
-* **De Binnenwereld:** Het lichaam van de onderdaan ervaren als een prachtig instrument, een sieraad of een sculptuur dat bewonderd, gepoetst of functioneel benut wordt.
+* **De Binnenwereld:** Het lichaam van de onderdanige ervaren als een prachtig instrument, een sieraad of een sculptuur dat bewonderd, gepoetst of functioneel benut wordt.
 * **Typische Facetten:**
   * *Connoisseur (Liefhebber/Kenner):* *[☀️ Licht]* Het met trots en fijnzinnigheid bewonderen van lijnen, spiertonus en reacties;
   * *Clinical / Inspector (Afstandelijk Inspecteur):* *[⚖️ Neutraal]* Het koele, zakelijke beoordelen van gehoorzaamheid, reinheid of houding;
@@ -122,7 +122,7 @@ Veel consensuele incidenten en relatiebreuken in D/s ontstaan niet doordat de *s
 
 ### Waarom de Dominant een eigen Stoplicht nodig heeft:
 1. **Morele Kater (Moral Injury):**  
-   Een Dominant kan meegaan in een vurige vernederingsfantasie van een onderdaan (*"Schik me uit voor walgelijk stuk vuil en spuug op me"*). Maar als de eigen psyche die handeling diep vanbinnen moreel afkeurt, ontstaat na afloop intense zelfhaat en afkeer jegens de partner;
+   Een Dominant kan meegaan in een vurige vernederingsfantasie van een onderdanige (*"Schik me uit voor walgelijk stuk vuil en spuug op me"*). Maar als de eigen psyche die handeling diep vanbinnen moreel afkeurt, ontstaat na afloop intense zelfhaat en afkeer jegens de partner;
 2. **De Druk om te Presteren:**  
    Beginnende Dominanten forceren zichzelf vaak in donkere polen (*Looming Threat* of *Absolute Judge*) omdat ze denken dat dit 'echte dominantie' is, terwijl hun natuurlijke kracht juist ligt in *Guardian* of *Disciplinarian*;
 3. **Het Voorkomen van Verharding:**  
@@ -151,7 +151,7 @@ Hier doemt een fundamentele psychologische vraag op: **Is de dominante lens de s
 Het antwoord verschilt al naar gelang je kijkt vanuit een historisch, erotisch of relationeel perspectief:
 
 1. **Historisch & Maatschappelijk (De Sub-centrische Oorsprong):**  
-   In de BDSM-literatuur en psychologie werd de binnenwereld van de onderdaan als eerste gedetailleerd in kaart gebracht (zoals het oorspronkelijke Gevoelswiel van vahavta). De samenleving begrijpt intuïtief immers wel waarom iemand de leiding wil hebben, maar stelt bij onderwerping direct de pathologiserende vraag: *"Waarom zou een gezond, autonoom mens zich vrijwillig klein, machteloos of beschaamd willen voelen?"* Omdat onderdanen taal nodig hadden om hun verlangens te ontwarren van trauma en schaamte, werd de submissieve ervaring als eerste geboetseerd. Vanuit die historische blik lijkt het alsof de Dominant 'slechts' de spiegel is die de behoeften van de sub opvangt.
+   In de BDSM-literatuur en psychologie werd de binnenwereld van de onderdanige (submissive) als eerste gedetailleerd in kaart gebracht (zoals het oorspronkelijke Gevoelswiel van vahavta). De samenleving begrijpt intuïtief immers wel waarom iemand de leiding wil hebben, maar stelt bij onderwerping direct de pathologiserende vraag: *"Waarom zou een gezond, autonoom mens zich vrijwillig klein, machteloos of beschaamd willen voelen?"* Omdat onderdanigen taal nodig hadden om hun verlangens te ontwarren van trauma en schaamte, werd de submissieve ervaring als eerste geboetseerd. Vanuit die historische blik lijkt het alsof de Dominant 'slechts' de spiegel is die de behoeften van de sub opvangt.
 
 2. **Erotisch & Somatisch (De Autonome Lustmotor van de Dom):**  
    Wanneer we de Dominant echter reduceren tot louter een spiegel van de submissieve verlangens, ontstaat een giftige dynamiek: **dienstbare schijndominantie** (ook wel *topping from the bottom* genoemd). Een Dominant die louter meebeweegt met wat de sub wil beleven (*"Jij wilt je vernederd voelen? Vooruit, dan speel ik wel even alsof ik je walgelijk vind"*), staat niet in zijn eigen kracht, maar treedt op als onbetaald acteur in het theaterstuk van de ander. Zoals beschreven in [Document 13: Dominantie Ontwikkelen](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md) heeft authentieke dominantie een **eigen, autonome lustmotor** nodig. Zonder die innerlijke drang verliest het spel zijn spanning en ligt de weg open naar zware Domdrop en wrok. Erotisch gezien is de Dominant de rivierbedding, en de overgave van de sub het water dat die bedding vult.
@@ -224,7 +224,7 @@ Een krachtige emotionele scène is geen toevallige aaneenschakeling van prikkels
 Omdat emotionele S/M opereert in de zones van angst, schaamte en machteloosheid, is het risico op het afglijden naar een traumatische dissociatie (*freeze*) of angstig pleasen (*fawn*) aanzienlijk groter dan bij louter fysiek spel (zie [Document 07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 
 ### Het Falen van Traditionele Stopwoorden
-Wanneer een onderdaan overspoeld raakt door intense schaamte of existentiële angst, blokkeert het spraakcentrum van Broca in de hersenen. **De sub kán het woord 'rood' fysiek niet uitspreken.**
+Wanneer een onderdanige overspoeld raakt door intense schaamte of existentiële angst, blokkeert het spraakcentrum van Broca in de hersenen. **De sub kán het woord 'rood' fysiek niet uitspreken.**
 
 ### Verplichte Veiligheidsmaatregelen voor Psychologische S/M:
 1. **De Tactiele Dubbelcheck:** Spreek een fysiek signaal af dat geen spraak vereist (bijv. tweemaal stevig in de hand knijpen of een voorwerp vasthouden dat valt bij spierverslapping);

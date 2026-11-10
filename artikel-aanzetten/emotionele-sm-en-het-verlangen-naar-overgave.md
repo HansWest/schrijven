@@ -51,7 +51,7 @@ Emotionele S/M biedt de **radicale bevrijding van de bodem**:
 - Waarom fysieke pijn relatief simpel is en waarom de werkelijke intensiteit altijd in de betekenislaag huist (de techniek-betekenis splitsing).
 - De blik die meer stript dan het losmaken van een knoopje: hoe psychologische dominantie het zenuwstelsel ontwapent.
 
-### Deel 3: De landkaart van de onderdaan (Het Gevoelswiel van vahavta)
+### Deel 3: De landkaart van de onderdanige (Het Gevoelswiel van vahavta)
 - Introductie van de acht polen:
   - Het lichte spectrum: *Surrendering*, *Owned*, *Devoted* (het verlangen naar heiligheid, dienstbaarheid en geborgenheid);
   - Het donkere spectrum: *Powerless*, *Fearful*, *Ashamed*, *Degraded*, *Objectified* (de duik in de existentiële schaduw).
