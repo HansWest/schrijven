@@ -84,17 +84,6 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
         *   [Over schaamte: hechtingssignaal, spiegeling en ontmaskering](over-emoties/over-schaamte/README.md)
         *   [Over schuld: verantwoordelijkheid, reparatie en geweten](over-emoties/over-schuld/README.md)
         *   [Over liefde: verbondenheid, hechtingsintegratie en wederkerigheid](over-emoties/over-liefde/README.md)
-        *   [Over bang: angst, beschermingsreacties en vrees](over-emoties/over-bang/README.md)
-        *   [Over boos: woede, RAGE en grenzen](over-emoties/over-boos/README.md)
-        *   [Over bedroefd: verdriet, scheidingspijn en rouw](over-emoties/over-bedroefd/README.md)
-        *   [Over benieuwd: nieuwsgierigheid, SEEKING en exploratiedrang](over-emoties/over-benieuwd/README.md)
-        *   [Over begeerte: lust, erotiek en seksuele drift](over-emoties/over-begeerte/README.md)
-        *   [Over zorg: tederheid, koestering en holding](over-emoties/over-zorg/README.md)
-        *   [Over spel en vreugde: speelsheid, stoeien en ontspanning](over-emoties/over-spel-en-vreugde/README.md)
-        *   [Over trots: waardigheid, eigenwaarde en agency](over-emoties/over-trots/README.md)
-        *   [Over schaamte: hechtingssignaal, spiegeling en ontmaskering](over-emoties/over-schaamte/README.md)
-        *   [Over schuld: verantwoordelijkheid, reparatie en geweten](over-emoties/over-schuld/README.md)
-        *   [Over liefde: verbondenheid, hechtingsintegratie en wederkerigheid](over-emoties/over-liefde/README.md)
 
 ---
 
@@ -179,6 +168,15 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**Meantime Protocollen**](https://github.com/HansWest/meantime-stuf)
 *   [**Under 18 FAQ & Content**](https://github.com/HansWest/under18)
 *   [**Asian Content**](https://github.com/HansWest/asian-content)
+
+---
+
+## 🎤 Presentatie-aanzetten
+*Voorzetten voor presentaties, workshops en lezingen (Google Slides).*
+*   [**Dominantie in de praktijk: rust, richting en de magie van het speelveld (Google Slides)**](presentatie-aanzetten/dominantie-voor-beginners/README.md)
+    *   [Slide deck: rust, richting en de magie van het speelveld](presentatie-aanzetten/dominantie-voor-beginners/slide-deck-dominantie-voor-beginners.md)
+*   [**Vrouwelijke submissie in de praktijk: de kracht van soevereine overgave (Google Slides)**](presentatie-aanzetten/vrouwelijke-submissie/README.md)
+    *   [Slide deck: vrouwelijke submissie in de praktijk](presentatie-aanzetten/vrouwelijke-submissie/slide-deck-vrouwelijke-submissie.md)
 
 ---
 

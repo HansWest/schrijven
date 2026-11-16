@@ -68,3 +68,9 @@
 7. **Rauwe observaties en spreekkamer-anekdotes:**
    - Veranker theoretische concepten in concrete, doorleefde observaties uit de praktijk of vanaf de speelvloer (bijv. *"In mijn praktijk zie ik regelmatig..."*, *"Ik heb meegemaakt dat..."*, of een kort, scherp praktijkbeeld).
    - Dit doorbreekt abstracte symmetrie, verhoogt het doorleefde karakter en ontzenuwt elke suggestie van mechanische of door AI gegenereerde tekst.
+8. **Volwassen ambacht vóór schoolse beginnerscursus (kink, D/s en leiderschap):**
+   - Wanneer een stuk of presentatie gericht is op beginners of stellen die hun eerste stappen zetten in dominantie, D/s of kink: vermijd krampachtige verkleinwoorden of schoolse termen die de lezer infantiliseren (zoals *"starter-kit"*, *"speelkwartier"*, *"huiswerk"*, *"klungelen mag"* of *"les 1"*).
+   - Behandel de lezer als een volwassen vakgenoot of leerling in een erotisch ambacht (vergelijkbaar met tangodansen of zwaardvechten): gebruik termen als *het minimalistische instrumentarium*, *de ontspannen speelvloer* of *de eerste oversteek*.
+   - **Gravitas en rustige autoriteit:** Schrijf vanuit de rustige zwaartekracht van een ervaren speelvloer-veteraan. De auteur spreekt niet als een jolige schoolmeester met verontschuldigende gezelligheid, maar vanuit een vanzelfsprekende, ontspannen *calm authority*.
+   - **Minder afzetten tegen clichés, meer eigen zwaartekracht:** Blijf niet te lang hangen in wat het *niet* is (*"geen kasteelkelders"*, *"geen Fifty Shades"*), maar focus direct op wat het *wel* is: de fysiologische en erotische afstemming tussen twee zenuwstelsels.
+   - **Vrijmoedig en ongecompliceerd over seks en geilheid:** Verlangen en geilheid zijn geen schuldige 'taboes' waar je omheen moet draaien of lollig over moet doen; het is de soevereine, legitieme brandstof voor overgave en leiderschap.

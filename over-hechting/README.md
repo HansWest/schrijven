@@ -33,12 +33,12 @@ HET ZELF NEGATIEF (-) │  ANGSTIG-         │ ANGSTIG-          │
 
 ### Overzicht van de vier patronen
 
-| Nederlandse Standaardterm | Engelse Term & Code | Synoniemen in Literatuur | Kernovertuiging van het Zenuwstelsel |
+| Nederlandse Standaardterm | Engelse Term & Code | Evolutionaire Superkracht & Talent | Kernovertuiging van het Zenuwstelsel |
 | :--- | :--- | :--- | :--- |
-| **1. Veilig gehecht** | *Secure* | Autonoom, evenwichtig | *"Ik ben de moeite waard en anderen zijn betrouwbaar."*<br>Vrije toegang tot zowel intimiteit als autonomie. |
-| **2. Angstig-gepreoccupeerd** | *Anxious-Preoccupied (AP)* | Angstig-ambivalent, gepreoccupeerd | *"Ik ben pas veilig als jij nabij bent; alleen red ik het niet."*<br>Hyperactivatie van het hechtingssysteem, verlatingsangst, vastklampen. |
-| **3. Afwijzend-vermijdend** | *Dismissing-Avoidant (DA)* | Dismissief-vermijdend, afwijzend | *"Ik heb niemand nodig; kwetsbaarheid is gevaarlijk."*<br>Deactivatie van het hechtingssysteem, extreme zelfredzaamheid, emotioneel uitchecken. |
-| **4. Angstig-vermijdend** | *Fearful-Avoidant (FA)* | Desorganiseerd (bij trauma), ambivalent-vermijdend | *"Ik verlang wanhopig naar liefde, maar nabijheid vernietigt mij."*<br>Toenaderings- en vermijdingsconflict, 'pomp-tests', verraadwond. |
+| **1. Veilig gehecht** | *Secure* | **De Co-regulator & Bruggenbouwer:** Rustige aanwezigheid, conflict-de-escalatie, herstelvermogen en hechtingsvertrouwen. | *"Ik ben de moeite waard en anderen zijn betrouwbaar."*<br>Vrije toegang tot zowel intimiteit als autonomie. |
+| **2. Angstig-gepreoccupeerd** | *Anxious-Preoccupied (AP)* | **De Schildwacht & Rookmelder:** Vlijmscherpe voelsprieten voor sfeer en relationele frictie, diepe toewijding en vechtlust voor verbinding. | *"Ik ben pas veilig als jij nabij bent; alleen red ik het niet."*<br>Hyperactivatie van het hechtingssysteem, verlatingsangst, vastklampen. |
+| **3. Afwijzend-vermijdend** | *Dismissing-Avoidant (DA)* | **De Rots in de Branding & Solist:** Koelbloedig in acute crises, daadkracht, zelfredzaamheid en niet bezwijken onder emotionele stormen. | *"Ik heb niemand nodig; kwetsbaarheid is gevaarlijk."*<br>Deactivatie van het hechtingssysteem, extreme zelfredzaamheid, emotioneel uitchecken. |
+| **4. Angstig-vermijdend** | *Fearful-Avoidant (FA)* | **De Hyper-Intuïtieve Overlever:** Onfeilbare radar voor manipulatie en onechtheid, diepe empathie voor trauma en navigatievermogen in chaos. | *"Ik verlang wanhopig naar liefde, maar nabijheid vernietigt mij."*<br>Toenaderings- en vermijdingsconflict, 'pomp-tests', verraadwond. |
 
 > **Kindertijd-equivalenten (Ainsworth & Main):**  
 > In de pedagogische en ontwikkelingspsychologie worden bij kinderen de termen **Veilig (Type B)**, **Onveilig-vermijdend (Type A)**, **Onveilig-ambivalent/afwerend (Type C)** en **Gedesorganiseerd (Type D)** gehanteerd.
@@ -48,7 +48,7 @@ HET ZELF NEGATIEF (-) │  ANGSTIG-         │ ANGSTIG-          │
 ## Documenten in deze kennisbank
 
 1. [**01: Reactiepatronen, relationele specificiteit en earned security**](01-reactiepatronen-en-relatietypen.md)  
-   *Waarom 'hechtingsstijlen' eigenlijk overlevingspatronen zijn, de officiële Nederlandse taxonomie (2x2 model), de tussenruimte en hoe het zenuwstelsel herbedraadt.*
+   *Waarom 'hechtingsstijlen' adaptieve overlevingspatronen zijn, de evolutionaire superkrachten per profiel (Social Defense Theory), de tussenruimte en hoe het zenuwstelsel herbedraadt.*
 
 2. [**02: Neurobiologie, hersenstam en de zeven F's**](02-neurobiologie-en-zenuwstelsel.md)  
    *De polyvagaal theorie, neuroceptie (gevaardetectie), zeven beschrijvende F-reacties in relaties, ademobservaties, relatiebreuken en somatische co-regulatie.*

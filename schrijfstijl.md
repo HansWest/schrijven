@@ -22,6 +22,10 @@
 - Behoud de eigenzinnige toon, maar neem formuleringen, begrippen of voorbeelden uit eerdere stukken niet automatisch over. Maak per nieuw stuk nieuw taalwerk.
 - Redigeer op helderheid en spelling zonder de stem glad, afstandelijk of formeel te maken. Reproduceer geen typefouten uit een voorbeeld.
 - Gebruik voor gedachtestreepjes, terzijdes of toelichtingen een gewoon liggend streepje met spaties eromheen (" - ") in plaats van een lange em-dash ("—").
+- **Volwassen ambacht vóór schoolse 'beginnerscursus' (kink, D/s en leiderschap):** wanneer een stuk of presentatie gericht is op beginners of stellen die hun eerste stappen zetten in dominantie, D/s of kink: vermijd termen die de lezer infantiliseren of doen denken aan een schoolbankje (zoals *"starter-kit"*, *"speelkwartier"*, *"huiswerk"*, *"klungelen"*). Behandel de lezer als een volwassen leerling in een erotisch ambacht: spreek over *het minimalistische instrumentarium*, *de ontspannen speelvloer* of *de eerste oversteek*.
+- **Gravitas en rustige autoriteit (de ervaren gids):** schrijf vanuit de rustige zwaartekracht van een ervaren speelvloer-veteraan. De auteur spreekt niet als een jolige schoolmeester met verontschuldigende gezelligheid, maar vanuit een vanzelfsprekende, ontspannen *calm authority*.
+- **Eigen zwaartekracht vóór afzetten tegen clichés:** blijf niet te lang hangen in wat het *niet* is (*"geen kasteelkelders"*, *"geen Fifty Shades"*), maar focus direct op wat het *wel* is: de fysiologische en erotische afstemming tussen twee zenuwstelsels.
+- **Vrijmoedig en ongecompliceerd over seks en geilheid:** verlangen en geilheid zijn geen heikele zaken waar je omheen moet draaien of lollig over moet doen; het is de soevereine, legitieme brandstof voor overgave en leiderschap.
 
 ## Afstemming vooraf (perspectief en taal)
 

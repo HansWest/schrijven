@@ -16,7 +16,7 @@ Wanneer er in een relatie stilte, afwijzing of onvoorspelbaarheid ontstaat, scan
 
 ---
 
-## 2. De zeven F's in relationele paniek en overleving
+## 2. De verschillende F's in relationele paniek en overleving
 
 Bij hechtingsdreiging of existentiële leegte kan het autonome zenuwstelsel verschillende beschermende reacties inzetten. Fight, flight, freeze en fawn zijn bekende labels; in dit hoofdstuk gebruik ik daarnaast Frenzy, Flock en Feign Death als aanvullende beschrijvende termen. Deze uitgebreide indeling is een denkkader, geen universeel vaststaande medische taxonomie:
 

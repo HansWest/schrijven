@@ -22,6 +22,7 @@ schrijven/
 ├── .github/instructions/                 # Automatische werkafspraken voor specifieke mappen
 ├── _info-dump/                            # Binnenkomend materiaal om te integreren en daarna op te ruimen
 ├── artikel-aanzetten/                     # Zelfstandige invalshoeken voor toekomstige artikelen
+├── presentatie-aanzetten/                 # Slide decks, workshopstructuren & lezingen
 ├── index.md                               # Publieke / centrale navigatie-index
 ├── chosen-family-app/                     # Concept voor een veilige chosen-family-community-app
 │
