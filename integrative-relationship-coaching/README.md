@@ -35,8 +35,9 @@ Binnen **Integrative Relationship Coaching (IRC)** combineren we de existentiël
    - [04: Oefeningen & Praktijkgids](over-conflicten/04-oefeningen-en-praktijkgids.md)
    - [Conflicteren als Werkwoord](over-conflicten/conflicteren-als-werkwoord.md)
 
-6. [**Over Daten: Tempo, Hechting en het Schaamte-Kompas**](over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)  
-   *Hoe je dates benadert vanuit nieuwsgierigheid en een duurzaam zenuwstelseltempo, waarom schaamte fungeert als snelheidsmeter tegenover opwinding, en hoe je ontdekt wie jouw werkelijke tribe is.*
+6. [**Over Daten: Dossier & Modellen**](over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)  
+   - [01: Tempo, Hechting en het Schaamte-Kompas](over-daten/01-tempo-hechting-en-het-schaamte-kompas.md) - *Hoe je dates benadert vanuit een duurzaam zenuwstelseltempo en schaamte als snelheidsmeter.*
+   - [02: Manipulatie, Kameleon-Spiegelen en Valse Intimiteit](over-daten/02-manipulatie-spiegelen-en-valse-intimiteit.md) - *De gevaren van love bombing, mirror-matching, het forceren van vroege kwetsbaarheid en de biologische functie van smalltalk.*
 
 7. [**De Interne Vergadertafel en het Ontwikkelen van een Voedende Ouder**](de-interne-vergadertafel-en-de-voedende-ouder.md)  
    *Theoretisch fundament en praktijkgids voor de interne dialoog: Ornsteins multimind-brein, egostates, gestolde ontwikkeling, het bodemloze zwarte gat, de schaduwzijde (de verslaafde en ons beestje) en het installeren van Winnicotts Good Enough Parent en de Voorzitter.*

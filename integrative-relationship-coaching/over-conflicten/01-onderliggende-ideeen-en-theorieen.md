@@ -227,3 +227,27 @@ In Integrative Relationship Coaching omarmen we **de ethiek van de fout**:
 - Een relatie hoeft geen diplomatieke topconferentie te zijn.
 - Een ruwe, ongepolijste maar oprechte *"Verdomme, dit doet me gewoon echt heel veel zeer"* brengt honderd keer meer verbinding tot stand dan een perfect geformuleerde 'ik-boodschap' die koud als marmer aanvoelt.
 
+---
+
+## 8. Drie signalen van emotionele gezondheid in interactie
+
+In mijn coachingspraktijk merk ik dat mensen emotionele volwassenheid vaak verwarren met nooit meer geraakt worden, altijd kalm blijven of communiceren in perfecte psychologische sjablonen. Maar emotionele gezondheid toont zich niet wanneer de zon schijnt en alles moeiteloos loopt; ze toont zich precies op de frictievlakken en breuklijnen.
+
+In wezen herken ik een emotioneel gezond mens aan drie specifieke dynamieken in het contact:
+
+### 1. Procesgericht blijven tijdens meningsverschillen
+Wanneer je aangeeft dat iets je dwarszit of pijn doet, schiet een emotioneel gezond iemand niet direct in de verdediging of tegenaanval. Hij of zij doet oprechte moeite om jouw perspectief te begrijpen. Cruciaal hierbij: **je hoeft de discussie niet eerst te winnen om zorgzaamheid te ontvangen.** Zorg en betrokkenheid worden niet gegijzeld als wisselgeld voor wie er gelijk heeft.
+
+Bovendien toont gezondheid zich in het vermogen om een fysiologische overspoeling (*flooding*) te begrenzen: wanneer de emmer overloopt, kunnen ze aangeven dat ze een time-out nodig hebben om te kalmeren - zónder dat die pauze een strafexpeditie (*stonewalling*) wordt. Ze keren na de afkoelperiode betrouwbaar terug naar de arena om het gesprek af te ronden, zonder dat frustratie ontaardt in vernederingen, schelden of manipulatie om de ander tot overgave te dwingen.
+
+### 2. Successen van anderen vieren (freudenfreude)
+Minstens zo onthullend als hoe iemand omgaat met jouw pijn, is hoe diegene reageert op jouw vreugde en overwinningen. Een emotioneel volwassen partner toont authentieke nieuwsgierigheid wanneer je iets deelt waar je trots op bent. Die vraagt door naar de details (*"Wat maakte dit zo belangrijk voor je?"*, *"Hoe voelde dat op het moment zelf?"*), zonder er direct een competitieve vergelijking van te maken met iemand die méér heeft bereikt of over zichzelf te beginnen.
+
+Zelfs wanneer jouw succes per ongeluk raakt aan de eigen onzekerheden of gemiste kansen van de ander, is diegene in staat om zijn eigen zenuwstelsel te reguleren en voluit ruimte te maken voor jouw vreugde. Je hoeft je overwinningen niet te dimmen, te verontschuldigen of te bagatelliseren om de relatie veilig te houden.
+
+### 3. Verantwoordelijkheid nemen voor de impact (boven intentie)
+Als je uitspreekt dat een opmerking of handeling je heeft gekwetst, kan het reflectieve Ik (de neocortex) van nature de neiging hebben om zich te verweren: *"Maar zo bedoelde ik het helemaal niet!"* Een emotioneel gezond persoon kan echter voorbij die reflex kijken. Diegene voelt wellicht schaamte of ongemak, maar kan de verdediging laten zakken en werkelijk kijken naar het **effect** op jouw zenuwstelsel.
+
+Ze kunnen oprecht excuses aanbieden voor de aangerichte schade zónder direct vergeving te eisen als voorwaarde voor hun gemoedsrust. Ze luisteren naar jouw reactie en vertalen het inzicht in concrete, voelbare gedragsverandering voor de toekomst. De focus verschuift van *gelijk hebben over de intentie* naar *zorg dragen voor de impact*.
+
+

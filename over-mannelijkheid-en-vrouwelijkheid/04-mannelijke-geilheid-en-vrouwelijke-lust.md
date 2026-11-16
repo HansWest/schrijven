@@ -1,6 +1,6 @@
 # Mannelijke Geilheid, Vrouwelijke Lust & De Rauwe Motor van Verlangen
 
-> **Centrale Source of Truth (SSOT) — Document 04 in de Kennisbank Mannelijkheid, Vrouwelijkheid & Polariteit**  
+> **Centrale Source of Truth (SSOT) - Document 04 in de Kennisbank Mannelijkheid, Vrouwelijkheid & Polariteit**  
 > *Waarom brave mannen passie doden, waarom vrouwen in monogamie eerder uitgekeken raken op gezapige seks, en concrete sturing voor jonge mannen om hun rauwe geilheid voluit en zonder schaamte te belichamen.*
 
 ---
@@ -49,11 +49,11 @@ Er heerst een hardnekkige culturele mythe dat mannen van nature losbandig zijn e
 
 ## 3. Mannelijke Geilheid: Geen Misdrijf, maar Levensenergie
 
-Mannen — van jonge twintigers tot vitale zestigers — hebben, mits ze fysiek gezond zijn en niet uitgeblust door depressie of overgewicht, een krachtige en aanhoudende drang om te **neuken**.
+Mannen - van jonge twintigers tot vitale zestigers - hebben, mits ze fysiek gezond zijn en niet uitgeblust door depressie of overgewicht, een krachtige en aanhoudende drang om te **neuken**.
 
 ### Het Failliet van de 'Uitgebluste Man'
 Veel moderne mannen zijn uitgeblust geraakt door een dodelijke cocktail:
-1. **Porno als Vlucht i.p.v. Inspiratie:** Urenlang doelloos scrollen en solistisch masturberen als verdoving, in plaats van porno te gebruiken als inspiratie voor échte seks (zie [05: Porno als Inspiratie vs. Leerboek](05-porno-als-inspiratie-versus-leerboek.md)). Dit loost dopamine in eenzame leegte, waardoor de man in het echte contact met een vrouw slap, passief en onzeker wordt.
+1. **Porno als Vlucht i.p.v. Inspiratie:** Urenlang doelloos scrollen en solistisch masturberen als verdoving, in plaats van porno te gebruiken als inspiratie voor échte seks (zie [05: Porno als inspiratie vs. instructiemateriaal](05-porno-als-inspiratie-versus-instructiemateriaal.md)). Dit loost dopamine in eenzame leegte, waardoor de man in het echte contact met een vrouw slap, passief en onzeker wordt.
 2. **Seksuele Schaamte:** Het idee dat mannelijk verlangen per definitie verdacht, gevaarlijk of 'toxisch' is.
 3. **Fysieke Verwaarlozing:** Te weinig zware training, te veel troep eten en sedentair leven.
 

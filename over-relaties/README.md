@@ -26,6 +26,11 @@ De artikelen over relatiebreuken richten zich op wat het einde van een relatie b
    *Systeemtheorieën, dynamieken tussen partners en het Tweelagenmodel in de relationele praktijk.*
    - [01: Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels](relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
    - [02: Jullie relatie als levend lijf: structuur, beweging en gevoel](relatietheorieen/02-relatie-als-levend-lijf.md)
+   - [03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur](relatietheorieen/03-uit-de-seksuele-burnout-en-sleur.md)
+   - [04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander](relatietheorieen/04-de-erotische-paradox-en-het-mysterie-van-verlangen.md)
+   - [05: Eenzaamheid, de grenzencultuur en de paradox van gezonde onveiligheid](relatietheorieen/05-eenzaamheid-grenzen-en-sociale-inbedding.md)
+   - [06: Deugdethiek, natuurlijke normativiteit en menselijk floreren (Philippa Foot)](relatietheorieen/06-deugdethiek-en-menselijk-floreren-philippa-foot.md)
+   - [07: Totale overheersing, het verlies van waarheid en relationeel gaslighting (Hannah Arendt)](relatietheorieen/07-totale-overheersing-en-het-verlies-van-werkelijkheid.md)
 
 2. [**Relaties Beëindigen, Breuk & Verlating (`over-relaties-beeindigen/`)**](over-relaties-beeindigen/README.md)  
    *Wat er gebeurt wanneer de verbinding verbreekt: de neurobiologie van afwijzing, de paradox van zachte afwijzingen ("dankbaarheid"), het duaal procesmodel van rouw, de dynamiek van boosheid en verdriet, en het herwinnen van waardigheid.*
@@ -38,6 +43,6 @@ De artikelen over relatiebreuken richten zich op wat het einde van een relatie b
 
 ## Verbanden elders in de Workspace
 
-- [Kennisbank Hechting](../over-hechting/README.md) — *De 7 F's, neuroceptie en hechtingsreacties van de hersenstam.*
-- [Kennisbank Emoties](../over-emoties/README.md) — *Boosheid als schild, duaal procesmodel van rouw en emotieregulatie.*
-- [Integrative Relationship Coaching](../integrative-relationship-coaching/relatie-coaching.md) — *Methodieken, voorvergeving en emotioneel efficiënte communicatie in de praktijk.*
+- [Kennisbank Hechting](../over-hechting/README.md) - *De 7 F's, neuroceptie en hechtingsreacties van de hersenstam.*
+- [Kennisbank Emoties](../over-emoties/README.md) - *Boosheid als schild, duaal procesmodel van rouw en emotieregulatie.*
+- [Integrative Relationship Coaching](../integrative-relationship-coaching/relatie-coaching.md) - *Methodieken, voorvergeving en emotioneel efficiënte communicatie in de praktijk.*

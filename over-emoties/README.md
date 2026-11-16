@@ -33,6 +33,8 @@ Binnen deze kennisbank kijken we naar emoties voorbij moraliserende oordelen ("g
    *Boosheid als secundaire emotie, de ontkrachting van de catharsis-mythe (Bushman), mobilisatie versus verbittering, en het ontladen van adrenaline.*
 2. [**Sociale Emotie: Schuldgevoel en Schuld in Relaties**](over-schuld.md)  
    *Onderscheid tussen constructief schuldgevoel, projectie en morele manipulatie in interacties.*
+3. [**Sociale Emotie: Schaamte als Hechtingssignaal en de Kalibrerende Spiegel (`over-schaamte/`)**](over-schaamte/01-schaamte-als-hechtingssignaal-en-de-kalibrerende-spiegel.md)  
+   *Hoe complex trauma en narcistisch misbruik de kalibrerende spiegel breken, de vroege hechtingsruil (schaamteloosheid inleveren voor schaamte en wantrouwen), en schaamte als biologische rookmelder van uitstoting uit de stam.*
 
 ---
 

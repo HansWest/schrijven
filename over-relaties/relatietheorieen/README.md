@@ -26,10 +26,19 @@ Binnen deze map verkennen we theorieën die helpen de complexiteit van relatione
 4. [**04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander**](04-de-erotische-paradox-en-het-mysterie-van-verlangen.md)  
    *Waarom liefde en verlangen elkaars tegenpolen kunnen worden; de lessen uit 20 jaar 'Mating in Captivity' (Esther Perel); hoe frictieloze technologie het erotische zenuwstelsel verdooft; erotiek als vitaliteit versus louter overleven; de 'Zes Huwelijken'; en een concreet zelfonderzoek naar de soevereiniteit van verlangen.*
 
+5. [**05: Eenzaamheid, de grenzencultuur en de paradox van gezonde onveiligheid**](05-eenzaamheid-grenzen-en-sociale-inbedding.md)  
+   *Contact zonder aanwezigheid; hoe doorgeschoten 'boundary-talk' ons geïsoleerd heeft geoptimaliseerd; de heiligverklaring van de eigen comfortzone; het onderscheid tussen needs, wants en nice-to-haves; en waarom gezonde relaties altijd een zekere existentiële spanning en contingentie dragen.*
+
+6. [**06: Deugdethiek, natuurlijke normativiteit en menselijk floreren (Philippa Foot)**](06-deugdethiek-en-menselijk-floreren-philippa-foot.md)  
+   *Het filosofisch fundament onder relationele integriteit uit Natural Goodness (2001); waarom feiten en waarden biologisch verweven zijn; deugden als organische noodzaak voor menselijke bloei; en wreedheid of bedrog als een functioneel defect van de wil.*
+
+7. [**07: Totale overheersing, het verlies van waarheid en relationeel gaslighting (Hannah Arendt)**](07-totale-overheersing-en-het-verlies-van-werkelijkheid.md)  
+   *De parallel tussen Hannah Arendts The Origins of Totalitarianism (1951) en toxische partnercontrole; het verschil tussen gewone tirannie en totale overheersing; hoe isolatie en ideologische logica het onderscheidingsvermogen slopen; en de dynamiek van coercive control.*
+
 ---
 
 ## Verbanden elders in de Workspace
 
-- [Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) — *De neurobiologische en hechtingspsychologische fundamenten van het model.*
-- [Relatie Coaching & Protocollen](../../integrative-relationship-coaching/relatie-coaching.md) — *Praktische toepassing, oefeningen en coachinggesprekken.*
-- [Relaties Beëindigen: Verlaten Worden](../over-relaties-beeindigen/README.md) — *De dynamiek wanneer de verbinding definitief verbreekt.*
+- [Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) - *De neurobiologische en hechtingspsychologische fundamenten van het model.*
+- [Relatie Coaching & Protocollen](../../integrative-relationship-coaching/relatie-coaching.md) - *Praktische toepassing, oefeningen en coachinggesprekken.*
+- [Relaties Beëindigen: Verlaten Worden](../over-relaties-beeindigen/README.md) - *De dynamiek wanneer de verbinding definitief verbreekt.*

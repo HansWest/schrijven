@@ -1,6 +1,6 @@
 # Kennisbank: Mannelijkheid, Vrouwelijkheid & Polariteit
 
-> **Centrale Source of Truth (SSOT)** voor gezonde archetypische krachten, volwassen mannelijkheid, vrouwelijke energie en relationele polariteit — **volledig voorbij de hedendaagse cultuuroorlog en cancelcultuur.**
+> **Centrale Source of Truth (SSOT)** voor gezonde archetypische krachten, volwassen mannelijkheid, vrouwelijke energie en relationele polariteit - **volledig voorbij de hedendaagse cultuuroorlog en cancelcultuur.**
 
 ---
 
@@ -17,7 +17,7 @@ Deze kennisbank kiest voor een nuchtere, diepgaande en constructieve benadering:
 1. **Gezonde Mannelijkheid als Dienende Kracht:**  
    Geen narcistische dominantie, maar betrouwbare bedding, daadkracht, economische en emotionele verantwoordelijkheid, en het leveren van *Surplus Value* (meer bijdragen aan de samenleving en je relatie dan je consumeert).
 2. **Gezonde Vrouwelijkheid als Levende Stroom:**  
-   Vrijheid van expressie, intuïtie, zachtheid, overgave en emotionele diepte — mogelijk gemaakt doordat er een veilige, onwrikbare mannelijke bedding aanwezig is.
+   Vrijheid van expressie, intuïtie, zachtheid, overgave en emotionele diepte - mogelijk gemaakt doordat er een veilige, onwrikbare mannelijke bedding aanwezig is.
 3. **Polariteit als Erotisch en Relationeel Magnetisme:**  
    Man en vrouw zijn fundamenteel gelijkwaardig, maar het bewust vieren en uitvergroten van hun energetische contrasten wekt passie, veiligheid en synergie op.
 
@@ -37,14 +37,20 @@ Deze kennisbank kiest voor een nuchtere, diepgaande en constructieve benadering:
 4. [**04: Mannelijke Geilheid, Vrouwelijke Lust & De Rauwe Motor van Verlangen**](04-mannelijke-geilheid-en-vrouwelijke-lust.md)  
    *Waarom brave mannen passie doden, waarom vrouwen in monogamie eerder uitgekeken raken op gezapige seks, en concrete sturing voor jonge mannen om hun rauwe geilheid voluit en zonder schaamte te belichamen.*
 
-5. [**05: Porno: Erotische Inspiratie versus Onveilig Leerboek**](05-porno-als-inspiratie-versus-leerboek.md)  
+5. [**05: Porno: erotische inspiratie versus onveilig instructiemateriaal**](05-porno-als-inspiratie-versus-instructiemateriaal.md)  
    *Waarom porno prima vermaak is, waarom je niet leert autorijden van 'Gone in 60 Seconds', en de zes fundamentele verschillen tussen een filmset en echte intimiteit.*
+
+6. [**06: De Vier Vrouwen van een Man: De Ontwikkelingsfasen van de Anima**](06-de-vier-vrouwen-van-een-man-anima-ontwikkeling.md)  
+   *Jungiaanse ontwikkelingspsychologie voor mannen: Eve (moeder/nodig hebben), Helen (trofee/status), Mary (heilige echtgenote/Madonna-splitsing) en Sophia (geïntegreerde wijsheid en gelijkwaardigheid).*
+
+7. [**07: Submissie, Invloed en de Fysiologie van Mannelijke Rust**](07-submissie-invloed-en-mannelijke-rust.md)  
+   *Overgave als hefboom voor invloed versus machtsstrijd; de vijf pijlers van relationele vrede; waarom sussen en pleasen respect vernietigt; en de valkuil van de emotieloze robotstem.*
 
 ---
 
 ## 3. Verbindingen binnen het Schrijfarchief
 
-- [**BDSM & Kink: Dominantie Hoeft Niets te Bewijzen**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) — *Innerlijke kalme autoriteit zonder haantjesgedrag of performatieve dwang.*
-- [**BDSM & Kink: Polariteit als Erotische Motor**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/06-deconstructie-van-bdsm-en-het-speelveld.md) — *Hoe asymmetrisch rollenspel binnen gelijkwaardigheid polariteit verdiept.*
-- [**Hechting & Zenuwstelsel**](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) — *De biochemische en neurobiologische basis van veiligheid en co-regulatie.*
-- [**Relatie Coaching**](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) — *Praktische gespreks- en interactieprotocollen voor koppels.*
+- [**BDSM & Kink: Dominantie Hoeft Niets te Bewijzen**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) - *Innerlijke kalme autoriteit zonder haantjesgedrag of performatieve dwang.*
+- [**BDSM & Kink: Polariteit als Erotische Motor**](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/06-deconstructie-van-bdsm-en-het-speelveld.md) - *Hoe asymmetrisch rollenspel binnen gelijkwaardigheid polariteit verdiept.*
+- [**Hechting & Zenuwstelsel**](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) - *De biochemische en neurobiologische basis van veiligheid en co-regulatie.*
+- [**Relatie Coaching**](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) - *Praktische gespreks- en interactieprotocollen voor koppels.*

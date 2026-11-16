@@ -1,6 +1,6 @@
 # Van Vanilla naar Kink: Het Speeltuinmodel & Bewuste Kaders
 
-> **Algemene BDSM-Theorie — Deel 10**  
+> **Algemene BDSM-Theorie - Deel 10**  
 > *Het spectrum van Vanilla via Stracciatella naar Kink, waarom het 'contract' en de intentie de overgang markeren, de risico's van porno-geïnspireerde seks (o.a. choking) en het Speeltuinmodel als veilige instap voor stellen.*
 
 ---
@@ -129,8 +129,8 @@ Na een eerste intense ervaring kunnen er onverwachte emoties loskomen (verwarrin
 
 ## Verwijzingen & Samenhang
 
-- [02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) — *Waarom handeling en betekenis twee verschillende dimensies zijn.*
-- [07: Subspace versus Freeze](07-subspace-versus-freeze.md) — *Het signaleren van veilige overgave versus bevriezing.*
-- [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De verantwoordelijkheid voor elkaars grenzen en verlangens.*
-- [Mannelijkheid & Vrouwelijkheid: 05 Porno als Inspiratie vs. Leerboek](../over-mannelijkheid-en-vrouwelijkheid/05-porno-als-inspiratie-versus-leerboek.md) — *Theater versus de echte fysiologie van seksualiteit.*
-- [Relatietheorieën: 03 Uit de Seksuele Burnout](../over-relaties/relatietheorieen/03-uit-de-seksuele-burnout-en-sleur.md) — *Het doorbreken van seksuele sleur via bewuste kaders.*
+- [02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) - *Waarom handeling en betekenis twee verschillende dimensies zijn.*
+- [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *Het signaleren van veilige overgave versus bevriezing.*
+- [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *De verantwoordelijkheid voor elkaars grenzen en verlangens.*
+- [Mannelijkheid & Vrouwelijkheid: 05 Porno als inspiratie vs. instructiemateriaal](../over-mannelijkheid-en-vrouwelijkheid/05-porno-als-inspiratie-versus-instructiemateriaal.md) - *Theater versus de echte fysiologie van seksualiteit.*
+- [Relatietheorieën: 03 Uit de Seksuele Burnout](../over-relaties/relatietheorieen/03-uit-de-seksuele-burnout-en-sleur.md) - *Het doorbreken van seksuele sleur via bewuste kaders.*

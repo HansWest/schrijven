@@ -54,7 +54,7 @@ Zo hoeft een luisteraar niet meteen in de oplossingsstand te schieten, en hoeft 
 
 ### Voorafgaande vergeving
 
-In een relatie zullen partners elkaar soms pijn doen, ook zonder die bedoeling. Voorafgaande vergeving — ook wel *voorvergeving* genoemd — begint met erkennen dat niemand perfect is en dat herstel soms nodig zal zijn.
+In een relatie zullen partners elkaar soms pijn doen, ook zonder die bedoeling. Voorafgaande vergeving - ook wel *voorvergeving* genoemd - begint met erkennen dat niemand perfect is en dat herstel soms nodig zal zijn.
 
 Dat is geen vrijbrief om grenzen te overschrijden of verantwoordelijkheid te ontlopen. Het betekent juist dat we fouten bespreekbaar willen maken, willen luisteren naar de impact ervan en bereid zijn verantwoordelijkheid te nemen.
 
@@ -64,7 +64,14 @@ Vragen die daarbij kunnen helpen:
 - Hoe wil ik reageren als mijn partner mij vertelt dat ik pijn heb gedaan?
 - Wat helpt ons om na een botsing weer contact te maken?
 
-*(Zie voor een verdiepende methodiek, werkvormen en protocollen: [Conflicthantering in (Poly)liefdesrelaties](over-conflicten/README.md).)*
+### Drie signalen van emotionele volwassenheid in interactie
+
+In de dagelijkse omgang en bij wrijving toont emotionele gezondheid zich vooral in drie patronen:
+1. **Procesgericht blijven bij meningsverschillen:** Je hoeft een discussie niet eerst te winnen om zorgzaamheid te ontvangen; time-outs dienen om fysiologisch te kalmeren en worden betrouwbaar afgerond zonder minachting of manipulatie.
+2. **Successen van de ander vieren (*freudenfreude*):** Ruimte maken voor elkaars vreugde en trots zonder te concurreren, te vergelijken of de ander te dwingen zijn succes te dimmen.
+3. **Verantwoordelijkheid nemen voor de impact:** Niet defensief vluchten in *"ja maar zo bedoelde ik het niet"*, maar de emotionele pijn van de ander durven aanhoren, excuses aanbieden zonder direct vergeving te eisen, en het eigen gedrag aanpassen.
+
+*(Zie voor de uitgebreide theorie, werkvormen en protocollen: [Conflicthantering in (Poly)liefdesrelaties](over-conflicten/README.md) en [De onderliggende ideeën en theorieën over conflict](over-conflicten/01-onderliggende-ideeen-en-theorieen.md#8-drie-signalen-van-emotionele-gezondheid-in-interactie).)*
 
 ## 3. Monogame overtuigingen opnieuw bekijken
 
@@ -142,7 +149,7 @@ Niet elke rode vlag hoeft groen te worden. Deze oefeningen zijn bedoeld om overt
 
 ## 8. Begeleiding bij Verlating, Relatiebreuk en Rouw
 
-Wanneer een coachee binnenkomt na een acute relatiebreuk of plotselinge verlating — zeker wanneer de breuk gepaard ging met tegenstrijdige signalen van "liefde en dankbaarheid" — staat het zenuwstelsel in een staat van existentiële ontregeling. 
+Wanneer een coachee binnenkomt na een acute relatiebreuk of plotselinge verlating - zeker wanneer de breuk gepaard ging met tegenstrijdige signalen van "liefde en dankbaarheid" - staat het zenuwstelsel in een staat van existentiële ontregeling. 
 
 In de coachingpraktijk hanteren we vijf leidende principes:
 
@@ -179,12 +186,12 @@ Het expliciteren van deze rollen voorkomt relationele overbelasting. Niet elke p
 
 ### B. Het HEARTS-model als Relationeel Diagnostisch Instrument
 Om snel te bepalen waar de verbinding tussen partners stagneert of lekt, gebruikt de coach het **HEARTS-model**:
-- **H — Here (Aanwezigheid):** Zijn partners werkelijk fysiek en mentaal aanwezig in het hier en nu, of zijn ze afwezig achter telefoons en to-do-lijstjes?
-- **E — Express Delight (Vreugde Uiten):** Laten partners elkaar nog merken dat ze blij zijn om elkaar te zien? Is er nog een glimlach, een twinkeling of een compliment?
-- **A — Attunement (Fijnafstemming):** Is er sensitiviteit voor elkaars subtiele lichamelijke signalen en gemoedstoestanden?
-- **R — Rituals (Rituelen):** Zijn er bewuste rituelen van begroeting, afscheid, naar bed gaan of wekelijks contact?
-- **T — Turning Towards (Toewending):** Draaien partners naar elkaar toe bij kleine contactbiedingen (*bids for connection* volgens Gottman), of keren ze zich af?
-- **S — Self (Zelfregulatie):** Neemt iedere partner verantwoordelijkheid voor de eigen emotionele weerkaart en zelfzorg, in plaats van de ander te overladen?
+- **H - Here (Aanwezigheid):** Zijn partners werkelijk fysiek en mentaal aanwezig in het hier en nu, of zijn ze afwezig achter telefoons en to-do-lijstjes?
+- **E - Express Delight (Vreugde Uiten):** Laten partners elkaar nog merken dat ze blij zijn om elkaar te zien? Is er nog een glimlach, een twinkeling of een compliment?
+- **A - Attunement (Fijnafstemming):** Is er sensitiviteit voor elkaars subtiele lichamelijke signalen en gemoedstoestanden?
+- **R - Rituals (Rituelen):** Zijn er bewuste rituelen van begroeting, afscheid, naar bed gaan of wekelijks contact?
+- **T - Turning Towards (Toewending):** Draaien partners naar elkaar toe bij kleine contactbiedingen (*bids for connection* volgens Gottman), of keren ze zich af?
+- **S - Self (Zelfregulatie):** Neemt iedere partner verantwoordelijkheid voor de eigen emotionele weerkaart en zelfzorg, in plaats van de ander te overladen?
 
 *(Zie voor strategische communicatietechnieken bij cliënten: ['Social Chess' & Strategische Communicatie](../over-autisme/sociaal-navigeren/social-chess-en-strategische-communicatie.md).)*
 
