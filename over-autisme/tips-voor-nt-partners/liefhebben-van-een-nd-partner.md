@@ -1,10 +1,10 @@
-# Liefhebben van een Neurodivergente Partner: Gids voor de Neurotypische Partner
+# Liefhebben van een neurodivergente partner: gids voor de neurotypische partner
 
 > *"Je partner houdt niet minder van je omdat hij stil is of apart wil slapen. Zijn zenuwstelsel probeert simpelweg te overleven in een wereld die vijf keer harder binnenkomt."*
 
 ---
 
-## 1. De Gouden Regel: Stop met Zoeken naar Subtekst
+## 1. De gouden regel: stop met zoeken naar subtekst
 
 In neurotypische communicatie draait veel om 'de toon', de context en de dubbele laag. Als een neurotypisch persoon zegt *"het gaat prima"*, betekent het vaak dat het helemáál niet prima gaat.
 
@@ -15,31 +15,31 @@ Bij een neurodivergente partner geldt:
 
 ---
 
-## 2. Praktische Tips voor de Neurotypische Partner
+## 2. Praktische tips voor de neurotypische partner
 
-### Tip 1: Geef Directe Feedback (Stop met Hints en Zuchten)
+### Tip 1: geef directe feedback (stop met hints en zuchten)
 Zuchten, met borden rammelen of veelbetekenend kijken in de hoop dat je partner opmerkt dat de vuilnisbak vol zit, werkt niet. Het levert alleen stress op: jouw partner voelt dat er spanning hangt, maar heeft geen idee wat er van hem verwacht wordt.
 - **Doe dit wel:** Zeg vriendelijk, helder en direct wat je wilt: *"Wil jij vanavond voor 20:00 uur de vuilnisbak buiten zetten alsjeblieft?"*
 - Dit is geen 'betutteling', het is een zegen voor een autistisch brein.
 
-### Tip 2: Tijd Alleen (Monotropisme) is Géén Gebrek aan Liefde
+### Tip 2: tijd alleen (monotropisme) is géén gebrek aan liefde
 Wanneer een autistisch brein bezig is met een speciale interesse (lezen, gamen, coderen, muziek), is het gefocust in een tunnel (*monotropisme*).
 - Als jij die tunnel plotseling onderbreekt met een vraag over de boodschappen, kan je partner geïrriteerd reageren. Dat is geen haat, het is een fysiologische schok van een geforceerde schakeling.
 - Begrijp dat **alleen zijn en opladen** puur biologisch onderhoud is van het zenuwstelsel, vergelijkbaar met slapen of naar de wc gaan. Het heeft niets te maken met afstand nemen van jou.
 
-### Tip 3: Creëer een Decompressie-Zone na Thuiskomst
+### Tip 3: creëer een decompressiezone na thuiskomst
 Als je partner thuiskomt van werk of sociale activiteiten, overlaad hem dan niet direct met:
 - Vragen over hoe de dag was.
 - Verhalen over wat de kinderen hebben gedaan.
 - Keuzes over wat er gegeten moet worden.
 - **De regel:** Geef je partner eerst 30 minuten de tijd om te landen in stilte (zonder verwachtingen), vóórdat de relationele en logistieke interactie start.
 
-### Tip 4: Respecteer Sensorische Afkeer Zonder Gekwetst te Zijn
+### Tip 4: respecteer sensorische afkeer zonder gekwetst te zijn
 Soms kan een knuffel, een bepaalde geur van parfum, of de textuur van een trui fysiek pijnlijk zijn voor je partner (*tactiele defensiviteit*).
 - Als je partner je hand wegduwt, wijst hij niet *jou als persoon* af, maar beschermt hij zijn huid tegen overprikkeling.
 - Vraag in rustige tijden: *"Hoe kan ik jou op een fijne manier fysiek aanraken als je moe bent?"* (Vaak werkt stevige, diepe druk met een platte hand veel beter dan zacht, kriebelend aaien).
 
-### Tip 5: Zie een 'Infodump' als een Liefdesverklaring (Geen Betweterigheid)
+### Tip 5: zie een 'infodump' als een liefdesverklaring (geen betweterigheid)
 Als je partner ineens 40 minuten lang in minutieus detail vertelt over een specifiek onderwerp (een game, een stukje geschiedenis, elektronica of een theorie), ervaar je dat als neurotypische partner misschien als dominant of ongeïnteresseerd in jou.
 - **De werkelijkheid:** Voor iemand met autisme is een infodump een intiem geschenk en dé ultieme vorm van relatiebevestiging. Ze laten jou binnen in hun heiligdom en hopen dat jij die fascinatie deelt.
 - **Hoe ga je ermee om?** Voel de liefde onder de woorden. En als jouw hoofd vol zit, begrens het dan vriendelijk zónder hun passie af te keuren: *"Ik vind het fantastisch om te zien hoeveel plezier je hieraan beleeft, maar mijn hoofd kan nu even geen nieuwe data verwerken. Zullen we even lekker tegen elkaar aan liggen in stilte?"*

@@ -1,10 +1,10 @@
-# Ideeën: Afleveringsthema's, Gasten & Taboes
+# Ideeën: afleveringsthema's, gasten & taboes
 
 Dit document bundelt de specifieke inhoudelijke suggesties en brainstormnotities uit eerdere versies (waaronder bijdragen van o.a. Yvette en Dirk).
 
 ---
 
-## 1. De Psychologie & Het Brein achter Kink (Yvette)
+## 1. De psychologie & het brein achter kink (Yvette)
 - **Het Rustige Hoofd (De Heilzaamheid):** Waarom ervaren mensen met een vol hoofd door BDSM of intense prikkels plotseling rust? (Tijdelijke uitschakeling van de prefrontale cortex / 'transient hypofrontality', aanmaak van endorfine en oxytocine).
 - **Neurodiversiteit & Kink:** Waarom zijn er opvallend veel mensen met ADHD en autisme in de scene?
   - Duidelijkheid in regels en rollen vermindert sociale ambiguïteit.
@@ -14,7 +14,7 @@ Dit document bundelt de specifieke inhoudelijke suggesties en brainstormnotities
 
 ---
 
-## 2. Het Stille Oordeel & Scene-Dynamieken
+## 2. Het stille oordeel & scene-dynamieken
 - **"Het Stille Oordeel":** Kinksters profileren zich graag als ultra-openminded, maar oordelen onderling geregeld afkeurend over voorkeuren die ze zelf niet begrijpen (*"Leuk voor jou, maar..."*).
 - **Breath Play & Risicobeperking:**
   - De neurologische gevaren van zuurstofgebrek, carotide-compressie en de impact op de psyche.
@@ -24,7 +24,7 @@ Dit document bundelt de specifieke inhoudelijke suggesties en brainstormnotities
 
 ---
 
-## 3. Red Flags, Verslaving & Relatiestress
+## 3. Red flags, verslaving & relatiestress
 - **Winter-Kink, Alcohol & Feestdagenstress:**
   - *Seks/kink als pleister op de relationele wond:* Rond december stapelen familieverplichtingen en relationele wrijvingen zich op. BDSM versterkt wat er al onder de oppervlakte ligt; een intense scène gebruiken als emotionele resetknop is spelen met vuur. Stelregel: *"Als er onopgeloste spanning aan de keukentafel heerst, blijft de speelkamer op slot."*
   - *Alcohol en koud weer:* Alcohol verlaagt cognitieve remmingen en verdooft perifere zenuwbanen. Vasodilatatie vergroot het risico op snelle onderkoeling bij ijsspel; bij hete was of impact play raakt de pijnperceptie verstoord waardoor weefselschade te laat wordt opgemerkt. Echte consent vereist een nuchter zenuwstelsel.
@@ -39,7 +39,7 @@ Dit document bundelt de specifieke inhoudelijke suggesties en brainstormnotities
 
 ---
 
-## 4. Podcastvormen & Intergenerationele Invalshoeken
+## 4. Podcastvormen & intergenerationele invalshoeken
 
 Mogelijke vormen voor toekomstige afleveringen of aanvullingen op de kerstserie:
 - **Anonieme brief of voice-note:** laat iemand zelf kiezen of een brief wordt voorgelezen of een stem wordt vervormd; verwijder herkenbare details.

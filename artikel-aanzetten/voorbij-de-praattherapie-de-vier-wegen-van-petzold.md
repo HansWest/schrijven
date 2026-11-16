@@ -1,11 +1,11 @@
-# Voorbij de Praattherapie: Waarom Inzicht Alleen Niet Heelt (De Vier Wegen van Hilarion Petzold)
+# Voorbij de praattherapie: waarom inzicht alleen niet heelt (de vier wegen van Hilarion Petzold)
 
 > **Artikel-aanzet & Essay-concept**  
 > *Waarom praten en analyseren (Weg 1) noodzakelijk maar fundamenteel ontoereikend is voor heling, hoe ontwikkelingsschade en emotionele repressie het lichaam vastzetten, en hoe Petzolds vier wegen van genezing en bevordering de brug slaan naar somatisch en relationeel herstel.*
 
 ---
 
-## 1. Kern of Centrale Vraag
+## 1. Kern of centrale vraag
 
 Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrerend plafond aan: ze begrijpen hun jeugd tot in detail, kunnen hun hechtingsstijl foutloos benoemen en weten exact waar hun triggers vandaan komen. Toch schiet hun lichaam bij de minste dreiging in de kramp, blijft de leegte knagen of bezwijkt de relatie onder steeds dezelfde ruzies.
 
@@ -14,7 +14,7 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 
 ---
 
-## 2. Invalshoek en Doelgroep
+## 2. Invalshoek en doelgroep
 
 - **Doelgroep:**
   - Cliënten die het gevoel hebben "uitgepraat" te zijn in reguliere praattherapie en vastlopen in intellectualisering (de neocorticale valkuil).
@@ -26,13 +26,13 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 
 ---
 
-## 3. Voorlopige Structuur en Deelvragen
+## 3. Voorlopige structuur en deelvragen
 
-### Deel 1: De Illusie van de Praatstoel (De Neocorticale Valkuil)
+### Deel 1: de illusie van de praatstoel (de neocorticale valkuil)
 - Waarom cognitieve geruststelling werkt als een "maagsonde": de neocortex wordt gevuld met analyses, maar de subcorticale hersenstam (het Zelf) blijft hongerig en gealarmeerd.
 - De beperking van louter inzicht: begrijpen *waarom* je bang bent ontspant je spieren niet.
 
-### Deel 2: De Drie Bronnen van Ziekte (Petzold)
+### Deel 2: de drie bronnen van ziekte (Petzold)
 - **Het Model van Ontwikkelingsbeschadigingen:**
   - Overstimulering (trauma: de hippocampus crasht).
   - Onderstimulering (deficiëntie: het Zwarte Gat van emotionele verwaarlozing).
@@ -41,7 +41,7 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 - **Het Model van Meervoudige Belasting:** Gebeurtenisketens (*Ereignisketten*) en de slijtage van chronische stress.
 - **Het Repressiemodel:** Wat er gebeurt als expressieve impulsen worden verboden of stuiten op een emotioneel dove muur (geen relationele resonantie $\rightarrow$ energie slaat naar binnen).
 
-### Deel 3: De Vier Wegen van Genezing en Bevordering
+### Deel 3: de vier wegen van genezing en bevordering
 - **Weg 1: Kognitief-Hermeneutisch (Bewustzijnsarbeid & Zingeving):**  
   Niet louter analyseren, maar het levensverhaal zó leren begrijpen dat zelfverwijt stopt en radicale acceptatie intreedt.
 - **Weg 2: Nachsozialisatorisch (Emotionele Nasocialisatie & Basisvertrouwen):**  
@@ -53,7 +53,7 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 
 ---
 
-## 4. Relevante Bestaande Stukken in de Workspace
+## 4. Relevante bestaande stukken in de workspace
 
 - [Grondslagen van Integratieve Therapie en Coaching](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De volledige theorie en literatuurverwijzingen van Petzold.*
 - [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) - *De 7 manieren van herinneren en de fysiologische route van integratie.*
@@ -63,7 +63,7 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 
 ---
 
-## 5. Feiten, Bronnen en Claims ter Verificatie
+## 5. Feiten, bronnen en claims ter verificatie
 
 - **Petzolds jaartallen en Duitse edities:** Petzolds trilogie *Integrative Therapie* verscheen in 1993 (Band I, II, III bij Junfermann). Band II bevat de gedetailleerde klinische theorie en nosologie.
 - **Plessners concept van de excentrische positie:** Helmuth Plessner (*Die Stufen des Organischen und der Mensch*, 1928/1975) muntte *exzentrische Positionalität* als specifiek kenmerk van de mens. Petzold adopteerde dit in zijn vierde weg.

@@ -1,10 +1,10 @@
-# Boundary Testing & Manipulatiedetectie bij ASS
+# Boundary testing en manipulatiedetectie bij ASS
 
-> *"Omdat wij de wereld letterlijk nemen, geloven we vaak wat mensen zéggen. Maar manipulators communiceren niet in woorden; ze communiceren in het aftasten van grenzen."*
+> *"Wie de wereld letterlijk neemt, gelooft vaak wat mensen zéggen. Maar manipulators communiceren niet in woorden; ze communiceren in het aftasten van grenzen."*
 
 ---
 
-## 1. Waarom Autistische Mensen een Doelwit Kunnen Zijn
+## 1. Waarom autistische mensen een doelwit kunnen zijn
 
 1. **Letterlijke Interpretatie:** Als iemand zegt *"Ik bedoelde het niet zo, ik maakte maar een grapje!"*, gelooft het autistische brein dat vaak letterlijk, terwijl het in werkelijkheid een subtiele grensverlegging was.
 2. **De Geconditioneerde Fawn-Reflex:** Veel mensen met ASS zijn van jongs af aan gecorrigeerd (*"doe niet zo raar"*, *"pas je aan"*). Hierdoor twijfelen ze chronisch aan hun eigen intuïtie: *"Ligt het nou aan mij dat dit onprettig voelt, of doet die ander iets raars?"*
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Wat is Boundary Testing (Grenzen Peilen)?
+## 2. Wat is boundary testing (grenzen peilen)?
 
 Een manipulator begint zelden met een grote overtreding. Ze beginnen met een **micro-test**:
 - *Voorbeeld 1:* Je zegt dat je geen alcohol drinkt. De ander schuift toch een glas toe: *"Ach, eentje kan toch wel? Wees niet zo saai."*
@@ -24,7 +24,7 @@ Een manipulator begint zelden met een grote overtreding. Ze beginnen met een **m
 
 ---
 
-## 3. Het Detectie-Protocol voor Neurodivergenten
+## 3. Het detectieprotocol voor neurodivergenten
 
 | Signaal | Wat de ander zegt / doet | Wat het werkelijk betekent | Jouw Actie |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Een manipulator begint zelden met een grote overtreding. Ze beginnen met een **m
 
 ---
 
-## 4. De IJzeren Regel
+## 4. De ijzeren regel
 
 Als iemand jouw expliciet uitgesproken grens negeert of ter discussie stelt:  
 **Ga niet uitleggen, ga niet overtuigen, ga niet in debat.**  

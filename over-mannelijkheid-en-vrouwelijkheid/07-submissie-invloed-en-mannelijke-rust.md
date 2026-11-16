@@ -46,7 +46,7 @@ In gezonde, gepolariseerde relaties rust deze dynamiek op vijf dragende pijlers:
 
 Deze dynamiek vraagt echter om een man die werkelijk stevig in zijn schoenen staat. Veel mannen trappen tijdens relationele spanningen in twee levensgevaarlijke valkuilen:
 
-### Valkuil A: Sussen en toegeven om de lieve vrede
+### Valkuil A: sussen en toegeven om de lieve vrede
 Wanneer spanning oploopt of de partner overstuur raakt, kiezen veel mannen voor de 'appeasement'-strategie (fawn-reactie). Ze geven direct toe, verlaten hun eigen standpunt en mompelen: *"Sorry schat, je hebt gelijk, laten we er maar over ophouden."*
 
 Zij denken daarmee de rust te herstellen, maar het tegendeel gebeurt:
@@ -55,7 +55,7 @@ Zij denken daarmee de rust te herstellen, maar het tegendeel gebeurt:
 
 > **Het principe:** Bied uitsluitend excuses aan wanneer je daadwerkelijk een fout hebt gemaakt of over een grens bent gegaan. Zeg nooit 'sorry' louter om een conflict te bezweren.
 
-### Valkuil B: De kille robotstem (logica zonder aanwezigheid)
+### Valkuil B: de kille robotstem (logica zonder aanwezigheid)
 De andere mannelijke reflex is om alle emotie uit de stem te trekken en tergend traag, monotoon en 'strikt rationeel' te gaan redeneren. 
 
 De man denkt dat hij 'volwassen en beheerst' blijft, maar voor het zenuwstelsel van de partner klinkt deze vlakke robottoon als ijzige minachting, desinteresse en emotionele verlating. Het activeert haar hechtingspaniek, waardoor zij juist harder gaat schreeuwen en aandringen om contact af te dwingen.

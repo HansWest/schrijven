@@ -43,10 +43,10 @@ Hoewel dit wiel historisch waardevol was om psychologische BDSM serieus te nemen
 3. **Het ontbreken van beloning en trots:**  
    Het oude wiel kende alleen vrome dienstbaarheid of diepe vernedering. De fysiologische rush van erkenning (*praise*), het gevoel van trots na het doorstaan van een beproeving (*"The Good Sub"*), en de speelse, ondeugende kant van onderwerping (*bratty* gedrag) ontbraken volkomen.
 
-### Voorbij 'wiel' naar een Multi-Track Equalizer Model
+### Voorbij 'wiel' naar een multi-track equalizer model
 Een wiel suggereert bovendien dat tegenoverliggende emoties elkaar opheffen (zoals in kleurenleer). In BDSM heffen tegenpolen elkaar echter niet op; ze versterken elkaar. Devotie en vernedering sluiten elkaar niet uit, maar vormen samen een intens sacraal akkoord.
 
-Daarom werken ik liever met het **Multi-Track Equalizer Model**: de innerlijke ervaring van de onderdanige bestaat niet uit een statische taartpunt, maar uit **autonome belevingsassen** die als faders op een mengpaneel gelijktijdig op verschillende volumes kunnen klinken.
+Daarom werk ik liever met het **Multi-Track Equalizer Model**: de innerlijke ervaring van de onderdanige bestaat niet uit een statische taartpunt, maar uit **autonome belevingsassen** die als faders op een mengpaneel gelijktijdig op verschillende volumes kunnen klinken.
 
 ---
 
@@ -69,7 +69,7 @@ De-personificatie is dus het *vehikel*, niet de emotie zelf.
 
 Wanneer ik zoek naar **emotionele waarheid die begrijpelijk en werkbaar is**, kijk ik naar de fysiologische en psychologische honger van het levende lijf. Waar verlangt het zenuwstelsel naar als iemand op de knieën zakt? 
 
-In de praktijk zou je de binnenwereld van sw submissive kunen herleiden tot **zes fundamentele hongers**:
+In de praktijk kun je de binnenwereld van de submissive herleiden tot **zes fundamentele hongers**:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -86,44 +86,44 @@ In de praktijk zou je de binnenwereld van sw submissive kunen herleiden tot **ze
 
 ---
 
-### Fader 1: De honger naar rust (Het hoofd uit / Overgave van het ego)
+### Fader 1: de honger naar rust (het hoofd uit / overgave van het ego)
 * **De psychologische kern:** In het dagelijks leven draagt de volwassene een loodzware verantwoordelijkheid: leidinggeven, knopen doorhakken, het gezin managen, moreel zuiver handelen. Dat put het denkende brein (de executieve neocortex) chronisch uit.
 * **De somatische werkelijkheid:** De diepe zucht van verlichting wanneer iemand anders het stuur overneemt. Het prefrontale werkgeheugen schakelt terug (wel *transiënte hypofrontaliteit* genoemd). Je hoeft *niets* meer te bedenken; je hoeft alleen maar te reageren op de stem en de hand van de ander.
 * **Het spectrum:** Van het vrijwillig neerleggen van de controle (ontspannen overgave) tot aan de diepe fysiologische trance waarin je jouw lichaam niet eens meer kán sturen.
 
 ---
 
-### Fader 2: De honger naar erotische onmacht (Lust & Seksuele Soevereiniteitsoverdracht)
+### Fader 2: de honger naar erotische onmacht (lust en seksuele soevereiniteitsoverdracht)
 * **De psychologische kern:** De overdracht van de meest intieme, autonome reflex die een mens bezit: de eigen seksuele opwinding en het orgasme worden overgedragen aan de Dominant.
 * **De somatische werkelijkheid:** De onderdanige wil niet louter teder bemind worden, maar begeerd, gebruikt en geëxploreerd worden zónder de prestatiedruk om 'goed in bed te zijn'.
 
 Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 
-#### A. Kuisheid & Ontzegging (Chastity & Orgasm Control)
+#### A. Kuisheid en ontzegging (chastity & orgasm control)
 * *Neurobiologie:* Het fysiek blokkeren van autonome masturbatie of erectie/ontlading. Normaal dooft een orgasme de dopaminerge zoekdrift (*satiation*). Door ontlading structureel te weigeren, blijft het **SEEKING-systeem dagen- of wekenlang op maximale spanning staan**. Elke blik of aanraking van de Dom slaat in als een blikseminslag.
 * *Emotionele waarheid:* Een 'kooitje' is een 24/7 tastbaar gewicht dat bij elke beweging herinnert: *"Jouw geslachtsdeel is niet van jou, het is eigendom van de Meester/Meesteres."* Tegelijkertijd biedt het enorme mentale rust: je hoeft je eigen driften niet meer te managen; de sleutel ligt bij de ander.
 
-#### B. Ruined Orgasms (Verpeste orgasmes)
+#### B. Ruined orgasms (verpeste orgasmes)
 * *Neurobiologie:* De motorische bekkenkrampen van het klaarkomen vinden wel plaats, maar de stimulatie wordt abrupt gestaakt of onaangenaam gemaakt. De oxytocine- en endorfine-explosie wordt afgekapt. De biologische 'Done'-code ontbreekt.
 * *Emotionele waarheid:* De ultieme demonstratie van machteloosheid: zelfs je eigen orgasme is geen soeverein bezit meer. Het zenuwstelsel blijft trillend achter in een verwarde staat van erotische frustratie, schaamte en diepe honger naar de ander.
 
-#### C. Seksuele Uitputting & Overstimulatie
+#### C. Seksuele uitputting en overstimulatie
 * *Neurobiologie:* Doordrukken na het orgasme in de hypergevoelige refractaire periode. De sensorische input overspoelt de *window of tolerance*. Het zenuwstelsel kan niet meer kiezen tussen vechten of vluchten en capituleert in onwillekeurige spastische contracties, huilen of lachen.
 * *Emotionele waarheid:* De totale overmeestering van het Ik door het lichaam. Zelfs als je hoofd wil stoppen, reageert je vlees meedogenloos op de prikkel. De onderdanige is gereduceerd tot pure biologie in dienst van de scène.
 
-#### D. Erotische Instrumentalisering
+#### D. Erotische instrumentalisering
 * *Emotionele waarheid:* Het genot om puur als lustobject gebruikt te worden voor het orgasme of de lust van de Dominant, zonder dat er van de onderdanige wederkerige seksuele actie verwacht wordt.
 
 ---
 
-### Fader 3: De honger naar geborgenheid (Being 'Owned' / Hechtingsveiligheid)
+### Fader 3: de honger naar geborgenheid (being 'owned' / hechtingsveiligheid)
 * **De psychologische kern:** De opheffing van existentiële eenzaamheid. De wereld is koud, chaotisch en onverschillig; binnen de relatiecontainer is er een veilige haven.
 * **De somatische werkelijkheid:** Het warme, zware gevoel van een halsband, een hand die stevig in je nek rust, of een lichaam dat jou na afloop strak inpakt in dekens.
 * **De formule:** *"Omdat ik van jou ben, zorgt jouw kracht voor mij. Niemand anders mag mij aanraken (of wel: maar dan volgens afspraak -'want juist wat je bezit kan je uitlenen')."* Het zenuwstelsel ontspant in de ventrale vagus van veilige hechting.
 
 ---
 
-### Fader 4: De honger naar het hier-en-nu (Prikkel, Pijn & Subspace)
+### Fader 4: de honger naar het hier-en-nu (prikkel, pijn en subspace)
 * **De psychologische kern:** Pijn en dreiging zijn de meest efficiënte biologische concentratie-instrumenten van de natuur. Wie pijn lijdt of bang is, *kan* zich simpelweg niet meer bezighouden met deadlines, rekeningen of relatiestress.
 * **De somatische werkelijkheid:** 
   1. *De anticipatie:* Het suizen van het rietje, het geluid van het rubber of het leer; de sympathische adrenaline-piek die het lichaam 'scherp' maakt.
@@ -132,14 +132,14 @@ Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 
 ---
 
-### Fader 5: De honger naar ontmaskering (Schaamte, Taboe & Schaduw)
-* **De psychologische kern:** Ieder mens leert van jongs af aan om bepaalde kanten van zichzelf te verbergen: onhandigheid, perversie, kwetsbaarheid, falen of onderdanigheid. We dragen een sociaal pantser.
+### Fader 5: de honger naar ontmaskering (schaamte, taboe en schaduw)
+* **De psychologische kern:** Ieder mens leert van jongs af aan om bepaalde kanten van zichzelf te verbergen: onhandigheid, perversie, kwetsbaarheid, falen of onderdanigheid. Je draagt een sociaal pantser.
 * **De somatische werkelijkheid:** Het blozen van de wangen, het trillen van de benen wanneer je naakt moet knielen, bekeken wordt of publiekelijk gecorrigeerd wordt.
 * **De catharsis van de bodem:** Binnen een veilige container is vernedering louterend. Omdat de Dominant je klein maakt en je masker afrukt, **is het ergste al gebeurd**. Je hoeft niets meer te veinzen. En het wonder is: op die naakte bodem word je niet verstoten, maar vastgehouden en begeerd.
 
 ---
 
-### Fader 6: De honger naar erkenning en trots (Praise, Beloning & Dienstbaarheid)
+### Fader 6: de honger naar erkenning en trots (praise, beloning en dienstbaarheid)
 * **De psychologische kern:** De fundamentele behoefte om van waarde te zijn voor een bewonderde autoriteit, en bevestigd te worden in je loyaliteit en inzet.
 * **De somatische werkelijkheid:** De gloed die door de borstkas trekt bij de woorden: *"Goed zo, brave meid"* of *"Wat heb je dit dapper doorstaan"*. 
 * **Het herstel van waardigheid:** Waar schaamte en overgave het ego afbreken, bouwt *praise* de waardigheid weer op vanuit een D/s hechtingsbron. De onderdanige voelt zich niet een mislukkeling, maar een beproefde, loyale en gekoesterde bondgenoot ('slavinnentrots').
@@ -174,7 +174,7 @@ Het onderschatten van de diepte van deze faders leidt tot ernstige vormen van **
 2. **De kater van de ontmaskering:** Wanneer de scène voorbij is maar de Dominant afstandelijk weggaat, blijft de onderdanige achter in de rauwe schaamte van Fader 5. Het Zelf voelt zich plotseling vies, gebruikt of afgedankt in plaats van gekoesterd.
 3. **Het ontbreken van de 'Done'-code:** Zeker bij praktijken als *ruined orgasms* of kuisheid moet de Dominant emotioneel en verbaal compenseren wat fysiek is onthouden. De ontzegging van genot vereist een overvloed aan hechtingsbevestiging.
 
-### Richtlijnen voor nazorg (Aftercare):
+### Richtlijnen voor nazorg (aftercare):
 * **Expliciete re-humanisering:** Haal de onderdanige direct na afloop uit de rol. Spreek de persoon aan bij de eigen voornaam;
 * **Spiegelen van waarde (Praise):** Benoem expliciet dat de overgave, de seksuele kwetsbaarheid en de getoonde moed diep gewaardeerd worden;
 * **Fysieke bedding:** Warme dekens, suikers, oogcontact en een kalme stem om het zenuwstelsel te laten rusten in de ventrale vagus;

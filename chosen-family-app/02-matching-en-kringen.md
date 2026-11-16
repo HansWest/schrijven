@@ -1,10 +1,10 @@
-# Matching & Kennismakingskringen: Gefaseerd naar Eén-op-Eén Contact
+# Matching en kennismakingskringen: gefaseerd naar één-op-één-contact
 
-> *"Echte verbinding groeit in lagen. We forceren geen directe intimiteit in een privéchatsessie, maar laten mensen elkaar eerst ontmoeten in de beschutting van een groep."*
+> *"Echte verbinding groeit in lagen. De app forceert geen directe intimiteit in een privéchatsessie, maar laat mensen elkaar eerst ontmoeten in de beschutting van een groep."*
 
 ---
 
-## 1. De Gefaseerde Matchingsfilosofie
+## 1. De gefaseerde matchingsfilosofie
 
 Een grote valkuil van gangbare platforms is dat twee onbekenden direct aan elkaar worden gekoppeld in een afgesloten 1-op-1 omgeving. Zonder sociale bedding ontstaan daar sneller misverstanden, grensvervaging, ghosting of intimidatie.
 
@@ -21,11 +21,11 @@ FASE 1: Groepsmatching (Pilot)          FASE 2: Privé 1-op-1 Matching (Pas na B
 
 ---
 
-## 2. Hoe Groepsmatching Werkt
+## 2. Hoe groepsmatching werkt
 
 De app koppelt gebruikers niet aan individuen, maar stelt **kleine kringen (3 tot 5 personen)** samen rond een concrete activiteit.
 
-### Transparante Matchingsfactoren (Geen Zwarte Doos):
+### Transparante matchingsfactoren (geen zwarte doos):
 1. **Gedeelde Interesses:** Een specifieke activiteit (bijv. bordspellen, wandelen of knutselen).
 2. **Sensorische & Sociale Voorkeuren:** Prikkelarm (gedempt licht, weinig achtergrondgeluid) versus dynamisch.
 3. **Grove Regio & Beschikbaarheid:** Zelfde stad of wijk, passende dagdelen.
@@ -36,7 +36,7 @@ De app koppelt gebruikers niet aan individuen, maar stelt **kleine kringen (3 to
 
 ---
 
-## 3. De Kennismakingskring (Onboarding Circle)
+## 3. De kennismakingskring (onboarding circle)
 
 Elke nieuwe gebruiker start in een **kennismakingskring**:
 - **Duur:** Maximaal 60 tot 75 minuten.
@@ -49,25 +49,25 @@ Elke nieuwe gebruiker start in een **kennismakingskring**:
 
 ---
 
-## 4. Criteria voor het Vrijgeven van Privé Één-op-Éénmatching
+## 4. Criteria voor het vrijgeven van privé één-op-één-matching
 
 Privé 1-op-1 matching wordt pas geactiveerd wanneer aan **vier harde veiligheidsvoorwaarden** is voldaan:
 
-### Voorwaarde 1: Aantoonbare Moderatiekracht
+### Voorwaarde 1: aantoonbare moderatiekracht
 Het moderatieteam moet tijdens de groepsfase hebben bewezen dat:
 - 100% van de veiligheidsmeldingen binnen 4 uur inhoudelijk wordt beoordeeld.
 - Complexe situaties binnen 24 uur leiden tot een gedocumenteerde beslissing met hoor en wederhoor.
 
-### Voorwaarde 2: Hoge Respons & Veiligheidsscores bij Check-ins
+### Voorwaarde 2: hoge respons en veiligheidsscores bij check-ins
 - Minstens 80% van de deelnemers vult de evaluatiecheck-in in na groepsactiviteiten.
 - Minimaal 90% van de deelnemers geeft aan zich volledig vrij te voelen om grenzen aan te geven.
 
-### Voorwaarde 3: De Dubbele Wederzijdse Opt-in
+### Voorwaarde 3: de dubbele wederzijdse opt-in
 Een gebruiker kan nooit 'koud' een privébericht sturen naar een ander:
 - Beide deelnemers moeten **afzonderlijk van elkaar** in de app aangeven: *"Ik wil graag privé contact opbouwen met [Naam]."*
 - Als slechts één van beiden dit aanvinkt, merkt de ander daar niets van (geen afwijzingssignaal, geen druk).
 
-### Voorwaarde 4: Frictieloze Blokkeer- en Pauzeerknop
+### Voorwaarde 4: frictieloze blokkeer- en pauzeerknop
 De app moet een bewezen, veilige mechaniek hebben waarmee een gebruiker een 1-op-1 connectie met één druk op de knop kan beëindigen:
 - Het contact verdwijnt direct voor beide partijen.
 - Er is geen verplichting tot uitleg.

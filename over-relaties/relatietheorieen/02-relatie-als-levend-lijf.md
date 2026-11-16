@@ -47,9 +47,9 @@ Spieren hebben ook ontspanning nodig. Wie continu aanspant, raakt moe en trekt v
 - Wie draagt het meeste regelwerk, initiatief of herstelwerk?
 - Welke vaardigheid kunnen we samen oefenen?
 
-### Zenuwstelsel: voelen, merken en bijsturen (Het Zelf)
+### Zenuwstelsel: voelen, merken en bijsturen (het Zelf)
 
-Het zenuwstelsel zorgt voor sensitiviteit: je merkt de omgeving, voelt obstakels aankomen en stuurt bij voordat je ertegenaan loopt. In de relatie — analoog aan de laag van het **Zelf (archicortex/paleocortex)** in het [Tweelagenmodel](01-het-tweelagenmodel-in-relatiedynamieken.md) — is dat het vermogen om direct somatisch te voelen wat er gebeurt (alarm, verlatingspijn of nieuwsgierig verlangen), los van de verhalen die het hoofd construeert.
+Het zenuwstelsel zorgt voor sensitiviteit: je merkt de omgeving, voelt obstakels aankomen en stuurt bij voordat je ertegenaan loopt. In de relatie - analoog aan de laag van het **Zelf (archicortex/paleocortex)** in het [Tweelagenmodel](01-het-tweelagenmodel-in-relatiedynamieken.md) - is dat het vermogen om direct somatisch te voelen wat er gebeurt (alarm, verlatingspijn of nieuwsgierig verlangen), los van de verhalen die het hoofd construeert.
 
 Signalen zijn informatie, geen bewijs. Een onrustig gevoel in het Zelf zegt iets over fysiologische activering, niet automatisch over wie gelijk heeft.
 
@@ -61,7 +61,7 @@ Signalen zijn informatie, geen bewijs. Een onrustig gevoel in het Zelf zegt iets
 
 ---
 
-## 3. Als structuur de aandacht overneemt (Het Ik verdringt het Zelf)
+## 3. Als structuur de aandacht overneemt (het Ik verdringt het Zelf)
 
 Structuur is nuttig, maar een krampachtige focus op structuur is een belangrijk diagnostisch signaal:
 - **De dynamiek:** Het **Ik (Neocortex)** probeert met regels, roosters en evaluaties de controle te houden, terwijl het **Zelf** affectief op de waakvlam staat of in paniek is.
@@ -131,6 +131,6 @@ Een relatie is geen examen en geen wedstrijd om gelijk. Structuur is waardevol, 
 
 ## Verbanden
 
-- [Het Tweelagenmodel in Relatiedynamieken](01-het-tweelagenmodel-in-relatiedynamieken.md) — *Hoe affect en gedragsstrategie elkaar in een koppel versterken.*
-- [Relatie Coaching & Protocollen](../../integrative-relationship-coaching/relatie-coaching.md) — *Emotioneel efficiënt communiceren en voorvergeving.*
-- [Over Polyamorie: dictaten en notities](../../over-polyamorie/polyamorie-relatie.md) — *Bronnotities waaruit dit artikel is voortgekomen.*
+- [Het Tweelagenmodel in Relatiedynamieken](01-het-tweelagenmodel-in-relatiedynamieken.md) - *Hoe affect en gedragsstrategie elkaar in een koppel versterken.*
+- [Relatie Coaching & Protocollen](../../integrative-relationship-coaching/relatie-coaching.md) - *Emotioneel efficiënt communiceren en voorvergeving.*
+- [Over Polyamorie: dictaten en notities](../../over-polyamorie/polyamorie-relatie.md) - *Bronnotities waaruit dit artikel is voortgekomen.*

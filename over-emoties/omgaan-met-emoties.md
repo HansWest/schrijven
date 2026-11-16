@@ -84,6 +84,6 @@ Verhalen, muziek en kunst kunnen woorden of beelden aanreiken voor gevoelens die
 Je kunt een ander vertellen wat je nodig hebt, bijvoorbeeld: *"Ik wil dit eerst even voelen; wil je luisteren zonder meteen een oplossing te geven?"* Of juist: *"Ik wil graag praktisch meedenken over een volgende stap."* Mensen kunnen niet altijd raden welke steun passend is. Een duidelijke vraag maakt troost en samenwerking waarschijnlijker.
 
 Als emoties langdurig overweldigend zijn, je dagelijks leven sterk beperken of je onveilig voelt, bespreek dit dan met je huisarts of een passende hulpverlener.
-Voor een verdere uitwerking van schuldgevoel, verantwoordelijkheid en verwijten in relaties, zie [Schuldgevoel en schuld in relaties](over-schuld.md).
+Voor een verdere uitwerking van schuldgevoel, verantwoordelijkheid en verwijten in relaties, zie [Schuldgevoel en schuld in relaties](over-schuld/README.md).
 
 Voor een uitwerking van aangeleerde reacties, conditionering en bekrachtiging, zie [Emoties, leren en gedrag](emoties-leren-en-gedrag.md).

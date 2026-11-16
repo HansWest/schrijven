@@ -1,11 +1,11 @@
-# Het Gateau-Model: Vier Relatielagen in Kink & BDSM
+# Het Gateau-model: vier relatielagen in kink en BDSM
 
-> **Algemene BDSM-Theorie — Deel 1**  
+> **Algemene BDSM-theorie - deel 1**  
 > *Het canonieke vier-lagenmodel voor relatie-intenties en machtsdynamiek, afkomstig uit de KinkAwareCoach architectuur.*
 
 ---
 
-## 1. Introductie: Waarom een Lagenmodel Noodzakelijk is
+## 1. Introductie: waarom een lagenmodel noodzakelijk is
 
 Een van de grootste bronnen van relationele verwarring, grensoverschrijding en teleurstelling in BDSM ontstaat wanneer verschillende relatieniveaus door elkaar worden gehaald. 
 - *Voorbeeld:* Een Dominant denkt dat D/s-autoriteit in de slaapkamer betekent dat hij ook mag beslissen waar de partner gaat wonen of hoe haar financiën worden beheerd.
@@ -26,9 +26,9 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
 
 ---
 
-## 2. De Vier Lagen van het Gateau-Model
+## 2. De vier lagen van het Gateau-model
 
-### 🍰 Laag 1: CAKE — Het Levensfundament
+### 🍰 Laag 1: CAKE - het levensfundament
 * **Definitie:** De fundamentele verbintenis tot gelijke mensenrechten, gelijke zeggenschap in levensbeslissingen en helderheid over de gezamenlijke toekomst.
 * **Tijdshorizon:** Jaren tot levenslang.
 * **Kernvragen:**
@@ -42,7 +42,7 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
 
 ---
 
-### 📖 Laag 2: TRAJECTORY — Gedeeld Verhaal & Levensrichting
+### 📖 Laag 2: TRAJECTORY - gedeeld verhaal en levensrichting
 * **Definitie:** De gedeelde visie op waar de relatie heen groeit en wat je samen aan het creëren bent.
 * **Tijdshorizon:** Maanden tot jaren; de evolutie van het partnerschap.
 * **Kernvragen:**
@@ -52,7 +52,7 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
 
 ---
 
-### 🔞 Laag 3: TOPPING — Relatiedynamiek & Erotische Vorm
+### 🔞 Laag 3: TOPPING - relatiedynamiek en erotische vorm
 * **Definitie:** Hoe partners erotisch en relationeel met elkaar willen omgaan; de dynamiek die de erotische vonk aanwakkert.
 * **Tijdshorizon:** Weken tot jaren.
 * **Kernvragen:**
@@ -63,7 +63,7 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
 
 ---
 
-### ⭐ Laag 4: HERE-AND-NOW — Het Moment & De Sessie
+### ⭐ Laag 4: HERE-AND-NOW - het moment en de sessie
 * **Definitie:** Wat beide partners *hier en nu, vanavond* nodig hebben, willen en kunnen dragen.
 * **Tijdshorizon:** Uren tot een dagdeel.
 * **Kernvragen:**
@@ -76,7 +76,7 @@ Het **Gateau-model** (de taart) ontwart deze verwarring door vier heldere niveau
 
 ---
 
-## 3. Toepassing in Relatiecoaching & Kink
+## 3. Toepassing in relatiecoaching en kink
 
 Wanneer er frictie ontstaat in een relatie met BDSM-elementen, brengt de coach het conflict terug naar de juiste laag:
 1. Is dit een **Here-and-Now** probleem? (Moeheid, slechte dagvorm, gemiste check-in).

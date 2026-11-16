@@ -30,13 +30,13 @@ flowchart TD
 
 ## 2. De drie signalen ontleed
 
-### Signaal 1: Love bombing (Emotionele schuld creëren)
+### Signaal 1: love bombing (emotionele schuld creëren)
 Iemand overlaadt je direct met intense lofprijzingen, complimenten en buitensporige bewondering. Binnen enkele uren of dagen hoor je dat je *"nog nooit iemand zoals jij bent tegengekomen"*, dat jullie *"soulmates"* zijn, of dat de ander *"nu al niet meer zonder je kan"*.
 
 * **Het psychologische mechanisme:**  
   Dit is geen echte liefde; de ander kent immers nog maar een fractie van jou. Het is een psychologische haak om een **gevoel van emotionele schuld** te vestigen. Wie zoveel lof ontvangt, voelt onbewust de dwingende sociale verplichting om iets terug te geven: begrip, tijd, fysieke intimiteit en loyaliteit. Je wordt afhankelijk gemaakt van zijn of haar goedkeuring.
 
-### Signaal 2: Kameleon-spiegelen (Mirror matching)
+### Signaal 2: kameleon-spiegelen (mirror matching)
 De ander blijkt op magische wijze exact dezelfde interesses, favoriete bands, levenswaarden, jeugdtrauma's en toekomstvisies te hebben als jij. Wat jij noemt, vindt de ander *"toevallig ook geweldig"*.
 
 * **Het psychologische mechanisme:**  
@@ -44,7 +44,7 @@ De ander blijkt op magische wijze exact dezelfde interesses, favoriete bands, le
 * **Het alarmsignaal:**  
   Let op de eigen substantie van de ander. Heeft deze persoon ook eigenzinnige meningen die schuren met de jouwe? Durft iemand te zeggen: *"Nou, daar heb ik helemaal niets mee"*? Wie geen enkele wrijving toont en als een kameleon jouw contouren aanneemt, heeft vaak geen stabiele eigen kernidentiteit.
 
-### Signaal 3: Valse intimiteit fabriceren (Het overslaan van de hechtingsbuffer)
+### Signaal 3: valse intimiteit fabriceren (het overslaan van de hechtingsbuffer)
 De ander slaat oppervlakkige koetjes en kalfjes demonstratief over (*"Ik hou niet van die oppervlakkige gesprekken, laten we het échte leven induiken"*) en vraagt op de eerste date direct naar je diepste angsten, je grootste relationele wonden of je seksuele trauma's. Of de ander doet zelf direct een reeks zware, emotioneel beladen ontboezemingen.
 
 * **Het psychologische mechanisme:**  

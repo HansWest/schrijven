@@ -7,15 +7,15 @@
 
 ## 1. Tirannie versus totale overheersing
 
-In haar monumentale studie *The Origins of Totalitarianism* (1951) maakte politiek filosoof **Hannah Arendt** (1906–1975) een fundamenteel onderscheid dat niet alleen de politieke geschiedenis verheldert, maar ook een vlijmscherpe klinische bril biedt voor het begrijpen van destructieve intieme relaties.
+In haar monumentale studie *The Origins of Totalitarianism* (1951) maakte politiek filosoof **Hannah Arendt** (1906-1975) een fundamenteel onderscheid dat niet alleen de politieke geschiedenis verheldert, maar ook een vlijmscherpe klinische bril biedt voor het begrijpen van destructieve intieme relaties.
 
 Zij onderscheidde twee vormen van heerschappij:
 
-### A. Gewone tirannie (Klassieke autoriteit)
+### A. Gewone tirannie (klassieke autoriteit)
 Een traditionele tiran of dictator wil de politieke macht behouden. Hij stelt wetten op, verbiedt openlijk verzet en straft wie de regels overtreedt. 
 Maar een gewone tiran neemt genoegen met **uiterlijke gehoorzaamheid**. Wat jij binnenskamers denkt, wat je aan de keukentafel met je geliefde bespreekt en hoe jij de wereld interpreteert, laat hij met rust zolang je niet in opstand komt. Je innerlijke leefwereld blijft van jou.
 
-### B. Totale overheersing (Totalitarisme)
+### B. Totale overheersing (totalitarisme)
 Totale overheersing neemt geen genoegen met uiterlijke volgzaamheid. Zij eist **de totale binnenwereld** van het subject op: de gedachten, de gevoelens, de herinneringen en de waarneming van de werkelijkheid. 
 
 Een totalitair systeem tolereert geen private schuilplaats; het wil het individu vanbinnen koloniseren totdat er geen autonoom 'Zelf' meer over is.

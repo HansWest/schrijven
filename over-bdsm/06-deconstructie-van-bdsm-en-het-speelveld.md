@@ -1,11 +1,11 @@
-# Deconstructie van BDSM: Acroniem, Polariteit & Het Speelveld
+# Deconstructie van BDSM: acroniem, polariteit en het speelveld
 
-> **Centrale Source of Truth (SSOT) — Document 06 in de Kennisbank BDSM & Kink-Aware Theorie**  
+> **Centrale Source of Truth (SSOT) - Document 06 in de Kennisbank BDSM & Kink-Aware Theorie**  
 > *Over de anatomie van het acroniem BDSM, de erotische motor van polariteit, consent als basis voor gelijkwaardigheid, de typologie van de scene en het psychologische 'cadeau' van pijn.*
 
 ---
 
-## 1. Het Acroniem BDSM Gedecodeerd
+## 1. Het acroniem BDSM gedecodeerd
 
 BDSM is geen monolithische seksuele voorkeur, maar een paraplubegrip voor een rijk spectrum aan praktijken, dynamieken en psychologische behoeften. Het acroniem bestaat traditioneel uit drie samengevoegde koppels: **B&D**, **D/s** en **S&M**.
 
@@ -29,7 +29,7 @@ BDSM is geen monolithische seksuele voorkeur, maar een paraplubegrip voor een ri
 └──────────────┴────────────────────────┴─────────────────────────────────────────┘
 ```
 
-### De Vier Basiscomponenten
+### De vier basiscomponenten
 1. **Bondage (B):**  
    Het fysiek fixeren van het lichaam (met touw, leer, handboeien of tapes) of het dragen van betekenisvolle accessoires zoals halsbanden, polsbanden en blinddoeken. Het kan puur esthetisch zijn, functioneel (om iemand op zijn plek te houden), of somatisch (het diepe gevoel van 'gehouden worden' en overgave).  
    - **Single Column Tie:** Een bondageknoop om één afzonderlijk ledemaat (alleen 1 pols of 1 enkel), bijvoorbeeld als basismanchet om een ledemaat afzonderlijk te fixeren aan een ankerpunt of meubel.
@@ -44,24 +44,24 @@ BDSM is geen monolithische seksuele voorkeur, maar een paraplubegrip voor een ri
 
 ---
 
-## 2. Dubbele Betekenissen en Variaties in Beleving
+## 2. Dubbele betekenissen en variaties in beleving
 
 De subjectieve beleving van de letters varieert sterk per individu en per relatie:
 
-### A. De dubbele lading van de 'S': Seksueel versus Spiritueel
+### A. De dubbele lading van de 'S': seksueel versus spiritueel
 - **Seksueel:** Voor velen is de intensiteit van BDSM direct verbonden met seksuele opwinding, genitaliën en orgasme.
-- **Spiritueel / Meditatief:** Voor anderen — met name bij langdurig impact-play, zwaar touwwerk (shibari) of schorsingen — overstijgt het spel het seksuele domein volledig. Het zenuwstelsel komt in een diepe trance door de aanmaak van endorfines (*subspace*), vergelijkbaar met sjamanistische beproevingen, meditatie of rituele overgangsrituelen.
+- **Spiritueel / Meditatief:** Voor anderen - met name bij langdurig impact-play, zwaar touwwerk (shibari) of schorsingen - overstijgt het spel het seksuele domein volledig. Het zenuwstelsel komt in een diepe trance door de aanmaak van endorfines (*subspace*), vergelijkbaar met sjamanistische beproevingen, meditatie of rituele overgangsrituelen.
 
-### B. De dubbele lading van de 'B': Bondage versus de 'Band'
+### B. De dubbele lading van de 'B': bondage versus de 'band'
 - De letter 'B' staat niet alleen voor touw of boeien, maar symboliseert ook de **relationele band** tussen partners:
   - Van een puur incidentele, technische speelband (twee mensen die samen één avond touwtechnieken of impact verkennen)
   - Tot een 24/7 D/s-relatie met een diep gedeeld fundament (gezamenlijk huishouden, kinderen, financiën, zie het [Gateau-model](01-het-gateau-model-relatielagen.md)).
 
 ---
 
-## 3. Consent, Gelijkwaardigheid en Polariteit
+## 3. Consent, gelijkwaardigheid en polariteit
 
-### Gelijkwaardigheid op Basis van Vrijwillige Asymmetrie
+### Gelijkwaardigheid op basis van vrijwillige asymmetrie
 Aan de oppervlakte lijkt BDSM de ultieme ongelijkheid: de één commandeert, de ander gehoorzaamt; de één deelt slagen uit, de ander ontvangt. 
 
 De fundamentele waarheid van BDSM is echter:
@@ -92,14 +92,14 @@ Consent (instemming) is het fundament dat deze asymmetrie mogelijk én veilig ma
                   └─────────────────────────────────────────────┘
 ```
 
-### Polariteit als Erotische Motor
+### Polariteit als erotische motor
 Passie en erotische aantrekkingskracht ontstaan zelden in een neutrale, lauwe middenzone. **Ieder BDSM-spel speelt bewust met rollen om de polariteit tussen twee mensen te maximaliseren.**
 
-Door de contrasten uit te vergroten — stevigheid versus zachtheid, bevelen versus overgave, leiden versus volgen — ontstaat een krachtig spanningsveld. BDSM is het gecontroleerde instrumentarium waarmee partners die polariteit doelbewust kunnen opvoeren, afstemmen en ervaren.
+Door de contrasten uit te vergroten - stevigheid versus zachtheid, bevelen versus overgave, leiden versus volgen - ontstaat een krachtig spanningsveld. BDSM is het gecontroleerde instrumentarium waarmee partners die polariteit doelbewust kunnen opvoeren, afstemmen en ervaren.
 
 ---
 
-## 4. De Typologie van de Scene: Geen Hiërarchie van 'Echtheid'
+## 4. De typologie van de scene: geen hiërarchie van 'echtheid'
 
 Binnen de gemeenschap worden voorkeuren op verschillende manieren en plekken beleefd. Het is essentieel om te begrijpen dat er **geen kwalitatieve hiërarchie** bestaat in wat "echte" BDSM is:
 
@@ -118,18 +118,18 @@ Binnen de gemeenschap worden voorkeuren op verschillende manieren en plekken bel
 
 ---
 
-## 5. Het Psychologische 'Cadeau' van Pijn
+## 5. Het psychologische 'cadeau' van pijn
 
 Pijn in BDSM is geen doelloze marteling of zelfkastijding; het is een intens signaal naar het zenuwstelsel. De waarde van pijn wordt bepaald door de houding van de ontvanger:
 
-### Bewust Ontvangen versus Mentaal 'Uitchecken'
-> **Het Geschenk:** Wanneer een submissieve partner bewust besluit om de fysieke impact binnen te laten komen — door te blijven ademen, de sensatie in het lichaam te voelen en oogcontact te houden — is dat het **grootste geschenk aan de Dominant**.
+### Bewust ontvangen versus mentaal 'uitchecken'
+> **Het Geschenk:** Wanneer een submissieve partner bewust besluit om de fysieke impact binnen te laten komen - door te blijven ademen, de sensatie in het lichaam te voelen en oogcontact te houden - is dat het **grootste geschenk aan de Dominant**.
 
 - **De actieve overgave:** De sub verzet zich niet krampachtig en zoekt geen verdoving, maar vertrouwt de Dominant zó diep dat de pijn mag transformeren in verbinding.
 - **Het gevaar van dissociatie:** Wanneer een sub mentaal 'uitcheckt', afhaakt of zichzelf gevoelloos maakt (vaak een automatische overlevingsrespons uit onverwerkt trauma), verbreekt het contact. Er is dan geen sprake meer van gedeelde intimiteit, maar van eenzame verdoving. Een wakkere Dominant herkent dit en stopt direct.
 
-### Twee Vormen van Masochisme
-Binnen de belevingswereld van de masochist onderscheiden we twee fundamentele motivaties:
+### Twee vormen van masochisme
+Binnen de belevingswereld van de masochist onderscheid ik twee fundamentele motivaties:
 1. **Primaire Masochistische Lust:**  
    Het zenuwstelsel ervaart pijn direct als sensuele prikkeling. De fysiologische schok triggert een massale endorfine- en dopaminestoot die puur fysiek als genot en extase wordt beleefd.
 2. **Masochisme vanuit Overgave en Dienstbaarheid:**  
@@ -137,10 +137,10 @@ Binnen de belevingswereld van de masochist onderscheiden we twee fundamentele mo
 
 ---
 
-## 6. Verbindingen binnen de Kennisbank
+## 6. Verbindingen binnen de kennisbank
 
-- [**01: Het Gateau-Model**](01-het-gateau-model-relatielagen.md) — Hoe de 'Band' (Cake) en de rollen van D/s (Topping) zich tot elkaar verhouden.
-- [**02: Techniek versus Betekenis**](02-techniek-versus-betekenis.md) — Waarom dezelfde impact (slag) voor de één primair genot is en voor de ander toewijding/overgave.
-- [**03: Neurochemie, Drop & Aftercare**](03-neurochemie-drop-en-aftercare.md) — De biochemie van de endorfineroes en de verplichte landing na pijnspel.
-- [**04: Dominantie Hoeft Niets te Bewijzen**](04-dominantie-hoeft-niets-te-bewijzen.md) — Waarom de Dominant geen pijn hoeft op te dringen om autoriteit te ervaren.
-- [**05: De Zes Kernfantasieën**](05-de-zes-kernfantasieen.md) — Hoe fantasieën over machtsuitwisseling en CNC aansluiten op deze fundamenten.
+- [**01: Het Gateau-Model**](01-het-gateau-model-relatielagen.md) - Hoe de 'Band' (Cake) en de rollen van D/s (Topping) zich tot elkaar verhouden.
+- [**02: Techniek versus Betekenis**](02-techniek-versus-betekenis.md) - Waarom dezelfde impact (slag) voor de één primair genot is en voor de ander toewijding/overgave.
+- [**03: Neurochemie, Drop & Aftercare**](03-neurochemie-drop-en-aftercare.md) - De biochemie van de endorfineroes en de verplichte landing na pijnspel.
+- [**04: Dominantie Hoeft Niets te Bewijzen**](04-dominantie-hoeft-niets-te-bewijzen.md) - Waarom de Dominant geen pijn hoeft op te dringen om autoriteit te ervaren.
+- [**05: De Zes Kernfantasieën**](05-de-zes-kernfantasieen.md) - Hoe fantasieën over machtsuitwisseling en CNC aansluiten op deze fundamenten.

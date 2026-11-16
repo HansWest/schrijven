@@ -1,10 +1,10 @@
-# Ontmaskeren Buiten de Bloedband: Waarom Chosen Family Noodzaak is
+# Ontmaskeren buiten de bloedband: waarom chosen family noodzaak is
 
 > *"Echte familie is niet de plek waar je geboren bent, maar de plek waar je zenuwstelsel mag stoppen met overleven."*
 
 ---
 
-## 1. De Oorsprong: Maskeren aan de Keukentafel
+## 1. De oorsprong: maskeren aan de keukentafel
 
 Veel volwassenen met autisme of neurodiversiteit groeiden op in gezinnen waarin hun natuurlijke bedrading als problematisch werd ervaren:
 - *"Kijk me aan als ik tegen je praat!"*
@@ -12,21 +12,21 @@ Veel volwassenen met autisme of neurodiversiteit groeiden op in gezinnen waarin 
 - *"Je bent ook altijd zo overgevoelig, stel je niet aan."*
 - *"Waarom kun je nou niet gewoon gezellig meedoen zoals je broer of zus?"*
 
-Om niet emotioneel verstoten te worden of continu kritiek te oogsten, leerde het kind aan de keukentafel al een masker op te zetten. Het gezin van herkomst — de plek die biologisch gezien de veilige haven had moeten zijn — werd zo de primaire plek van chronische overprikkeling en camouflage.
+Om niet emotioneel verstoten te worden of continu kritiek te oogsten, leerde het kind aan de keukentafel al een masker op te zetten. Het gezin van herkomst - de plek die biologisch gezien de veilige haven had moeten zijn - werd zo de primaire plek van chronische overprikkeling en camouflage.
 
 ---
 
-## 2. De Dubbele Eenzaamheid van de Bloedband
+## 2. De dubbele eenzaamheid van de bloedband
 
 Dit leidt tot een diepe existentiële eenzaamheid:
 1. **Fysiek ben je er wel, emotioneel ben je onzichtbaar:** Je familie kent het personage dat je speelt, maar heeft geen flauw benul van wat er zich werkelijk in jouw hoofd en lichaam afspeelt.
-2. **De 'Genezingsfantasie' van Kerst en Verjaardagen:** Zoals beschreven in onze traumanotities ([over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md](file:///Users/mbp13/Programmeren/schrijven/over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)), blijf je vaak hopen dat familieleden dit jaar wél zien hoeveel pijn het gekletter van het servies of de sociale drukte doet. Maar een kikker heeft geen donsveren; familieleden zonder neurodivergent inzicht blijven jouw stilte interpreteren als 'chagrijnig' of 'ongezellig'.
+2. **De 'genezingsfantasie' van Kerst en verjaardagen:** Zoals beschreven in de traumanotities ([over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md](file:///Users/mbp13/Programmeren/schrijven/over-trauma/hoe-stop-je-met-bedelen-bij-kikkers.md)), blijf je vaak hopen dat familieleden dit jaar wél zien hoeveel pijn het gekletter van het servies of de sociale drukte doet. Maar een kikker heeft geen donsveren; familieleden zonder neurodivergent inzicht blijven jouw stilte interpreteren als 'chagrijnig' of 'ongezellig'.
 
 ---
 
-## 3. Wat is Chosen Family voor Mensen met ASS?
+## 3. Wat is chosen family voor mensen met ASS?
 
-**Chosen Family (Gekozen Familie)** is geen leuk hip extraatje; het is voor neurodivergenten een fundamentele psychologische overlevingsvoorwaarde.
+**Chosen Family (gekozen familie)** is geen leuk hip extraatje; het is voor neurodivergenten een fundamentele psychologische overlevingsvoorwaarde.
 
 In een echte gekozen familie gelden totaal andere spelregels:
 - **Parallel Aanwezig Zijn (Parallel Play):** Je hoeft niet continu tegen elkaar te praten. Je kunt in dezelfde kamer zitten, de één leest een boek, de ander zit met een koptelefoon te programmeren of te knutselen. De nabijheid is voelbaar zonder sociale ruis.
@@ -36,7 +36,7 @@ In een echte gekozen familie gelden totaal andere spelregels:
 
 ---
 
-## 4. Hoe Bouw Je Je Eigen Kring Op?
+## 4. Hoe bouw je je eigen kring op?
 
 1. **Stop met wachten tot je biologische familie verandert:** Geef de genezingsfantasie op. Accepteer familie voor wat het praktisch is (oppervlakkig, vriendelijk begrensd) en verplaats je honger naar diepte naar mensen die jouw golflengte delen.
 2. **Zoek op gemeenschappelijke interesses (Info-Dumping & Special Interests):** Gekozen familie ontstaat bij ASS zelden via borrelpraat. Het ontstaat rondom passies: samen bordspellen spelen, samen naar een shibari dojo, samen gamen, programmeren of tuinieren.

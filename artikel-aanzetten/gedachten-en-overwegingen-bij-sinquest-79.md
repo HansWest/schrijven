@@ -17,13 +17,13 @@ En van zo'n 'verdubbelaar' in de emotie wordt de emotieregulatie natuurlijk alle
 
 ---
 
-## 2. Waarom schaamte ons onderscheidt van Narcisme
+## 2. Waarom schaamte onderscheidt van narcisme
 
-Wat mij betreft mogen we schaamte weer wat meer leren omarmen. Schaamte is immers ook een emotie die ons wezenlijk onderscheidt van mensen met een narcistische stoornis.
+Wat mij betreft mag je schaamte weer wat meer leren omarmen. Schaamte is immers ook een emotie die een mens wezenlijk onderscheidt van mensen met een narcistische stoornis.
 
 Bij pathologisch narcisme ontbreekt namelijk dat hele vermogen om gezonde, regulerende schaamte te verdragen. Zodra een narcist geconfronteerd wordt met eigen feilbaarheid of met de impact van hun gedrag op een ander, kan het wankele zelfbeeld dat gevoel van schaamte helemaal niet verwerken. De emotie wordt ogenblikkelijk afgesplitst en omgezet in grandioosheid, minachting of narcistische woede: de schuld móét bij de buitenwereld liggen.
 
-Een mens die schaamte kan voelen, bezit daarentegen het zenuwstelsel van een hechtingswezen. Schaamte laat je voelen dat je om de ander geeft, dat je deel uitmaakt van een sociaal weefsel en dat jouw acties betekenis hebben voor de mensen om je heen. Het is de fysiologische rem die voorkomt dat we als empathieloze eikels door andermans leefwereld denderen.
+Een mens die schaamte kan voelen, bezit daarentegen het zenuwstelsel van een hechtingswezen. Schaamte laat je voelen dat je om de ander geeft, dat je deel uitmaakt van een sociaal weefsel en dat jouw acties betekenis hebben voor de mensen om je heen. Het is de fysiologische rem die voorkomt dat je als empathieloze eikel door andermans leefwereld dendert.
 
 ---
 
@@ -101,7 +101,7 @@ Als ik merk dat ik me voortdurend schaam binnen een bepaalde kring, vertelt die 
 
 ---
 
-## 8. Van scheldwoord naar Geuzennaam
+## 8. Van scheldwoord naar geuzennaam
 
 Als je trouw blijft aan je eigen tempo en verlangens, loop je onvermijdelijk aan tegen de oordelen van de conformistische massa. 
 
@@ -111,7 +111,7 @@ Een Geuzennaam is een scheldwoord dat door de belaagde groep trots wordt toegeë
 
 ---
 
-## 9. Schaamte versus Trots (Pride)
+## 9. Schaamte versus trots (pride)
 
 Tegenover schaamte - het beklemmende gevoel uit de groep te vallen - staat volgens mij **trots (Pride)**: een gevoel dat juist ontstaat door dingen te doen die in de groep passen en waarin je gezien wordt.
 
@@ -147,7 +147,7 @@ Voor mij zit echte emotionele volwassenheid niet in het forceren van schaamteloo
 
 ---
 
-## Literatuur & Bronverwijzingen
+## Literatuur en bronverwijzingen
 
 - **SinQuest Podcast #079 (4 november 2026):** *Schaamte & Seks: een fijn gesprek met Lilly en Ineya* (Gesprek met Lilly en Ineya over schaamte, opwinding, vertraging in het daten en de tribe). Beschikbaar via Subspace: https://www.subspace.nl/topic/33721-2026-11-04-sinquest-079-schaamte-seks-een-fijn-gesprek-met-lilly-en-ineya/
 - **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: A theoretical approach to centrally mediated erectile dysfunction*. Neuroscience & Biobehavioral Reviews, 24(5), 571-579.

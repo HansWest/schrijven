@@ -1,10 +1,10 @@
-# Gespreksleidraad: Kink in de Spreekkamer
+# Gespreksleidraad: kink in de spreekkamer
 
 > *Praktische handvatten voor de intake, anamnese en bejegening van kinky cliënten.*
 
 ---
 
-## 1. Do's & Don'ts voor de Behandelaar
+## 1. Do's & don'ts voor de behandelaar
 
 ### DO:
 - **Erken de moed van de cliënt:** *"Dank je wel dat je dit deelt. Ik weet dat er veel schaamte en vooroordelen over dit onderwerp bestaan, maar je kunt hier veilig en open praten."*
@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Handige Vragen bij Vermoeden van Eenzaamheid of Drop
+## 2. Handige vragen bij vermoeden van eenzaamheid of drop
 
 Wanneer een cliënt somber, uitgeput of angstig binnenkomt rond de wintermaanden:
 
@@ -33,7 +33,7 @@ Wanneer een cliënt somber, uitgeput of angstig binnenkomt rond de wintermaanden
 
 ---
 
-## 3. Wanneer Verwijs je Waarnaar Door?
+## 3. Wanneer verwijs je waarnaar door?
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐

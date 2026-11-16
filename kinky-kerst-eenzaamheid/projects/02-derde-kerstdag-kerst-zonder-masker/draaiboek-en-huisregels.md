@@ -1,24 +1,24 @@
-# Draaiboek & Huisregels: Derde Kerstdag "Kerst zonder Masker"
+# Draaiboek & huisregels: Derde Kerstdag "Kerst zonder masker"
 
-## 1. Draaiboek Zondag 27 December 2026
+## 1. Draaiboek zondag 27 december 2026
 
 | Tijdstip | Programmaonderdeel | Toelichting |
 | :--- | :--- | :--- |
-| **13:45 – 14:00** | Inloop & Geluidstest | Rustige achtergrondmuziek (lo-fi/ambient), chat staat open, camera optioneel. |
-| **14:00 – 14:15** | Welkom door de Host | Korte opening: *"Je hoeft niets te bewijzen, je hoeft niets te vertellen. Fijn dat je er bent."* Uitleg van de huisregels en privacy. |
-| **14:15 – 14:30** | Gezamenlijke Aarding | Korte somatische oefening: ademhaling, ontspannen van schouders en kaak, contact maken met het lichaam na de kerstdagen. |
-| **14:30 – 15:15** | Breakout Rooms (Vrije Keuze) | Deelnemers kunnen zelf kiezen naar welke ruimte ze gaan: |
+| **13:45 - 14:00** | Inloop & Geluidstest | Rustige achtergrondmuziek (lo-fi/ambient), chat staat open, camera optioneel. |
+| **14:00 - 14:15** | Welkom door de Host | Korte opening: *"Je hoeft niets te bewijzen, je hoeft niets te vertellen. Fijn dat je er bent."* Uitleg van de huisregels en privacy. |
+| **14:15 - 14:30** | Gezamenlijke Aarding | Korte somatische oefening: ademhaling, ontspannen van schouders en kaak, contact maken met het lichaam na de kerstdagen. |
+| **14:30 - 15:15** | Breakout Rooms (Vrije Keuze) | Deelnemers kunnen zelf kiezen naar welke ruimte ze gaan: |
 | | **• Kamer 1: Warme Huiskamer** | Informele kletskamer met koffie/thee: hoe waren jouw dagen? |
 | | **• Kamer 2: Creatief & Schrijven** | Schrijven van een brief aan je toekomstige zelf voor 2027 of een kaartje voor een ander. |
 | | **• Kamer 3: Kink & Grenzen** | Rustig napraten over consent, verlangens en het vinden van gelijkgestemden. |
 | | **• Kamer 4: De Stille Lounge** | Ruimte voor wie alleen wil meeluisteren/chillen zonder te hoeven praten. |
-| **15:15 – 15:30** | Plenair Terugkomen | Korte terugkoppeling in de hoofdgroep; delen wat fijn was (in chat of stem). |
-| **15:30 – 15:45** | Geleide Meditatie / Afronding | Rustgevende visualisatie: veilig zijn in je eigen lijf, het nieuwe jaar in met zelfcompassie. |
-| **15:45 – 16:30** | Vrijblijvende Nazit & Uitloop | Voor wie nog even wil blijven hangen en napraten. 16:30 uur formele sluiting. |
+| **15:15 - 15:30** | Plenair Terugkomen | Korte terugkoppeling in de hoofdgroep; delen wat fijn was (in chat of stem). |
+| **15:30 - 15:45** | Geleide Meditatie / Afronding | Rustgevende visualisatie: veilig zijn in je eigen lijf, het nieuwe jaar in met zelfcompassie. |
+| **15:45 - 16:30** | Vrijblijvende Nazit & Uitloop | Voor wie nog even wil blijven hangen en napraten. 16:30 uur formele sluiting. |
 
 ---
 
-## 2. Huisregels & Veiligheid
+## 2. Huisregels & veiligheid
 
 1. **Anonimiteit gegarandeerd:** 
    - Iedereen mag een schermnaam gebruiken (bijv. voornaam, scene-naam of pseudoniem).

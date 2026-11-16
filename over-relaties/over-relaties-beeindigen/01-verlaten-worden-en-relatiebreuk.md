@@ -1,19 +1,19 @@
-# Verlaten Worden: Neurobiologie, Rouw en Waardigheid
+# Verlaten worden: neurobiologie, rouw en waardigheid
 
-> **Dossier Relaties Beëindigen — Deel 1**  
+> **Dossier Relaties Beëindigen - Deel 1**  
 > *Wat de wetenschap laat zien over acute relatiebreuken, hechtingsverlies, en hoe je staande blijft tussen verdriet en verontwaardiging.*
 
 ---
 
-## Inleiding: De Schok van het Tegenstrijdige Afscheid
+## Inleiding: de schok van het tegenstrijdige afscheid
 
-Verlaten worden slaat er genadeloos hard in — zeker wanneer woorden van liefde en dankbaarheid botsen met de daadwerkelijke beslissing om weg te gaan. Wanneer een partner zegt: *"Ik hou nog steeds van je, bedankt voor alle mooie momenten"*, maar tegelijkertijd de deur definitief dichttrekt, ontstaat een verwarrende paradox. 
+Verlaten worden slaat er genadeloos hard in - zeker wanneer woorden van liefde en dankbaarheid botsen met de daadwerkelijke beslissing om weg te gaan. Wanneer een partner zegt: *"Ik hou nog steeds van je, bedankt voor alle mooie momenten"*, maar tegelijkertijd de deur definitief dichttrekt, ontstaat een verwarrende paradox. 
 
 Dat contrast maakt het pijnlijk, desoriënterend en eenzaam. Het verstand probeert twee onverenigbare feiten met elkaar te rijmen, terwijl het zenuwstelsel in een staat van alarm schiet. Om hier doorheen te navigeren zonder jezelf te verliezen in zelfverwijt of verbittering, helpt het om te begrijpen wat er neurobiologisch, relationeel en emotioneel plaatsvindt.
 
 ---
 
-## 1. De Neurobiologie van Verlating: Pijn en Ontwenning
+## 1. De neurobiologie van verlating: pijn en ontwenning
 
 Onderzoek (onder meer door neurowetenschapper Helen Fisher en psycholoog David Sbarra) toont aan dat een plotselinge relatiebreuk in het menselijk brein vrijwel identiek reageert als een **chemisch ontwenningsproces** en **fysieke pijn**:
 
@@ -27,36 +27,36 @@ Voor de algemene uitleg over hechtingsreacties en neurobiologie, zie [Neurobiolo
 
 ---
 
-## 2. Dankbaarheid als Afsluiting vs. Jouw Antwoord
+## 2. Dankbaarheid als afsluiting versus jouw antwoord
 
 Wanneer een vertrekkende partner dankbaarheid uitspreekt (*"bedankt voor de mooie tijd"*), is dat in de eerste plaats hún poging om het afscheid zachter te maken en hun eigen schuldgevoel te dempen. Het is echter **hún afsluiting, niet jouw antwoord**. Voor degene die achterblijft, voelt die dankbaarheid vaak als een hol gebaar dat je met lege handen achterlaat.
 
-### De Noodzaak van een Strikte Contactstop
-In de hechtingspsychologie is bekend dat *protestgedrag* — krampachtig zoeken naar contact, analyseren van appjes, onderhandelen over het besluit of 'vrienden proberen te blijven' — de herstelfase aanzienlijk verlengt. Elke snipper contact wakkert opnieuw het dopaminesysteem aan, waarna de onvermijdelijke val volgt.
+### De noodzaak van een strikte contactstop
+In de hechtingspsychologie is bekend dat *protestgedrag* - krampachtig zoeken naar contact, analyseren van appjes, onderhandelen over het besluit of 'vrienden proberen te blijven' - de herstelfase aanzienlijk verlengt. Elke snipper contact wakkert opnieuw het dopaminesysteem aan, waarna de onvermijdelijke val volgt.
 
 - **Gun jezelf rust:** Een duidelijke en strikte contactstop (geen berichten, geen sociale media checken) is geen wraakactie naar de ander, maar een noodzakelijke medische quarantaine voor je eigen overprikkelde zenuwstelsel.
 
 ---
 
-## 3. Waak voor Selectieve Abstractie en Zelfondermijning
+## 3. Waak voor selectieve abstractie en zelfondermijning
 
 Wanneer een breuk zich aandient, en zeker als het voelt alsof dit "weer" gebeurt, ligt een gevaarlijke cognitieve vertekening op de loer: **selectieve abstractie**. Dit is de neiging om uit één pijnlijke gebeurtenis een verstrekkende conclusie te trekken over je hele wezen:
 - *"Ik ben blijkbaar niet meer te beminnen."*
 - *"Iedereen verlaat mij uiteindelijk."*
 - *"Ik ben fundamenteel tekortgeschoten als partner/man."*
 
-Psychologisch gezien is dit een vertekening. Hoewel patronen in partnerkeuze of relatiedynamiek altijd de moeite waard zijn om later te onderzoeken, zegt het vertrek van een partner in de eerste plaats iets over **hún draagkracht, behoeften, angsten en keuzes** — en niets over jouw fundamentele waarde als mens.
+Psychologisch gezien is dit een vertekening. Hoewel patronen in partnerkeuze of relatiedynamiek altijd de moeite waard zijn om later te onderzoeken, zegt het vertrek van een partner in de eerste plaats iets over **hún draagkracht, behoeften, angsten en keuzes** - en niets over jouw fundamentele waarde als mens.
 
-### Twee Tegenstrijdige Waarheden
-Het verstand wil de ander graag in een hokje duwen: óf ze hield van me en had moeten blijven, óf ze heeft de hele tijd gelogen. In de volwassen psychologie moeten we leren dat twee schijnbaar tegenstrijdige dingen tegelijkertijd waar kunnen zijn:
+### Twee tegenstrijdige waarheden
+Het verstand wil de ander graag in een hokje duwen: óf ze hield van me en had moeten blijven, óf ze heeft de hele tijd gelogen. In de volwassen psychologie moet je leren dat twee schijnbaar tegenstrijdige dingen tegelijkertijd waar kunnen zijn:
 1. De ander kan oprecht om je gegeven hebben en van je gehouden hebben.
 2. En tegelijkertijd heeft diegene het autonome besluit genomen dat de relatie voor haar of hem niet langer werkte of haalbaar was.
 
 ---
 
-## 4. Het Duaal Procesmodel van Rouw (Stroebe & Schut)
+## 4. Het duaal procesmodel van rouw (Stroebe & Schut)
 
-Herstel van verlies verloopt niet in een rechte lijn en vraagt niet om "zo snel mogelijk doorgaan" of "jezelf vermannen". Wetenschappelijk rouwonderzoek — in het bijzonder het **duaal procesmodel van rouw** van Margaret Stroebe en Henk Schut — toont aan dat gezond herstel bestaat uit een natuurlijke, ritmische slingerbeweging tussen twee toestanden:
+Herstel van verlies verloopt niet in een rechte lijn en vraagt niet om "zo snel mogelijk doorgaan" of "jezelf vermannen". Wetenschappelijk rouwonderzoek - in het bijzonder het **duaal procesmodel van rouw** van Margaret Stroebe en Henk Schut - toont aan dat gezond herstel bestaat uit een natuurlijke, ritmische slingerbeweging tussen twee toestanden:
 
 ```
 ┌─────────────────────────────────┐         ┌─────────────────────────────────┐
@@ -77,7 +77,7 @@ Voor algemene handvatten bij het opmerken en hanteren van emoties, zie [Omgaan m
 
 ---
 
-## 5. De Wisselwerking: Verdriet vs. Boosheid
+## 5. De wisselwerking: verdriet versus boosheid
 
 Bij verlating lopen verdriet en boosheid vaak dwars door elkaar heen. Beiden hebben een fundamenteel andere fysiologische signatuur en functie:
 
@@ -93,7 +93,7 @@ Bij verlating lopen verdriet en boosheid vaak dwars door elkaar heen. Beiden heb
 
 ---
 
-## 6. Praktische Basisstructuur in de Acute Fase
+## 6. Praktische basisstructuur in de acute fase
 
 Bij acute rouw en relationeel verlies is **sociaal isolement het grootste risico**. Zeker wanneer schaamte de kop opsteekt, neigen mensen ertoe zich op te sluiten en te verdrinken in piekeren. 
 

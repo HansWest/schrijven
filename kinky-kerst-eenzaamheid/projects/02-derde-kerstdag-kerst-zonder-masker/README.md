@@ -1,10 +1,10 @@
-# Project 02: Derde Kerstdag – "Kerst zonder Masker" (27 dec 2026)
+# Project 02: Derde Kerstdag - "Kerst zonder masker" (27 dec 2026)
 
 ## Wat is het?
 Een online, laagdrempelige ontmoetingsmiddag voor kinksters, LHBTIQ+'ers en zoekers die de feestdagen alleen hebben doorgebracht of uitgeput zijn van het ophouden van een sociaal masker.
 
 ## Kerngegevens
-- **Datum & Tijd:** Zondag 27 december 2026, 14:00 – 16:30 uur.
+- **Datum & Tijd:** Zondag 27 december 2026, 14:00 - 16:30 uur.
 - **Locatie:** Online (Zoom of besloten Discord server).
 - **Toegang:** Gratis / Vrijwillige bijdrage (Pay what you can).
 - **Veiligheid:** Camera en microfoon NIET verplicht; pseudoniemen en scene-namen toegestaan; absoluut opnameverbod.

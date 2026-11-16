@@ -138,24 +138,24 @@ Wanneer de dominante natuur en de submissieve hongers op elkaar aansluiten, onts
 
 Hier zie je in de praktijk waarom sommige verzoeken van onderdanigen een Dominant compleet kunnen leegzuigen of blokkeren:
 
-#### Casus A: De 'Vuilnisbak' vs. De Aristocraat (Grote frictie)
+#### Casus A: de 'vuilnisbak' vs. de aristocraat (grote frictie)
 * **Sub wenst:** Extreme verbale degradatie, spugen, benoemd worden als waardeloos vuil (*Ontmaskering / Extreme de-personificatie*).
 * **Dom stijl is:** *Soeverein & Devotioneel* (Aristocraat / Gentleman).
 * **De frictie:** De Dominant ervaart dit niet als opwindend, maar als ordinair, respectloos en moreel bevuilend. De Dom voelt zich vies tijdens en na de sessie (morele kater). De sub voelt de innerlijke aarzeling en raakt teleurgesteld ("je gaat er niet écht voor").
 
-#### Casus B: De Kuisheidsfanaat vs. De Primal Jager (Grote frictie)
+#### Casus B: de kuisheidsfanaat vs. de primal jager (grote frictie)
 * **Sub wenst:** Maandenlange kuisheid, strikte sleuteloverdracht, verplichte erectie-inspecties en geruïneerde orgasmes (*Erotische onmacht*).
 * **Dom stijl is:** *Oer & Jager* (Primal).
 * **De frictie:** De Primal Dom wil direct, rauw, instinctief en fysiek contact in het moment. Het bijhouden van schema's, sleutelprotocollen en langdurige ontzegging voelt voor deze Dom als bureaucratische boekhouding die alle geilheid dooft.
 
-#### Casus C: De Dienstbare Dienaar en de Protocollaire Meester (Perfecte resonantie)
+#### Casus C: de dienstbare dienaar en de protocollaire meester (perfecte resonantie)
 * **Sub wenst:** Thee serveren op de knieën, ogen neergeslagen, strikte kledingvoorschriften en duidelijke taken (*Rust & ontlading via structuur*).
 * **Dom stijl is:** *Disciplinair & Protocol*.
 * **De resonantie:** Beiden ademen dezelfde taal. De Dom geniet van de esthetiek en de rust van de regels; de sub geniet van de helderheid van de kaders en de afwezigheid van keuzestress.
 
 ---
 
-## 5. De Multi-Track Equalizer: hoe stel je een sessie samen?
+## 5. De multi-track equalizer: hoe stel je een sessie samen?
 
 In plaats van een draaischijf werk ik liever met het **Equalizer-model van de Zes Hongers**. Zowel de onderdanige als de dominante partner stellen vooraf (of intuïtief) hun faders in:
 

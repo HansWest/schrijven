@@ -111,7 +111,7 @@ Seksualiteit vraagt om gelijktijdige verwerking van tast, geur, emotie, sociale 
 
 ---
 
-## Literatuur & Verwijzingen
+## Literatuur en verwijzingen
 
 - **Vermeulen, P. (2012).** *Autisme als contextblindheid*. Berchem: EPO.  
   *(Het standaardwerk over contextblindheid en detailgericht waarnemen).*

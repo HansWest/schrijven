@@ -1,10 +1,10 @@
-# Eerste Aanzet: Kink-Aware Zorg in de Praktijk
+# Eerste aanzet: kink-aware zorg in de praktijk
 
 > *Handreiking voor artsen, psychologen en maatschappelijk werkers over BDSM, alternatieve relaties en hechtingsdynamieken.*
 
 ---
 
-## 1. De 6 Grootste Valkuilen in de Spreekkamer
+## 1. De 6 grootste valkuilen in de spreekkamer
 
 Als een cliënt vertelt over bondage, dominantie/onderdanigheid, fetishes of impact play, schiet de hulpverlener soms onbewust in een reflex. Hieronder de 5 meest voorkomende misvattingen:
 
@@ -22,15 +22,15 @@ Als een cliënt vertelt over bondage, dominantie/onderdanigheid, fetishes of imp
 * **De Realiteit:** Er is een sterke overlap tussen neurodivergente mensen (ADHD, autisme, hoogsensitiviteit) en de kinkcommunity. De behoefte aan sensorische prikkels (druk, touwen, pijn als focusprikkel) en de behoefte aan expliciete sociale regels (zonder vage sociale hints) maakt kink bijzonder rustgevend voor een overprikkeld brein.
 
 ### Valkuil 5: "Subdrop aanzien voor een ernstige depressieve decompensatie"
-* **De Realiteit:** Na een intense sessie of ervaring kan 24 tot 72 uur later een biochemische crash optreden (daling van endorfine/dopamine). De cliënt voelt zich leeg, huilerig of angstig. Dit is een fysiek proces dat vraagt om warme aftercare, suikerspiegelregulatie en rust — geen acute psychiatrische opname.
+* **De Realiteit:** Na een intense sessie of ervaring kan 24 tot 72 uur later een biochemische crash optreden (daling van endorfine/dopamine). De cliënt voelt zich leeg, huilerig of angstig. Dit is een fysiek proces dat vraagt om warme aftercare, suikerspiegelregulatie en rust - geen acute psychiatrische opname.
 
-### Valkuil 6: "De Cliënt als Seks-Expert Zien (De Porno-Valkuil)"
+### Valkuil 6: "De cliënt als seks-expert zien (de porno-valkuil)"
 * **De Realiteit:** Cliënten die claimen alles te durven en te willen omdat ze het online zien, zijn in de praktijk vaak het meest onveilig. Porno toont immers: *geen onderhandeling, 'stop' betekent hijgend doorgaan, en geen aftercare*.
-* **Het Inzicht voor de Behandelaar/Coach:** **Jij moet de expert zijn — niet de klant.** Wat men in porno ziet is voor 80% theater. In de echte spreekkamer en slaapkamer werken we met echte lichamen, echt plezier, echte grenzen en echte risico's.
+* **Het Inzicht voor de Behandelaar/Coach:** **Jij moet de expert zijn - niet de klant.** Wat men in porno ziet is voor 80% theater. In de echte spreekkamer en slaapkamer werk je met echte lichamen, echt plezier, echte grenzen en echte risico's.
 
 ---
 
-## 2. Het Onderscheid: Consensuele Kink vs. Geweld & Misbruik
+## 2. Het onderscheid: consensuele kink vs. geweld & misbruik
 
 Hulpverleners worstelen vaak met de vraag: *"Wanneer moet ik me zorgen maken?"* Gebruik onderstaande tabel voor de klinische inschatting:
 
@@ -44,7 +44,7 @@ Hulpverleners worstelen vaak met de vraag: *"Wanneer moet ik me zorgen maken?"* 
 
 ---
 
-## 3. Waarom Kinksters Extra Kwetsbaar zijn voor Eenzaamheid
+## 3. Waarom kinksters extra kwetsbaar zijn voor eenzaamheid
 
 1. **De Dubbele Kast:** Niet open kunnen zijn naar familie en reguliere vrienden over het relationele leven leidt tot chronische chronische alertheid (hoge spierspanning, alert zenuwstelsel).
 2. **Gebrek aan Rolmodellen:** De reguliere media tonen uitsluitend het traditionele kerngezin of toxische karikaturen (zoals *Fifty Shades of Grey*).

@@ -1,4 +1,4 @@
-# Kennisbank: Hechting als Dynamische Reactiepatronen
+# Kennisbank: hechting als dynamische reactiepatronen
 
 > **Centrale Source of Truth (SSOT)** voor theorieën over hechting, het zenuwstelsel en relationele dynamieken.
 
@@ -12,9 +12,9 @@ Hoewel iedereen een primaire hechtingsbasis meekrijgt uit de vroege jeugd, zijn 
 
 ---
 
-## De Nederlandse Hechtingstaxonomie (Standaardterminologie)
+## De Nederlandse hechtingstaxonomie (standaardterminologie)
 
-Om spraakverwarring en willekeurige leenwoorden in de praktijk te voorkomen, hanteren we binnen de gehele kennisbank de **vier gestandaardiseerde volwassen hechtingsstijlen** (gebaseerd op het model van Bartholomew & Horowitz), voorzien van hun internationale afkortingen:
+Om spraakverwarring en willekeurige leenwoorden in de praktijk te voorkomen, hanteer ik binnen de gehele kennisbank de **vier gestandaardiseerde volwassen hechtingsstijlen** (gebaseerd op het model van Bartholomew & Horowitz), voorzien van hun internationale afkortingen:
 
 ```
                           HET 2x2 HECHTINGSMODEL
@@ -31,7 +31,7 @@ HET ZELF NEGATIEF (-) │  ANGSTIG-         │ ANGSTIG-          │
                       └───────────────────┴───────────────────┘
 ```
 
-### Overzicht van de 4 Patronen
+### Overzicht van de vier patronen
 
 | Nederlandse Standaardterm | Engelse Term & Code | Synoniemen in Literatuur | Kernovertuiging van het Zenuwstelsel |
 | :--- | :--- | :--- | :--- |
@@ -45,28 +45,28 @@ HET ZELF NEGATIEF (-) │  ANGSTIG-         │ ANGSTIG-          │
 
 ---
 
-## Documenten in deze Kennisbank
+## Documenten in deze kennisbank
 
-1. [**01: Reactiepatronen, Relationele Specificiteit & Earned Security**](01-reactiepatronen-en-relatietypen.md)  
+1. [**01: Reactiepatronen, relationele specificiteit en earned security**](01-reactiepatronen-en-relatietypen.md)  
    *Waarom 'hechtingsstijlen' eigenlijk overlevingspatronen zijn, de officiële Nederlandse taxonomie (2x2 model), de tussenruimte en hoe het zenuwstelsel herbedraadt.*
 
-2. [**02: Neurobiologie, Hersenstam & De 7 F's**](02-neurobiologie-en-zenuwstelsel.md)  
+2. [**02: Neurobiologie, hersenstam en de zeven F's**](02-neurobiologie-en-zenuwstelsel.md)  
    *De polyvagaal theorie, neuroceptie (gevaardetectie), zeven beschrijvende F-reacties in relaties, ademobservaties, relatiebreuken en somatische co-regulatie.*
 
-3. [**03: Het Tweelagenmodel van Hechting: Affectieve Kaart, Strategie & Koppelingsregels**](03-tweelagenmodel-affect-en-strategie.md)  
+3. [**03: Het tweelagenmodel van hechting: affectieve kaart, strategie en koppelingsregels**](03-tweelagenmodel-affect-en-strategie.md)  
    *Oplossing van het 'appels-en-peren'-probleem: Laag 1 affectieve weerkaart (FEAR, PANIC, SEEKING), Laag 2 gedragsstrategieën, en hechtingsstijlen als aangeleerde automatische koppelingsregels.*
 
-4. [**04: Afwijzend-Vermijdende Hechting (DA): Conflictdynamiek, Blauwdruk & Verborgen Behoeften**](04-dismissief-vermijdende-dynamiek-en-conflicten.md)  
+4. [**04: Afwijzend-vermijdende hechting (DA): conflictdynamiek, blauwdruk en verborgen behoeften**](04-dismissief-vermijdende-dynamiek-en-conflicten.md)  
    *Waarom de DA uitcheckt; de 3 conflictresponsen (Pleasing, Defensiviteit, Afwijzing); de mismatch in behoeften en relationele reparatie; en de onuitgesproken behoeften volgens Integrated Attachment Theory.*
 
-5. [**05: Angstig-Vermijdende Hechting (FA): De Sabotagecyclus, de Verraadwond en de Muur van Pijn**](05-angstig-vermijdende-sabotage-en-de-verraadwond.md)  
+5. [**05: Angstig-vermijdende hechting (FA): de sabotagecyclus, de verraadwond en de muur van pijn**](05-angstig-vermijdende-sabotage-en-de-verraadwond.md)  
    *Waarom mensen met fearful avoidance hun eigen relaties saboteren; verlangen vs. angst voor pijn; de sabotagecyclus; stonewalling als 'pomp-test'; en het helen van de verraadwond.*
 
 ---
 
-## Praktische Koppelingen elders in de Workspace
+## Praktische koppelingen elders in de workspace
 
-- [Relatie Coaching & Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) — *Werkbladen zoals de Partner-Vergelijkende Matrix en de Hersenstam-noodstop.*
-- [Relatiebreuk & Hechtingsverlies](file:///Users/mbp13/Programmeren/schrijven/over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) — *Neurobiologische ontwenning, cognitieve dissonantie en herstel via contactstop.*
-- [Kinky Kerst & Hechting](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md) — *De vertaling naar kink, eenzaamheid rond feestdagen, en de metafoor van kikkers en veren.*
-- [Notities over Emoties](file:///Users/mbp13/Programmeren/schrijven/over-emoties/emoties%20opmerkingen.md) — *Korte aforismen en observaties over emotionele afhankelijkheid.*
+- [Relatie Coaching & Protocollen](file:///Users/mbp13/Programmeren/schrijven/integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md) - *Werkbladen zoals de Partner-Vergelijkende Matrix en de Hersenstam-noodstop.*
+- [Relatiebreuk & Hechtingsverlies](file:///Users/mbp13/Programmeren/schrijven/over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md) - *Neurobiologische ontwenning, cognitieve dissonantie en herstel via contactstop.*
+- [Kinky Kerst & Hechting](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-03-psychologie-kink-en-hechting.md) - *De vertaling naar kink, eenzaamheid rond feestdagen, en de metafoor van kikkers en veren.*
+- [Notities over Emoties](file:///Users/mbp13/Programmeren/schrijven/over-emoties/emoties%20opmerkingen.md) - *Korte aforismen en observaties over emotionele afhankelijkheid.*

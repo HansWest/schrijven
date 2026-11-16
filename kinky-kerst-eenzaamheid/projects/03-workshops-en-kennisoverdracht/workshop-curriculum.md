@@ -1,34 +1,34 @@
-# De West-Sessies: Nuchtere Kink-Workshops met Hans West
+# De West-Sessies: nuchtere kink-workshops met Hans West
 
 > *"Geen zweverig gedoe, geen kleffe groepsknuffels of vage theorieën. Wel heldere kaders, een kalm zenuwstelsel en praktische vaardigheden om de winter stevig, veilig en verbonden door te komen."*
 
 ---
 
-## 1. Het Concept: "Warmte Zonder Bullshit"
+## 1. Het concept: "warmte zonder bullshit"
 
 In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Zeker als je kinky voorkeuren hebt, single bent of het gevoel hebt dat je omgeving jouw wereld niet begrijpt, kan de winter koud en isolerend aanvoelen. 
 
 **De West-Sessies** (begeleid door Kink-Aware Coach Hans West) bieden een veilige, nuchtere haven:
-- **Niet klef:** We gaan niet geforceerd 'delen vanuit het hart' of in een kring elkaars handen vasthouden. We behandelen BDSM en alternatieve relaties zoals een ambacht: met kennis van techniek, psychologie, risico's en communicatie.
+- **Niet klef:** Ik ga niet geforceerd 'delen vanuit het hart' of in een kring elkaars handen vasthouden. Ik behandel BDSM en alternatieve relaties zoals een ambacht: met kennis van techniek, psychologie, risico's en communicatie.
 - **Laagdrempelig & Veilig:** Volledig online via Zoom. Camera aan mag, maar is **nooit verplicht**. Pseudoniemen toegestaan. Geen naaktheid, geen fysieke handelingen voor de webcam.
 - **Direct toepasbaar:** Elke sessie levert concrete vaardigheden op voor je dagelijks leven, je speelafspraken en je zenuwstelsel.
 
 
 ---
 
-## 2. Praktische Opzet & Vaste Structuur
+## 2. Praktische opzet & vaste structuur
 
 - **Duur per workshop:** 75 tot 90 minuten.
-- **Frequentie:** Om de week op zondagmiddag (14:00 – 15:30) of een vaste doordeweekse avond (19:30 – 21:00).
+- **Frequentie:** Om de week op zondagmiddag (14:00 - 15:30) of een vaste doordeweekse avond (19:30 - 21:00).
 - **Periode:** Januari & Februari 2027 (aangekondigd tijdens de Kerstpodcast 2026).
 - **Vaste 3-delige indeling:**
-  1. **Blok 1 (30 min) — Inzicht & Psycho-educatie:** Nuchtere uitleg vanuit Kink-Aware coaching en neurowetenschap (hersenstam, dopamine, hechtingspatronen).
-  2. **Blok 2 (30 min) — Praktijk & Werkvorm:** Zelf invullen van een werkblad, veilige casusbespreking in de chat of oefenen in optionele break-outs.
-  3. **Blok 3 (15 min) — Vragen & Somatische Landing:** Beantwoorden van vragen + korte zenuwstelsel-oefening om rustig en geaard af te sluiten.
+  1. **Blok 1 (30 min) - Inzicht & Psycho-educatie:** Nuchtere uitleg vanuit Kink-Aware coaching en neurowetenschap (hersenstam, dopamine, hechtingspatronen).
+  2. **Blok 2 (30 min) - Praktijk & Werkvorm:** Zelf invullen van een werkblad, veilige casusbespreking in de chat of oefenen in optionele break-outs.
+  3. **Blok 3 (15 min) - Vragen & Somatische Landing:** Beantwoorden van vragen + korte zenuwstelsel-oefening om rustig en geaard af te sluiten.
 
 ---
 
-## 3. De 4 Modules in Detail
+## 3. De 4 modules in detail
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -46,7 +46,7 @@ In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Z
 
 ---
 
-### Module 1: Het Rustige Hoofd & Zelf-Aftercare
+### Module 1: het rustige hoofd & zelf-aftercare
 *Ondertitel: Hoe overleef je de winterdip, eenzaamheid en de biochemische kater?*
 
 * **Het Probleem:** Na een feest, een date, of juist na dagenlange stilte in een donker huis, slaat de biochemische crash toe (subdrop, domdrop of eenzaamheidsdrop). De hersenstam schiet in alarm: *"Ik ben alleen, er is gevaar."*
@@ -60,7 +60,7 @@ In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Z
 
 ---
 
-### Module 2: Onderhandelen & Grenzen Zonder Schaamte
+### Module 2: onderhandelen & grenzen zonder schaamte
 *Ondertitel: Duidelijke taal spreken vóórdat je de kleren uittrekt of de touwen pakt.*
 
 * **Het Probleem:** Veel mensen durven hun échte verlangens niet te noemen uit angst voor afwijzing, of durven geen harde grens te stellen uit angst de ander teleur te stellen (pleasen).
@@ -75,7 +75,7 @@ In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Z
 
 ---
 
-### Module 3: Schijnveiligheid & Red Flags
+### Module 3: schijnveiligheid & red flags
 *Ondertitel: Geen pauwenveren zoeken bij kikkers.*
 
 * **Het Probleem:** Eenzaamheid maakt hongerig, en wie honger heeft eet soms bedorven voedsel. Kinksters belanden geregeld in toxische D/s-verhoudingen omdat manipulators precies weten welke knoppen ze moeten indrukken.
@@ -90,7 +90,7 @@ In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Z
 
 ---
 
-### Module 4: Chosen Family & De Eerste Stap naar Buiten
+### Module 4: chosen family & de eerste stap naar buiten
 *Ondertitel: Van online theorie naar echte vrienden in de echte wereld.*
 
 * **Het Probleem:** Hoe stap je van veilig achter je laptop vandaan naar een fysieke munch of community zónder sociale kater of dichtklappende verlegenheid?
@@ -105,7 +105,7 @@ In de donkere maanden (januari en februari) kruipen veel mensen in hun schulp. Z
 
 ---
 
-## 4. Prijzen & Toegankelijkheid (Het Luisteraars-Codewoord)
+## 4. Prijzen & toegankelijkheid (het luisteraars-codewoord)
 
 Om de drempel minimaal te houden, maar tegelijkertijd **no-shows en gluurders te voorkomen**:
 - **Reguliere prijs (voor buitenstaanders):** € 17,50 per losse module of € 49,- voor de Winterbundel.

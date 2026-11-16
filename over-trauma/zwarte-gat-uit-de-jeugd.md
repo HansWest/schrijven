@@ -1,4 +1,4 @@
-# Het Zwarte Gat uit de Jeugd: Kikkers, Veren en de Moeder-Gans
+# Het zwarte gat uit de jeugd: kikkers, veren en de moeder-gans
 
 Ik zeg wel eens: bij jeugd-trauma is één van de lastigste dingen dat je met een zwart gat in je ziel blijft zitten dat soms meer trekkracht heeft dan de stuwkracht van je raketje. Dan kan je wel tegensturen, maar daar kom je dan bijna niet tegenop. Dan word je erin gezogen voorbij een bepaald point-of-no-return. En dan ga je op zoek naar veren… bij een kikker.
 

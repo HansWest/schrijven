@@ -1,10 +1,10 @@
-# Navigeren van Onvoorspelbare Hechtingspatronen bij Trauma
+# Navigeren van onvoorspelbare hechtingspatronen bij trauma
 
 > *"Als je partner trauma draagt, vecht je niet tegen hun liefde voor jou. Je danst met de spoken van degenen die hen ooit pijn hebben gedaan."*
 
 ---
 
-## 1. De Hechtingspendel: "Kom Dichtbij, maar Blijf Uit Mijn Buurt"
+## 1. De hechtingspendel: "kom dichtbij, maar blijf uit mijn buurt"
 
 De grootste bron van verwarring en uitputting voor partners van getraumatiseerde mensen is de **extreme pendelbeweging** in hechtingsgedrag:
 
@@ -35,7 +35,7 @@ Voor iemand met vroegkinderlijk relationeel trauma is intimiteit niet per se rus
 
 ---
 
-## 2. De Kat op de Kast: Fight als Afstandswapen
+## 2. De kat op de kast: fight als afstandswapen
 
 Wanneer je partner plotseling hard, afstandelijk of cynisch naar je uithaalt, is de natuurlijke neiging om gekwetst te zijn of terug te vechten.
 
@@ -46,15 +46,15 @@ Wanneer je partner plotseling hard, afstandelijk of cynisch naar je uithaalt, is
 
 ---
 
-## 3. De Reddersvalkuil: Jij Bent Niet de Ontbrekende Ouder
+## 3. De reddersvalkuil: jij bent niet de ontbrekende ouder
 
 Veel partners stappen met de beste bedoelingen in een gevaarlijke dynamiek:
 - *"Als ik maar genoeg liefde geef, als ik maar eindeloos geduld heb en al mijn eigen behoeften wegcijfer, dan heelt hun zwarte gat wel."*
 
-### Waarom dit Altijd Mislukt:
+### Waarom dit altijd mislukt:
 1. **Het zwarte gat heeft een oneindige trekkracht:** Zoals beschreven in [zwarte-gat-uit-de-jeugd.md](file:///Users/mbp13/Programmeren/schrijven/over-trauma/zwarte-gat-uit-de-jeugd.md), kan een volwassen partner nooit de 'moeder-gans' van de kindertijd vervangen. Je kunt een jeugdtrauma van dertig jaar niet genezen met partnerliefde.
 2. **Rol-vertroebeling:** Zodra jij de therapeut of verzorger van je partner wordt, sterft de erotische en gelijkwaardige relatie. Je partner kan zich niet meer overgeven aan iemand die voelt als een bezorgde ouder.
 3. **Uitputting & Rancune:** Uiteindelijk raak jij leeggezogen, en verandert jouw zorgzaamheid in stille bitterheid.
 
-> **Het Inzicht:**  
+> **Het inzicht:**  
 > Je bent niet geroepen om hun wond te dichten. Je bent geroepen om een stabiele, betrouwbare partner te zijn terwijl zíj de verantwoordelijkheid nemen voor hun eigen helingsproces.

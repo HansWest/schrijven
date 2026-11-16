@@ -1,13 +1,13 @@
-# 'Social Chess': Strategische Psychologie en Effectieve Communicatie
+# 'Social chess': strategische psychologie en effectieve communicatie
 
-> **Sociaal Navigeren — Deel 4**  
+> **Sociaal navigeren - deel 4**  
 > *Hoe je sociale interacties optimaliseert met bewuste strategieën; van wederzijdse interesse en directe communicatie tot actieve reflectie, micro-betrouwbaarheid en het compenseren van een beperkt werkgeheugen.*
 
 ---
 
-## 1. Wat is 'Social Chess'?
+## 1. Wat is 'social chess'?
 
-Voor veel mensen — en in het bijzonder mensen met autisme, ADHD of hechtingsonzekerheid — voelt sociaal contact vaak als een chaotisch mijnenveld vol ongeschreven regels en onvoorspelbare reacties.
+Voor veel mensen - en in het bijzonder mensen met autisme, ADHD of hechtingsonzekerheid - voelt sociaal contact vaak als een chaotisch mijnenveld vol ongeschreven regels en onvoorspelbare reacties.
 
 **'Social Chess'** is het doelbewust en strategisch toepassen van bewezen psychologische principes om sociale interacties helder, veilig, effectief en verbindend te maken. Het is géén manipulatief spelletje om mensen te misleiden, maar een **methodisch framework** om ruis weg te nemen, wederzijds vertrouwen op te bouwen en het eigen zenuwstelsel en werkgeheugen te ontlasten.
 
@@ -26,28 +26,28 @@ Voor veel mensen — en in het bijzonder mensen met autisme, ADHD of hechtingson
 
 ---
 
-## 2. De Zes Strategische Pijlers
+## 2. De zes strategische pijlers
 
-### Pijler 1: Wederzijdse Interesse Opwekken via Specifieke Vervolgvragen
+### Pijler 1: wederzijdse interesse opwekken via specifieke vervolgvragen
 Mensen willen zich fundamenteel gezien en interessant voelen. Standaardvragen (*"Hoe was je weekend?"*) leveren doodse, plichtmatige antwoorden op.
 - **De Strategie:** Luister naar de inhoud en haak direct in op één specifiek detail met een gerichte vervolgvraag.
   - *Slecht:* *"Oh leuk. En wat ga je vandaag doen?"*
   - *Social Chess:* *"Je noemde net dat je bezig bent met dat project over houtbewerking; wat is op dit moment de grootste technische puzzel die je probeert op te lossen?"*
 - **Het Effect:** De ander ervaart oprechte intellectuele en emotionele nieuwsgierigheid en opent zich vanzelf.
 
-### Pijler 2: Effectieve Communicatie: De Kernboodschap Vooraan
+### Pijler 2: effectieve communicatie: de kernboodschap vooraan
 Veel neurodivergente vertellers (en angstig-gehechte personen) beginnen een verhaal met eindeloze context, voorgeschiedenis en disclaimers uit angst verkeerd begrepen te worden. Gevolg: de luisteraar haakt mentaal af.
 - **De Strategie:** Hanteer een directe, 'Scandinavische' of 'Duitse' communicatiestijl. Deel de kernboodschap of conclusie direct in de eerste twee zinnen.
   - *Voorbeeld:* *"Ik wil je om advies vragen over [Onderwerp X]. De kern van mijn vraag is of we optie A of B kiezen. De achtergrond zal ik kort toelichten als je dat wilt."*
 - **Het Effect:** De luisteraar weet direct in welk mentaal laatje de informatie hoort, waardoor de aandacht maximaal blijft.
 
-### Pijler 3: Diepe Connectie: Samenvatten & Valideren
+### Pijler 3: diepe connectie: samenvatten en valideren
 De snelste manier om een ander zich diep begrepen te laten voelen, is **niet** door jouw eigen gelijksoortige verhaal eroverheen te gooien (hoe goed bedoeld ook).
 - **De Strategie:** Geef een beknopte parafrase van wat de ander zei en leg een controle-vraag voor.
   - *Script:* *"Als ik je goed begrijp, voelde je je vooral buitengesloten toen de beslissing werd genomen zonder jou, klopt dat?"*
 - **Het Effect:** De ander hoort zijn eigen ervaring gereflecteerd. Zelfs als je interpretatie er net naast zit, waardeert de ander de poging tot nauwkeurigheid en zal die de nuance graag corrigeren.
 
-### Pijler 4: Vertrouwen Bouwen in Micro-Acties
+### Pijler 4: vertrouwen bouwen in micro-acties
 Grote beloften wekken scepsis; consistentie in kleine handelingen bouwt onwankelbaar krediet op.
 - **De Strategie:**
   - Kom altijd op tijd (of stuur ruim vóór de afgesproken tijd een bericht bij vertraging).
@@ -55,14 +55,14 @@ Grote beloften wekken scepsis; consistentie in kleine handelingen bouwt onwankel
   - Stuur een kort bedankje na een goed gesprek.
 - **Het Effect:** Het zenuwstelsel van de ander leert: *bij deze persoon komen woorden en daden 100% overeen; hier kan ik op leunen.*
 
-### Pijler 5: Zorgvuldigheid & Werkgeheugen-Compensatie
+### Pijler 5: zorgvuldigheid en werkgeheugencompensatie
 Zeker bij autisme en ADHD schiet het werkgeheugen voor sociale data (verjaardagen, operaties van familieleden, examens, belangrijke werkprojecten) chronisch tekort. Vertrouwen op je hoofd leidt tot gemiste kansen en onbedoelde desinteresse.
 - **De Strategie:** Hanteer een vast protocol voor **externe opslag**:
   - Noteer direct na een ontmoeting belangrijke mijlpalen, datums of namen in een notitie-app, CRM of contactenkaart.
   - Zet een agendamelding op de bewuste ochtend: *"Stuur X een succes-bericht voor de presentatie."*
 - **Het Effect:** Een kort berichtje op exact de juiste dag (*"Succes vandaag met je presentatie!"*) laat een onuitwisbare indruk van oprechte betrokkenheid achter.
 
-### Pijler 6: Vriendschap & Dates Smeden: Specificiteit Verlaagt de Drempel
+### Pijler 6: vriendschap en dates smeden: specificiteit verlaagt de drempel
 Vage voorstellen zijn de doodsteek voor sociale contacten: *"We moeten snel weer eens koffie drinken!"* Iedereen knikt, maar niemand pakt de regie, waardoor het contact verwatert.
 - **De Strategie:** Maak uitnodigingen hyperconcreet met een **dag, tijd en activiteit**.
   - *Slecht:* *"Laten we binnenkort wat doen."*
@@ -71,7 +71,7 @@ Vage voorstellen zijn de doodsteek voor sociale contacten: *"We moeten snel weer
 
 ---
 
-## 3. Beslisboom: Van Sociaal Doel naar Strategie
+## 3. Beslisboom: van sociaal doel naar strategie
 
 ```
                         DOEL-STRATEGIE BESLISBOOM
@@ -100,7 +100,7 @@ Vage voorstellen zijn de doodsteek voor sociale contacten: *"We moeten snel weer
 
 ---
 
-## 4. Toepassing in Begeleiding & Coaching
+## 4. Toepassing in begeleiding en coaching
 
 Binnen het hybride coachingprogramma en de cliëntenmanual worden deze 'Social Chess'-strategieën ingezet als praktische trainingsmodules:
 1. **Communicatie-audit:** Cliënten analyseren hun eigen chatberichten: staat de kernzin vooraan of pas na vijf alinea's achtergrond?

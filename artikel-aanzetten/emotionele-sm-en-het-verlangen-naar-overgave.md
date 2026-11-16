@@ -51,7 +51,7 @@ Emotionele S/M biedt de **radicale bevrijding van de bodem**:
 - Waarom fysieke pijn relatief simpel is en waarom de werkelijke intensiteit altijd in de betekenislaag huist (de techniek-betekenis splitsing).
 - De blik die meer stript dan het losmaken van een knoopje: hoe psychologische dominantie het zenuwstelsel ontwapent.
 
-### Deel 3: De landkaart hertekend: van cirkelwiel naar de Zes Hongers & de Equalizer
+### Deel 3: de landkaart hertekend: van cirkelwiel naar de zes hongers en de equalizer
 - Waarom het klassieke 8-delige wiel faalt: de puriteinse weglating van seksualiteit en de valse aanname dat tegenpolen elkaar uitsluiten.
 - De ontmanteling van 'objectivering': waarom het geen emotie is maar een relationeel frame van *de-personificatie* (het lichaam als sculptuur of instrument).
 - De Zes Somatische Hongers van het zenuwstelsel:

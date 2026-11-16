@@ -1,11 +1,11 @@
-# Subspace versus Freeze: Flow versus Traumatische Shutdown
+# Subspace versus freeze: flow versus traumatische shutdown
 
-> **Algemene BDSM-Theorie — Deel 7**  
+> **Algemene BDSM-theorie - deel 7**  
 > *Het neurobiologische en somatische onderscheid tussen flow/endorfineroes (ventraal vagaal) en traumatische dissociatie/freeze/fawn (dorsaal vagaal), inclusief de 3-stappentest op de speelvloer, de fysiologie van arousal non-concordance en directe interventieprotocollen.*
 
 ---
 
-## 1. Het Fundamentele Onderscheid
+## 1. Het fundamentele onderscheid
 
 Het cruciale verschil tussen gezonde *subspace* en een traumatische *freeze/dissociatie* zit in de toestand van het autonome zenuwstelsel: 
 - **Subspace** is een staat van **gereguleerde overgave** (verbinding, flow en endorfineroes vanuit het ventrale vagale stelsel).
@@ -15,7 +15,7 @@ Het cruciale verschil tussen gezonde *subspace* en een traumatische *freeze/diss
 
 ---
 
-## 2. Vergelijkingstabel: Signalen op de Speelvloer
+## 2. Vergelijkingstabel: signalen op de speelvloer
 
 | Observatiepunt | Gezonde Subspace (Flow / Overgave) | Freeze / Dissociatie (Traumatische Shutdown) |
 | :--- | :--- | :--- |
@@ -29,45 +29,45 @@ Het cruciale verschil tussen gezonde *subspace* en een traumatische *freeze/diss
 
 ---
 
-## 3. Waarom Freeze en Fawn Géén Subspace Zijn
+## 3. Waarom freeze en fawn géén subspace zijn
 
 Binnen de kink-gemeenschap bestaat een gevaarlijke blinde vlek: passiviteit, verstijving of volgzaamheid verwarren met diepe onderwerping.
 
-### 1. Fawn: Mechanisch Pleasen om te Overleven
+### 1. Fawn: mechanisch pleasen om te overleven
 Naast *freeze* (verstijven) reageert het zenuwstelsel geregeld met *fawn* (aanpassen en pleasen):
 - De onderdanige knikt mechanisch 'ja', lacht geforceerd mee of voert opdrachten rigide uit, louter om escalatie of afwijzing te voorkomen.
 - Dit is **geen actieve overgave**, maar een reflex om de situatie emotioneel te bezweren.
 
-### 2. De Mythe: "Geen Safeword = Doorgaan"
+### 2. De mythe: "geen safeword = doorgaan"
 Het idee dat een scène veilig is zolang de bottom geen rood stopwoord roept, is **levensgevaarlijk verouderd**:
 - Bij een acute dorsale vagale shutdown wordt de bloedtoevoer naar het **spraakcentrum van Broca** in de linker frontaalkwab fysiologisch afgesloten.
 - De bottom wil wellicht stoppen, maar het fysieke apparaat om het woord "rood" te vocaliseren functioneert simpelweg niet.
 - Wie als Top louter vaart op de afwezigheid van een stopwoord, riskeert een ernstige grensoverschrijding.
 
-### 3. Attunement in Plaats van Regelnaleving
+### 3. Attunement in plaats van regelnaleving
 Voor een Top of Dominant betekent veilig leiderschap dat je stopt met louter kijken naar *regelnaleving*, en begint te kijken naar het **zenuwstelsel** van de ander:
 - Kalibreer voortdurend op ademhaling, pupilrespons, huidskleur en spiertonus.
 - Wacht bij twijfel nooit af tot de ander ingrijpt: neem zelf de leiding en check proactief in.
 
 ---
 
-## 4. Arousal Non-Concordance & Mannelijke Kwetsbaarheid
+## 4. Arousal non-concordance en mannelijke kwetsbaarheid
 
 Een van de meest beschadigende misverstanden op de speelvloer is het idee dat fysiologische opwinding gelijkstaat aan psychologische instemming.
 
-### De Biologische Realiteit van Arousal Non-Concordance
+### De biologische realiteit van arousal non-concordance
 Onderzoek toont aan dat fysiologische genitaliën-respons (zoals een erectie bij mannen of lubricatie bij vrouwen) geregeld losstaat van subjectief verlangen:
 - Een erectie is een complex autonoom reflexmechanisme dat niet alleen door lust, maar ook door **acute sympathische stress, kou of angst** kan worden uitgelokt.
 - Het optreden van een erectie tijdens een pijnlijke, overweldigende of beangstigende scène betekent **niet** dat de sub geniet of instemt.
 
-### Het Doorbereken van Mannelijke Schaamte
+### Het doorbreken van mannelijke schaamte
 Bij mannelijke bottoms en subs leidt dit fenomeen tot diepe zelftwijfel en schaamte:
 - *"Mijn lichaam reageerde, dus wilde ik het waarschijnlijk zelf."*
 - Dit is een valse cognitieve gevolgtrekking. Door het expliciet benoemen en normaliseren van arousal non-concordance kan de coach of partner deze schadelijke zelftwijfel effectief ontmantelen.
 
 ---
 
-## 5. Tonic Immobility & Epidemiologie
+## 5. Tonic immobility en epidemiologie
 
 - **Tonic Immobility:** Een fylogenetisch oeroude overlevingsreflex waarbij het lichaam zichzelf letterlijk verlamt om een roofdier de indruk te geven dat de prooi dood is. Onderzoek wijst uit dat circa **70% van traumaslachtoffers** tijdens seksueel geweld of ernstige traumaprikkels *tonic immobility* ervaart.
 - **Seksueel trauma in de voorgeschiedenis:** Uit bevolkingsonderzoek blijkt dat ongeveer 1 op de 5 vrouwen en 1 op de 7 mannen vóór het 18e levensjaar een vorm van seksueel geweld of grensoverschrijding heeft meegemaakt.
@@ -75,25 +75,25 @@ Bij mannelijke bottoms en subs leidt dit fenomeen tot diepe zelftwijfel en schaa
 
 ---
 
-## 6. De 3-Stappen Test op de Speelvloer (Directe Kalibratie)
+## 6. De 3-stappen test op de speelvloer (directe kalibratie)
 
 Pas bij de minste twijfel over de toestand van de partner onmiddellijk deze kalibratietest toe:
 
-### 1. De Oogcontact- en Naamscontrole
+### 1. De oogcontact- en naamscontrole
 Onderbreek de handeling onmiddellijk, zak naar ooghoogte van de partner en noem de voornaam (niet de rolnaam of pet name):  
 > *"Kijk me eens even aan in mijn ogen. Noem mijn naam."*
 
 - **Subspace:** Kijkt met een vertraagde, zachte blik aan en herkent de ander met een glimlach of zucht.
 - **Freeze:** Ogen blijven staren naar een vast punt op de vloer of wand; lijkt door de ander heen te kijken; heeft merkbaar moeite om de voornaam op te roepen.
 
-### 2. De Somatische Knijptest (Fysieke Co-regulatie)
+### 2. De somatische knijptest (fysieke co-regulatie)
 Pak de hand van de partner vast en vraag om een fysieke interactie die gerichte spierbeheersing vereist:  
 > *"Knijp eens even stevig in mijn hand."*
 
 - **Subspace:** Knijpt zachtjes, warm en doelgericht terug.
 - **Freeze:** Hand voelt klam en gevoelloos aan; reageert niet, of reageert met een schokkerige, mechanische kramp.
 
-### 3. De 'Kleur-Check'
+### 3. De 'kleur-check'
 Vraag niet: *"Gaat het?"* (een freeze-systeem antwoordt bijna altijd reflexmatig met "ja" vanuit pleasen of *fawning*). Vraag specifiek naar een concrete kleur:  
 > *"Welke verkeerslichtkleur ben je nu?"*
 
@@ -102,7 +102,7 @@ Vraag niet: *"Gaat het?"* (een freeze-systeem antwoordt bijna altijd reflexmatig
 
 ---
 
-## 7. Wat te Doen bij Herkenning van Freeze / Dissociatie?
+## 7. Wat te doen bij herkenning van freeze of dissociatie?
 
 1. **Stop direct alle impact en spel:** Geen overleg, geen onderhandeling meer; de scène is definitief voorbij.
 2. **Verbreek fysieke immobilisatie:** Haal touwen, handboeien of klemmen rustig maar direct los. Een gebonden lichaam kan fysiologisch niet aarden.
@@ -114,12 +114,12 @@ Vraag niet: *"Gaat het?"* (een freeze-systeem antwoordt bijna altijd reflexmatig
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen en samenhang
 
-- [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) — *De biochemische cyclus van endorfines, dopamine, cortisol en aftercare.*
-- [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *De verantwoordelijkheid voor elkaars kwetsbaarheid en trauma-gerelateerd spelen.*
-- [09: Het Verbreken van D/s: De-collaring & Rouw](09-het-verbreken-van-ds-de-collaring-en-rouw.md) — *De neurobiologie van het wegvallen van co-regulatie.*
-- [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) — *De Zes Somatische Hongers van de onderdanige.*
-- [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) — *Verdieping: de 5 hersenstamreflexen, dual awareness, het kantelmoment en neurogene tremorontlading.*
-- [Kennisbank Hechting: 02 Neurobiologie en de 7 F's](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) — *Freeze, Fawn en dorsale vagale shutdown.*
-- [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) — *Hoe het brein gevaar detecteert.*
+- [03: Neurochemie, Drop & Aftercare](03-neurochemie-drop-en-aftercare.md) - *De biochemische cyclus van endorfines, dopamine, cortisol en aftercare.*
+- [08: BDSM als Co-Creatie: De Twee Driehoeken](08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *De verantwoordelijkheid voor elkaars kwetsbaarheid en trauma-gerelateerd spelen.*
+- [09: Het Verbreken van D/s: De-collaring & Rouw](09-het-verbreken-van-ds-de-collaring-en-rouw.md) - *De neurobiologie van het wegvallen van co-regulatie.*
+- [14: Emotionele S/M en de Zes Hongers van de Onderdanige](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md) - *De Zes Somatische Hongers van de onderdanige.*
+- [17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM](17-subspace-traumasporen-en-de-kantelmomenten.md) - *Verdieping: de 5 hersenstamreflexen, dual awareness, het kantelmoment en neurogene tremorontlading.*
+- [Kennisbank Hechting: 02 Neurobiologie en de 7 F's](../over-hechting/02-neurobiologie-en-zenuwstelsel.md) - *Freeze, Fawn en dorsale vagale shutdown.*
+- [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) - *Hoe het brein gevaar detecteert.*

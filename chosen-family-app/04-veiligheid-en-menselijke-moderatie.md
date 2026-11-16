@@ -1,10 +1,10 @@
-# Veiligheid & Moderatie: De Menselijke Verantwoordelijkheid
+# Veiligheid en moderatie: de menselijke verantwoordelijkheid
 
 > *"Geen enkel algoritme bezit empathie, contextueel inzicht of een geweten. Beslissingen over iemands integriteit, uitsluiting en veiligheid mogen nooit aan software worden overgelaten."*
 
 ---
 
-## 1. Het Grondbeginsel: Geen Geautomatiseerde Uitsluitingen
+## 1. Het grondbeginsel: geen geautomatiseerde uitsluitingen
 
 In veel moderne platforms leidt een druk op de meldknop of een reeks geautomatiseerde triggers tot directe 'shadowbans' of accountverwijderingen. Dit creëert willekeur, onveiligheid en wantrouwen.
 
@@ -14,7 +14,7 @@ Binnen de chosen-family-app geldt het onwrikbare principe:
 
 ---
 
-## 2. De Escalatieladder bij Meldingen
+## 2. De escalatieladder bij meldingen
 
 Meldingen worden door het moderatieteam ingedeeld in drie niveaus:
 
@@ -36,7 +36,7 @@ NIVEAU 3: Acute Onveiligheid / Intimidatie / Fraude
 
 ---
 
-## 3. Hoor, Wederhoor & Zorgvuldige Toetsing
+## 3. Hoor, wederhoor en zorgvuldige toetsing
 
 Een rechtvaardig moderatiesysteem beschermt zowel de melder als de beklaagde:
 
@@ -50,18 +50,18 @@ Een rechtvaardig moderatiesysteem beschermt zowel de melder als de beklaagde:
 
 ---
 
-## 4. Bescherming tegen Rancunemeldingen (Wraakbeoordelingen)
+## 4. Bescherming tegen rancunemeldingen (wraakbeoordelingen)
 
 Een bekend risico op sociale platforms is dat een afwijzing (bijvoorbeeld iemand die vriendelijk *"nee"* zegt tegen verder contact) leidt tot een rancuneuze valse melding.
 
-### Preventieve Mechanismen:
+### Preventieve mechanismen:
 - **Correlatie met Afwijzing:** Het systeem toont moderatoren de tijdlijn: deed iemand een negatieve melding binnen 1 uur nadat de ander een ontmatch of blokkade uitvoerde?
 - **Geen Publieke Reviews:** Er zijn geen openbare profielbeoordelingen of sterrenscores. Een melding heeft uitsluitend invloed op het interne moderatiedossier, niet op een publieke 'reputatiescore'.
 - **Patroonherkenning:** Moderatoren kijken naar structurele patronen over meerdere evenementen en interacties heen, in plaats van te reageren op één geïsoleerde emotionele reactie.
 
 ---
 
-## 5. De Bezwaarprocedure
+## 5. De bezwaarprocedure
 
 Elke gebruiker die te maken krijgt met een schorsing of uitsluiting heeft recht op een **bezwaarroute**:
 - Het bezwaar wordt beoordeeld door een **onafhankelijke vertrouwenspersoon of commissie** die niet betrokken was bij het oorspronkelijke besluit.
@@ -69,17 +69,17 @@ Elke gebruiker die te maken krijgt met een schorsing of uitsluiting heeft recht 
 
 ---
 
-## 6. Bereikbaarheid Buiten Kantooruren & Acute Crisisroutering
+## 6. Bereikbaarheid buiten kantooruren en acute crisisroutering
 
 De app is een sociaal community-platform, **geen 24/7 crisisdienst of spoedeisende hulp**. Omdat menselijke moderatie 's avonds en in het weekend niet permanent bemand kan zijn, is een betrouwbare crisisroutering van levensbelang.
 
-### Wat Gebeurt er Buiten Kantooruren?
+### Wat gebeurt er buiten kantooruren?
 Wanneer een gebruiker buiten kantoortijd (bijvoorbeeld na 17:00 uur of in het weekend) een melding indient of aangeeft in nood te verkeren, toont de app direct een **prominente crisiskader met directe belknoppen**:
 
 > **🚨 Heb je nú acute hulp, bescherming of een luisterend oor nodig?**  
-> *Onze moderatoren beoordelen community-meldingen op werkdagen tussen 09:00 en 17:00 uur. Voor acute nood en crisis zijn er gespecialiseerde diensten dag en nacht gratis bereikbaar:*
+> *De moderatoren beoordelen community-meldingen op werkdagen tussen 09:00 en 17:00 uur. Voor acute nood en crisis zijn er gespecialiseerde diensten dag en nacht gratis bereikbaar:*
 
-### De Officiële Hulpdiensten & 0800-Crisisnummers:
+### De officiële hulpdiensten en 0800-crisisnummers:
 
 | Dienst | Telefoonnummer | Wanneer Bellen? |
 | :--- | :--- | :--- |
@@ -89,22 +89,22 @@ Wanneer een gebruiker buiten kantoortijd (bijvoorbeeld na 17:00 uur of in het we
 | **Veilig Thuis** | **0800-2000** | Bij huiselijk geweld, stalking, uitbuiting of vermoeden van mishandeling. |
 | **Huisartsenpost (HAP)** | *Regionaal nummer* | Voor acute psychische decompensatie of medische zorg buiten kantoortijden. |
 
-### Technische Afhandeling in de App:
+### Technische afhandeling in de app:
 1. **Directe Telefonische Koppeling:** Op mobiel kan de gebruiker direct vanuit het scherm bellen zonder nummers over te typen (`tel:08000113`, `tel:08000767`, etc.).
 2. **Prioritaire Wachtrij:** De melding wordt gelijktijdig opgeslagen in een gemarkeerde prioriteitswachtrij, zodat moderatoren 's ochtends als eerste actie kunnen ondernemen (bijvoorbeeld het tijdelijk blokkeren van een gemeld profiel ter bescherming van de melder).
 3. **Expliciete Grens:** De app wekt nooit de illusie dat een ingediende chat-melding om 02:00 's nachts binnen tien minuten door een moderator wordt beantwoord. Eerlijkheid over responstijd voorkomt dat mensen in acute nood blijven wachten op een scherm.
 
 ---
 
-## 7. Data-opslag (Systeem Verity) & Samenwerking met de Politie
+## 7. Data-opslag (systeem Verity) en samenwerking met de politie
 
-### A. Versleutelde Opslag van Meldingen (Systeem Verity)
+### A. Versleutelde opslag van meldingen (systeem Verity)
 Om de privacy van melders én beklaagden te waarborgen, streeft het platform naar integratie met het **Verity-systeem**:
 - **Privacy-by-Design & Zero-Knowledge:** Geen onnodige centrale opslag van gevoelige identiteitsbewijzen of privéchatgeschiedenis.
 - **Gecontroleerde Toegang:** Moderatiedossiers zijn end-to-end versleuteld en uitsluitend toegankelijk voor bevoegde moderatoren tijdens een lopend onderzoek.
 - **Bewaartermijn & Automatische Verwijdering:** Zodra een dossier is afgehandeld en er geen vervolgstappen nodig zijn, wordt het na een vaste bewaartermijn (bijv. 6 maanden) automatisch gearchiveerd of geanonimiseerd verwijderd.
 
-### B. Actieve Medewerking met Politie en Justitie
+### B. Actieve medewerking met politie en justitie
 De community beschermt kwetsbare verbindingen, maar is **onder geen beding een vrijplaats voor misdrijven of grensoverschrijdingen**:
 - **Proactieve Samenwerking:** Bij concrete aanwijzingen, gegrond bewijs of ernstige verdenkingen van strafbare feiten (zoals stalking, chantage, fysiek geweld, identiteitsfraude of intimidatie) zal de organisatie **volledig en proactief meewerken met de politie en justitiële autoriteiten**.
 - **Wettelijke Gegevensoverdracht:** Relevante verificatiegegevens, logs en context worden conform de wettelijke kaders overgedragen aan opsporingsdiensten.

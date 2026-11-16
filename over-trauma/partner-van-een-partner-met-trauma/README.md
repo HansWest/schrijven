@@ -1,11 +1,11 @@
-# Partner van een Partner met Trauma
+# Partner van een partner met trauma
 
-> **Kennisbank Trauma — Gids voor Partners**  
+> **Kennisbank Trauma - Gids voor Partners**  
 > *Hoe navigeer je een relatie met iemand die draagt aan vroege hechtingswonden, hoe blijf je zelf overeind, en hoe ga je om met grillige reactiepatronen zónder de redder te worden?*
 
 ---
 
-## Waarom deze Map Bestaat
+## Waarom deze map bestaat
 
 Liefhebben van iemand met (vroegkinderlijk of relationeel) trauma kan prachtig, intens en diep helend zijn. Maar het is tegelijkertijd een van de zwaarste beproevingen voor een relatie:
 - Het zenuwstelsel van je partner staat vaak chronisch afgesteld op gevaar.
@@ -14,7 +14,7 @@ Liefhebben van iemand met (vroegkinderlijk of relationeel) trauma kan prachtig, 
 
 ---
 
-## Documenten in deze Map
+## Documenten in deze map
 
 1. [**01: Navigeren van Onvoorspelbare Hechtingspatronen**](01-navigeren-van-onvoorspelbare-hechtingspatronen.md)  
    *De dynamiek van aantrekken en afstoten, de 'kat op de kast' herkennen, en het vermijden van de reddersvalkuil.*
@@ -27,7 +27,7 @@ Liefhebben van iemand met (vroegkinderlijk of relationeel) trauma kan prachtig, 
 
 ---
 
-## Verbindingen in de Workspace
+## Verbindingen in de workspace
 
 - [Het Zwarte Gat uit de Jeugd & Kikkers en Veren](file:///Users/mbp13/Programmeren/schrijven/over-trauma/zwarte-gat-uit-de-jeugd.md)
 - [Hechting als Dynamische Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/01-reactiepatronen-en-relatietypen.md)

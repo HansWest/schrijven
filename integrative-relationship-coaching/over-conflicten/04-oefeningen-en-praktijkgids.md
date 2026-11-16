@@ -1,23 +1,23 @@
-# Oefeningen, Werkbladen en Somatische Praktijken
+# Oefeningen, werkbladen en somatische praktijken
 
 > **Integrative Relationship Coaching - Praktijkgids**  
 > *Concrete oefeningen, werkbladen en somatische interventies om frictie in (poly)liefdesrelaties hanteerbaar te maken, het zenuwstelsel te aarden en de ware behoefte op te delven.*
 
 ---
 
-## Overzicht van de Oefeningen
+## Overzicht van de oefeningen
 
-1. [Werkblad: Opgraving van de Onvervulde Behoefte (*Capital-N Need*)](#oefening-1-werkblad-opgraving-van-de-onvervulde-behoefte)
-2. [Spreekkamer-interventie: Het 'Favoriete Verwijt' Ontmantelen (*De Warm/Koud Detective*)](#oefening-2-het-favoriete-verwijt-ontmantelen-de-warmkoud-detective)
-3. [Somatische Interventie: Het Vagus- & Aardingsprotocol](#oefening-3-het-vagus--aardingsprotocol-in-het-oog-van-de-storm)
-4. [Communicatie-interventie: De Triangulatie-Decontaminatie](#oefening-4-de-triangulatie-decontaminatie)
-5. [Zelfonderzoek: De Partner- en Dynamiekmatrix bij Conflict](#oefening-5-de-partner--en-dynamiekmatrix-bij-conflict)
-6. [Aftercare & Herstel: Het Cleave-Integratieritueel](#oefening-6-het-cleave-integratieritueel-na-de-storm)
-7. [Warming-up Tool: De 'Domme Vragen' Bank](#oefening-7-de-domme-vragen-bank-lage-hitte-training)
+1. [Werkblad: opgraving van de onvervulde behoefte (*capital-N need*)](#oefening-1-werkblad-opgraving-van-de-onvervulde-behoefte)
+2. [Spreekkamer-interventie: het 'favoriete verwijt' ontmantelen (*de warm/koud detective*)](#oefening-2-het-favoriete-verwijt-ontmantelen-de-warmkoud-detective)
+3. [Somatische interventie: het vagus- en aardingsprotocol](#oefening-3-het-vagus--en-aardingsprotocol-in-het-oog-van-de-storm)
+4. [Communicatie-interventie: de triangulatie-decontaminatie](#oefening-4-de-triangulatie-decontaminatie)
+5. [Zelfonderzoek: de partner- en dynamiekmatrix bij conflict](#oefening-5-de-partner--en-dynamiekmatrix-bij-conflict)
+6. [Aftercare en herstel: het cleave-integratieritueel](#oefening-6-het-cleave-integratieritueel-na-de-storm)
+7. [Warming-up tool: de 'domme vragen' bank](#oefening-7-de-domme-vragen-bank-lage-hitte-training)
 
 ---
 
-## Oefening 1: Werkblad Opgraving van de Onvervulde Behoefte
+## Oefening 1: werkblad opgraving van de onvervulde behoefte
 
 Gebruik dit werkblad solo of samen met een partner/coach wanneer een conflict blijft ronddraaien in herhalende verwijten of 'structuurdiscussies'.
 
@@ -34,7 +34,7 @@ Gebruik dit werkblad solo of samen met een partner/coach wanneer een conflict bl
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Het Invulschema:
+### Het invulschema:
 
 1. **Stap 1: Het Verwijt (Laag 2 - Het Ik)**  
    *Schrijf zonder censuur op wat je de ander wilt verwijten:*  
@@ -52,13 +52,13 @@ Gebruik dit werkblad solo of samen met een partner/coach wanneer een conflict bl
    *Wat mis je ten diepste, geformuleerd als een positief verlangen zonder 'jij-bak'?*  
    > (bijv. *"Ik verlang naar onverdeelde aandacht en het gevoel dat mijn aanwezigheid ertoe doet voor jou"*).
 
-### Praktijkvoorbeeld van de Verschuiving:
+### Praktijkvoorbeeld van de verschuiving:
 - **Oude Vorm:** *"Jij respecteert onze afspraken niet en je bent verslaafd aan je metamour."*
 - **Opgedolven Vorm:** *"Als ik zie dat je aandacht continu wegdrijft, voel ik me fysiek koud en eenzaam worden. Ik merk dat ik bang ben dat we onze sprankel kwijt zijn. Ik heb behoefte aan 30 minuten echte, aandachtige nabijheid met jou."*
 
 ---
 
-## Oefening 2: Het 'Favoriete Verwijt' Ontmantelen (De Warm/Koud Detective)
+## Oefening 2: het 'favoriete verwijt' ontmantelen (de warm/koud detective)
 
 > **Doel:** Defensiviteit doorbreken door van het favoriete verwijt naar de onderliggende wens en pijn te speuren, terwijl de zender leert ontspannen in het ervaren dat er naar hen gezocht wordt.  
 > **Setting:** In de spreekkamer met de therapeut/coach (of thuis met strikte afspraken).  
@@ -78,20 +78,20 @@ Gebruik dit werkblad solo of samen met een partner/coach wanneer een conflict bl
                                              2. Welke PERSOONLIJKE PIJN zit eronder?
 ```
 
-### Het Verloop van de Oefening:
+### Het verloop van de oefening:
 
-#### Stap 1: Het Favoriete Verwijt op tafel leggen
+#### Stap 1: het favoriete verwijt op tafel leggen
 Ieder koppel heeft een 'hitlijstje' van vaste verwijten die al honderden keren zijn afgevuurd. Partner B kiest er één uit en spreekt die zonder censuur uit:
 > *"Jij rent altijd weg als het spannend wordt."*  
 > of: *"Jij bent alleen maar bezig met je andere dates en vergeet ons."*
 
-#### Stap 2: De Spelregel van Stilte voor Partner B
+#### Stap 2: de spelregel van stilte voor partner B
 Vanaf dit moment krijgt Partner B **spreekverbod**. Geen inhoudelijke toelichtingen, geen *"Nou kijk, het zit namelijk zo..."*, geen verbaal weerwoord.  
 Partner B mag uitsluitend reageren met:
 - **Non-verbale signalen:** Knikken, schudden met het hoofd, zuchten, oogcontact, glimlachen, de schouders laten zakken.
 - **De 'Warm / Koud'-code:** Zoals bij het kinderspelletje mag Partner B met handgebaren of een korte *"koud"* (misgeslagen/projectie), *"lauw"* (je zit in de buurt) of *"warm / heet!"* (dit raakt de kern) aangeven of Partner A in de goede richting zoekt.
 
-#### Stap 3: De Speurtocht (Wens & Pijn opgraven)
+#### Stap 3: de speurtocht (wens en pijn opgraven)
 Partner A en de therapeut gaan nu hardop 'hardop denken' als welwillende detectives over de binnenwereld van Partner B.
 
 1. **Eerst naar de WENS (Het positieve verlangen):**  
@@ -114,7 +114,7 @@ Partner A en de therapeut gaan nu hardop 'hardop denken' als welwillende detecti
 
 ---
 
-## Oefening 3: Het Vagus- & Aardingsprotocol in het Oog van de Storm
+## Oefening 3: het vagus- en aardingsprotocol in het oog van de storm
 
 Zodra je merkt dat je stem verheft, je kaken op elkaar klemmen of je wilt wegstormen (*Fight/Flight*), is je zenuwstelsel gekaapt. Pas vóórdat je reageert dit 90-seconden protocol toe:
 
@@ -140,11 +140,11 @@ Zodra je merkt dat je stem verheft, je kaken op elkaar klemmen of je wilt wegsto
 
 ---
 
-## Oefening 4: De Triangulatie-Decontaminatie
+## Oefening 4: de triangulatie-decontaminatie
 
 In polyamoreuze constellaties is het cruciaal om lekkende spanning tussen partners direct te stoppen. Deze oefening is bedoeld voor **Partner C (de metamour)** of **de coach** wanneer **Partner B** stoom probeert af te blazen over **Partner A**.
 
-### Het 3-Stappen Decontaminatie-Script:
+### Het drie-stappen decontaminatiescript:
 
 | Fase | Wat je zegt / doet | Waarom dit werkt |
 | :--- | :--- | :--- |
@@ -157,7 +157,7 @@ In polyamoreuze constellaties is het cruciaal om lekkende spanning tussen partne
 
 ---
 
-## Oefening 5: De Partner- en Dynamiekmatrix bij Conflict
+## Oefening 5: de partner- en dynamiekmatrix bij conflict
 
 Mensen zeggen vaak: *"Ik ben nou eenmaal angstig gehecht"* of *"Ik klap nou eenmaal altijd dicht bij ruzie."* Dat is een denkfout. Hechting en conflictgedrag zijn **dynamisch en relationeel specifiek**.
 
@@ -173,7 +173,7 @@ Vul onderstaande matrix in voor twee verschillende partners (of een huidige part
 
 ---
 
-## Oefening 6: Het Cleave-Integratieritueel (Na de Storm)
+## Oefening 6: het cleave-integratieritueel (na de storm)
 
 Wanneer de hitte van een gevecht is gezakt (*Grapple* is voorbij), ontstaat vaak een kwetsbare leegte: de emotionele kater (*emotional hangover*). Zonder bewuste afronding blijven partners hangen in wantrouwen.
 
@@ -207,7 +207,7 @@ Voer na elk groot conflict het **Drielagen-Herstelritueel** uit:
 
 ---
 
-## Oefening 7: De 'Domme Vragen' Bank (Lage Hitte Training)
+## Oefening 7: de 'domme vragen' bank (lage hitte training)
 
 Het is raadzaam om het 'vechten' en van mening verschillen eerst te trainen met onderwerpen die geen existentiële lading hebben. Gebruik deze lijst tijdens een ontspannen maaltijd of wekelijkse check-in om te oefenen met **oneens zijn, fel debatteren en toch in verbinding blijven**.
 
@@ -217,7 +217,7 @@ Het is raadzaam om het 'vechten' en van mening verschillen eerst te trainen met 
 - Debatteer met passie gedurende 3 minuten.
 - Schiet daarna in de lach en geef elkaar een high five.
 
-### 15 Stellingen voor de Warming-up:
+### Vijftien stellingen voor de warming-up:
 1. Boter onder de pindakaas is een verrijking van het leven; droge pindakaas smeren grenst aan zelfkastijding.
 2. Sokken aanhouden in bed is puur pragmatisme tegen koude voeten; wie het een afknapper vindt stelt esthetiek boven comfort.
 3. De vaatwasser inruimen is een wetenschap met één universele waarheid.

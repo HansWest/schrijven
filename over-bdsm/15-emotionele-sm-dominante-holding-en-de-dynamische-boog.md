@@ -44,7 +44,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### 1. De leidsman & structuurbouwer (disciplinarian & guide)
+### 1. De leidsman en structuurbouwer (disciplinarian & guide)
 *Beantwoordt Submissieve Honger: Rust & ontlading (Het hoofd uit)*
 
 * **De binnenwereld van de Dom:** De diepe voldoening van choreografie, orde, precisie en het actief wegnemen van keuzestress bij de ander. Ik geniet ervan wanneer regels en protocollen rust brengen in de ruimte; wanneer mijn duidelijke kaders maken dat de ander nergens meer over hoeft na te denken.
@@ -56,7 +56,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### 2. De seksuele soeverein & sleutelbewaarder (keyholder & erotic sovereign)
+### 2. De seksuele soeverein en sleutelbewaarder (keyholder & erotic sovereign)
 *Beantwoordt Submissieve Honger: Erotische onmacht (Lust & soevereiniteitsoverdracht)*
 
 * **De binnenwereld van de Dom:** De wellustige sensatie van genitaal en erotisch eigenaarschap. Ik ben niet louter een scheidsrechter, maar de absolute beheerder van de lust van de ander. Ik geniet van het zien kronkelen van de onderdanige in ontzegging; van het weten dat een erectie of vochtigheid van mij is; van het dragen van de kuisheidssleutel; en van de macht om een orgasme te schenken, te ruïneren of voor onbepaalde tijd op te schorten.
@@ -68,7 +68,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### 3. De waker & hoeder (guardian & protector)
+### 3. De waker en hoeder (guardian & protector)
 *Beantwoordt Submissieve Honger: Geborgenheid (Owned / Hechting)*
 
 * **De binnenwereld van de Dom:** De oerdrang tot bescherming, eigenaarschap en koestering (*splagchnizomai* - bewogenheid uit de ingewanden). Het doorleefde besef: *"Jij bent van mij, dus draag ik de ultieme verantwoordelijkheid voor jouw welzijn, jouw integriteit en jouw veiligheid."* Het genot zit in de zwaarte van mijn hand die een trillend lijf stillegt en beschermt tegen de buitenwereld.
@@ -80,7 +80,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### 4. De spanningsbouwer & prikkelmeester (looming threat & impact master)
+### 4. De spanningsbouwer en prikkelmeester (looming threat & impact master)
 *Beantwoordt Submissieve Honger: Het hier-en-nu (Prikkel, pijn & spanning)*
 
 * **De binnenwereld van de Dom:** De dramaturgische kunst van spanning, ritme en somatische impact. Ik weet hoe ik adrenaline moet wekken om het analyserende brein van de ander stil te leggen. Het genot om de spanning te voelen stijgen bij een langzame voetstap, het suizen van leer door de lucht, of het minutieus doseren van pijn tot het zenuwstelsel endorfinen vrijgeeft en in subspace glijdt.
@@ -92,7 +92,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### 5. De inquisitor & blootleger (inquisitor & ego-dismantler)
+### 5. De inquisitor en blootleger (inquisitor & ego-dismantler)
 *Beantwoordt Submissieve Honger: Ontmaskering (Schaamte, taboe & schaduw)*
 
 * **De binnenwereld van de Dom:** Het genot van het theatraal doorprikken van sociale façades. Ik geniet ervan om te zien hoe iemands maatschappelijke masker afbrokkelt; om de verlegenheid, de blozende wangen en de stamelende bekentenissen erotisch uit te vergroten. Het is de kunst om de ander zó diep te ontwapenen dat er niets meer te verbergen valt.
@@ -116,7 +116,7 @@ Hieronder volgt de ontleding van de zes dominante holding- en regiedimensies:
 
 ---
 
-### De-personificatie aan dominante zijde: de beeldhouwer & instrumentalist
+### De-personificatie aan dominante zijde: de beeldhouwer en instrumentalist
 Net zoals ik in Document 14 heb vastgesteld dat 'objectivering' voor de onderdanige geen emotie is maar een relationele lens, geldt dat exact zo voor de Dominant.
 
 **De-personificatie aan dominante zijde** is de bewuste keuze om de partner tijdelijk niet te ontmoeten als een intersubjectieve gesprekspartner, maar als:
@@ -200,7 +200,7 @@ In [Document 02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.m
 
 ---
 
-## 5. De dynamische boog: de 4 fasen van een emotionele sessie
+## 5. De dynamische boog: de vier fasen van een emotionele sessie
 
 Een krachtige emotionele scène is geen toevallige aaneenschakeling van handelingen, maar een **dramaturgische spanningsboog** die het zenuwstelsel door een gerichte catharsis leidt:
 

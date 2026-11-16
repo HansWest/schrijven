@@ -1,4 +1,4 @@
-# Polariteit of polarisatie? (Man-Vrouw polariteit)
+# Polariteit of polarisatie? (Man-vrouwpolariteit)
 
 Chat GPT
 

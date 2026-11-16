@@ -1,11 +1,11 @@
-# Online Sessie: Sociaal Navigeren, Chosen Family & Ontmaskeren bij ASS
+# Online sessie: sociaal navigeren, chosen family en ontmaskeren bij ASS
 
-> **Draaiboek & Handleiding voor een Prikkelarme Online Groepssessie (90 min)**  
+> **Draaiboek en handleiding voor een prikkelarme online groepssessie (90 min)**  
 > *Doelgroep: Volwassenen met ASS / neurodivergentie die op zoek zijn naar veilige vriendschappen en gelijkgestemden, zonder zichzelf te verliezen in masking.*
 
 ---
 
-## 1. Sessie-Kaders & Toegankelijkheid (ASS-Proof)
+## 1. Sessiekaders en toegankelijkheid (ASS-proof)
 
 Voor mensen met autisme is een groepssessie pas veilig als de sensorische en sociale randvoorwaarden glashelder zijn:
 - **Camera & Microfoon:** Camera mag aan of uit; praten via de microfoon is vrijwillig; actieve deelname via de **tekst-chat** is volwaardig en gelijkwaardig.
@@ -15,25 +15,25 @@ Voor mensen met autisme is een groepssessie pas veilig als de sensorische en soc
 
 ---
 
-## 2. Blok 1: Masking als Sociale Schutkleur (Theorie — 20 min)
+## 2. Blok 1: masking als sociale schutkleur (theorie - 20 min)
 
-### Wat is Masking Eigenlijk?
-In onze hechtingsnotities zagen we de reflex **Fawn (de sociale schutkleur)**: jezelf preventief aanpassen, glimlachen en pleasen om niet op te vallen en de vrede te bewaren.
+### Wat is masking eigenlijk?
+In de hechtingsnotities beschrijf ik de reflex **Fawn (de sociale schutkleur)**: jezelf preventief aanpassen, glimlachen en pleasen om niet op te vallen en de vrede te bewaren.
 - Bij ASS is **masking** (camoufleren) vaak een overlevingsstrategie die al in de vroege jeugd is ingesleten: oogcontact forceren, scripts voorbereiden, micro-expressies nadoen, en eigen sensorische pijn onderdrukken.
 - **De Hoge Prijs:** Masking leidt tot de beruchte *"autistische kater"* (dagenlang uitgeput op bed liggen na één sociale bijeenkomst) en het gevoel dat mensen alleen van je 'masker' houden, niet van jou.
 
-### Het Doel van Chosen Family: Veilig Ontmaskeren (Unmasking)
+### Het doel van chosen family: veilig ontmaskeren (unmasking)
 Echte vriendschap en 'gekozen familie' herken je aan één fundamenteel kenmerk:  
 > **Je hoeft bij hen je schutkleur niet aan te houden.**  
 Je mag stilvallen, je hoeft geen geforceerd oogcontact te maken, en je hoeft niet sociaal wenselijk te babbelen.
 
 ---
 
-## 3. Blok 2: Waar Vind Je Jouw Mensen? (Praktijk — 15 min)
+## 3. Blok 2: waar vind je jouw mensen? (praktijk - 15 min)
 
 Voor mensen met ASS werkt willekeurig 'borrelen' in een druk café bijna nooit. De muziek is te hard, de sociale codes zijn vaag en de gesprekken gaan nergens over.
 
-### Het Principe: Interesse-Gedreven Contact (Parallel ZIJN)
+### Het principe: interessegedreven contact (parallel zijn)
 Zoek ontmoetingen waar de activiteit de sociale druk wegneemt:
 1. **Parallel Spelen / Doen:**
    - Bordspellenavonden (boardgame cafés): de regels van het spel bepalen wie aan de beurt is; geen ongemakkelijke stiltes.
@@ -47,7 +47,7 @@ Zoek ontmoetingen waar de activiteit de sociale druk wegneemt:
 
 ---
 
-## 4. Blok 3: Het Detectiesysteem bij ASS (Groene & Rode Vlaggen — 20 min)
+## 4. Blok 3: het detectiesysteem bij ASS (groene en rode vlaggen - 20 min)
 
 Mensen met autisme communiceren vaak letterlijk en nemen anderen op hun woord. Helaas maakt dit hen extra kwetsbaar voor manipulators en boundary-testers.
 
@@ -68,31 +68,31 @@ Mensen met autisme communiceren vaak letterlijk en nemen anderen op hun woord. H
 └────────────────────────────────┴────────────────────────────────┘
 ```
 
-### De Vuistregel bij Boundary Testing:
+### De vuistregel bij boundary testing:
 Als iemand een kleine, expliciet uitgesproken grens overschrijdt (bijvoorbeeld: jij zegt *"ik geef liever een hand dan een knuffel"*, en de ander pakt je toch beet met een lach), **is dat geen gezelligheid, maar een datatest**. De ander test of jouw grenzen buigbaar zijn. Bij ASS: neem direct afstand; dit wordt later nooit beter.
 
 ---
 
-## 5. Blok 4: Concrete Scripts voor de Praktijk (Oefening — 25 min)
+## 5. Blok 4: concrete scripts voor de praktijk (oefening - 25 min)
 
-Omdat improviseren onder sensorische spanning veel energie kost, oefenen we met vaste 'sociale algoritmes':
+Omdat improviseren onder sensorische spanning veel energie kost, oefen je met vaste 'sociale algoritmes':
 
-### Script A: De Neutrale Binnenkomer
+### Script A: de neutrale binnenkomer
 *Wanneer je bij een munch of bordspelavond aankomt:*
 > *"Hoi, ik ben [Naam]. Ik ben hier voor het eerst en ik vind het best even spannend qua drukte, dus ik kijk eerst even rustig rond."*  
 *(Dit ontwapent direct en neemt de druk weg om 'vlot' te doen).*
 
-### Script B: Het Exit-Script (De Elegante Uitstap)
+### Script B: het exit-script (de elegante uitstap)
 *Wanneer je sensorische emmer vol zit en je overprikkeld raakt:*
 > *"Ik merk dat mijn sociale en sensorische batterij voor vanavond leeg is. Ik heb een fijne tijd gehad en ga nu lekker naar huis om op te laden. Tot de volgende keer!"*  
 *(Zonder excuses, zonder verzonnen smoesjes over vroege wekkers; puur feitelijk).*
 
-### Script C: De Knuffel-Begrenzing
+### Script C: de knuffel-begrenzing
 > *"Ik ben niet zo van het fysieke contact met mensen die ik net ken, maar ik zwaai heel enthousiast naar je!"*
 
 ---
 
-## 6. Blok 5: Rustige Landing & Chat-Reflectie (10 min)
+## 6. Blok 5: rustige landing en chatreflectie (10 min)
 
 - Chat-oefening: Iedereen typt in de chat één ding dat ze vanavond hebben geleerd over hun eigen sociale grenzen.
 - Downloadbaar werkblad: *Mijn Sensorische Gebruiksaanwijzing voor Vrienden*.

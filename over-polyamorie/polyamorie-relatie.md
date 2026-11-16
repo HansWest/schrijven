@@ -43,7 +43,7 @@ Vragen om samen te onderzoeken:
 
 ### Zenuwstelsel: signalen, afstemming en herstel
 
-Het zenuwstelsel staat in deze metafoor voor het opmerken van signalen van spanning, rust, nabijheid of afstand — in jezelf, tussen partners en in de omstandigheden. Lichamelijke signalen kunnen informatie geven over hoe een situatie wordt beleefd, maar zijn op zichzelf geen bewijs dat iemand gelijk heeft of dat een afspraak goed of fout is. Partners kunnen elkaar ondersteunen bij herstel en afstemming, zonder verantwoordelijk te worden voor het volledig reguleren van elkaars gevoelens.
+Het zenuwstelsel staat in deze metafoor voor het opmerken van signalen van spanning, rust, nabijheid of afstand - in jezelf, tussen partners en in de omstandigheden. Lichamelijke signalen kunnen informatie geven over hoe een situatie wordt beleefd, maar zijn op zichzelf geen bewijs dat iemand gelijk heeft of dat een afspraak goed of fout is. Partners kunnen elkaar ondersteunen bij herstel en afstemming, zonder verantwoordelijk te worden voor het volledig reguleren van elkaars gevoelens.
 
 Vragen om samen te onderzoeken:
 
@@ -76,13 +76,13 @@ De kern van de reflectie is dat relaties die uitsluitend op structuur leunen vaa
 
 Notities per onderwerp
 
-• 00:04 — De noodzaak van botten: Zonder botten is een relatie een vormeloos geheel. Structuur biedt de noodzakelijke basis voor beweging.
+• 00:04 - De noodzaak van botten: Zonder botten is een relatie een vormeloos geheel. Structuur biedt de noodzakelijke basis voor beweging.
 
-• 00:20 — Spieren en dynamiek: Spieren zijn essentieel om de structuren te gebruiken. Een lichaam dat alleen uit botten bestaat, kan niet bewegen.
+• 00:20 - Spieren en dynamiek: Spieren zijn essentieel om de structuren te gebruiken. Een lichaam dat alleen uit botten bestaat, kan niet bewegen.
 
-• 00:35 — Navigatie via het zenuwstelsel: Sensitiviteit voor de omgeving is cruciaal om als koppel obstakels te zien aankomen en de koers bij te sturen.
+• 00:35 - Navigatie via het zenuwstelsel: Sensitiviteit voor de omgeving is cruciaal om als koppel obstakels te zien aankomen en de koers bij te sturen.
 
-• 01:40 — De valkuil van de structuur-focus: Relaties die te veel gericht zijn op de "hypotheek-structuur" verliezen hun souplesse. Gevoel voor de omgeving en voor de onderlinge positie vergemakkelijkt het gezamenlijke pad.
+• 01:40 - De valkuil van de structuur-focus: Relaties die te veel gericht zijn op de "hypotheek-structuur" verliezen hun souplesse. Gevoel voor de omgeving en voor de onderlinge positie vergemakkelijkt het gezamenlijke pad.
 
 Categorisatie
 
@@ -144,7 +144,7 @@ Kerninzichten
 
 • Relatieve aantrekkelijkheid: Binnen een polyamoreuze context kunnen nieuwe connecties de perceptie van de eerste partner veranderen. De aanwezigheid van nieuwe, aantrekkelijke personen kan de relatieve waarde en aantrekkelijkheid van de bestaande partner doen afnemen, wat spanningen in de oorspronkelijke verbinding veroorzaakt.
 
-• Vermijden van confrontatie: Het bewijzen van liefde wordt soms een performatieve handeling om de onderliggende conclusie — dat de relatie wellicht voorbij is — te onderdrukken.
+• Vermijden van confrontatie: Het bewijzen van liefde wordt soms een performatieve handeling om de onderliggende conclusie - dat de relatie wellicht voorbij is - te onderdrukken.
 
 Categorisering
 

@@ -1,10 +1,10 @@
-# De Prijs van de Sociale Schutkleur: Wat is Masking Eigenlijk?
+# De prijs van de sociale schutkleur: wat is masking eigenlijk?
 
 > *"Je kunt een leven lang een rol spelen voor applaus, maar je sterft van de honger als niemand weet wie er achter het gordijn staat."*
 
 ---
 
-## 1. Wat is Masking?
+## 1. Wat is masking?
 
 In de kern is **masking** (ook wel camoufleren of compenseren genoemd) het continu onderdrukken van je natuurlijke autistische reacties en het kunstmatig nabootsen van neurotypisch gedrag om sociaal geaccepteerd te worden en afwijzing te voorkomen.
 
@@ -17,20 +17,20 @@ Het omvat onder andere:
 
 ---
 
-## 2. De Neurobiologische Link: Fawn als Overlevingsreflex
+## 2. De neurobiologische link: Fawn als overlevingsreflex
 
-In onze algemene hechtingsnotities ([over-hechting/02-neurobiologie-en-zenuwstelsel.md](file:///Users/mbp13/Programmeren/schrijven/over-hechting/02-neurobiologie-en-zenuwstelsel.md)) definieerden we de reflex **Fawn** als een **sociale schutkleur**:
+In de algemene hechtingsnotities ([over-hechting/02-neurobiologie-en-zenuwstelsel.md](file:///Users/mbp13/Programmeren/schrijven/over-hechting/02-neurobiologie-en-zenuwstelsel.md)) definieer ik de reflex **Fawn** als een **sociale schutkleur**:
 - Waar een prooidier in *Freeze* roerloos stilzit in het gras om visueel niet op te vallen, past de mens in *Fawn* zijn gedrag, toon en behoeften aan om **sociaal onzichtbaar en onschadelijk** te worden voor de machthebbers of afwijzende groepsleden.
 - Masking is vaak exact deze Fawn-reflex: al in de vroege jeugd heeft het kind geleerd dat authenticiteit (stilte, enthousiasme over een specifieke interesse, sensorische huilbuien) leidt tot straf, pesten of emotionele verlating.
 - Het kind concludeert: *"Wie ik echt ben is fout; ik moet een personage construeren om veilig te zijn."*
 
 ---
 
-## 3. De Tol van Masking: De 'Autistische Kater'
+## 3. De tol van masking: de 'autistische kater'
 
 Masking voelt voor de buitenwereld alsof iemand "goed functioneert" of "zo lekker normaal meedoet". Voor de persoon met ASS is het echter vergelijkbaar met het draaien van zware, energieverslindende software op de achtergrond van een oververhitte processor.
 
-### De Symptomen van Uitputting:
+### De symptomen van uitputting:
 1. **De Autistische Kater (Post-Social Hangover):** Na een familiediner, verjaardag of kantoordag dagenlang in een donkere kamer moeten liggen met een verzwaarde deken, niet in staat tot praten of prikkelverwerking.
 2. **Autistische Burnout:** Wanneer het maskeren jarenlang wordt volgehouden, kan het systeem plotseling definitief crashen. Vaardigheden die voorheen lukten (koken, werken, autorijden, praten) vallen plotseling weg.
 3. **Identiteitsverlies:** De meest pijnlijke vraag die volwassenen met late diagnose stellen: *"Als ik stop met maskeren, wie ben ik dan eigenlijk nog? Wat vind ik zelf lekker, leuk of mooi?"*
@@ -39,7 +39,7 @@ Langdurig letten op wat anderen verwachten kan ook maken dat je eigen spanning, 
 
 ---
 
-## 4. De Weg Vooruit: Naar Veilig Ontmaskeren (Unmasking)
+## 4. De weg vooruit: naar veilig ontmaskeren (unmasking)
 
 Ontmaskeren betekent niet dat je nooit meer beleefd bent. Het betekent dat je het masker reserveert voor korte, functionele situaties (bijvoorbeeld 20 minuten bij de tandarts), maar het resoluut afzet in je intieme kring:
 - **Herken het moment van de schutkleur:** Voel in je lijf wanneer je kaken zich spannen om een glimlach vast te houden.

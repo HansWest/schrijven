@@ -1,10 +1,10 @@
-# Aankondigingstekst: De West-Sessies met Hans West (Januari & Februari 2027)
+# Aankondigingstekst: De West-Sessies met Hans West (januari & februari 2027)
 
 *Kant-en-klare tekst om in december aan te kondigen in de podcast, op FetLife, Instagram of via de nieuwsbrief.*
 
 ---
 
-## ❄️ De West-Sessies: Nuchtere Kink-Workshops voor Koude Dagen
+## ❄️ De West-Sessies: nuchtere kink-workshops voor koude dagen
 
 De feestdagen zijn voorbij, de kerstverlichting verdwijnt en januari en februari liggen voor ons: grijs, donker en soms verdomd stil. 
 
@@ -14,10 +14,9 @@ Daarom organiseert Kink-Aware Coach **Hans West** in januari en februari **De We
 
 Geen spirituele praatjes, maar nuchtere psychologie, een kalm zenuwstelsel en heldere grenzen.
 
-
 ---
 
-### Het Programma (4 Zondagmiddagen / Avonden)
+### Het programma (4 zondagmiddagen / avonden)
 
 1. **Module 1: Het Rustige Hoofd & Zelf-Aftercare**  
    *Wat doe je als de leegte toeslaat? Leren hoe drop werkt in je brein en een concreet noodprotocol bouwen voor sombere avonden.*
@@ -30,14 +29,13 @@ Geen spirituele praatjes, maar nuchtere psychologie, een kalm zenuwstelsel en he
 
 ---
 
-### Hoe het werkt & Veiligheid
+### Hoe het werkt & veiligheid
 - **100% Jouw Tempo:** Volledig online via Zoom. Je camera mag aan, maar mag net zo goed **uit** blijven. Microfoon dempen mag altijd.
 - **Privacy:** Je mag deelnemen onder een schermnaam of pseudoniem. Er worden géén opnames gemaakt.
 - **Tarieven & Luisteraars-Korting:** 
   - Regulier: € 17,50 per losse module | Winterbundel: € 49,-.
   - **Met het Luisteraars-Codewoord `WESTSESSIES`:** Slechts **€ 4,50** per module (of € 15,- voor de complete serie). Dit dient als symbolische no-show borg zodat gereserveerde plekken niet leeg blijven.
-
-  - Krap bij kas? Stuur ons een berichtje via het formulier; we houden altijd een aantal plekken 100% kosteloos beschikbaar.
+  - Krap bij kas? Stuur mij een berichtje via het formulier; ik houd altijd een aantal plekken 100% kosteloos beschikbaar.
 
 
 👉 **Meer info & Aanmelden:** `[LINK_NAAR_AANMELDPAGINA / FORMULIER]`  

@@ -1,10 +1,10 @@
-# Sociale Scripts & Algoritmes bij Autisme
+# Sociale scripts en algoritmes bij autisme
 
 > *"Voor een neurotypisch persoon is sociaal contact een intuïtieve dans; voor iemand met autisme is het software die bewust moet worden geprogrammeerd."*
 
 ---
 
-## Waarom Scripts Helpen
+## Waarom scripts helpen
 
 Onder sensorische spanning of in nieuwe sociale situaties (zoals een munch, verjaardag of meetup) schiet het autistische werkgeheugen snel vol. Door van tevoren duidelijke 'if-then' scripts in je gereedschapskist te hebben, bespaar je kostbare cognitieve rekenkracht.
 
@@ -20,25 +20,25 @@ Vraag bij onduidelijkheid liever wat de ander heeft begrepen dan te toetsen of d
 
 ---
 
-## 1. Scripts voor Binnenkomst & Kennismaking
+## 1. Scripts voor binnenkomst en kennismaking
 
-### Script 1: De Eerlijke Binnenkomer
+### Script 1: de eerlijke binnenkomer
 *Wanneer je nieuw bent en de drukte intimiderend is:*
 > *"Hoi, ik ben [Naam]. Ik ben hier voor het eerst en ik vind het best even wennen qua drukte en geluid, dus ik ga eerst even rustig met een drankje zitten observeren."*  
 - **Effect:** Je hoeft niet mee te doen aan geforceerd geklets; mensen begrijpen direct waarom je even afwachtend bent.
 
-### Script 2: De Neutrale Context-Vraag (Geen Zware Smalltalk)
+### Script 2: de neutrale contextvraag (geen zware smalltalk)
 *Wanneer je naast iemand staat bij de bar of koffietafel:*
 > *"Hoi, wat brengt jou hier vandaag?"* of *"Weet jij toevallig of er hier ergens een rustigere ruimte is om even te zitten?"*  
 - **Effect:** Je verbindt op de feitelijke situatie in plaats van op geforceerde beleefdheden over het weer.
 
 ---
 
-## 2. Scripts voor Fysieke Grenzen
+## 2. Scripts voor fysieke grenzen
 
 Mensen met ASS ervaren ongevraagde aanrakingen vaak als een fysieke schok of overprikkeling.
 
-### Script 3: De 'Liever Geen Knuffel' Begrenzing
+### Script 3: de 'liever geen knuffel'-begrenzing
 *Wanneer iemand op je afstapt met open armen ("ik ben een knuffelaar"):*
 > *Steek direct rustig een hand uit of zwaai vriendelijk:*  
 > *"Fijn je te zien! Ik doe liever geen knuffels met mensen, maar ik zwaai heel enthousiast naar je."*  
@@ -46,14 +46,14 @@ Mensen met ASS ervaren ongevraagde aanrakingen vaak als een fysieke schok of ove
 
 ---
 
-## 3. Scripts voor Vertrek: De Elegante Uitstap
+## 3. Scripts voor vertrek: de elegante uitstap
 
 Veel neurodivergenten blijven veel te lang op feestjes omdat ze niet weten hoe ze 'netjes' weg moeten gaan, met een crash of autistische kater als gevolg.
 
-### Script 4: Het Sensorische Exit-Script
+### Script 4: het sensorische exit-script
 *Wanneer je batterij nog 20% aangeeft:*
 > *"Ik merk dat mijn sociale en sensorische emmer voor vanavond vol zit. Ik vond het leuk om er te zijn, en ik ga nu lekker naar huis om op te laden. Fijne avond allemaal!"*
 
-### Script 5: De Korte Afsluiter bij 1-op-1 Gesprekken
+### Script 5: de korte afsluiter bij een-op-eengesprekken
 *Wanneer iemand maar blijft praten en je hoofd overloopt:*
 > *"Dankjewel voor het delen. Ik merk dat mijn concentratie nu echt op is en ik even moet ontprikkelen. Ik rond ons gesprek hier even af."*

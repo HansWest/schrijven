@@ -1,4 +1,4 @@
-# Idee 05: Single zijn & een verbonden leven
+# Idee 05: single zijn & een verbonden leven
 
 Een verkenning van single-zijn onder kinksters zonder het als tekort of als universele levenskeuze neer te zetten. Een romantische relatie mogen willen en een betekenisvol leven zonder vaste partner zijn sluiten elkaar niet uit.
 

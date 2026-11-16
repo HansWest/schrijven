@@ -1,17 +1,17 @@
-# Hechting als Dynamische Reactiepatronen: Relationele Diagnostiek & Praktijkprotocollen
+# Hechting als dynamische reactiepatronen: relationele diagnostiek en praktijkprotocollen
 
-> **Integrative Relationship Coaching — Methodiek & Oefeningen**  
+> **Integrative Relationship Coaching - Methodiek & Oefeningen**  
 > *Waarom hechting geen onveranderlijke identiteit is, hoe verschillende partners verschillende reactiepatronen ontlokken, en praktische interventies om het zenuwstelsel te herbedraden.*
 
 ---
 
-## 1. Theoretisch Fundament: Voorbij het Label 'Hechtingsstijl'
+## 1. Theoretisch fundament: voorbij het label 'hechtingsstijl'
 
 In de volwassen hechtingspsychologie (Bartholomew & Horowitz) worden traditioneel vier hechtingsstijlen onderscheiden op basis van het zelfbeeld en het beeld van de ander:
 - **1. Veilig gehecht (*Secure*)** (+ Zelf / + Ander)
-- **2. Angstig-gepreoccupeerd (*Anxious-Preoccupied* / AP)** (- Zelf / + Ander) — ook wel *angstig-ambivalent*
-- **3. Afwijzend-vermijdend (*Dismissing-Avoidant* / DA)** (+ Zelf / - Ander) — ook bekend als *dismissief-vermijdend*
-- **4. Angstig-vermijdend (*Fearful-Avoidant* / FA)** (- Zelf / - Ander) — de volwassen vorm van *gedesorganiseerde* hechting
+- **2. Angstig-gepreoccupeerd (*Anxious-Preoccupied* / AP)** (- Zelf / + Ander) - ook wel *angstig-ambivalent*
+- **3. Afwijzend-vermijdend (*Dismissing-Avoidant* / DA)** (+ Zelf / - Ander) - ook bekend als *dismissief-vermijdend*
+- **4. Angstig-vermijdend (*Fearful-Avoidant* / FA)** (- Zelf / - Ander) - de volwassen vorm van *gedesorganiseerde* hechting
 
 In de relationele praktijk en coaching blijkt deze typering echter vaak te rigide wanneer men het als een vaststaand persoonlijkheidsetiket hanteert:
 
@@ -34,11 +34,11 @@ In de relationele praktijk en coaching blijkt deze typering echter vaak te rigid
 
 ---
 
-## 2. Praktijkprotocol 1: De Partner-Vergelijkende Reactiematrix
+## 2. Praktijkprotocol 1: de partner-vergelijkende reactiematrix
 
 Gebruik dit werkblad tijdens coaching om coachees inzicht te geven in hun eigen dynamiek en de mythe van "ik ben nou eenmaal zo" te ontkrachten.
 
-### Werkblad: Partner A vs. Partner B Vergelijking
+### Werkblad: partner A vs. partner B vergelijking
 
 | Vraagstuk / Dimensie | Partner / Ex A (Triggerend) | Partner / Ex B (Kalmerend of Anders) | Inzicht in de Tussenruimte |
 | :--- | :--- | :--- | :--- |
@@ -50,17 +50,17 @@ Gebruik dit werkblad tijdens coaching om coachees inzicht te geven in hun eigen 
 
 ---
 
-## 3. Praktijkprotocol 2: Hersenstam-Regulatie bij Patroon-Activatie
+## 3. Praktijkprotocol 2: hersenstamregulatie bij patroonactivatie
 
 Wanneer een hechtingspatroon acuut wordt getriggerd, is de neocortex (het denkende, rationele brein) 'offline'. De coachee bevindt zich in een **hersenstam-kapermodus**. Dit uit zich in een van de **7 F-overlevingsreflexen**:
 - **Frenzy (Craving & Fixatie):** Een relatief klein signaal ervaren als van acuut levensbelang; obsessieve tunnelvisie, continu refreshen, dwingende drang om *nú* contact te forceren (een acute fysiologische drang en afhankelijkheid om het overstuurde zenuwstelsel te kalmeren).
-- **Flight (Vluchten — Naar Buiten of Naar Binnen):**
+- **Flight (Vluchten - Naar Buiten of Naar Binnen):**
   - *Buitenwereld:* Fysiek weglopen, contact plotseling verbreken, obsessieve afleiding, overmatig werken/sporten, verdoving via middelen (alcohol, drugs).
   - *Binnenwereld:* Zich mentaal terugtrekken in het eigen hoofd, dagdromen/fantasie, over-intellectualiseren om niet te hoeven voelen, emotioneel uitchecken.
 - **Flock (Kudde zoeken):** In paniek vrienden rondbellen of datingapps openen ter afleiding van de leegte.
-- **Fight (Vechten — De Kat op de Kast):** Niet per se doelgerichte boosheid, maar de reactie van een kat die in het nauw gedreven op de kast zit: een ongerichte bol klauwen die puur veiligheid zoekt door alles met sneren, kille jij-bakken en cynisme op brute afstand te houden (afwijzend-vermijdende DA- of angstig-vermijdende FA-reactie).
-- **Freeze (Bevriezen — Vertrouwen op Schutkleuren):** Zoals een dier dat roerloos stilzit en vertrouwt op camouflage terwijl de vijand vlakbij is; jezelf muisstil houden, emoties bevriezen, 'opgaan in het behang' in de hoop dat de bui overwaait. De motor draait op volle toeren, maar de rem staat erop.
-- **Fawn (Pleasen — De Sociale Schutkleur):** Waar Freeze fysieke camouflage is, fungeert Fawn als een sociale schutkleur: door preventieve submissie en inschikkelijkheid word je onzichtbaar/ongevaarlijk voor machtzoekers in de groep. Eigen behoeften worden gewist om onder de radar te blijven.
+- **Fight (Vechten - De Kat op de Kast):** Niet per se doelgerichte boosheid, maar de reactie van een kat die in het nauw gedreven op de kast zit: een ongerichte bol klauwen die puur veiligheid zoekt door alles met sneren, kille jij-bakken en cynisme op brute afstand te houden (afwijzend-vermijdende DA- of angstig-vermijdende FA-reactie).
+- **Freeze (Bevriezen - Vertrouwen op Schutkleuren):** Zoals een dier dat roerloos stilzit en vertrouwt op camouflage terwijl de vijand vlakbij is; jezelf muisstil houden, emoties bevriezen, 'opgaan in het behang' in de hoop dat de bui overwaait. De motor draait op volle toeren, maar de rem staat erop.
+- **Fawn (Pleasen - De Sociale Schutkleur):** Waar Freeze fysieke camouflage is, fungeert Fawn als een sociale schutkleur: door preventieve submissie en inschikkelijkheid word je onzichtbaar/ongevaarlijk voor machtzoekers in de groep. Eigen behoeften worden gewist om onder de radar te blijven.
 - **Feign Death (Schijndood & Depressie):** De reactie op totale hopeloosheid (overgave in de bek van het roofdier); diepe depressieve apathie, status laten varen, emotionele analgesie (niet meer reageren op pijn), geen honger meer hebben en acute somatische lediging (angstige diarree).
 
 ```
@@ -89,7 +89,7 @@ Wanneer een hechtingspatroon acuut wordt getriggerd, is de neocortex (het denken
        └────────────────────────────────────────────────────────┘
 ```
 
-### De Drie Gouden Regels voor de Coachee:
+### De drie gouden regels voor de coachee:
 1. **Communicatie-stop bij hartslag > 100 bpm / beklemming:** Als je hechtingspatroon flikkert, typ je geen bericht. Elk bericht dat je nu verstuurt is een *aanval vermomd als vraag*, of een *pleasende overgave*.
 2. **De 'Voor-Vergeving' Inzetten:** Spreek in rustige tijden met je partner af:
    > *"Ik weet dat mijn reactiepatronen soms getriggerd worden door situaties waarin jij geen kwaad in de zin hebt. Ik vergeef je op voorhand dat je onbedoeld op mijn oude zenuwsporen stapt, mits we samen bereid zijn de breuk te herstellen."*
@@ -99,7 +99,7 @@ Wanneer een hechtingspatroon acuut wordt getriggerd, is de neocortex (het denken
 
 ---
 
-## 4. Praktijkprotocol 3: Hechtingspatronen in Polyamorie & Kink
+## 4. Praktijkprotocol 3: hechtingspatronen in polyamorie en kink
 
 Bij non-monogamie en kinky dynamieken wordt dit principe nog duidelijker én complexer:
 
@@ -112,7 +112,7 @@ Bij non-monogamie en kinky dynamieken wordt dit principe nog duidelijker én com
 
 ---
 
-## 5. Praktijkprotocol 4: Diagnostiek met het Tweelagenmodel (Zelf vs. Ik & Weerkaart vs. Navigatie)
+## 5. Praktijkprotocol 4: diagnostiek met het tweelagenmodel (Zelf vs. Ik en weerkaart vs. navigatie)
 
 Wanneer een coachee vastloopt in relaties, voorkomt het [Tweelagenmodel](../over-hechting/03-tweelagenmodel-affect-en-strategie.md) (zie ook [Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)) dat de coach gevoelens en gedrag op één hoop gooit. Het model splitst de ervaring op in:
 1. **Laag 1: Het ZELF (Archicortex & Paleocortex / Hersenstam):** De organismische weerkaart die affecten direct ondergaat zonder woorden.
@@ -120,7 +120,7 @@ Wanneer een coachee vastloopt in relaties, voorkomt het [Tweelagenmodel](../over
 
 Stel tijdens de intake en sessies altijd **twee afzonderlijke diagnostische vragen**:
 
-### Vraag 1: Wat is het affectieve weerbericht in het Zelf? (Laag 1)
+### Vraag 1: wat is het affectieve weerbericht in het Zelf? (laag 1)
 Onderzoek de drie primaire emotiesystemen in de hersenstam en het paleobrein:
 - **FEAR:** Voelt nabijheid of afhankelijkheid voor het Zelf als acuut gevaar/bedreiging?
 - **PANIC / GRIEF:** Voelt afstand of onbereikbaarheid als rauwe verlatingspijn?
@@ -131,19 +131,19 @@ Onderzoek de drie primaire emotiesystemen in de hersenstam en het paleobrein:
 > - Is SEEKING hoog (actieve passies, nieuwsgierig naar mensen, vitale levenslust)? → **Veilige, gezonde autonomie**.  
 > - Is SEEKING laag (geen relationele nieuwsgierigheid, vermijdende apathie, functionele leegte)? → **Defensieve shutdown / collaps (dorsale freeze van het Zelf)**. Dezelfde uitspraak, twee totaal verschillende fysiologische toestanden.
 
-### Vraag 2: Welke navigatiestrategie draait het Ik in de neocortex? (Laag 2)
+### Vraag 2: welke navigatiestrategie draait het Ik in de neocortex? (laag 2)
 - Wordt er gekozen voor toenadering of afstand?
 - Is er sprake van **hyperactivatie** (aanklampen, claimen, escaleren) of **deactivatie** (afstand nemen, intellectualiseren, kille autonomie)?
 - Is deze strategie van het Ik **flexibel** (kan de coachee schakelen per situatie) of **rigide** (draait de strategie als een dwangmatige reflex)?
 
-### Het Doel van Coaching: Van Rigide Reflex naar Flexibele Koppeling
+### Het doel van coaching: van rigide reflex naar flexibele koppeling
 De hechtingsstijl is de geautomatiseerde koppelingsregel: *"Als mijn Zelf Laag 1 voelt, MOET mijn Ik Laag 2 uitvoeren."*  
 In plaats van de coachee een etiket op te plakken, helpt de coach om de koppeling te vertragen:
 1. **Benoem het weer in het Zelf (Laag 1):** *"Mijn Zelf voelt nu PANIC."*
 2. **Onderbreek het automatische script van het Ik:** *"Mijn oude reflex wil nu 20 appjes sturen (Laag 2 Hyperactivatie)."*
 3. **Kies een flexibele, volwassen strategie:** *"Hoe kan mijn Ik nu liefdevol zorgen voor mijn Zelf, zonder in de oude overlevingskramp te schieten?"*
 
-#### De Drie Ontwikkelingsstappen van 'Soepeler Koppelen' in de Praktijk:
+#### De drie ontwikkelingsstappen van 'soepeler koppelen' in de praktijk:
 - **1. Eerder herkennen:** Train de coachee in interoceptie (lichaamsbewustzijn). Leer de micro-signalen herkennen (adem, buik, kaakspanning) *vóórdat* de hersenstam de neocortex kaapt en men vol in de overlevingsstand zit.
 - **2. Voor zijn:** Leer de coachee triggers proactief te voorkomen door kaders en context tijdig te communiceren naar partners (bijv. vermoeidheid of overprikkeling vooraf benoemen).
 - **3. Er sneller uit zijn:**
@@ -152,11 +152,11 @@ In plaats van de coachee een etiket op te plakken, helpt de coach om de koppelin
 
 ---
 
-## 6. Praktijkprotocol 4: De "Als-Dan" Hechtingsnavigatiekaart (Voor Zelf en Partner)
+## 6. Praktijkprotocol 5: de 'als-dan' hechtingsnavigatiekaart (voor zelf en partner)
 
-Omdat **niemand 100% veilig gehecht is** en overlevingspatronen worden uitgelokt door specifieke situaties, vermoeidheid of de dynamiek in de tussenruimte, stappen we in coaching resoluut af van de statische identiteitsclaim (*"Ik ben nu eenmaal een vermijder of pleaser"*).
+Omdat **niemand 100% veilig gehecht is** en overlevingspatronen worden uitgelokt door specifieke situaties, vermoeidheid of de dynamiek in de tussenruimte, stap ik in coaching resoluut af van de statische identiteitsclaim (*"Ik ben nu eenmaal een vermijder of pleaser"*).
 
-We vervangen het etiket door een **concrete, operationele navigatiekaart**:  
+Ik vervang het etiket door een **concrete, operationele navigatiekaart**:  
 > *"Als ik merk dat patroon X in mij wordt uitgelokt: wat kan IK op dat moment het beste doen, en wat kan mijn PARTNER het beste doen om co-regulatie en veiligheid te herstellen?"*
 
 ```
@@ -177,9 +177,9 @@ We vervangen het etiket door een **concrete, operationele navigatiekaart**:
     └─► Wat doet de PARTNER?        └─► Wat doet de PARTNER?        └─► Wat doet de PARTNER?
 ```
 
-### De Drie Protocollen in Detail:
+### De drie protocollen in detail:
 
-#### 1. Wanneer het Angstig-Gepreoccupeerde (AP) Patroon Ontvlamt
+#### 1. Wanneer het angstig-gepreoccupeerde (AP) patroon ontvlamt
 * **Wat het Zelf voelt (Laag 1):** Rauwe scheidingspaniek (PANIC), hartkloppingen, knoop in de maag, alertheid: *"Ik verlies de ander, ik word verlaten."*
 * **Wat de automatische reflex is:** Claimen, 10 appjes sturen, controleren, drama forceren om direct contact af te dwingen (*Frenzy / Fight*).
 * **Wat IK op dat moment het beste kan doen:**
@@ -193,7 +193,7 @@ We vervangen het etiket door een **concrete, operationele navigatiekaart**:
 
 ---
 
-#### 2. Wanneer het Afwijzend-Vermijdende (DA) Patroon Ontvlamt
+#### 2. Wanneer het afwijzend-vermijdende (DA) patroon ontvlamt
 * **Wat het Zelf voelt (Laag 1):** Beklemming, fysiologische overdosis aan prikkels, het gevoel 'klem' te zitten; drang om te verdwijnen (*Flight / Freeze*).
 * **Wat de automatische reflex is:** Emotioneel uitchecken, kille blik, defensieve sneren (*"Je overdrijft altijd"*), fysiek weglopen of dagenlange stilte.
 * **Wat IK op dat moment het beste kan doen:**
@@ -207,7 +207,7 @@ We vervangen het etiket door een **concrete, operationele navigatiekaart**:
 
 ---
 
-#### 3. Wanneer het Angstig-Vermijdende (FA) Patroon Ontvlamt
+#### 3. Wanneer het angstig-vermijdende (FA) patroon ontvlamt
 * **Wat het Zelf voelt (Laag 1):** Acute verraadwond, diep wantrouwen, doodsangst voor controleverlies gecombineerd met een wanhopig verlangen naar liefde.
 * **Wat de automatische reflex is:** De 'pomp-test' (de partner testen via ijzige stilte om te kijken of die blijft investeren), afwisselend vastklampen en de partner woedend afstoten.
 * **Wat IK op dat moment het beste kan doen:**
@@ -221,7 +221,7 @@ We vervangen het etiket door een **concrete, operationele navigatiekaart**:
 
 ---
 
-## 7. Samenvattend Advies voor de Beoefenaar / Coach
+## 7. Samenvattend advies voor de beoefenaar / coach
 
 - **Vervang het etiket door nieuwsgierigheid:** Vraag niet: *"Welke hechtingsstijl heeft deze persoon?"*, maar vraag: *"Welk reactiepatroon wordt in deze specifieke relatie opgeroepen, en wat is de functie daarvan voor het zenuwstelsel van deze partner?"*
 - **Kijk naar de chemie tussen twee zenuwstelsels:** Onderzoek waarom partner A dit patroon activeert en partner B niet.

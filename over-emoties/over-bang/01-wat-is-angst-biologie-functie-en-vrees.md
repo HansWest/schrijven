@@ -2,7 +2,7 @@
 
 Angst is een fundamentele emotie. Angstreacties komen ook voor bij veel andere diersoorten; ze zijn niet uitsluitend menselijk. Bij mensen kleuren taal, herinneringen, verbeelding en sociale verwachtingen de manier waarop angst wordt ervaren. De ervaring kan lopen van lichte onrust of bezorgdheid tot hevige vrees en paniek.
 
-Angst ontstaat wanneer we een dreiging waarnemen of verwachten en zet lichaam en aandacht in een beschermende stand. Dat voelt vaak onaangenaam, maar onaangenaam betekent niet automatisch slecht of zinloos: het gevoel maakt dat we opletten en iets aan een mogelijk gevaar willen doen. Een brandmelder die een prettig slaapliedje speelt bij rook zou waarschijnlijk minder goed waarschuwen; het indringende signaal vraagt juist om aandacht.
+Angst ontstaat wanneer je een dreiging waarneemt of verwacht en zet lichaam en aandacht in een beschermende stand. Dat voelt vaak onaangenaam, maar onaangenaam betekent niet automatisch slecht of zinloos: het gevoel maakt dat je oplet en iets aan een mogelijk gevaar wilt doen. Een brandmelder die een prettig slaapliedje speelt bij rook zou waarschijnlijk minder goed waarschuwen; het indringende signaal vraagt juist om aandacht.
 
 Angst is wel een signaal, geen bewijs dat er zeker gevaar is. Soms klopt de inschatting, soms is het alarm gevoeliger dan nodig, en soms reageert het op een mogelijkheid in plaats van op een direct gevaar.
 
@@ -18,9 +18,9 @@ Bij een mogelijke dreiging verwerken verschillende hersengebieden informatie en 
 
 Deze reacties verlopen vaak grotendeels automatisch. Ze bereiden het lichaam voor op bescherming, bijvoorbeeld door te vechten, te vluchten, stil te vallen of hulp te zoeken. Niet iedereen reageert op dezelfde manier; er is geen enkele vaste angstreactie.
 
-## Waar angst ons bij helpt
+## Waar angst je bij helpt
 
-Angst kan ons waarschuwen voor gevaar, ons helpen grenzen te bewaken en ons voorbereiden op iets dat belangrijk of spannend is. Een zekere spanning voor een examen of gesprek kan bijvoorbeeld aanzetten tot voorbereiding. Angst kan ook helpen ervaringen te onthouden en later voorzichtiger te handelen.
+Angst kan je waarschuwen voor gevaar, je helpen grenzen te bewaken en je voorbereiden op iets dat belangrijk of spannend is. Een zekere spanning voor een examen of gesprek kan bijvoorbeeld aanzetten tot voorbereiding. Angst kan ook helpen ervaringen te onthouden en later voorzichtiger te handelen.
 
 Angst is dus niet op zichzelf slecht of irrationeel. Een nuttige vraag is wat de emotie probeert te beschermen en of de reactie past bij wat er nu werkelijk aan de hand is.
 

@@ -1,16 +1,16 @@
-# Schrijffilosofie: Waarom Hier Géén 'Single Source of Truth' Geldt
+# Schrijffilosofie: waarom hier géén 'Single Source of Truth' geldt
 
 > **Meta-Documentatie voor de Repository `schrijven`**  
 > *Over de organische aard van schrijven, hergebruik van ideeën en de autonomie van afzonderlijke projecten en boeken.*
 
 ---
 
-## 1. Het Principe: Schrijven is Geen Softwarecode
+## 1. Het principe: schrijven is geen softwarecode
 
 In software-architectuur is het principe van een *Single Source of Truth* (SSOT) en *Don't Repeat Yourself* (DRY) vaak heilig: één stukje data of logica mag maar op exact één plek bestaan om inconsistentie te voorkomen.
 
 **Voor deze schrijf-repository geldt uitdrukkelijk het tegenovergestelde:**
-Binnen `schrijven` hanteren we **bewust géén starre Single Source of Truth**.
+Binnen `schrijven` hanteer ik **bewust géén starre Single Source of Truth**.
 
 ### Waarom?
 1. **Context Bepaalt de Vorm:**  
@@ -22,7 +22,7 @@ Binnen `schrijven` hanteren we **bewust géén starre Single Source of Truth**.
 
 ---
 
-## 2. De Verhouding Tussen Mappen en Projecten
+## 2. De verhouding tussen mappen en projecten
 
 Binnen de workspace `schrijven` bestaan twee soorten ruimtes naast elkaar:
 
@@ -43,19 +43,19 @@ schrijven/
     └── [toekomstige boeken / bundels / columns]
 ```
 
-### 1. De Thematische Kennisbanken (`over-.../`)
+### 1. De thematische kennisbanken (`over-.../`)
 - Dienen als **denkruimtes, referentiepunten en composthopen**.
 - Hier worden concepten verkend, aforismen genoteerd en theorieën geboetseerd.
 - Ze zijn informatief en ondersteunend, maar leggen geen dwingende dogma's op aan concrete projecten.
 
-### 2. De Zelfstandige Projecten (`kinky-kerst-eenzaamheid/`, etc.)
+### 2. De zelfstandige projecten (`kinky-kerst-eenzaamheid/`, etc.)
 - Zijn **autonome creaties** gericht op een specifiek doel, doelgroep of medium (bijv. een kerstcampagne, een podcastserie, een boekmanuscript).
 - Mogen vrijelijk putten uit de thematische kennisbanken, ideeën overnemen, aanpassen, inkorten of juist verder uitdiepen.
 - Beschikken waar nodig over een **eigen interne projectdocumentatie** (zoals `kinky-kerst-eenzaamheid/docs/`). Wat binnen dat specifieke project als 'waarheid' of leidraad geldt voor dat doel, hoeft niet te gelden voor een ander project.
 
 ---
 
-## 3. Richtlijnen voor Schrijven en Redigeren
+## 3. Richtlijnen voor schrijven en redigeren
 
 Wanneer je werkt binnen deze repository:
 - **Wees niet bang voor overlap:** Voel je volkomen vrij om een theorie over hechting, een quote over het zwarte gat of een analyse van amatonormativiteit opnieuw op te schrijven en aan te passen aan de stem van het specifieke stuk.

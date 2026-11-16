@@ -10,7 +10,7 @@ Seks kan je zien als een positieve feedbackloop. Mensen reageren op elkaar en st
 
 ## Luisteren naar woorden én signalen
 
-Een gesprek bestaat uit woorden, toon en lichaamstaal. Ook tijdens seks kunnen verbale en non-verbale signalen iets vertellen over hoe iemand zich voelt. Als iemand zich terugtrekt, verstijft, stilvalt of zich afwendt, is dat reden om te pauzeren en te checken — niet om zelf in te vullen wat het betekent.
+Een gesprek bestaat uit woorden, toon en lichaamstaal. Ook tijdens seks kunnen verbale en non-verbale signalen iets vertellen over hoe iemand zich voelt. Als iemand zich terugtrekt, verstijft, stilvalt of zich afwendt, is dat reden om te pauzeren en te checken - niet om zelf in te vullen wat het betekent.
 
 Een signaal heeft niet altijd één vaste betekenis. Iemand die zich omdraait kan bijvoorbeeld iets anders bedoelen dan afstand nemen. Vraag dus rustig na: *“Ik merk dat je je omdraait. Wil je doorgaan, iets anders proberen of even pauzeren?”* Het doel is niet om elk gebaar correct te ontcijferen, maar om opmerkzaam te zijn en werkelijk naar het antwoord te luisteren.
 

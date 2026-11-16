@@ -2,11 +2,11 @@ Hieronder vind je de blauwdruk voor de handreiking/factsheet, direct inzetbaar a
 
 De inhoud is strikt wetenschappelijk en diagnostisch onderbouwd via de geldende psychiatrische en seksuologische richtlijnen, aangevuld met een nuchtere, kink-aware gespreksmethodiek.
 
-# **Handreiking: Kink & BDSM in de Eerste- en Tweedelijnszorg en Familie**
+# **Handreiking: Kink en BDSM in de eerste- en tweedelijnszorg en familie**
 
 *Een nuchtere leidraad voor huisartsen, POH-GGZ, psychologen en maatschappelijk werkers.*
 
-## **1\. De Diagnostische Scheidslijn: DSM-5-TR & ICD-11**
+## **1\. De diagnostische scheidslijn: DSM-5-TR en ICD-11**
 
 Een van de meest voorkomende knelpunten in de spreekkamer is het verwarren van een **onconventionele seksuele voorkeur** met een **psychiatrische stoornis**.
 
@@ -18,7 +18,7 @@ Een van de meest voorkomende knelpunten in de spreekkamer is het verwarren van e
 * **Trauma-verband:** Onderzoek toont aan dat kinkster-populaties gemiddeld niet méér psychopathologie of ongeheeld trauma vertonen dan representatieve controlegroepen. Ga er in de anamnese dus niet automatisch van uit dat een voorkeur voor onderwerping of dominantie het gevolg is van vroegkinderlijk misbruik.
 
 
-## **2\. Het Profiel van de 'Eenzame Kinkster'**
+## **2\. Het profiel van de 'eenzame kinkster'**
 
 Patiënten stappen zelden binnen met de mededeling: *"Dokter, ik zit in een D/s-dynamiek."* Schaamte en angst voor afwijzing leiden ertoe dat relationele en seksuele vraagstukken vermomd op het spreekuur komen:
 
@@ -31,7 +31,7 @@ Patiënten stappen zelden binnen met de mededeling: *"Dokter, ik zit in een D/s-
 * **Angst voor de professionele omgeving:** Zorgen over geheimhouding, gezinsvoogdij of werk (vooral bij mensen met publieke beroepen).
 
 
-## **3\. Do's en Don'ts in het Gesprek**
+## **3\. Do's en don'ts in het gesprek**
 
 | Wat je beter wél doet (Kink-Aware) | Wat je beter vermijdt (Pathologiserend) |
 | :---- | :---- |
@@ -40,7 +40,7 @@ Patiënten stappen zelden binnen met de mededeling: *"Dokter, ik zit in een D/s-
 | **Valideer de terminologie:** Termen als *sub*, *Dom*, *aftercare* of *safeword* serieus nemen en verhelderen. | **Bagatelliseren of sensatiebelust reageren:** Giechelen, moreel oordelen of vragen naar irrelevante pikante details. |
 | **Erken de relationele structuur:** Begrijp dat een 24/7-dynamiek een reëel organisatiemodel van iemands leven is. | **Het reduceren tot 'seks':** *"Het is toch gewoon een spelletje voor in bed?"* |
 
-## **4\. De Snelle Kink-Check (3 Vragen voor de Spreekkamer)**
+## **4\. De snelle kink-check (drie vragen voor de spreekkamer)**
 
 Wanneer een patiënt hint op atypische dynamieken of vastloopt in intimiteit, open je het gesprek neutraal en feitelijk met deze drie vragen:
 
@@ -51,7 +51,7 @@ Wanneer een patiënt hint op atypische dynamieken of vastloopt in intimiteit, op
 3. **De Lijdensdruk-check:**  
    *"Geeft deze dynamiek jou juist energie en vervulling, of kost het je op dit moment energie en functioneren?"*
 
-## **5\. Wanneer Verwijs Je Door?**
+## **5\. Wanneer verwijs je door?**
 
 Verwijs laagdrempelig door naar een **NVVS-geregistreerde seksuoloog** of een therapeut met expliciete aantekening in **Kink-Aware Professional (KAP)** registers wanneer:
 
@@ -65,13 +65,13 @@ Verwijs laagdrempelig door naar een **NVVS-geregistreerde seksuoloog** of een th
   
 \----
 
-## klanten bijdrages
+## Klantenbijdrages
 
-Mensen die worstelen met eenzaamheid rondom kink, relatiebreuken of onbegrip stappen zelden zomaar naar voren. De schaamte en angst voor ontdekking zijn groot, zeker wanneer december nadert — een maand waarin eenzaamheid en relationele frictie toch al uitvergroot worden.
+Mensen die worstelen met eenzaamheid rondom kink, relatiebreuken of onbegrip stappen zelden zomaar naar voren. De schaamte en angst voor ontdekking zijn groot, zeker wanneer december nadert - een maand waarin eenzaamheid en relationele frictie toch al uitvergroot worden.
 
 Om hen in oktober veilig en actief te laten bijdragen aan een aflevering in december, moet je de drempel neurobiologisch en sociaal zo laag mogelijk maken: **volledige anonimiteit, erkenning van hun situatie en een uitnodiging die niet vraagt om publieke zichtbaarheid.**
 
-### **1\. De Inhaak in oktober: Hoe kondig je dit aan?**
+### **1\. De inhaak in oktober: hoe kondig je dit aan?**
 
 In oktober neem je een korte oproep op (1,5 tot 2 minuten) aan het begin of einde van je reguliere afleveringen. Gebruik het mechanisme van **herkenning vóór actie**:
 
@@ -80,7 +80,7 @@ In oktober neem je een korte oproep op (1,5 tot 2 minuten) aan het begin of eind
   *Voor de speciale december-uitzendingen van Sinquest wil ik juist een stem geven aan de mensen die zich hier eenzaam in voelen. Ik ben een handreiking aan het maken voor reguliere hulpverleners \- zoals huisartsen en psychologen \- zodat zij onze wereld beter gaan begrijpen in plaats van veroordelen.*  
   *Wil jij me anoniem vertellen wat jij het meest hebt gemist bij een hulpverlener, vriend of partner? Jouw ervaring helpt direct mee aan deze toolkit. In de shownotes staat een anonieme link: geen namen, geen e-mailadressen, alleen jouw stem of woorden."*
 
-### **2\. De Tools: Hoe neem je de angst voor ontmaskering weg?**
+### **2\. De tools: hoe neem je de angst voor ontmaskering weg?**
 
 Eenzame luisteraars haken af zodra ze moeten inloggen met een Google-account of als ze vrezen dat hun e-mailadres ergens wordt opgeslagen.
 
@@ -88,7 +88,7 @@ Eenzame luisteraars haken af zodra ze moeten inloggen met een Google-account of 
   * Zet Google-inlogverplichtingen en e-mailtracking volledig uit.  
   * Zet bovenaan een expliciete disclaimer: *"Dit formulier slaat geen IP-adressen of Google-gegevens op. Je hoeft geen naam in te vullen."*
 
-### **3\. Vragenlijst: Vraag naar de *ervaring*, niet naar het oordeel**
+### **3\. Vragenlijst: vraag naar de *ervaring*, niet naar het oordeel**
 
 Vraag eenzame mensen niet: *"Wat vind je van het project?"*, maar geef ze gerichte vragen waarin ze hun pijn en behoeften kwijt kunnen:
 

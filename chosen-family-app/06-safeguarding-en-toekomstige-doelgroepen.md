@@ -1,10 +1,10 @@
-# Safeguarding & Toekomstige Doelgroepen: Randvoorwaarden voor Verantwoorde Uitbreiding
+# Safeguarding en toekomstige doelgroepen: randvoorwaarden voor verantwoorde uitbreiding
 
 > *"Goedbedoelde kwetsbaarheid zonder professionele kaders is een open uitnodiging voor uitbuiting. Bescherming van minderjarigen en kwetsbare doelgroepen begint met de moed om 'nog niet' te zeggen."*
 
 ---
 
-## 1. Het Standpunt: Waarom We Nu Starten met Uitsluitend Volwassenen
+## 1. Het standpunt: waarom de start nu uitsluitend met volwassenen is
 
 Veel jongeren en kwetsbare mensen voelen zich eenzaam of onbegrepen in hun biologische familie en snakken naar een 'gekozen ouder' of 'veilige familie'. Dit verlangen is legitiem en diep invoelbaar.
 
@@ -14,29 +14,29 @@ Daarom start de haalbare eerste versie **strikt voor volwassenen (18+)**.
 
 ---
 
-## 2. De Vijf Onwrikbare Randvoorwaarden voor Toekomstige Uitbreiding
+## 2. De vijf onwrikbare randvoorwaarden voor toekomstige uitbreiding
 
 Een uitbreiding naar minderjarigen of complexere doelgroepen (zoals mensen in acute GGZ-crisis of beschermd wonen) kan **onder geen enkele voorwaarde plaatsvinden** voordat aan alle vijf onderstaande pijlers is voldaan:
 
-### Pijler 1: Institutionele Partnerschappen
+### Pijler 1: institutionele partnerschappen
 - Het platform kan dit niet zelfstandig als particuliere app organiseren.
 - Er moet een formeel samenwerkingsverband zijn met **erkende jeugdhulporganisaties, jongerenwerk of gemeentelijke instanties** (zoals het NJi, Jeugdzorg of gecertificeerde welzijnsinstellingen).
 - Lokale professionals moeten ter plaatse fysiek bereikbaar zijn.
 
-### Pijler 2: Professioneel & Gekwalificeerd Personeel
+### Pijler 2: professioneel en gekwalificeerd personeel
 - Vrijwillige moderatoren zijn ontoereikend voor situaties rondom minderjarigen en complexe problematiek.
 - Er moeten **betaalde, BIG- of SKJ-geregistreerde professionals** (orthopedagogen, maatschappelijk werkers of safeguarding officers) worden aangesteld voor intake, screening en procesbegeleiding.
 
-### Pijler 3: Geborgde & Duurzame Financiering
+### Pijler 3: geborgde en duurzame financiering
 - Safeguarding kost structureel geld. Een uitbreiding mag nooit afhankelijk zijn van wankele crowdsourcing of vrijwilligersinzet die plots kan wegvallen.
 - Er moet meerjarige financiering zijn voor personeelskosten, juridische audits en crisisopvang.
 
-### Pijler 4: Strikte Privacy & Privacy-by-Design voor Minderjarigen
+### Pijler 4: strikte privacy en privacy-by-design voor minderjarigen
 - Gescheiden databases voor jongerendossiers met de hoogste encryptiestandaarden.
 - Volledige naleving van de AVG/GDPR ten aanzien van minderjarigen en kwetsbare groepen.
 - Leeftijdsverificatie die waterdicht is zónder onnodige surveillance.
 
-### Pijler 5: Een Waterdicht Safeguarding-Protocol
+### Pijler 5: een waterdicht safeguarding-protocol
 Voordat een jongere ooit gekoppeld kan worden binnen een kring:
 1. **Verplichte VOG (Verklaring Omtrent het Gedrag):** Voor alle volwassenen die deelnemen aan intergenerationele programma's.
 2. **Het Vier-Ogen-Principe:** Geen enkele ontmoeting tussen een minderjarige en een volwassene vindt ooit privé plaats; ontmoetingen zijn altijd ingebed in een door professionals begeleide groep.
@@ -45,6 +45,6 @@ Voordat een jongere ooit gekoppeld kan worden binnen een kring:
 
 ---
 
-## 3. Conclusie voor de Huidige Fase
+## 3. Conclusie voor de huidige fase
 
 Totdat aan alle vijf randvoorwaarden onomstotelijk is voldaan, focust het project zich 100% op het **veilig, betrouwbaar en warm vormgeven van de volwassen kringen**. Pas wanneer die basis als een huis staat, kan in overleg met overheden en experts worden onderzocht hoe jongeren veilig kunnen aanhaken.

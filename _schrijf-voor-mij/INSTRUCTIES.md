@@ -5,7 +5,7 @@ Het is waarschijnlijk een eerste begin met losse flarden of het mist nog een ein
 
 Lees de nieuwe bestanden (behalve dit instructie-bestand), raadpleeg de gerelateerde informatie uit de overige mappen en gebruik en herschik de bruikbare inhoud en ideeën.
 
-### Afstemming vooraf (Perspectief en Taal)
+### Afstemming vooraf (perspectief en taal)
 Vraag de auteur vóór het schrijven altijd om een korte afstemming over:
 1. **Perspectief:** In het algemeen schrijft de auteur in de **ik-vorm**; slechts zelden in de **wij-vorm**. Vraag vooraf of het stuk in de ik-vorm (standaard) of wij-vorm geschreven moet worden.
 2. **Taal:** In welke taal moet het stuk geschreven worden (meestal natuurlijk Nederlands)?

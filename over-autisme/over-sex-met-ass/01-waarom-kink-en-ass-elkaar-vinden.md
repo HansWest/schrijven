@@ -1,10 +1,10 @@
-# Waarom Kink en ASS Elkaar Vinden: De Rust van Heldere Kaders
+# Waarom kink en ASS elkaar vinden: de rust van heldere kaders
 
 > *"Waar vanilla seks vaak aanvoelt als een onvoorspelbaar sociaal examen, is kink een contract met een duidelijke handleiding waarin het autistische brein eindelijk kan ontspannen."*
 
 ---
 
-## 1. Het Mijnenveld van 'Vanilla' Seks
+## 1. Het mijnenveld van 'vanilla' seks
 
 In de conventionele (neurotypische) seksuele wereld geldt een ingewikkelde set ongeschreven regels:
 - Je moet 'de sfeer proeven'.
@@ -21,16 +21,16 @@ Hierdoor schiet de autistische hersenstam tijdens seks al snel in **masking (Faw
 
 ---
 
-## 2. De Kinky Verlossing: Expliciete Communicatie
+## 2. De kinky verlossing: expliciete communicatie
 
 In BDSM en kink is alles wat in de vanilla wereld taboe of 'onhandig' is, juist de **gouden standaard**:
 
-### A. Onderhandeling & Checklists Vooraf
-In kink is het volkomen normaal — zelfs verplicht — om vóór een scène aan tafel te gaan zitten met een checklist:
+### A. Onderhandeling en checklists vooraf
+In kink is het volkomen normaal - zelfs verplicht - om vóór een scène aan tafel te gaan zitten met een checklist:
 - *"Wat wil je wel? Wat wil je absoluut niet (hard limits)? Wat wil je misschien onderzoeken (soft limits)?"*
 - Voor een autistisch persoon is dit een verademing: er hoeft niets geraden te worden. Alles staat zwart-op-wit.
 
-### B. Safewords: Absolute Semantische Eenduidigheid
+### B. Safewords: absolute semantische eenduidigheid
 In het dagelijks leven betekent 'stop' soms 'even wachten' of 'ga door maar zachter'.
 In kink is een safeword **heilig en eenduidig**:
 - *Rood = direct stoppen.*
@@ -38,7 +38,7 @@ In kink is een safeword **heilig en eenduidig**:
 - *Groen = alles gaat goed.*
 Deze letterlijke, binaire duidelijkheid schakelt de angst voor sociale miscommunicatie volledig uit.
 
-### C. Duidelijke Rollen & Protocollen
+### C. Duidelijke rollen en protocollen
 In een Dominant/submissive verhouding of service-dynamiek liggen de taken en bevoegdheden vast:
 - De Dominant draagt de leiding, bewaakt het ritme en geeft duidelijke instructies (*"kniel hier"*, *"ogen dicht"*).
 - De submissive hoeft niet na te denken over keuzes of sociale etiquette, maar mag puur ontvangen of uitvoeren.
@@ -46,7 +46,7 @@ In een Dominant/submissive verhouding of service-dynamiek liggen de taken en bev
 
 ---
 
-## 3. De Sensorische Match: Prikkelregulatie
+## 3. De sensorische match: prikkelregulatie
 
 Kink is niet alleen psychologisch passend bij ASS, maar ook **fysiologisch**:
 

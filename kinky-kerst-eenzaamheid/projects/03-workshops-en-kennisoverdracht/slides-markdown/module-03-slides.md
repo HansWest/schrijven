@@ -1,4 +1,4 @@
-# De West-Sessies: Module 3 — Slide Deck (Markdown voor Google Slides)
+# De West-Sessies: module 3 - slide deck (markdown voor Google Slides)
 
 > **Thema:** Schijnveiligheid & Red Flags  
 > **Host:** Hans West (Kink-Aware Coach)  
@@ -6,7 +6,7 @@
 
 ---
 
-## Slide 1: Titelslide & Inloop
+## Slide 1: titelslide & inloop
 
 **Titel:** De West-Sessies: Schijnveiligheid & Red Flags  
 **Ondertitel:** Geen pauwenveren zoeken bij kikkers. Het ontmaskeren van manipulators in de scene.  
@@ -22,7 +22,7 @@
 
 ---
 
-## Slide 2: De Kwetsbaarheid van Eenzaamheid
+## Slide 2: de kwetsbaarheid van eenzaamheid
 
 **Drie Valkuilen bij een Leeg Hart:**
 1. **De Hongerige Blik:** *"Wie honger heeft, eet soms bedorven voedsel."* Lange eenzaamheid maakt dat je rode vlaggen wegwuift als *"hij/zij bedoelt het vast goed"*.
@@ -36,7 +36,7 @@
 
 ---
 
-## Slide 3: De Anatomie van de 'Predatory Dominant'
+## Slide 3: de anatomie van de 'predatory dominant'
 
 **Vier Klassieke Waarschuwingssignalen:**
 1. **Love Bombing & Status:** Binnen 24 uur beweren dat jullie een *"unieke kosmische klik"* hebben. Pronken met hoeveel subs hij heeft gehad.
@@ -48,7 +48,7 @@
 
 ---
 
-## Slide 4: De 'Service-Valkuil' (Voor Subs én Doms)
+## Slide 4: de 'service-valkuil' (voor subs én doms)
 
 | DE SERVICE-SUB VALKUIL | DE SERVICE-DOM VALKUIL |
 | :--- | :--- |
@@ -60,20 +60,20 @@
 
 ---
 
-## Slide 5: De Schone Exit: Het JAFFA-Principe
+## Slide 5: de schone exit: het JAFFA-principe
 
 **Hoe kap je een contact direct af zónder in een oeverloze discussie gezogen te worden?**
 
-- **J — Don't Justify:** Geef geen lange rechtvaardigingen. Elke uitleg is munitie voor de manipulator om op in te praten.
-- **A — Don't Apologize:** Zeg geen 'sorry' voor jouw grens. Grenzen stellen is geen misdrijf.
-- **F — Don't Fight:** Ga niet in discussie over wie gelijk heeft. Je wint het nooit van een manipulator.
-- **E — Don't Explain:** *"Ik stop dit contact. Het past niet bij mij."* is een volledige zin. Blokkeren en verdergaan.
+- **J - Don't Justify:** Geef geen lange rechtvaardigingen. Elke uitleg is munitie voor de manipulator om op in te praten.
+- **A - Don't Apologize:** Zeg geen 'sorry' voor jouw grens. Grenzen stellen is geen misdrijf.
+- **F - Don't Fight:** Ga niet in discussie over wie gelijk heeft. Je wint het nooit van een manipulator.
+- **E - Don't Explain:** *"Ik stop dit contact. Het past niet bij mij."* is een volledige zin. Blokkeren en verdergaan.
 
 > **Kerninzicht:** *"Je bent niemand een debat verschuldigd over waarom jij veilig wilt zijn."*
 
 ---
 
-## Slide 6: Praktijkcasus: 3 Chat-Berichten Analyseren
+## Slide 6: praktijkcasus: 3 chat-berichten analyseren
 
 **Welk bericht is Rood en welk bericht is Groen?**
 - **Bericht A:** *"Ik zie meteen dat jij diep van binnen extreem onderdanig bent. Je hebt alleen een ervaren man nodig die je even goed breekt."*  
@@ -85,7 +85,7 @@
 
 ---
 
-## Slide 7: Somatische Landing: Het Zwarte Gat Dichten
+## Slide 7: somatische landing: het zwarte gat dichten
 
 **Oefening (3 Minuten):**
 1. **Hand op Borst & Buik:** Plaats één hand op je borstbeen en één hand op je buik. Voel de fysieke warmte van je eigen handen.
@@ -97,7 +97,7 @@
 
 ---
 
-## Slide 8: Afsluiting & De West-Sessies
+## Slide 8: afsluiting & De West-Sessies
 
 **Jouw Oogst van Vandaag:**
 - Manipulators azen op de leegte van eenzaamheid.

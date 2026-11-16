@@ -1,15 +1,15 @@
-# Afwijzend-Vermijdende Hechting (Dismissing-Avoidant / DA): Conflictdynamiek, Blauwdruk & Verborgen Behoeften
+# Afwijzend-vermijdende hechting (dismissing-avoidant / DA): conflictdynamiek, blauwdruk en verborgen behoeften
 
-> **Algemene Hechtingstheorie — Deel 4**  
+> **Algemene Hechtingstheorie - Deel 4**  
 > *Waarom de afwijzend-vermijdende partner (in de volksmond ook wel dismissief-vermijdend genoemd) uitcheckt bij emotionele confrontaties; de 3 conflictresponsen (Pleasing, Defensiviteit, Afwijzing); de mismatch in relationele reparatie; en de onuitgesproken behoeften volgens de Integrated Attachment Theory.*
 
 ---
 
-## 1. De Psychologische Blauwdruk van de Afwijzend-Vermijder (DA)
+## 1. De psychologische blauwdruk van de afwijzend-vermijder (DA)
 
 In intieme relaties roept weinig gedrag zoveel eenzaamheid en frustratie op als de partner die letterlijk of figuurlijk 'uitcheckt' zodra een gesprek emotioneel geladen wordt. De partner wil praten, verbinden en herstellen, maar stuit op een stenen muur of een kille blik.
 
-Om deze dynamiek constructief te navigeren, moeten we begrijpen wat er in de vroege kindertijd van de afwijzend-vermijdende mens (DA) is gebeurd:
+Om deze dynamiek constructief te navigeren, is het belangrijk te begrijpen wat er in de vroege kindertijd van de afwijzend-vermijdende mens (DA) is gebeurd:
 - **De Geconditioneerde Les:** In het gezin van herkomst werden emotionele kwetsbaarheid, verdriet of behoeftigheid genegeerd, belachelijk gemaakt of bestraft. Het kind leerde: *"Als ik emotioneel ben, ben ik een last. Kwetsbaarheid staat gelijk aan zwakte, falen of defect zijn."*
 - **De Overlevingsstrategie:** Het kind ontwikkelde een rigide deactiverende strategie van extreme zelfredzaamheid (*hyper-independence*). Het autonome zenuwstelsel koppelde het ervaren van relationele afhankelijkheid aan acuut gevaar.
 
@@ -17,7 +17,7 @@ In volwassenheid leidt dit tot een reflexmatige verdediging: **afstand bewaren i
 
 ---
 
-## 2. De 3 Primaire Conflictresponsen van de DA
+## 2. De drie primaire conflictresponsen van de DA
 
 Wanneer een partner een probleem aankaart of emotionele diepgang zoekt, voelt het zenuwstelsel van de DA zich onmiddellijk overspoeld of aangevallen. De DA grijpt dan vrijwel altijd naar een van drie vaste overlevingsreacties:
 
@@ -46,7 +46,7 @@ Wanneer een partner een probleem aankaart of emotionele diepgang zoekt, voelt he
 
 ---
 
-## 3. De Mismatch in Behoeften en Reparatie
+## 3. De mismatch in behoeften en reparatie
 
 Het centrale knelpunt tussen een vermijdende partner en een meer angstig of veilig gehechte partner zit in een fundamenteel verschillende definitie van **'harmonie'** en **'reparatie'**:
 
@@ -61,7 +61,7 @@ Wanneer de partner aandringt op verdieping (*"Kijk me aan, praat met me!"*), sch
 
 ---
 
-## 4. De Verborgen Behoeften van de Dismissief-Vermijder
+## 4. De verborgen behoeften van de dismissief-vermijder
 
 In de hechtingspsychologie (onder meer de *Integrated Attachment Theory*) wordt benadrukt dat DA's vaak beweren "geen behoeften te hebben". Dit is een defensieve mythe. Hun betrokkenheid in een relatie hangt juist af van zeer specifieke, vaak onuitgesproken randvoorwaarden:
 
@@ -93,7 +93,7 @@ In de hechtingspsychologie (onder meer de *Integrated Attachment Theory*) wordt 
 
 ---
 
-## 5. Hoe Navigeer je een DA-Partner? (Praktische Richtlijnen)
+## 5. Hoe navigeer je een DA-partner? (praktische richtlijnen)
 
 Als partner of begeleider bereik je een afwijzend-vermijdend persoon (DA) **nooit** via emotionele druk of schuldinductie. De volgende communicatieregels zijn essentieel:
 

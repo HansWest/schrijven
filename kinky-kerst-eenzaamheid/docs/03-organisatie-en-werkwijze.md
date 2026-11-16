@@ -1,11 +1,11 @@
-# Organisatie, Fasering & Werkwijze in de Echte Wereld
+# Organisatie, fasering & werkwijze in de praktijk
 
-> **Single Source of Truth (SSOT)** — Document 03  
-> *Praktisch organisatiemodel: tijdsinvestering van een halve dag per week, toolstack en meerjarenfasering (2026–2027).*
+> **Single Source of Truth (SSOT)** - Document 03  
+> *Praktisch organisatiemodel: tijdsinvestering van een halve dag per week, toolstack en meerjarenfasering (2026-2027).*
 
 ---
 
-## 1. Tijdsinvestering: Het "Halve Dag per Week" Model
+## 1. Tijdsinvestering: het "halve dag per week"-model
 
 Om het initiatief realistisch, behapbaar en duurzaam te houden naast reguliere werkzaamheden, is de werkwijze ingericht op een vaste tijdsbesteding van **4 uur per week** (bijv. een vaste ochtend of middag):
 
@@ -31,9 +31,9 @@ Om het initiatief realistisch, behapbaar en duurzaam te houden naast reguliere w
 
 ---
 
-## 2. Eenvoudige, Doeltreffende Toolstack
+## 2. Eenvoudige, doeltreffende toolstack
 
-We houden de technische drempel zo laag mogelijk:
+Ik houd de technische drempel zo laag mogelijk:
 - **Inhoudelijke intake & vragen:** Google Forms (laagdrempelig, anoniem invulbaar, makkelijk te analyseren).
 - **Notities & Concepten:** Markdown repository in Git (enkele bron van waarheid).
 - **Podcast Hosting & Distributie:** Sinquest platform / Anchor / Spotify for Podcasters.
@@ -42,7 +42,7 @@ We houden de technische drempel zo laag mogelijk:
 
 ---
 
-## 3. Fasering: Van Kerst 2026 naar Jaarrond 2027
+## 3. Fasering: van Kerst 2026 naar jaarrond 2027
 
 ```mermaid
 flowchart LR
@@ -51,24 +51,24 @@ flowchart LR
     C --> D["Fase 4: Q4 2027<br/>Jaarrond & Kerst 2027"]
 ```
 
-### Fase 1: Oktober – December 2026 (Focus op Kerst 2026)
+### Fase 1: oktober - december 2026 (focus op Kerst 2026)
 - **Doel:** Zichtbaarheid, herkenning en opvang bieden bij actuele feestdag-eenzaamheid.
 - **Projecten:**
-  1. *Sinquest (Kinky Kerst Coach) Podcastserie:* 6–8 gerichte afleveringen direct vóór en tijdens kerst.
+  1. *Sinquest (Kinky Kerst Coach) Podcastserie:* 6-8 gerichte afleveringen direct vóór en tijdens kerst.
   2. *Google Intake Vragenlijst:* Verzamelen van anonieme brieven en luisteraarsvragen over eenzaamheid, schaamte en familie.
   3. *Derde Kerstdag Event:* Online "Kerst zonder masker" bijeenkomst op 27 december 2026.
 
-### Fase 2: Januari – Maart 2027 (De Nieuwjaarsstart)
+### Fase 2: januari - maart 2027 (de nieuwjaarsstart)
 - **Doel:** Van december-isolatie naar duurzame persoonlijke stappen.
 - **Projecten:**
   1. *Online Kink-Aware Workshops:* Grenzen, RACK, self-aftercare en de eerste stappen in de scene.
   2. *Munch-Buddy Systeem:* Begeleide eerste bezoeken aan offline munches met een ervaren maatje.
 
-### Fase 3: April – September 2027 (Matchmaking & Verbinding)
+### Fase 3: april - september 2027 (matchmaking & verbinding)
 - **Doel:** Structurele verbinding faciliteren tussen gelijkgestemden.
 - **Projecten:**
-  1. *Hybride Matchmaking:* Concept "Twee Groepen, Drie Intenties" (Jongeren 18–30 & Ouderen 50+ / Romantisch, Play, Vriendschap).
+  1. *Hybride Matchmaking:* Concept "Twee Groepen, Drie Intenties" (Jongeren 18-30 & Ouderen 50+ / Romantisch, Play, Vriendschap).
   2. *"Kerst in Juli" Zomerbijeenkomst:* Informele picknick of online check-in halverwege het jaar.
 
-### Fase 4: Oktober – December 2027 (Consolidatie & Kerst 2027)
+### Fase 4: oktober - december 2027 (consolidatie & Kerst 2027)
 - Evaluatie van het eerste jaar, doorontwikkeling van de podcast en een verankerd netwerk tegen eenzaamheid.

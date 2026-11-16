@@ -147,11 +147,11 @@ Niet elke rode vlag hoeft groen te worden. Deze oefeningen zijn bedoeld om overt
 
 ---
 
-## 8. Begeleiding bij Verlating, Relatiebreuk en Rouw
+## 8. Begeleiding bij verlating, relatiebreuk en rouw
 
 Wanneer een coachee binnenkomt na een acute relatiebreuk of plotselinge verlating - zeker wanneer de breuk gepaard ging met tegenstrijdige signalen van "liefde en dankbaarheid" - staat het zenuwstelsel in een staat van existentiële ontregeling. 
 
-In de coachingpraktijk hanteren we vijf leidende principes:
+In de coachingpraktijk hanteer ik vijf leidende principes:
 
 1. **Psycho-educatie over neurobiologische ontwenning:**  
    Help de cliënt inzien dat de intense somberheid, verpletterende leegte en gejaagdheid geen bewijs zijn van persoonlijke zwakte, maar een fysiologisch ontwenningsproces (oxytocine/dopamine-val) en activatie van fysieke pijncircuits (Fisher, Sbarra). Dit normaliseert de ervaring en verzacht schaamte.
@@ -170,11 +170,11 @@ In de coachingpraktijk hanteren we vijf leidende principes:
 
 ---
 
-## 9. Diagnostiek en Structuur: Safe Haven vs. Secure Base & Het HEARTS-model
+## 9. Diagnostiek en structuur: safe haven vs. secure base en het HEARTS-model
 
 Binnen zowel monogame als non-monogame relaties helpt het om helder te differentiëren tussen twee fundamentele hechtingsfuncties en concrete verbindingsindicatoren:
 
-### A. Safe Haven versus Secure Base
+### A. Safe haven versus secure base
 In de relationele hechtingstheorie vervullen partners twee complementaire rollen:
 1. **De Safe Haven (De Veilige Haven):**  
    De plek waar je naar terugkeert bij nood, angst, ziekte of emotionele ontreddering. Hier zoek je troost, opvang, co-regulatie en beschutting.
@@ -184,7 +184,7 @@ In de relationele hechtingstheorie vervullen partners twee complementaire rollen
 *Strategische toepassing in non-monogamie en brede relatienetwerken:*  
 Het expliciteren van deze rollen voorkomt relationele overbelasting. Niet elke partner hoeft tegelijkertijd jouw exclusieve Safe Haven én Secure Base te zijn. Door bewust af te stemmen wie welke rol natuurlijk belichaamt, ontstaat er rust in het systeem.
 
-### B. Het HEARTS-model als Relationeel Diagnostisch Instrument
+### B. Het HEARTS-model als relationeel diagnostisch instrument
 Om snel te bepalen waar de verbinding tussen partners stagneert of lekt, gebruikt de coach het **HEARTS-model**:
 - **H - Here (Aanwezigheid):** Zijn partners werkelijk fysiek en mentaal aanwezig in het hier en nu, of zijn ze afwezig achter telefoons en to-do-lijstjes?
 - **E - Express Delight (Vreugde Uiten):** Laten partners elkaar nog merken dat ze blij zijn om elkaar te zien? Is er nog een glimlach, een twinkeling of een compliment?

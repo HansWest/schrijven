@@ -1,11 +1,11 @@
-# BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's
+# BDSM als co-creatie: de twee driehoeken en de twee O's
 
-> **Algemene BDSM-Theorie - Deel 8**  
+> **Algemene BDSM-theorie - deel 8**  
 > *De dynamiek van Oldskool BDSM, de wisselwerking tussen Overgave en Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Techniek), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn) en trauma-gerelateerd spelen (RACK).*
 
 ---
 
-## 1. De Mythe van het Eenrichtingsverkeer
+## 1. De mythe van het eenrichtingsverkeer
 
 Binnen BDSM en consensuele machtsongelijkheid bestaat een hardnekkig misverstand: dat dominantie en onderdanigheid eenrichtingsverkeer zijn. De aanname luidt dat de Dominant (Dom) handelt en regisseert, terwijl de onderdanige (sub) louter lijdzaam ondergaat en gehoorzaamt.
 
@@ -17,7 +17,7 @@ Pas wanneer beide partners hun eigen verantwoordelijkheden dragen, ontstaat de b
 
 ---
 
-## 2. De Twee O's van Oldskool BDSM: Overgave & Ontferming
+## 2. De twee O's van oldskool BDSM: overgave en ontferming
 
 In de traditie en ethiek van *Oldskool BDSM* rust de relatie op twee dragende fundamenten:
 
@@ -31,12 +31,12 @@ In de traditie en ethiek van *Oldskool BDSM* rust de relatie op twee dragende fu
 └────────────────────────────────┴────────────────────────────────┘
 ```
 
-### 1. De Overgave van de sub (De Eerste O)
+### 1. De overgave van de sub (de eerste O)
 Overgave betekent in deze context geen militaire capitulatie of hulpeloze passiviteit. Het is een **actieve, bewuste keuze** om de controle los te laten en te vertrouwen op de partner:
 - Het is het je volledig wijden aan de ervaring en het meebewegen met de intensiteit.
 - Het vraagt een hoge mate van innerlijke kracht: controle uit handen geven kan alleen veilig wanneer er een rotsvast innerlijk fundament is.
 
-### 2. De Ontferming van de Dom (De Tweede O)
+### 2. De ontferming van de Dom (de tweede O)
 Ontferming is veel meer dan vriendelijkheid of medelijden. Het is de actieve bescherming van en zorg voor de kwetsbaarheid die door het spel wordt gecreëerd:
 - **Etymologische wortel (*splagchnizomai*):** In de klassieke teksten duidt ontferming op een diep fysiek gevoel in de ingewanden of de buik - een diep geraakt zijn door de kwetsbaarheid van de ander dat direct aanzet tot handelende zorg en bescherming (zoals de barmhartige Samaritaan).
 - **Zorg voor gecreëerde kwetsbaarheid:** Juist omdat de Dom de sub doelbewust in een staat van fysieke, emotionele of erotische weerloosheid brengt, rust op de Dom de absolute morele plicht om zich over die staat te ontfermen.
@@ -44,7 +44,7 @@ Ontferming is veel meer dan vriendelijkheid of medelijden. Het is de actieve bes
 
 ---
 
-## 3. De Driehoek van de Dom: Initiatief, Kaders & Ambacht
+## 3. De driehoek van de Dom: initiatief, kaders en ambacht
 
 Het leiderschap van de Dominant rust op een evenwichtige driehoek van drie pijlers:
 
@@ -58,19 +58,19 @@ Het leiderschap van de Dominant rust op een evenwichtige driehoek van drie pijle
  (Stuur & Rem)                  (Het Ambacht)
 ```
 
-### 1. De eigen Lust: Het Gaspedaal onder Dominantie
+### 1. De eigen lust: het gaspedaal onder dominantie
 Dominantie kan niet puur cerebraal, plichtmatig of technisch zijn; het heeft een authentieke innerlijke motor nodig.
 - De eigen opwinding, fantasieën, esthetische voorkeuren en sadistische of sturende impulsen vormen de brandstof.
 - Zonder authentieke lust wordt dominantie een leeg rollenspel of mechanische dienstverlening.
 - **De randvoorwaarde:** Lust is de motor, maar **geen vrijbrief**. Een gaspedaal zonder rem is destructief. Lust moet te allen tijde worden ingebed in afstemming en ethiek.
 
-### 2. De Ethiek: Het Stuur en de Rem
+### 2. De ethiek: het stuur en de rem
 De Dom draagt de verantwoordelijkheid om wensen over te brengen met diep respect voor de grenzen en het welzijn van de sub:
 - Het gaat niet alleen om de vraag *"Mag dit volgens de afspraak?"*, maar vooral: *"Is dit nu goed en veilig voor deze specifieke persoon, in deze context en met deze geschiedenis?"*
 - Macht is geen bezit of privilege, maar een **toevertrouwd mandaat**.
 - Dit behelst continue observatie, kalibratie van subtiele micro-signalen, het respecteren van het stopsysteem en het bieden van een veilige emotionele bedding zonder druk of afwijzing.
 
-### 3. Materiaal & Techniek: Het Ambacht
+### 3. Materiaal en techniek: het ambacht
 Dominantie uit zich vaak via instrumenten en fysieke interventies: touw, leer, klemmen, impact tools, adem of sensorische onthouding:
 - **Kennis van het ambacht:** Anatomische risicozones (zenuwbanen, bloedvaten, gewrichten), rek- en breekkracht van materialen, hygiëne en dosering.
   - *Voorbeeld touw (Single vs. Double Column):* Weten hoe je een **Single Column Tie** (het afzonderlijk binden van 1 pols of 1 enkel, bijv. aan een meubel of ankerpunt) aanlegt versus een **Double Column Tie** (waarbij twee polsen aan elkaar of twee enkels tegen elkaar worden gebonden), en bij beide zenuwbanen vrijwaren van knellende druk.
@@ -78,7 +78,7 @@ Dominantie uit zich vaak via instrumenten en fysieke interventies: touw, leer, k
 
 ---
 
-## 4. De Driehoek van de Sub: Actieve Overgave, Autonomie & Lichaamsbewustzijn
+## 4. De driehoek van de sub: actieve overgave, autonomie en lichaamsbewustzijn
 
 Tegenover de Dom-driehoek staat een volwaardige Sub-driehoek. Onderdanigheid vraagt evenveel scherpte, zelfkennis en toewijding:
 
@@ -92,13 +92,13 @@ Tegenover de Dom-driehoek staat een volwaardige Sub-driehoek. Onderdanigheid vra
         (Morele Verantwoordelijkheid)       (Het Instrument & Feedback)
 ```
 
-### 1. Verlangen & Overgave: De Motor van Onderdanigheid (analoog aan Lust)
+### 1. Verlangen en overgave: de motor van onderdanigheid (analoog aan lust)
 Waar bij de Dom de lust het gaspedaal is, is bij de sub het **authentieke innerlijke verlangen naar overgave** de motor:
 - Het is de actieve behoefte om controle los te laten, sensaties te verwerken, zich te openen of dienstbaar te zijn - uitgesplitst in de Zes Somatische Hongers van het zenuwstelsel in [Document 14](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md).
 - Wetenschappelijk onderzoek (o.a. Sagarin et al., 2009; Ambler et al., 2017) toont aan dat gezonde overgave een complexe mentale prestatie is die leidt tot *transiënte hypofrontaliteit* en flow (zie [07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 - Zonder eigen, authentiek verlangen vervalt onderwerping in passief 'pleasen' (*fawning*) of een holle verplichting.
 
-### 2. Autonomie & Zelfkennis: De Morele Verantwoordelijkheid (analoog aan Ethiek)
+### 2. Autonomie en zelfkennis: de morele verantwoordelijkheid (analoog aan ethiek)
 Zoals auteur Dossie Easton stelt:  
 > *"Je kunt alleen werkelijk 'ja' zeggen als je de volledige vrijheid en verantwoordelijkheid hebt om 'nee' te zeggen."*
 
@@ -109,7 +109,7 @@ Zoals auteur Dossie Easton stelt:
   - **Weten wat het SEEKING-systeem voedt:** Het onderzoeken van authentieke erotische verlangens versus pleasen om goedkeuring te verdienen.
 - Zonder deze zelfkennis en autonomie is overgave geen gift, maar destructieve onderwerping of over-adaptatie (*fawning*).
 
-### 3. Lichaamsbewustzijn & Terugkoppeling: Het Instrument (analoog aan Techniek)
+### 3. Lichaamsbewustzijn en terugkoppeling: het instrument (analoog aan techniek)
 Waar de Dom het materiaal hanteert, is **het lichaam en het zenuwstelsel van de sub het instrument** waarop gespeeld wordt:
 - **Onderhoud van het instrument:** Zorgen voor voldoende rust, voeding en hydratatie voorafgaand aan een scène.
 - **Signaalherkenning tijdens het spel:** Het somatische vermogen om onderscheid te maken tussen 'goede' intense pijn en gevaarlijke fysiologische alarmsignalen (dove tintelingen, zenuwbeknelling, gewrichtspijn, dissociatie of een naderende drop).
@@ -117,7 +117,7 @@ Waar de Dom het materiaal hanteert, is **het lichaam en het zenuwstelsel van de 
 
 ---
 
-## 5. De Dans van Twee Driehoeken in Evenwicht
+## 5. De dans van twee driehoeken in evenwicht
 
 | Dimensie | De Dom (Regie & Structuur) | De Sub (Resonantie & Responskracht) |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Wanneer deze twee driehoeken in elkaar grijpen, verdwijnt het risico op uitbuiti
 
 ---
 
-## 6. Trauma-Gerelateerd Spelen & de Dader-Slachtoffer Valkuil
+## 6. Trauma-gerelateerd spelen en de dader-slachtoffer valkuil
 
 Het is een hardnekkig stigma dat mensen met trauma niet zouden mogen genieten van BDSM. De realiteit van de menselijke psychologie laat zien dat vroege stressoren en trauma vaak nauw verweven raken met erotiek en fantasie:
 
@@ -139,12 +139,12 @@ Het is een hardnekkig stigma dat mensen met trauma niet zouden mogen genieten va
 2. **Seksuele koppeling:** In de adolescentie of vroege volwassenheid kan deze hoge biochemische activatie gekoppeld raken aan opwinding of masturbatie.
 3. **Bekrachtiging door orgasmes:** Elk orgasme bekrachtigt het neurologische pad (neuroplastische feedbackloop), waardoor een oorspronkelijke overlevingsprikkel uitgroeit tot een centrale erotische voorkeur of kink.
 
-### RACK en het 'Gemankeerde Kind'
+### RACK en het 'gemankeerde kind'
 Binnen RACK (*Risk-Aware Consensual Kink*) erkennen beide partners de risico's van trauma-gerelateerd spel:
 - **Gedeelde zorg:** Beide partners dragen verantwoordelijkheid voor elkaars kwetsbare stukken - het 'gemankeerde kind' in ieder van ons.
 - **De drogreden ontmaskerd:** De opvatting *"Het is jouw trauma, dus het is 100% jouw probleem om tijdig rood te roepen"* is binnen volwassen BDSM onzin. Bij intense triggers blokkeert het zenuwstelsel (freeze/fawn) en faalt het spraakvermogen (zie [07: Subspace versus Freeze](07-subspace-versus-freeze.md)).
 
-### Het gevaar van de Dader-Slachtoffer verschuiving
+### Het gevaar van de dader-slachtoffer verschuiving
 Wanneer gespeeld wordt met diepe emotionele wonden, ligt er een gevaarlijk ravijn op de loer: de transformatie van de speelse **Dom/sub-dynamiek** naar een destructieve **Dader/Slachtoffer-dynamiek**.
 
 ```

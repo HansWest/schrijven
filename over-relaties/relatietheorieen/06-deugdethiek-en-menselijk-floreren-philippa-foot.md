@@ -9,7 +9,7 @@
 
 In de twintigste-eeuwse moraalfilosofie en de hedendaagse postmoderne cultuur heerst een hardnekkige aanname dat feiten en waarden twee strikt gescheiden werelden zijn. 'Feiten' zouden objectief vaststaan in de natuur, terwijl 'morele waarden' louter subjectieve emoties, culturele conventies of persoonlijke smaakvoorkeuren zouden zijn (*"jij hebt jouw waarheid, ik heb de mijne"*).
 
-In haar meesterwerk *Natural Goodness* (2001) maakte de Britse filosoof **Philippa Foot** (1920–2010) korte metten met deze scheiding. Zij liet zien dat morele oordelen objectief waar kunnen zijn, zonder dat we daarvoor een goddelijk gebod of een abstracte kosmische wet hoeven aan te roepen.
+In haar meesterwerk *Natural Goodness* (2001) maakte de Britse filosoof **Philippa Foot** (1920-2010) korte metten met deze scheiding. Zij liet zien dat morele oordelen objectief waar kunnen zijn, zonder dat je daarvoor een goddelijk gebod of een abstracte kosmische wet hoeft aan te roepen.
 
 Foot herstelde een moderne, biologisch geaarde vorm van de **Aristotelische deugdethiek** via het concept van de **natuurlijke normativiteit** (*natural normativity*).
 
@@ -17,11 +17,11 @@ Foot herstelde een moderne, biologisch geaarde vorm van de **Aristotelische deug
 
 ## 2. De analogie van de eik en de wolf
 
-Om te begrijpen wat Foot bedoelt, kijken we eerst naar de levende natuur:
-* Wanneer we naar een **eik** kijken en zien dat zijn wortels flinterdun zijn en nauwelijks de grond in reiken, noemen we die wortels zonder aarzeling *gebrekkig*. Niet omdat we een moreel oordeel vellen over de eik, maar omdat we weten wat een eik nodig heeft om te overleven, stormen te doorstaan en tot wasdom te komen;
+Om te begrijpen wat Foot bedoelt, kijk ik eerst naar de levende natuur:
+* Wanneer je naar een **eik** kijkt en ziet dat zijn wortels flinterdun zijn en nauwelijks de grond in reiken, noem je die wortels zonder aarzeling *gebrekkig*. Niet om een moreel oordeel te vellen over de eik, maar omdat bekend is wat een eik nodig heeft om te overleven, stormen te doorstaan en tot wasdom te komen;
 * Wanneer een **wolf** weigert deel te nemen aan de jacht van de roedel of zijn welpen aanvalt, functioneert hij gebrekkig volgens de norm van zijn soort. Een eenzame wolf kan immers niet floreren.
 
-In de biologie beoordelen we eigenschappen en organen functioneel: **dragen ze bij aan het floreren (*eudaimonia*) van dat specifieke type levend wezen?**
+In de biologie beoordeel je eigenschappen en organen functioneel: **dragen ze bij aan het floreren (*eudaimonia*) van dat specifieke type levend wezen?**
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -50,7 +50,7 @@ De mens is een talig, sociaal en coöperatief wezen. Ons overleven en floreren h
 
 Daarom zijn klassieke deugden zoals **eerlijkheid, moed, rechtvaardigheid en betrouwbaarheid** geen willekeurige regeltjes die de maatschappij ons van buitenaf oplegt om onze pret te bederven. Het zijn **noodzakelijke voorwaarden voor het menselijk floreren**.
 
-Zonder betrouwbaarheid stort iedere relatie ineen. Zonder moed kunnen we niet handelen bij gevaar. Zonder rechtvaardigheid verwordt iedere gemeenschap tot een rovershol waarin iedereen op zijn hoede moet zijn.
+Zonder betrouwbaarheid stort iedere relatie ineen. Zonder moed kun je niet handelen bij gevaar. Zonder rechtvaardigheid verwordt iedere gemeenschap tot een rovershol waarin iedereen op zijn hoede moet zijn.
 
 ### Wreedheid als defect
 Vanuit Foots perspectief is wreedheid, bedrog of kwaadwilligheid niet simpelweg 'onbeleefd' of 'cultureel ongepast'. Het is een **functioneel defect van de menselijke wil**:

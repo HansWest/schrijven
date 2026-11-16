@@ -1,4 +1,4 @@
-# Conflicteren als Werkwoord: Navigeren van Spanning en Groei in (Poly)liefdesrelaties
+# Conflicteren als werkwoord: navigeren van spanning en groei in (poly)liefdesrelaties
 
 > **Integrative Relationship Coaching - Module Conflicthantering**  
 > *Waarom conflict niet het faillissement van de liefde is, maar de zuurstof voor intimiteit. Over de neurobiologie van botsen, de specifieke dynamiek van meervoudige liefdesrelaties, en concrete werkvormen om samen te vechten zonder elkaar te slopen.*
@@ -11,7 +11,7 @@ In bijna elke relatiecultuur - en misschien nog wel sterker binnen polyamorie en
 
 Als er ruzie is, zo fluistert onze vrees, dan past het blijkbaar niet. Dan hebben we gefaald in onze communicatie, zijn we niet "verlicht" genoeg, of hebben we onze "hechtingswonden nog niet voldoende geheeld". Zeker in de polyamoreuze wereld kan die druk torenhoog zijn: we hebben immers boeken vol theorieën gelezen over *compersie*, *radicale eerlijkheid* en *communicatieprotocollen*. Wanneer het dan toch ontploft over een uitgelopen date, een vergeten appje of een knagend gevoel van achterstelling, slaat niet zelden de schaamte toe.
 
-Binnen **Integrative Relationship Coaching** keren we dat om:
+Binnen **integrative relationship coaching** keer ik dat om:
 > **Conflict is geen systeemfout. Conflict is een vitaal levensteken.**
 
 Twee (of meer) autonome mensen met verschillende zenuwstelsels, verschillende geschiedenissen en verschillende behoeften kunnen simpelweg niet samensmelten tot een frictieloze eenheid. Als er nooit ruzie is, is er meestal geen sprake van ultieme harmonie, maar van collectieve verdoving, vermijding (*Freeze*) of preventieve aanpassing (*Fawn*). 
@@ -20,7 +20,7 @@ Conflicteren is een **ambacht** en een **werkwoord**. En net zoals het zogenaamd
 
 ---
 
-## De Opbouw van de Module
+## De opbouw van de module
 
 Deze module brengt theorie, relationele ethiek, gespreksstructuren en somatische oefeningen samen in vijf samenhangende documenten:
 
@@ -34,47 +34,47 @@ over-conflicten/
 └── conflicteren-als-werkwoord.md              # Het grondessay over het aangaan van frictie
 ```
 
-### 1. [De Onderliggende Ideeën & Theorieën](./01-onderliggende-ideeen-en-theorieen.md)
+### 1. [De onderliggende ideeën en theorieën](./01-onderliggende-ideeen-en-theorieen.md)
 *De architectuur van de botsing.*  
-Hier ontleden we wat er psychobiologisch gebeurt als het botst. We verbinden de drietrapsraket van het gezonde conflict (*Tear*, *Grapple*, *Cleave*) met het **Tweelagenmodel** (het affectieve Zelf versus het cognitieve Ik), Stan Tatkins PACT-kader (*fighting in the pocket*), Gottmans overspoeling (*flooding*), en de beruchte valkuil van **structurele projectie** (ruzie maken over regels om pijnlijke afwijzing niet te hoeven voelen).
+Hier ontleed ik wat er psychobiologisch gebeurt als het botst. Ik verbind de drietrapsraket van het gezonde conflict (*Tear*, *Grapple*, *Cleave*) met het **Tweelagenmodel** (het affectieve Zelf versus het cognitieve Ik), Stan Tatkins PACT-kader (*fighting in the pocket*), Gottmans overspoeling (*flooding*), en de beruchte valkuil van **structurele projectie** (ruzie maken over regels om pijnlijke afwijzing niet te hoeven voelen).
 
-### 2. [Overwegingen bij (Poly)liefdesrelaties](./02-overwegingen-bij-polyliefdesrelaties.md)
+### 2. [Overwegingen bij meervoudige liefdesrelaties](./02-overwegingen-bij-polyliefdesrelaties.md)
 *De meervoudige dynamiek ontrafeld.*  
-Conflicten in non-monogamie zijn zelden een-op-een eilandjes. Hier behandelen we de specifieke relationele krachtenvelden:
+Conflicten in non-monogamie zijn zelden een-op-een eilandjes. Hier behandel ik de specifieke relationele krachtenvelden:
 - Het rimpeleffect naar metamours en de verleiding tot **triangulatie**.
 - De clash tussen *New Relationship Energy* (NRE) en *Old Relationship Energy* (ORE).
 - Impliciet versus expliciet *couple privilege*.
 - Decompressie en 'agenda-uitholling' (*time-starvation*).
 - Jaloezie als somatisch alarmsignaal in plaats van morele zonde.
 
-### 3. [Werkvormen en Gespreksprotocollen](./03-werkvormen-en-gespreksprotocollen.md)
+### 3. [Werkvormen en gespreksprotocollen](./03-werkvormen-en-gespreksprotocollen.md)
 *Containers bouwen voor het echte gevecht.*  
-Hoe voorkom je dat een conflict verzandt in een uitputtende modderpoel? We bespreken:
+Hoe voorkom je dat een conflict verzandt in een uitputtende modderpoel? Ik bespreek:
 - Het **5-stappen Opgravingsprotocol** (*Excavation*) om de *Capital-N Need* te vinden.
 - Het bouwen van een **Fight Plan** en een relationeel conflict-ritueel.
 - De **Geprotocolleerde Time-Out met Terugkeergarantie** (*Return-Time Promise*) ter bescherming van hechtingsangst.
 - De polyamoreuze **RADAR-check-in** (samen sturen vóórdat de bom barst).
 - Metamour-buffers: wanneer wel en wanneer absoluut niet samen aan tafel.
 
-### 4. [Oefeningen en Praktijkgids](./04-oefeningen-en-praktijkgids.md)
+### 4. [Oefeningen en praktijkgids](./04-oefeningen-en-praktijkgids.md)
 *Aan de slag in de spreekkamer en aan de keukentafel.*  
 Concrete tools die direct inzetbaar zijn voor koppels, netwerken en coaches:
 - *De Opgraving van de Onvervulde Behoefte* (werkblad van verwijt naar existentiële vraag).
-- *Het 'Favoriete Verwijt' Ontmantelen* (spreekkamer-interventie: speuren naar wens en pijn met non-verbale 'warm/koud' feedback).
-- *Het Vagus- & Aardingsprotocol* (somatische ontlading vóór en tijdens het gesprek).
+- *Het 'favoriete verwijt' ontmantelen* (spreekkamer-interventie: speuren naar wens en pijn met non-verbale 'warm/koud' feedback).
+- *Het vagus- en aardingsprotocol* (somatische ontlading vóór en tijdens het gesprek).
 - *De Triangulatie-Decontaminatie* (interventie om geleende spanning terug te leggen).
 - *De Partner- en Dynamiekmatrix* (waarom reageer ik bij partner A anders dan bij partner B?).
 - *De 'Domme Vragen' Bank* (speels ontladen en oefenen met frictie).
 
-### 5. [Conflicteren als Werkwoord (Grondtekst)](./conflicteren-als-werkwoord.md)
+### 5. [Conflicteren als werkwoord (grondtekst)](./conflicteren-als-werkwoord.md)
 *Het fundament.*  
 Het essay dat de verschuiving markeert van passieve harmonie naar actieve relationele worsteling en transformatie.
 
 ---
 
-## De Vijf Kernaxioma's van deze Module
+## De vijf kernaxioma's van deze module
 
-1. **We strijden alleen met wie en om wat ertoe doet.**  
+1. **Je strijdt alleen met wie en om wat ertoe doet.**  
    Je verspilt geen emotionele energie aan een voorbijganger op straat, en je strijdt al helemaal niet om zaken die je koud laten. Dat er strijd ontstaat, betekent dat er iets van grote waarde op het spel staat: voor jezelf (je integriteit, je grens, je soevereiniteit) of voor jullie *samen* (de diepgang en toekomst van de relatie). Conflict is geen faillissement, maar een bewijs van betrokkenheid; de echte tegenpool van liefde is onverschilligheid.
 
 2. ***Verwijt* geeft *verwij*dering; expressie van wensen of van pijn geeft toenadering.**  
@@ -87,5 +87,5 @@ Het essay dat de verschuiving markeert van passieve harmonie naar actieve relati
    Zolang een van beiden in *Fight*, *Flight*, *Freeze* of *Frenzy* zit, is het denkende brein buiten dienst. Elke inhoudelijke discussie over wie wat wanneer zei op WhatsApp is dan gedoemd om een slijtageslag te worden. Kalmeer eerst het lijf; onderzoek pas daarna de inhoud.
 
 5. **Eerlijkheid zonder empathie is wreedheid; harmonie zonder eerlijkheid is verraad.**  
-   We zoeken niet naar steriele "therapiespeak" waarin alle scherpe randjes zijn weggepoetst met klinische beleefdheid. We zoeken naar de rauwe, feilbare menselijkheid waarin partners durven te modderen, te struikelen en oprecht sorry te zeggen.
+   Ik zoek niet naar steriele 'therapiespeak' waarin alle scherpe randjes zijn weggepoetst met klinische beleefdheid. Ik zoek naar de rauwe, feilbare menselijkheid waarin partners durven te modderen, te struikelen en oprecht sorry te zeggen.
 

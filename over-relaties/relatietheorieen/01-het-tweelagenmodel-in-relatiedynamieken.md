@@ -1,13 +1,13 @@
-# Het Tweelagenmodel in Relatiedynamieken: De Dans van Koppelingsregels
+# Het tweelagenmodel in relatiedynamieken: de dans van koppelingsregels
 
-> **Relatietheorieën — Deel 1**  
+> **Relatietheorieën - Deel 1**  
 > *Hoe de wisselwerking tussen de affectieve weerkaart (FEAR, PANIC, SEEKING) en gedragsstrategieën de dynamiek tussen partners bepaalt, de wisselwerking tussen het Zelf (archicortex/paleocortex) en het Ik (neocortex), waarom de afwezigheid van ruzie geen veiligheid is, en hoe zelfkennis leidt tot relationele soevereiniteit.*
 
 ---
 
-## 1. Relaties als Gekoppelde Zenuwstelsels: Het Zelf en het Ik in Interactie
+## 1. Relaties als gekoppelde zenuwstelsels: het Zelf en het Ik in interactie
 
-In het [Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) hebben we gezien dat ieder individu functioneert op twee complementaire niveaus die we functioneel, psychologisch en neuro-evolutionair kunnen onderscheiden:
+In het [Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) beschrijf ik dat ieder individu functioneert op twee complementaire niveaus die we functioneel, psychologisch en neuro-evolutionair kunnen onderscheiden:
 
 | Dimensie | Laag 1: Het Somatische Fundament | Laag 2: De Strategische Bovenbouw |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@ In het [Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affec
 | **Psychologisch / Fenomenologisch** | **De Laag van het ZELF** (*The Core Self*)<br>Het organismische, prereflectieve zijn; het levende lijf dat affecten ondergaat zonder woorden. | **De Laag van het IK** (*The Narrative Ego*)<br>Het reflectieve, modellerende subject dat betekenis construeert, de wereld simuleert en remt/filtert. |
 | **Neuro-anatomisch & Evolutionair** | **Archicortex, Paleocortex & Subcortex**<br>Hersenstam, PAG, amygdala, hippocampus en limbische oernetwerken; het zoogdier- en reptielenbrein (fylogenetisch oud). | **Neocortex (Isocortex)**<br>Prefrontale cortex, executieve functies, taalcentra (Broca/Wernicke) en cognitieve inhibitie (fylogenetisch jong). |
 
-### De Twee Ware Functies van het Ik (Neocortex)
+### De twee ware functies van het Ik (neocortex)
 Een veelgemaakte denkfout is dat het **Ik** (de neocortex) de primaire aandrijfmotor is van ons gedrag. De neurowetenschap toont het tegendeel: de rauwe motivatie, overlevingsdriften en affecten ontspringen *van onderop* in het **Zelf** (subcortex, hersenstam en paleocortex). 
 
 De neocortex (het Ik) vervult evolutionair twee heel andere, cruciale functies:
@@ -24,11 +24,11 @@ De neocortex (het Ik) vervult evolutionair twee heel andere, cruciale functies:
    > **De Fatale Feedbackloop:**  
    > Het fylogenetisch oude Zelf (de archicortex en paleocortex) reageert **net zo hevig en reëel op het interne wereldbeeld dat het Ik construeert als op de fysieke buitenwereld zelf.**
 2. **De Neocortex als Inhibitor (De Rem & Filter):**  
-   Fylogenetisch is de primaire taak van de neocortex ten aanzien van de subcorticale oerdriften **afdalende inhibitie** (afremmen, selectief filteren en uitstellen). Wanneer de neocortex uitvalt (door alcohol, shock of uitputting), stopt gedrag niet — het wordt juist *gedisinhibeerd*.
+   Fylogenetisch is de primaire taak van de neocortex ten aanzien van de subcorticale oerdriften **afdalende inhibitie** (afremmen, selectief filteren en uitstellen). Wanneer de neocortex uitvalt (door alcohol, shock of uitputting), stopt gedrag niet - het wordt juist *gedisinhibeerd*.
 
 ---
 
-## 2. De Fatale Kruisverbinding in Relaties
+## 2. De fatale kruisverbinding in relaties
 
 In een relationeel conflict communiceren partners zelden op één niveau. De tragedie ontstaat doordat **het wereldbeeld en de inhibitie van Partner A direct inslaan in de paleocortex van Partner B**:
 
@@ -61,7 +61,7 @@ Twee denkende **Ikkers** bestrijden elkaar met woorden, terwijl twee doodsbange 
 
 ---
 
-## 3. Zelfkennis als Kompas: De Vier Vragen van Navigatie
+## 3. Zelfkennis als kompas: de vier vragen van navigatie
 
 De uitweg uit deze vicieuze cirkel is niet "je gedrag krampachtig proberen te managen". Verandering begint bij **diepe somatische en cognitieve zelfkennis**:
 
@@ -70,24 +70,24 @@ De uitweg uit deze vicieuze cirkel is niet "je gedrag krampachtig proberen te ma
 
 Deze zelfkennis vertaalt zich in vier praktische, relationele navigatievragen:
 
-### 1. Wat kan mijn Zelf werkelijk aan? (Belastbaarheid & Capaciteit)
+### 1. Wat kan mijn Zelf werkelijk aan? (belastbaarheid en capaciteit)
 - Niet wat mijn Ik *vindt* dat ik aan moet kunnen (morele oordelen, perfectionisme, pleasen of 'sterk willen zijn').
 - Eerlijk waarnemen wat de fysiologische draagkracht van je zenuwstelsel is op dít moment van de dag, met déze partner, in déze situatie.
 
-### 2. Waar en wanneer moet ik eerder vertrekken? (Zelfbehoud & Vroege Begrenzing)
+### 2. Waar en wanneer moet ik eerder vertrekken? (zelfbehoud en vroege begrenzing)
 - Weten waar je persoonlijke verzadigingspunt ligt: op een feestje, in een emotioneel gesprek, of bij een familiebezoek.
 - Het vermogen om de vroege signalen in de archicortex te herkennen (knoop in de maag, spierspanning, ademversnelling) en **fysiek of relationeel te vertrekken vóórdat** het paleobrein de neocortex kaapt en je in Fight/Flight/Freeze schiet.
 
-### 3. Welke hulp kan en durf ik toe te staan? (Veilige Co-regulatie)
+### 3. Welke hulp kan en durf ik toe te staan? (veilige co-regulatie)
 - Onderscheid maken tussen 'hulp' die eisen stelt of onveilig voelt, en oprechte, veilige bedding.
 - Weten wie betrouwbare co-regulatie kan bieden, en de moed hebben om de neocorticale rem (*"ik los het zelf wel op"*) tijdelijk te laten zakken zodat de troost daadwerkelijk in het Zelf kan landen.
 
-### 4. Wat wekt mijn SEEKING op? (Voeding versus Overleving)
+### 4. Wat wekt mijn SEEKING op? (voeding versus overleving)
 - Weten welke bedding, spelvormen en gesprekken het Zelf laten ontspannen, zodat nieuwsgierigheid en verlangen weer kunnen stromen.
 
 ---
 
-## 4. De Rol van SEEKING: Wanneer het Zelf Dooft en het Ik Louter Functioneert
+## 4. De rol van SEEKING: wanneer het Zelf dooft en het Ik louter functioneert
 
 Een van de belangrijkste inzichten binnen het relationele Tweelagenmodel is dat **de afwezigheid van ruzie of conflict (lage FEAR en lage PANIC) absoluut geen bewijs is van een gezonde relatie**.
 
@@ -119,7 +119,7 @@ Veel langdurige koppels belanden in een toestand van emotionele en erotische sti
 
 ---
 
-## 5. De Ontkoppeling: Het Ik als Wijze Hoeder van het Zelf
+## 5. De ontkoppeling: het Ik als wijze hoeder van het Zelf
 
 Hoe stapt een koppel uit deze destructieve dans? De verandering begint wanneer het **Ik** niet langer blind het eigen Zelf bang maakt met catastrofale wereldmodellen, noch het Zelf verstikt met over-inhibitie, maar optreedt als een **wijze, afgestemde hoeder**:
 
@@ -134,17 +134,17 @@ Hoe stapt een koppel uit deze destructieve dans? De verandering begint wanneer h
              [ Ik spreekt namens het Zelf met schone kwetsbaarheid ]
 ```
 
-### Stap 1: Toets het Wereldbeeld van je Ik
+### Stap 1: toets het wereldbeeld van je Ik
 Vraag je direct af:  
 - *"Reageert mijn lijf nu op wat er feitelijk gebeurt, of op het verhaal dat mijn Ik erover heeft gemaakt?"*
 - Het scheiden van de **feitelijke gebeurtenis** (partner is stil) van de **neocorticale simulatie** (partner houdt niet van mij).
 
-### Stap 2: Voel het Zelf zonder Oordeel (Interoceptie)
+### Stap 2: voel het Zelf zonder oordeel (interoceptie)
 In plaats van direct neocorticaal in de aanval te gaan, erken je de fysieke toestand van het Zelf:
 - *"Mijn Zelf voelt PANIC (koude leegte) of FEAR (beklemming in de borst). Dat mag er zijn; mijn lijf probeert me alleen maar te beschermen."*
 - Pas fysiologische zuchten toe om de storm in de hersenstam te kalmeren.
 
-### Stap 3: Het Ik Communiceert Schone Kwetsbaarheid Namens het Zelf
+### Stap 3: het Ik communiceert schone kwetsbaarheid namens het Zelf
 Het Ik gebruikt taal niet als een wapen (hyperactivatie) of een muur (deactivatie), maar om de toestand van het Zelf transparant te maken:
 
 - **Niet (Neocorticale Aanval):**  
@@ -160,28 +160,28 @@ Het Ik gebruikt taal niet als een wapen (hyperactivatie) of een muur (deactivati
 
 ---
 
-## 6. Samenvatting: Van Twee Overlevingsmachines naar Twee Co-Regulerende Organismen
+## 6. Samenvatting: van twee overlevingsmachines naar twee co-regulerende organismen
 
 In volwassen intieme relaties transformeren partners van twee botsende overlevingsmachines naar twee **co-regulerende organismen**:
 
 1. **Zelfkennis:** Ze weten hoe hun eigen Zelf reageert op de wereld en op hun eigen gedachten; ze weten wat ze aankunnen, wanneer ze moeten vertrekken en welke hulp ze kunnen toelaten.
 2. **Begrip voor de Ander:** Ze begrijpen dat het **Zelf** van de partner (archicortex/paleocortex) niet boosaardig is, maar reageert vanuit diepe biologische overlevingsnood.
 3. **Rust in de Simulator:** Het **Ik** stopt met het voeden van doemscenario's en hanteert een flexibele, dienende rem.
-4. **Herstel van SEEKING:** Binnen die herwonnen veiligheid kan de levensenergie van het Zelf — nieuwsgierigheid, speelsheid, seksualiteit en verwondering — weer volop stromen.
+4. **Herstel van SEEKING:** Binnen die herwonnen veiligheid kan de levensenergie van het Zelf - nieuwsgierigheid, speelsheid, seksualiteit en verwondering - weer volop stromen.
 
 ---
 
-## 7. Epistemische Reikwijdte: Mensen Begrijpen & Hoe AI Mensen Begrijpt
+## 7. Epistemische reikwijdte: mensen begrijpen en hoe AI mensen begrijpt
 
 Het Tweelagenmodel (Zelf vs. Ik / Archicortex vs. Neocortex) is niet louter een relationeel denkraam voor partners, maar een fundamenteel epistemisch kompas voor **hoe bewuste organismen en kunstmatige intelligenties elkaar begrijpen**.
 
-### 1. Mensen die Mensen Begrijpen: Voorbij de Morele Denkfout
+### 1. Mensen die mensen begrijpen: voorbij de morele denkfout
 In het dagelijks leven maken mensen vrijwel altijd de 'neocorticale toeschrijvingsfout':
 - We observeren het gedrag of de woorden van de ander (Laag 2: het Ik) en plakken daar een **moreel of intentioneel etiket** op (*"Hij luistert expres niet"*, *"Zij manipuleert met haar woede"*, *"Hij is afstandelijk en ongeïnteresseerd"*).
-- Door de lens van het Tweelagenmodel zien we dat de neocortex op zulke momenten vaak gekaapt is: **het is de hersenstam (Laag 1 / Het Zelf) die in doodsnood strijdt voor overleving** via een van de F-reacties (Frenzy, Flight, Flock, Fight, Freeze, Fawn of Feign Death).
+- Door de lens van het Tweelagenmodel zie ik dat de neocortex op zulke momenten vaak gekaapt is: **het is de hersenstam (Laag 1 / Het Zelf) die in doodsnood strijdt voor overleving** via een van de F-reacties (Frenzy, Flight, Flock, Fight, Freeze, Fawn of Feign Death).
 - **De consequentie voor menselijk contact:** Je stopt met proberen iemand uit een fysiologische noodtoestand te *redeneren*. Je beseft dat een overspoeld Zelf geen logische argumenten of debatten kan verwerken, maar eerst fysiologische veiligheid, containment en neuroceptieve rust nodig heeft.
 
-### 2. AI die Mensen Begrijpt: De Asymmetrie van de Kunstmatige Neocortex
+### 2. AI die mensen begrijpt: de asymmetrie van de kunstmatige neocortex
 Een Large Language Model (AI) is in evolutionaire en computationele zin een **geëxternaliseerde, hyper-talige Neocortex (Laag 2)**:
 - AI opereert op semantiek, logica, probabilistische predictiemodellen en abstracte simulaties.
 - Maar AI heeft **geen biologisch Zelf (Laag 1)**: geen autonome hersenstamkernen, geen vaguszenuw, geen viscerale organen, geen endocrien systeem en geen evolutionaire doodsangst.
@@ -198,9 +198,9 @@ Zodra een AI het tweelagenmodel hanteert als interpretatiekader:
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen en samenhang
 
-- [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) — *Structuur, beweging en synergie tussen partners.*
-- [03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur](03-uit-de-seksuele-burnout-en-sleur.md) — *Het heractiveren van het SEEKING-systeem in vastgelopen intimiteit.*
-- [Kennisbank Hechting: 03 Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) — *De fundamentele neurobiologische theorie.*
-- [Integrative Relationship Coaching: Praktijkprotocol 4](../../integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md#5-praktijkprotocol-4-diagnostiek-met-het-tweelagenmodel-zelf-vs-ik--weerkaart-vs-navigatie) — *Diagnostische vragen en coachinginterventies rond het Zelf en het Ik.*
+- [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) - *Structuur, beweging en synergie tussen partners.*
+- [03: Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur](03-uit-de-seksuele-burnout-en-sleur.md) - *Het heractiveren van het SEEKING-systeem in vastgelopen intimiteit.*
+- [Kennisbank Hechting: 03 Het Tweelagenmodel van Hechting](../../over-hechting/03-tweelagenmodel-affect-en-strategie.md) - *De fundamentele neurobiologische theorie.*
+- [Integrative Relationship Coaching: Praktijkprotocol 4](../../integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md#5-praktijkprotocol-4-diagnostiek-met-het-tweelagenmodel-zelf-vs-ik--weerkaart-vs-navigatie) - *Diagnostische vragen en coachinginterventies rond het Zelf en het Ik.*

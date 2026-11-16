@@ -1,10 +1,10 @@
-# Kinky Kerst & Eenzaamheid: Master Index & Projectarchitectuur
+# Kinky kerst & eenzaamheid: master index & projectarchitectuur
 
 Welkom in het centrale projectdossier rond het doorbreken van eenzaamheid onder kinksters en buiten-de-norm levenden, met de focus op Kerstmis 2026 en doorontwikkeling in 2027.
 
 ---
 
-## Mappenstructuur & Overzicht
+## Mappenstructuur & overzicht
 
 ```
 kinky-kerst-eenzaamheid/
@@ -14,7 +14,7 @@ kinky-kerst-eenzaamheid/
 ├── docs/                                        # SINGLE SOURCE OF TRUTH (SSOT)
 │   ├── 01-visie-en-filosofie-eenzaamheid.md    # Analyse van kinky eenzaamheid, kerstkramp & amatonormativiteit
 │   ├── 02-kink-aware-methodiek-en-ethiek.md     # Beroepscode, scope (coach vs behandelaar), grenzen & veiligheid
-│   └── 03-organisatie-en-werkwijze.md          # Werkwijze (4 uur/week), toolstack & fasering 2026–2027
+│   └── 03-organisatie-en-werkwijze.md          # Werkwijze (4 uur/week), toolstack & fasering 2026-2027
 │
 ├── projects/                                    # DOELGERICHTE PROJECTEN
 │   ├── 01-kinky-kerst-coach-podcast/            # Sinquest podcastserie voor Kerst 2026 (formats, scripts, planning)
@@ -37,14 +37,14 @@ kinky-kerst-eenzaamheid/
 
 ---
 
-## Snelle Navigatie
+## Snelle navigatie
 
-### 1. Documentatie (Single Source of Truth)
+### 1. Documentatie (single source of truth)
 - [01: Visie & Filosofie](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/docs/01-visie-en-filosofie-eenzaamheid.md)
 - [02: Kink-Aware Methodiek & Ethiek](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/docs/02-kink-aware-methodiek-en-ethiek.md)
 - [03: Organisatie & Werkwijze](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/docs/03-organisatie-en-werkwijze.md)
 
-### 2. Actieve Projecten
+### 2. Actieve projecten
 - [Project 01: Podcastserie Kerst 2026](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/01-kinky-kerst-coach-podcast/README.md)
   - [Afleveringen & Format](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/01-kinky-kerst-coach-podcast/format-en-afleveringen.md)
   - [Google Forms Vragenlijst Blauwdruk](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/01-kinky-kerst-coach-podcast/intake-en-vragenlijst.md)
@@ -66,7 +66,7 @@ kinky-kerst-eenzaamheid/
   - [Eerste Aanzet & Misvattingen](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/05-toolkit-voor-hulpverleners/eerste-aanzet-toolkit.md)
   - [Gespreksleidraad in de Spreekkamer](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/projects/05-toolkit-voor-hulpverleners/gespreksleidraad-in-de-spreekkamer.md)
 
-### 3. Ideeën & Verdieping
+### 3. Ideeën & verdieping
 
 - [Idee 01: Afleveringsthema's, Gasten & Taboes](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-01-aflevering-themas-en-gasten.md)
 - [Idee 02: Community & Chosen Family](file:///Users/mbp13/Programmeren/schrijven/kinky-kerst-eenzaamheid/ideeen/idee-02-community-en-chosen-family.md)

@@ -24,4 +24,4 @@ Deze voorbeelden zijn geen zelftest of diagnose. Als angst je leven sterk beperk
 
 ## Angst en de omgeving
 
-Angst kan in contact met anderen sterker worden. We pikken signalen van dreiging op uit gezichtsuitdrukkingen, gedrag en verhalen; herhaalde waarschuwingen of zichtbare paniek kunnen onze eigen waakzaamheid verhogen. Dat is geen letterlijke besmetting en betekent niet dat de angst "alleen maar" is overgenomen: de omgeving kan ook echte risico's signaleren. Het kan helpen te onderzoeken wat je zelf hebt waargenomen en welke informatie of reacties van anderen je inschatting beïnvloeden.
+Angst kan in contact met anderen sterker worden. Je pikt signalen van dreiging op uit gezichtsuitdrukkingen, gedrag en verhalen; herhaalde waarschuwingen of zichtbare paniek kunnen je eigen waakzaamheid verhogen. Dat is geen letterlijke besmetting en betekent niet dat de angst "alleen maar" is overgenomen: de omgeving kan ook echte risico's signaleren. Het kan helpen te onderzoeken wat je zelf hebt waargenomen en welke informatie of reacties van anderen je inschatting beïnvloeden.

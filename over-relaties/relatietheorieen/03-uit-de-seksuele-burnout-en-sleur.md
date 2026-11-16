@@ -1,22 +1,22 @@
-# Uit de Seksuele Burnout: Kaders, Polariteit & Het Doorbreken van Sleur
+# Uit de seksuele burnout: kaders, polariteit en het doorbreken van sleur
 
-> **Relatietheorieën — Deel 3**  
+> **Relatietheorieën - Deel 3**  
 > *Waarom conventionele intimiteit vastloopt in automatische scripts, de 4 stappen van de Way-Out, waarom overpleasen een schending van zelf-consent is, hoe erotische spanning floreert bij gecontroleerde polariteit en het concrete 4-fasen protocol (Yes/No/Maybe, Wheel of Consent & The Scene Container).*
 
 ---
 
-## 1. Waarom Sleur Ontstaat: Het Ontbreken van Bewuste Kaders
+## 1. Waarom sleur ontstaat: het ontbreken van bewuste kaders
 
 In langdurige conventionele ("vanilla") relaties belanden stellen bijna ongemerkt in een vastgeroest, geautomatiseerd script:  
 `Zoenen ──► Voorspel ──► Penetratie ──► Orgasme ──► Slapen`
 
-### Het Automatische Escalatieverhaal
+### Het automatische escalatieverhaal
 Na verloop van tijd verdwijnt de erotische lading uit dit ritueel:
 - **Biologische routine:** Seks wordt een voorspelbare handeling in plaats van een ontmoeting.
 - **De last van het hoofd:** Omdat het script vastligt, ontstaat prestatiedruk: *"Gaat het lukken? Komt de ander wel klaar? Duurt het niet te lang?"*
 - **Sleur is géén gebrek aan liefde:** Partners houden zielsveel van elkaar, maar het **SEEKING-systeem** (het erotische nieuwsgierigheidsbrein) valt volledig stil door een teveel aan voorspelbaarheid.
 
-### Hoe Kink-Aware Principes Sleur Structureel Doorbreken
+### Hoe kink-aware principes sleur structureel doorbreken
 Vanuit het [Tweelagenmodel](01-het-tweelagenmodel-in-relatiedynamieken.md) is seksuele sleur een scheefgroei tussen het Ik en het Zelf:
 - **Het Ik (Neocortex):** Managet de relatie functioneel en logistiek, maar over-inhibeert het lichaam met routine en verwachtingen.
 - **Het Zelf (Archicortex/Paleocortex):** Staat affectief en erotisch op de waakvlam; het dopaminerge **SEEKING-systeem** is uitgedoofd.
@@ -28,7 +28,7 @@ Binnen kink-dynamieken bestaat zoiets als "automatische seks" vrijwel niet. Een 
 
 ---
 
-## 2. De 4 Stappen van de Way-Out: Zelfkennis en Herstel
+## 2. De 4 stappen van de way-out: zelfkennis en herstel
 
 Om uit de seksuele burnout of apathie te geraken, doorloopt het koppel vier opeenvolgende stappen die rusten op **zelfkennis** (weten wat je Zelf aankan, wanneer je moet begrenzen, en welke bedding hulp en ontspanning biedt):
 
@@ -61,7 +61,7 @@ Om uit de seksuele burnout of apathie te geraken, doorloopt het koppel vier opee
 
 ---
 
-## 3. "Overpleasen" is een Schending van Toestemming naar Jezelf
+## 3. "Overpleasen" is een schending van toestemming naar jezelf
 
 Een van de meest voorkomende oorzaken van seksuele burnout binnen relaties is **overpleasen** (*fawning* in bed):
 - Meegaan in seks om de partner tevreden te houden, de vrede te bewaren of een conflict te vermijden voelt altruïstisch, maar is destructief.
@@ -73,7 +73,7 @@ Een van de meest voorkomende oorzaken van seksuele burnout binnen relaties is **
 
 ---
 
-## 4. Erotische Spanning Floreert bij Polariteit, Niet Alleen bij Zachtheid
+## 4. Erotische spanning floreert bij polariteit, niet alleen bij zachtheid
 
 Veel gangbare relatietherapie legt bij sleur de nadruk op nog zachter praten, langdurig knuffelen, diepe emotionele kwetsbaarheid en 'hartverbinding'.
 - Dit is onmisbaar voor de regulatie van het zenuwstelsel en hechtingsveiligheid (het fundament).
@@ -83,25 +83,25 @@ Veel gangbare relatietherapie legt bij sleur de nadruk op nog zachter praten, la
 
 ---
 
-## 5. Het 4-Fasen Protocol tegen Seksuele Sleur
+## 5. Het 4-fasen protocol tegen seksuele sleur
 
-Om de theorie om te zetten in de praktijk, hanteren we een gestructureerd vier-fasen protocol:
+Om de theorie om te zetten in de praktijk, hanteer ik een gestructureerd vier-fasen protocol:
 
-### Fase 1: Het De-escalatiekader (De "Kleren-Aan"-Onderhandeling)
+### Fase 1: het de-escalatiekader (de "kleren-aan"-onderhandeling)
 Onderhandelen over seks werkt averechts wanneer een van beiden verwacht dat er direct seks volgt.
 - **Locatie:** Aan de keukentafel of tijdens een wandeling buiten de slaapkamer, volledig aangekleed.
 - **De ijzeren regel:** Er volgt die dag/avond **geen seks**. Dit haalt direct de fysieke spanning en prestatiedruk weg.
 - **Insteek:** Niet: *"Wat doen we fout?"*, maar: *"Welke aannames maken we over elkaar die eigenlijk niet meer kloppen?"*
 
-### Fase 2: De Thematische "Yes / No / Maybe"-Lijst
+### Fase 2: de thematische "yes / no / maybe"-lijst
 In plaats van vage verlangens ("we moeten eens wat spannends doen"), creëren beide partners helderheid via drie categorieën:
 - **Yes (Groen):** Handelingen die vertrouwd en fijn zijn, en die je bewust wilt heractiveren.
 - **No (Rood):** Harde grenzen. Deze worden zonder discussie of rechtvaardiging geaccepteerd. *Het vastleggen van een absolute 'No' geeft het zenuwstelsel de rust dat er niets onverwachts gebeurt.*
-- **Maybe (Oranje — Dé sleutel tegen de sleur):** Dingen waar je nieuwsgierig naar bent onder strikte voorwaarden (bijv. blinddoeken, lichte fixatie, massage met regels, temperatuurspel).
+- **Maybe (Oranje - Dé sleutel tegen de sleur):** Dingen waar je nieuwsgierig naar bent onder strikte voorwaarden (bijv. blinddoeken, lichte fixatie, massage met regels, temperatuurspel).
   - **De 3-Keer-Doen Regel:** Spreek af dat een 'Maybe'-experiment **driemaal** wordt uitgeprobeerd. De eerste keer voelt vaak onwennig of gekunsteld; pas bij de tweede en derde keer weet je lichaam of het *NOT* of juist *HOT* is.
   - **De sleutelvraag bij Maybe:** *"Wat heb jij van mij nodig om dit met nieuwsgierigheid en zonder angst te kunnen verkennen?"*
 
-### Fase 3: Het Scheiden van Handeling en Doel (Wheel of Consent)
+### Fase 3: het scheiden van handeling en doel (Wheel of Consent)
 Sleur ontstaat doordat geven en ontvangen vermengd raken in een sfeer van wederzijdse plicht. Met het model van dr. Betty Martin trekken we handeling en begunstigde uit elkaar:
 
 | Kwadrant | Wie handelt fysiek? | Voor wie is het genot bedoeld? | Functie bij het doorbreken van sleur |
@@ -113,7 +113,7 @@ Sleur ontstaat doordat geven en ontvangen vermengd raken in een sfeer van wederz
 
 *Door vooraf af te spreken: "De komende 20 minuten zit ik in 'Accepting' en jij in 'Serving', daarna stoppen we," valt de druk weg om synchroon opgewonden te raken.*
 
-### Fase 4: De Geconditioneerde Proefsessie (*The Scene Container*)
+### Fase 4: de geconditioneerde proefsessie (*the scene container*)
 Spreek geen permanente gedragsverandering af, maar een afgebakend micro-experiment:
 1. **Strikte tijdslimiet:** Werk met een kookwekker (bijvoorbeeld exact 15 of 20 minuten). Dit geeft het zenuwstelsel rust.
 2. **Stopmechanisme:** Verkeerslichtsysteem:
@@ -125,11 +125,11 @@ Spreek geen permanente gedragsverandering af, maar een afgebakend micro-experime
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen en samenhang
 
-- [01: Het Tweelagenmodel in Relatiedynamieken](01-het-tweelagenmodel-in-relatiedynamieken.md) — *Waarom relationele harmonie zonder SEEKING leidt tot erotische stilstand.*
-- [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) — *Structuur, beweging en synergie tussen partners.*
-- [04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander](04-de-erotische-paradox-en-het-mysterie-van-verlangen.md) — *Esther Perels inzichten over erotiek als levenslust versus louter overleven, de zes huwelijken en de soevereiniteit van verlangen.*
-- [BDSM 08: BDSM als Co-Creatie: De Twee Driehoeken](../../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — *Overgave en ontferming als relationele motoren.*
-- [BDSM 10: Van Vanilla naar Kink: Het Speeltuinmodel](../../over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md) — *Praktische stappen voor stellen die kaders willen verkennen.*
-- [Cube of Consent: 4D Model](../../cube-of-consent/het-cube-of-consent-model.md) — *Driver, Meaning, Action en Recipient ontrafeld.*
+- [01: Het Tweelagenmodel in Relatiedynamieken](01-het-tweelagenmodel-in-relatiedynamieken.md) - *Waarom relationele harmonie zonder SEEKING leidt tot erotische stilstand.*
+- [02: Jullie Relatie als Levend Lijf](02-relatie-als-levend-lijf.md) - *Structuur, beweging en synergie tussen partners.*
+- [04: De Erotische Paradox: Verlangen, Afstand en het Mysterie van de Ander](04-de-erotische-paradox-en-het-mysterie-van-verlangen.md) - *Esther Perels inzichten over erotiek als levenslust versus louter overleven, de zes huwelijken en de soevereiniteit van verlangen.*
+- [BDSM 08: BDSM als Co-Creatie: De Twee Driehoeken](../../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Overgave en ontferming als relationele motoren.*
+- [BDSM 10: Van Vanilla naar Kink: Het Speeltuinmodel](../../over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md) - *Praktische stappen voor stellen die kaders willen verkennen.*
+- [Cube of Consent: 4D Model](../../cube-of-consent/het-cube-of-consent-model.md) - *Driver, Meaning, Action en Recipient ontrafeld.*

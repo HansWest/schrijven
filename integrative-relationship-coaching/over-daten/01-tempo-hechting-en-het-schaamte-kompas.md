@@ -1,11 +1,11 @@
-# Daten: Tempo, Hechting en het Schaamte-Kompas
+# Daten: tempo, hechting en het schaamte-kompas
 
 > **Kennisbank Integratieve Relatiecoaching - Praktijkgids Daten**  
 > *Waarom de spanning tussen opwinding en schaamte een gezonde snelheidsmeter is in het datingproces, hoe je de peer pressure tot schaamteloosheid ontmantelt, en hoe je ontdekt wie jouw werkelijke hechtings-tribe is.*
 
 ---
 
-## 1. De Druk op het Datingtempo
+## 1. De druk op het datingtempo
 
 In de moderne datingcultuur (zowel op reguliere datingapps als binnen polyamoreuze, kinky of progressieve scenes) bestaat vaak een onuitgesproken druk op het tempo:
 - Aan de ene kant: de verwachting van snelle erotische consumptie, direct weten wat je wilt en geen 'preutse remmingen' vertonen.
@@ -15,9 +15,9 @@ Wanneer iemand aarzelt om op de eerste date seks te hebben, ontstaat er in 'vrij
 
 ---
 
-## 2. Schaamte als Biologische Snelheidsmeter
+## 2. Schaamte als biologische snelheidsmeter
 
-In integratieve coaching benaderen we schaamte niet als een defect dat weggewerkt moet worden, maar als de **fysiologische rem op het gaspedaal van de opwinding** (conform het *Dual Control Model* van Bancroft & Janssen):
+In integratieve coaching benader ik schaamte niet als een defect dat weggewerkt moet worden, maar als de **fysiologische rem op het gaspedaal van de opwinding** (conform het *Dual Control Model* van Bancroft & Janssen):
 
 * **Het Gaspedaal (Opwinding & Verlangen):** Zorgt voor toenadering, nieuwsgierigheid en seksuele aantrekkingskracht.
 * **De Rem (Schaamte & Waakzaamheid):** Stelt de hechtingsvraag: *"Is deze ontmoeting al veilig genoeg voor mijn diepste kwetsbaarheid? Word ik gezien of word ik geconsumeerd?"*
@@ -26,7 +26,7 @@ Een duurzaam datingtempo ontstaat niet door de rem geforceerd door te trappen, m
 
 ---
 
-## 3. Variaties in Tempo: Er is Geen Universele Norm
+## 3. Variaties in tempo: er is geen universele norm
 
 Er is geen algemeen geldende 'goede' manier om te daten:
 1. **Seks op de eerste date:** Voor sommigen werkt dit fantastisch; het zenuwstelsel voelt direct ontspanning en speelsheid.
@@ -37,7 +37,7 @@ Wat telt is de vraag: *doe ik dit vanuit contact met mijn eigen Zelf, of doe ik 
 
 ---
 
-## 4. De Vraag: *What is My Tribe?*
+## 4. De vraag: *what is my tribe?*
 
 Schaamte signaleert de vrees om buiten de groep te vallen. Als je merkt dat jouw verlangens, grenzen of gewenste tempo stelselmatig botsen met de datingpool waarin je vist, is de interventie niet zelfverwijt, maar heroriëntatie:
 - Pas ik me aan om maar mee te mogen doen?

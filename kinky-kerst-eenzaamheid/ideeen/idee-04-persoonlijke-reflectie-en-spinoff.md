@@ -1,18 +1,18 @@
-# Persoonlijke Reflectie: Verlangens, Eerlijkheid & Organische Spinoffs
+# Persoonlijke reflectie: verlangens, eerlijkheid & organische spinoffs
 
 > *Een openhartig werkdocument over de wisselwerking tussen persoonlijk verlangen en publiek leiderschap in de community.*
 
 ---
 
-## 1. Het Eerlijke Verlangen: Erkenning zonder Valse Schaamte
+## 1. Het eerlijke verlangen: erkenning zonder valse schaamte
 
-Als mannelijk Dominant en coach is het volkomen natuurlijk en menselijk om zelf ook te verlangen naar intimiteit, warmte en een passende dynamiek. De wens om — eventueel als organische spinoff van je zichtbaarheid en werk — een fijne, oprechte relatie te vinden met een leuke, jonge onderdanige (submissive) vrouw, hoeft niet weggemoffeld of ontkend te worden. 
+Als mannelijk Dominant en coach is het volkomen natuurlijk en menselijk om zelf ook te verlangen naar intimiteit, warmte en een passende dynamiek. De wens om - eventueel als organische spinoff van je zichtbaarheid en werk - een fijne, oprechte relatie te vinden met een leuke, jonge onderdanige (submissive) vrouw, hoeft niet weggemoffeld of ontkend te worden. 
 
 Integendeel: wie zijn eigen verlangens kent en eerlijk onder ogen durft te zien, raakt er niet stiekem door gestuurd en kan juist veel zuiverder werken.
 
 ---
 
-## 2. De Gulden Regel: Spinoff mag, Verborgen Agenda nooit
+## 2. De gulden regel: spinoff mag, verborgen agenda nooit
 
 Het succes, de geloofwaardigheid en de veiligheid van het project *Kinky Kerst Coach* staan of vallen met rolzuiverheid:
 
@@ -37,7 +37,7 @@ Het succes, de geloofwaardigheid en de veiligheid van het project *Kinky Kerst C
 
 ---
 
-## 3. Leeftijdsverschil & D/s: Aandachtspunten voor Integriteit
+## 3. Leeftijdsverschil & D/s: aandachtspunten voor integriteit
 
 Wanneer er sprake is van een connectie met een jongere onderdanige vrouw, zijn er specifieke dynamieken die extra aandacht vragen:
 

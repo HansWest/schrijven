@@ -140,7 +140,7 @@ Een veiligheidsmelding is een aparte route voor bijvoorbeeld intimidatie, fraude
 
 Eén negatieve beoordeling leidt niet automatisch tot een blokkade. Moderatoren kijken naar concrete informatie, context en patronen, geven waar veilig en passend gelegenheid tot reactie en bieden een bezwaarroute. Bij acute dreiging kan tijdelijk contact worden beperkt, met menselijke toetsing achteraf. Dit systeem verkleint de kans op nepreacties, maar kan niet alle misleiding of onterechte beoordelingen uitsluiten.
 
-## Een haalbare eerste versie: Plannen & Ideeën
+## Een haalbare eerste versie: plannen en ideeën
 
 Om het concept praktisch uitvoerbaar en veilig te houden, bouwen we niet direct een massaal sociaal netwerk, maar een gecontroleerde, veilige eerste versie gebaseerd op zes operationele pijlers:
 
@@ -184,21 +184,21 @@ Om het concept praktisch uitvoerbaar en veilig te houden, bouwen we niet direct 
 - **De Vijf Harde Randvoorwaarden:** Geen uitbreiding zonder (1) institutionele partnerschappen (erkende jeugdzorg/welzijn), (2) betaalde BIG/SKJ-professionals, (3) structurele financiering, (4) strikte AVG-scheiding, en (5) een waterdicht safeguarding-protocol (verplichte VOG, 4-ogen-principe, meldcode en verbod op ongecontroleerde privé-chat tussen volwassenen en minderjarigen).
 - 📄 *Volledige uitwerking:* [**06: Safeguarding & Toekomstige Doelgroepen**](06-safeguarding-en-toekomstige-doelgroepen.md)
 
-## Vastgelegde Ontwerpkeuzes voor de Pilot
+## Vastgelegde ontwerpkeuzes voor de pilot
 
 Op basis van de ontwerpprincipes zijn de volgende keuzes definitief vastgelegd voor de eerste pilotversie:
 
 1. **Verantwoordelijkheid & Crisisopvang (113 & Hulpdiensten):**  
-   - De initiatiefnemer / projectorganisator draagt op werkdagen (09:00–17:00) de verantwoordelijkheid voor interne moderatie, screening en community-opvolging.
+   - De initiatiefnemer / projectorganisator draagt op werkdagen (09:00-17:00) de verantwoordelijkheid voor interne moderatie, screening en community-opvolging.
    - Buiten kantooruren en bij acute nood draagt de app geen medische of politionele verantwoordelijkheid, maar schakelt geautomatiseerd door naar de officiële 24/7 diensten: **113 Zelfmoordpreventie (0800-0113)** voor existentiële nood en suïcidepreventie, **De Luisterlijn (0800-0767)** voor acute eenzaamheid, **Veilig Thuis (0800-2000)** voor geweld/stalking en **112** bij acuut fysiek gevaar.
 
 2. **Leeftijden en Relatievormen in de Eerste Pilot:**  
    - **Leeftijd:** Strikt volwassenen (18+). Minderjarigen worden in deze fase uitgesloten.
    - **Gekozen Familiebanden:** De pilot faciliteert expliciet het matchen op specifieke gekozen familierollen tussen volwassenen:
-     - **Ouder – Kind:** Gekozen vader/moeder ↔ gekozen volwassen zoon/dochter/kind.
-     - **Broer – Zus / Siblings:** Broer-broer, broer-zus, zus-zus relaties.
-     - **Oom/Tante – Nicht/Neef:** Steunende mentor- en familieachtige dynamieken.
-     - **Grootouder – Kleinkind:** Intergenerationele gekozen familiebanden (opa/oma ↔ volwassen kleinkind).
+     - **Ouder - Kind:** Gekozen vader/moeder ↔ gekozen volwassen zoon/dochter/kind.
+     - **Broer - Zus / Siblings:** Broer-broer, broer-zus, zus-zus relaties.
+     - **Oom/Tante - Nicht/Neef:** Steunende mentor- en familieachtige dynamieken.
+     - **Grootouder - Kleinkind:** Intergenerationele gekozen familiebanden (opa/oma ↔ volwassen kleinkind).
      - **Gelijkwaardige Vriendenkring:** Zonder specifieke familierol, gericht op gedeelde gezelligheid.
 
 3. **Verificatie & Bewaring van Meldingen (Systeem Verity):**  

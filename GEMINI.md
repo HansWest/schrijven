@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Perspectief en Taal
+## 2. Perspectief en taal
 
 1. **Perspectief (Ik-vorm als persoonlijke stem):**
    - De auteur schrijft als individu/persoon in de **ik-vorm** (persoonlijk, direct, vanuit eigen observatie, coachingspraktijk en doorleefde ervaring).
@@ -30,7 +30,7 @@
 
 ---
 
-## 3. Typografie en Stijlafspraken
+## 3. Typografie en stijlafspraken
 
 1. **Geen em-dashes:**
    - Gebruik **nooit** de lange em-dash (`—`).
@@ -42,10 +42,11 @@
    - Wees niet bang voor ongepolijste, directe bewoordingen ("empathieloze eikels" in plaats van afstandelijke metaforen).
    - Gebruik begrippen uit de community ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd.
    - **Gebruik 'onderdanige' of 'submissive' (NOOIT 'onderdaan'):** Gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub". Gebruik **nooit** het woord "onderdaan" (dat klinkt feodaal/politiek en is geen scènetaal).
+   - **Gebruik 'fetish' (NOOIT 'fetisj'):** Schrijf fetish (en meervoud fetishes) altijd met `-sh`, zoals in het Engels en in de internationale BDSM/kink-community gebruikelijk is. Gebruik **nooit** de vernederlandste spelling 'fetisj' of 'fetisjen'.
 
 ---
 
-## 4. Schrijfstijl en Doorleefde Stem van de Auteur
+## 4. Schrijfstijl en doorleefde stem van de auteur
 
 1. **Spreektaal vóór jargon (vakterm als terzijde, niet als hoofdtoon):**
    - Zet altijd de herkenbare menselijke ervaring en het gewone woord voorop.

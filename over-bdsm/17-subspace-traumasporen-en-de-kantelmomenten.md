@@ -80,7 +80,7 @@ Als sub vraagt het spelen met deze lagen geen passieve lijdzaamheid, maar juist 
 
 ---
 
-## 5. Praktische handvatten voor de Dominant
+## 5. Praktische handvatten voor de dominant
 
 Voor de Dominant brengt het spelen met deze diepere lagen een grote ethische en relationele verantwoordelijkheid met zich mee. Het vraagt om meer dan louter techniekbeheersing; het vraagt om het vermogen om een zenuwstelsel te 'lezen'.
 

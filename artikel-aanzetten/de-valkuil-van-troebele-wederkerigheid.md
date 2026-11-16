@@ -25,14 +25,14 @@ In intieme relaties en erotische machtsdynamieken fungeert de uitspraak *"we wil
 
 ---
 
-## Doelgroep & Invalshoek
+## Doelgroep en invalshoek
 
 - **Doelgroep:** Stellen in langdurige relaties, beoefenaars van BDSM/D/s, relatiecoaches, sekscologen en workshopbegeleiders.
 - **Toon:** Nuchter, onderzoekend, psychologisch scherp, vrij van preuts moralisme en zonder jargon-overload.
 
 ---
 
-## Belangrijke Nuances & Aandachtspunten voor Verificatie
+## Belangrijke nuances en aandachtspunten voor verificatie
 
 - **Geen afwijzing van Betty Martin:** Het Wheel of Consent van Betty Martin is een baanbrekend model geweest om 'doen' en 'voor wie' los te koppelen. Dit artikel bekritiseert Martin niet, maar bouwt erop voort: het adresseert situaties (zoals D/s, service topping, en complexe intieme behoeften) waar twee assen tekortschieten.
 - **Geen verwerping van wederzijds genot:** Het doel is niet om seks kil of transactioneel te maken. Het doel is juist om 'troebele' wederkerigheid te ontrafelen, zodat zuivere, diepe gedeelde intimiteit (`meaning: both`) kan bloeien zonder verkapte druk.
@@ -47,30 +47,30 @@ In intieme relaties en erotische machtsdynamieken fungeert de uitspraak *"we wil
 - Waarom *"we willen het samen"* vaak een vlucht is voor kwetsbaarheid: niemand hoeft met de billen bloot om te zeggen: *"Ík wil dit van jou."*
 - Hoe 'troebele wederkerigheid' leidt tot covert contracts (onuitgesproken schuldgevoel) en *approval-seeking*.
 
-### 2. De Driver-as als daad van moed
+### 2. De driver-as als daad van moed
 - Waarom verlangen uitspreken inherently kwetsbaar is: zowel voor de Dominant (*"ik wil jou vastbinden"*) als voor de sub (*"ik wil dat je me commandeert"*).
 - De symmetrie van exposure: degene die de vraag stelt, riskeert afwijzing en schaamte.
 - Het gevaar van rol-automatisme: handelen omdat het 'hoort' bij de rol in plaats van uit actueel verlangen (`-` conditie).
 
-### 3. De splitsing: Lichaam vs. Betekenis
+### 3. De splitsing: lichaam vs. betekenis
 - Waarom fysieke opwinding (B1) en emotionele voeding (B2) niet samenvallen.
 - Voorbeeld: service topping (de actieve partner geniet van het schenken van zorg; de ontvangende partner geniet van de fysieke sensatie).
 - Hoe `meaning: both` ruimte maakt om elkaars verschillende rollen volmondig te vieren zónder dat beiden fysiek hetzelfde hoeven te ervaren.
 
-### 4. De 4 Verwarringsvalkuilen in de praktijk
+### 4. De vier verwarringsvalkuilen in de praktijk
 1. *Actie ↔ Drijfveer:* Aannemen dat degene die beweegt ook degene is die het verlangt.
 2. *Lichaam ↔ Betekenis:* Aannemen dat een stijve penis of natte vagina emotionele instemming betekent.
 3. *Troebele Wederkerigheid:* Initiatief camoufleren onder gedeeld plezier.
 4. *Tolereren ↔ Drijven:* Niet-stoppen verwarren met actief willen.
 
-### 5. Het diagnostische instrument: De Één-Adem Toets
+### 5. Het diagnostische instrument: de één-ademtoets
 - De praktische vuistregel: kun je in één zin zonder haperen uitspreken:  
   *"[Actor] doet dit bij [Ontvanger], voor het lichaam van [X], omdat [Y] het wil, om het hart van [Z] te voeden."*
 - Als dit niet lukt: pauzeer. Het gesprek over de zin is vaak intiemer en verhelderender dan de handeling zelf.
 
 ---
 
-## Verwijzingen & Bronnen binnen Schrijven
+## Verwijzingen en bronnen binnen schrijven
 - [`cube-of-consent/het-cube-of-consent-model.md`](file:///Users/mbp13/Programmeren/schrijven/cube-of-consent/het-cube-of-consent-model.md)
 - [`over-bdsm/02-techniek-versus-betekenis.md`](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/02-techniek-versus-betekenis.md)
 - [`over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md`](file:///Users/mbp13/Programmeren/schrijven/over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md)

@@ -1,11 +1,11 @@
-# Angstig-Vermijdende Hechting (Fearful-Avoidant / FA): De Sabotagecyclus, de Verraadwond en de Muur van Pijn
+# Angstig-vermijdende hechting (fearful-avoidant / FA): de sabotagecyclus, de verraadwond en de muur van pijn
 
-> **Algemene Hechtingstheorie — Deel 5**  
+> **Algemene Hechtingstheorie - Deel 5**  
 > *Waarom mensen met een angstig-vermijdende hechtingsstijl (Fearful-Avoidant / FA, de volwassen manifestatie van gedesorganiseerde hechting) hun eigen relaties saboteren; het conflict tussen intens verlangen en doodsangst voor pijn; stonewalling als 'pomp-test'; en hoe je de onderbewuste verraadwond heelt.*
 
 ---
 
-## 1. Het Innerlijke Mijnenveld van Fearful Avoidance
+## 1. Het innerlijke mijnenveld van fearful avoidance
 
 Mensen met een **angstig-vermijdende hechtingsstijl (*fearful avoidant* of gedesorganiseerd)** dragen een van de meest pijnlijke en complexe innerlijke dynamieken in de relationele psychologie. 
 
@@ -17,7 +17,7 @@ Het zenuwstelsel staat voortdurend op scherp: nabijheid voelt als een tikkende t
 
 ---
 
-## 2. De Sabotagecyclus bij Angstig-Vermijdende Hechting
+## 2. De sabotagecyclus bij angstig-vermijdende hechting
 
 Zodra een relatie intiemer en serieuzer wordt, treedt in het onderbewustzijn van de angstig-vermijder een automatische sabotagecyclus in werking:
 
@@ -53,23 +53,23 @@ Zodra een relatie intiemer en serieuzer wordt, treedt in het onderbewustzijn van
                  iedereen stelt mij uiteindelijk teleur."
 ```
 
-### De Twee Gezichten van de Sabotage
+### De twee gezichten van de sabotage
 Afhankelijk van welk overlevingssysteem de overhand krijgt, schakelt het onderbewustzijn razendsnel tussen twee uitersten:
 1. **De Fight-Modus (Protestgedrag):** De persoon zoekt de confrontatie, stelt dwingende vragen, en blijft behoeften dwangmatig herhalen totdat de partner mentaal en emotioneel volledig is uitgeput.
 2. **De Flight/Freeze-Modus (Deactivering):** Zodra de angst te groot wordt, trekt de persoon plotseling een ondoordringbare muur op. Telefoontjes worden niet beantwoord, de blik wordt ijzig en er heerst absolute radiostilte.
 
 ---
 
-## 3. Cruciale Dynamieken Ontrafeld
+## 3. Cruciale dynamieken ontrafeld
 
-### A. De 'Silent Treatment' als Pomp-test vs. Zenuwstelselstabilisatie
+### A. De 'silent treatment' als pomp-test vs. zenuwstelselstabilisatie
 Wanneer een angstig-vermijdende partner zich plotseling terugtrekt en weigert te communiceren (*stonewalling*), spelen er vaak twee lagen tegelijk:
 1. **De Onbewuste Pomp-test:**  
    Het stilzwijgen fungeert als een verborgen toetssteen: *"Houdt mijn partner echt van mij? Blijft diegene moeite doen en 'pompen' om mijn muur af te breken, of geeft diegene me zomaar op?"* Blijft de partner niet vechten, dan interpreteert de FA dit als bewijs dat er nooit van hem gehouden is. Blijft de partner wél aandringen, dan voelt het zenuwstelsel zich overspoeld.
 2. **Acute Noodrem voor het Zenuwstelsel:**  
    Tegelijkertijd kan de 'silent treatment' een fysiologische noodgreep zijn: het zenuwstelsel is dermate overspoeld door de fight/flight-respons dat de dorsale vagus ingrijpt met een shutdown om een complete zenuwinzinking te voorkomen.
 
-### B. De "Muur van Pijn"
+### B. De "muur van pijn"
 Een klassiek fenomeen bij fearful avoidance is dat zelfs nadat een partner diep door het stof is gegaan, excuses heeft aangeboden en alles heeft gedaan om het goed te maken, de FA achter een **"muur van pijn"** blijft staan.
 
 > **Waarom herstel mislukt:**  
@@ -77,7 +77,7 @@ Een klassiek fenomeen bij fearful avoidance is dat zelfs nadat een partner diep 
 
 ---
 
-## 4. De Weg naar Heling en Verandering
+## 4. De weg naar heling en verandering
 
 Het doorbreken van fearful avoidance vereist intensief werk op zowel cognitief als somatisch niveau:
 

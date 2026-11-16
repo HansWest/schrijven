@@ -1,19 +1,19 @@
-# Visie & Filosofie: Eenzaamheid en Kink rond de Feestdagen
+# Visie & filosofie: eenzaamheid en kink rond de feestdagen
 
-> **Single Source of Truth (SSOT)** — Document 01  
-> *Waarom kinksters en buiten-de-norm levenden juist rond Kerst diepe eenzaamheid ervaren, en hoe we hier in de echte wereld een warm, realistisch antwoord op bieden.*
+> **Single Source of Truth (SSOT)** - Document 01  
+> *Waarom kinksters en buiten-de-norm levenden juist rond Kerst diepe eenzaamheid ervaren, en hoe ik hier in de praktijk een warm, realistisch antwoord op bied.*
 
 ---
 
-## 1. Het Fenomeen: De "Kerstkramp" & Dubbele Isolatie
+## 1. Het fenomeen: de "kerstkramp" & dubbele isolatie
 
 Rond de feestdagen in december piekt sociale druk in de westerse samenleving. Overal heerst het narratief van de traditionele familie: samen aan het kerstdiner, harmonie, romantische monogame gezinsstructuren en "gezelligheid". Voor mensen die buiten deze mal leven ontstaat de **Kerstkramp**:
 
-### A. De Dubbele Kast (The Double Closet)
+### A. De dubbele kast (the double closet)
 1. **De Vanilla Buitenwereld:** Veel kinksters, BDSM-beoefenaars en non-monogamen zijn niet uit de kast naar hun familie, collega's of reguliere vriendenkring. Tijdens feestdagen moeten zij een "masker" dragen of sociaal wenselijke verhalen ophouden over hun liefdesleven en passies. Dat masker dragen kost immense energie en creëert vervreemding.
 2. **De Kink Binnenwereld:** Zelfs binnen de kinkscene voelen mensen zich geregeld eenzaam. De scene kan soms intimiderend, prestatiegericht of kliekerig overkomen ("het stille oordeel"). Wie verlegen is, neurodivergent is (ADHD, autisme), nieuw is, of geen vaste play-partner heeft, voelt zich vaak een toeschouwer aan de zijlijn.
 
-### B. Amatonormativiteit & De Lege Stoel
+### B. Amatonormativiteit & de lege stoel
 Onze maatschappij zit vol *amatonormativiteit*: de aanname dat een exclusieve, romantische relatie de enige echte vervulling en volwassen levensvorm is. 
 - Wie single is, krijgt het gevoel "overgebleven" te zijn.
 - Voor kinksters met een solo-levensstijl, LAT-relaties, switch/sub/dom dynamieken zonder samenwonen, of polyamorie, wringt dit extra hard.
@@ -21,19 +21,19 @@ Onze maatschappij zit vol *amatonormativiteit*: de aanname dat een exclusieve, r
 
 ---
 
-## 2. De Psychologie & Het Lichaam: Hersenstam en "Drop"
+## 2. De psychologie & het lichaam: hersenstam en "drop"
 
 Eenzaamheid bij kinksters is niet alleen een cognitieve gedachte ("ik ben alleen"), maar een somatische toestand:
 
-1. **Hersenstam & Overleving:** Zoals beschreven in onze notities over emoties, zoekt de hersenstam continu naar fysieke veiligheid en verbinding. Uitsluiting of onzichtbaarheid activeert een oer-paniek (angst voor verstoting uit de stam).
+1. **Hersenstam & Overleving:** Zoals beschreven in mijn notities over emoties, zoekt de hersenstam continu naar fysieke veiligheid en verbinding. Uitsluiting of onzichtbaarheid activeert een oer-paniek (angst voor verstoting uit de stam).
 2. **Subdrop en Domdrop:** Na intense sessies of periodes van hoge intensiteit ervaren velen een biochemische dip (dopamine/oxytocine daling). In december, wanneer het koud en donker is en feestjes stilvallen, kan een 'chronische drop' optreden als er geen aftercare en warm contact is.
 3. **Zelf-Aftercare als Fundament:** Verbinding met anderen begint bij het niet verlaten van jezelf. Single zijn in kink betekent dat je leert je eigen aftercare te organiseren: warmte, voeding, aarding, en jezelf toestaan te voelen zonder in paniek te vluchten naar willekeurige relaties.
 
 ---
 
-## 3. Onze Benadering in de Echte Wereld
+## 3. Mijn benadering in de praktijk
 
-Wij gaan eenzaamheid niet bestrijden met zweverige praatjes of door mensen geforceerd uit de kast te duwen. Onze werkwijze rust op vier pijlers:
+Ik ga eenzaamheid niet bestrijden met zweverige praatjes of door mensen geforceerd uit de kast te duwen. Mijn werkwijze rust op vier pijlers:
 
 ```
                   ┌────────────────────────────────────────┐

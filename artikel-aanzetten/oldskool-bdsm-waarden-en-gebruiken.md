@@ -5,7 +5,7 @@
 
 ## Werktitel
 
-**Oldskool BDSM: wat willen we bewaren — en wat laten we achter?**
+**Oldskool BDSM: wat willen we bewaren - en wat laten we achter?**
 
 Alternatieve presentatietitel: **Oldskool is geen excuus: ritueel, respect en consent in BDSM**
 
@@ -45,7 +45,7 @@ Bespreek eer en respect niet als blinde gehoorzaamheid, status of bescherming va
 
 Binnen de ethiek van oldskool BDSM vertaalt dit zich naar **de Twee O's** (zie ook [08: BDSM als Co-Creatie](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)):
 - **Overgave van de sub:** Geen willoze capitulatie, maar de actieve, moedige keuze om controle uit handen te geven vanuit vertrouwen en autonomie.
-- **Ontferming van de Dom:** Actieve zorg en bescherming voor de in het spel gecreëerde kwetsbaarheid (*splagchnizomai* — diep bewogen zorg die leidt tot daden).
+- **Ontferming van de Dom:** Actieve zorg en bescherming voor de in het spel gecreëerde kwetsbaarheid (*splagchnizomai* - diep bewogen zorg die leidt tot daden).
 
 Vraag ook: wie bepaalt de gedragscode, wie kan iemand erop aanspreken en hoe wordt voorkomen dat “respect” kritiek of grensstelling onmogelijk maakt?
 
@@ -80,12 +80,12 @@ Sluit af met drie kolommen:
 |---|---|---|
 | Betrouwbaarheid, vakmanschap, aandacht voor afspraken | Protocol, contracten en ceremonie: alleen betekenisvol en gezamenlijk gekozen | Status als vervanging voor consent, geheimhouding die schade afdekt, traditie als excuus om grenzen te negeren |
 
-Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeven — en benoemen welke waarborg nodig is om het vrijwillig, inclusief en veilig te houden.
+Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeven - en benoemen welke waarborg nodig is om het vrijwillig, inclusief en veilig te houden.
 
-## Presentatie-opzet (30–40 minuten)
+## Presentatie-opzet (30-40 minuten)
 
-1. **Opening — “Oldskool: erfgoed of cosplay?”** (3 min)  
-   Wat trekt ons aan in traditie en structuur?
+1. **Opening - “Oldskool: erfgoed of cosplay?”** (3 min)  
+   Wat trekt mensen aan in traditie en structuur?
 2. **Eén geschiedenis, of meerdere?** (5 min)  
    Introduceer Old Guard als betwiste, vooral met gay male leather verbonden aanduiding; onderscheid archief, overlevering en mythe.
 3. **Hanky code: leesbaar signaal, geen toestemming** (5 min)  
@@ -96,13 +96,13 @@ Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeve
    Wat voegen ze toe? Welke claims zijn historisch onderbouwd, welke zijn hedendaagse keuzes?
 6. **Wat is nog waardevol voor huidige generaties?** (5 min)  
    Mentorschap, ambacht, betrouwbaarheid, voorbereiding, nazorg en verantwoordelijkheid.
-7. **Publieksgesprek — behouden, aanpassen, loslaten** (5–8 min)  
+7. **Publieksgesprek - behouden, aanpassen, loslaten** (5-8 min)  
    Vraag: “Welke traditie zou jij willen doorgeven, en welke afspraak maakt haar veilig en vrijwillig?”
 
 ## Mogelijke publieksvragen
 
 - Welke gebruiken hebben jullie zelf meegemaakt, en in welke scene of context?
-- Voelt protocol voor jou als houvast, spel, druk of uitsluiting — of iets anders?
+- Voelt protocol voor jou als houvast, spel, druk of uitsluiting - of iets anders?
 - Welke betekenis heeft een ceremonie als de vorm niet historisch oud blijkt te zijn?
 - Hoe kunnen we respect tonen voor leather-geschiedenis zonder die toe te eigenen of te versimpelen?
 - Welke “oldskool”-waarde is juist nu nuttig, en hoe merk je dat in gedrag?
@@ -120,13 +120,13 @@ Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeve
 
 ### Eerste oriëntatie
 
-- [Handkerchief code — Wikipedia](https://en.wikipedia.org/wiki/Handkerchief_code) — bruikbaar als startpunt voor de algemene uitleg en verwijzingen, niet als enige historische bron. De pagina noemt meerdere concurrerende ontstaansverhalen en wijst erop dat er geen universele standaard voor de betekenissen is.
-- [Old Guard BDSM — Consent Culture](https://consentculture.community/glossary/old-guard-bdsm/) — hedendaagse community-uitleg van de term en bijbehorende protocollen; geen primaire historische bron.
-- [The Leather Archives & Museum](https://leatherarchives.org/about/) — archief en onderzoekscollectie voor leather-, BDSM- en kinkgeschiedenis; raadpleeg archiefmateriaal en vraag zo nodig de archivaris om relevante bronnen.
-- [A subculture with a paper trail — BDSM History](https://bdsm-history.com/) — secundaire historische website met een gedocumenteerde tijdlijn. De pagina over [naoorlogse leather-scènes](https://bdsm-history.com/eras/postwar) waarschuwt dat “Old Guard” en bijbehorende protocollen soms later op het verleden zijn geprojecteerd. Verifieer belangrijke beweringen in boeken, periodieken en archieven vóór publicatie.
-- [SSC and RACK — BDSM History](https://bdsm-history.com/topics/ssc-and-rack) — secundaire bespreking van de ontstaanscontext van consent-acroniemen; behandel de daarin genoemde data en interpretaties als te controleren claims.
-- [Kennisbank BDSM & Kink](../over-bdsm/README.md), [04: Dominantie hoeft niets te bewijzen](../over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) en [08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) — theorie over betekenisvolle protocollen, actieve overgave en ontferming.
-- [Cube of Consent](../cube-of-consent/README.md) — intern kader voor consent als doorlopende afstemming.
+- [Handkerchief code - Wikipedia](https://en.wikipedia.org/wiki/Handkerchief_code) - bruikbaar als startpunt voor de algemene uitleg en verwijzingen, niet als enige historische bron. De pagina noemt meerdere concurrerende ontstaansverhalen en wijst erop dat er geen universele standaard voor de betekenissen is.
+- [Old Guard BDSM - Consent Culture](https://consentculture.community/glossary/old-guard-bdsm/) - hedendaagse community-uitleg van de term en bijbehorende protocollen; geen primaire historische bron.
+- [The Leather Archives & Museum](https://leatherarchives.org/about/) - archief en onderzoekscollectie voor leather-, BDSM- en kinkgeschiedenis; raadpleeg archiefmateriaal en vraag zo nodig de archivaris om relevante bronnen.
+- [A subculture with a paper trail - BDSM History](https://bdsm-history.com/) - secundaire historische website met een gedocumenteerde tijdlijn. De pagina over [naoorlogse leather-scènes](https://bdsm-history.com/eras/postwar) waarschuwt dat “Old Guard” en bijbehorende protocollen soms later op het verleden zijn geprojecteerd. Verifieer belangrijke beweringen in boeken, periodieken en archieven vóór publicatie.
+- [SSC and RACK - BDSM History](https://bdsm-history.com/topics/ssc-and-rack) - secundaire bespreking van de ontstaanscontext van consent-acroniemen; behandel de daarin genoemde data en interpretaties als te controleren claims.
+- [Kennisbank BDSM & Kink](../over-bdsm/README.md), [04: Dominantie hoeft niets te bewijzen](../over-bdsm/04-dominantie-hoeft-niets-te-bewijzen.md) en [08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - theorie over betekenisvolle protocollen, actieve overgave en ontferming.
+- [Cube of Consent](../cube-of-consent/README.md) - intern kader voor consent als doorlopende afstemming.
 
 ### Te verifiëren vóór een definitief artikel
 

@@ -100,11 +100,11 @@ Herhaalde ervaringen en gevolgen kunnen verwachtingen en reacties vormen. Daardo
 
 Verandering betekent niet dat een gevoel meteen verdwijnt. Soms ontstaat er eerst meer ruimte om het te herkennen, er woorden aan te geven en anders te handelen. Soms zijn praktische aanpassingen, relationeel herstel of professionele behandeling nodig. De coach helpt onderzoeken en oefenen, maar schrijft niet voor wat iemand hoort te voelen.
 
-### De Laatste Fase van Grip: Uitleggen en Zingeving (Hilarion Petzold)
+### De laatste fase van grip: uitleggen en zingeving (Hilarion Petzold)
 
-In de **Integratieve Therapie van Hilarion Petzold** - en zijn epistemische model van **"die hermeneutische Spirale"** (*Wahrnehmen $\rightarrow$ Erfassen $\rightarrow$ Verstehen $\rightarrow$ Erklären*) - wordt de manier waarop we de wereld, onze emoties en onszelf leren kennen voorgesteld als een opwaartse spiraal. De voltooiing van emotionele integratie stopt niet bij interne zelfregulatie in isolatie, maar bereikt haar volwassen consolidatie wanneer iemand in staat is om:
+In de **Integratieve Therapie van Hilarion Petzold** - en zijn epistemische model van **"die hermeneutische Spirale"** (*Wahrnehmen $\rightarrow$ Erfassen $\rightarrow$ Verstehen $\rightarrow$ Erklären*) - wordt de manier waarop de mens de wereld, emoties en zichzelf leert kennen voorgesteld als een opwaartse spiraal. De voltooiing van emotionele integratie stopt niet bij interne zelfregulatie in isolatie, maar bereikt haar volwassen consolidatie wanneer iemand in staat is om:
 1. **Aan anderen uit te leggen hoe diegene met die emoties omgaat (*Erklären*):** Het verwoorden van een heldere, persoonlijke 'emotionele handleiding' naar partners, vrienden of lotgenoten. Dit toont aan dat het reflectieve ik niet langer overspoeld raakt door de emotionele impuls van het levende lijf (*Leiblichkeit*), maar getuige kan zijn van het eigen proces en dit relationeel kan communiceren.
-2. **De Zingevingsfase van de Hermeneutische Spiraal (Sinnfindung):** Welke existentiële waarde ontleen je aan deze woede, dit verdriet of deze doorgemaakte crisis? Betekenis geven aan wat de emotionele ervaring heeft gekost en opgeleverd. De pijn wordt getransformeerd tot een moreel kompas, diepe zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*). Doordat het een spiraal is, keert men bij een volgende crisis nooit terug op hetzelfde punt van machteloosheid, maar op een hoger niveau van meesterschap.
+2. **De zingevingsfase van de hermeneutische spiraal (Sinnfindung):** Welke existentiële waarde ontleen je aan deze woede, dit verdriet of deze doorgemaakte crisis? Betekenis geven aan wat de emotionele ervaring heeft gekost en opgeleverd. De pijn wordt getransformeerd tot een moreel kompas, diepe zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*). Doordat het een spiraal is, keert men bij een volgende crisis nooit terug op hetzelfde punt van machteloosheid, maar op een hoger niveau van meesterschap.
 
 ---
 
@@ -118,4 +118,4 @@ In de **Integratieve Therapie van Hilarion Petzold** - en zijn epistemische mode
 
 ## Relatie tot de andere emotiepagina's
 
-Dit werkmodel biedt een algemene kapstok. De [praktische gids Omgaan met emoties](omgaan-met-emoties.md) werkt herkennen en reageren verder uit; [Emoties, leren en gedrag](emoties-leren-en-gedrag.md) behandelt conditionering en bekrachtiging; de stukken over [angst](../over-angst/01-wat-is-angst-biologie-functie-en-vrees.md) en [schuld](over-schuld.md) werken enkele specifieke emoties uit.
+Dit werkmodel biedt een algemene kapstok. De [praktische gids Omgaan met emoties](omgaan-met-emoties.md) werkt herkennen en reageren verder uit; [Emoties, leren en gedrag](emoties-leren-en-gedrag.md) behandelt conditionering en bekrachtiging; de stukken over [angst](over-bang/README.md) en [schuld](over-schuld/README.md) werken enkele specifieke emoties uit.

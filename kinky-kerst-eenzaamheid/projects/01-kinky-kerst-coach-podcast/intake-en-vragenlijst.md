@@ -1,39 +1,39 @@
-# Google Forms Blauwdruk: Luisteraarsvragen & Brieven
+# Google Forms-blauwdruk: luisteraarsvragen & brieven
 
 Dit document bevat de exacte tekst en veldinstellingen om rechtstreeks in Google Forms over te nemen.
 
 ---
 
-## Titel van het Formulier
+## Titel van het formulier
 **Sinquest Kinky Kerst Coach: Brievenbus voor de Donkere Dagen (Anoniem)**
 
 ## Formulierbeschrijving
-> *De feestdagen kunnen prachtig zijn, maar ook confronterend, leeg of eenzaam — zeker als je een kinky, BDSM- of alternatief liefdesleven hebt waar je omgeving niets van weet.*  
+> *De feestdagen kunnen prachtig zijn, maar ook confronterend, leeg of eenzaam - zeker als je een kinky, BDSM- of alternatief liefdesleven hebt waar je omgeving niets van weet.*  
 >  
-> *In de podcastserie 'Kinky Kerst Coach' rond Kerstmis 2026 behandelen we anonieme vragen, ervaringen en verhalen van luisteraars. Wil je iets kwijt dat je aan niemand anders kunt vertellen? Worstel je met schaamte, familieverwachtingen, verlatingsangst of het vinden van je plek in de scene? Deel het met ons.*  
+> *In de podcastserie 'Kinky Kerst Coach' rond Kerstmis 2026 behandel ik anonieme vragen, ervaringen en verhalen van luisteraars. Wil je iets kwijt dat je aan niemand anders kunt vertellen? Worstel je met schaamte, familieverwachtingen, verlatingsangst of het vinden van je plek in de scene? Deel het met mij.*  
 >  
-> *Alles wordt 100% anoniem behandeld. We noemen nooit echte namen, steden of herleidbare details. Je inzending verplicht je tot niets.*
+> *Alles wordt 100% anoniem behandeld. Ik noem nooit echte namen, steden of herleidbare details. Je inzending verplicht je tot niets.*
 
 ---
 
 ## Vragenoverzicht in Google Forms
 
-### Vraag 1: Hoe mogen we naar je verwijzen in de podcast?
+### Vraag 1: hoe mag ik naar je verwijzen in de podcast?
 - **Type:** Korte tekst
 - **Helptekst:** *"Bedenk een schuilnaam, pseudoniem of scene-naam (bijv. 'Kinkster uit het noorden' of 'Alex, sub, 26'). Vul NOOIT je echte volledige naam in."*
 - **Verplicht:** Ja
 
-### Vraag 2: Wat is je leeftijdscategorie?
+### Vraag 2: wat is je leeftijdscategorie?
 - **Type:** Meerkeuze
 - **Opties:**
-  - 18 – 25 jaar
-  - 26 – 35 jaar
-  - 36 – 50 jaar
+  - 18 - 25 jaar
+  - 26 - 35 jaar
+  - 36 - 50 jaar
   - 50+
   - Zeg ik liever niet
 - **Verplicht:** Nee
 
-### Vraag 3: Wat is jouw situatie rond de komende feestdagen?
+### Vraag 3: wat is jouw situatie rond de komende feestdagen?
 - **Type:** Selectievakjes (meerdere keuzes mogelijk)
 - **Opties:**
   - Ik breng kerst alleen door en zie daar tegenop.
@@ -44,12 +44,12 @@ Dit document bevat de exacte tekst en veldinstellingen om rechtstreeks in Google
   - Anders...
 - **Verplicht:** Ja
 
-### Vraag 4: Jouw Brief of Vraag aan de Kinky Kerst Coach
+### Vraag 4: jouw brief of vraag aan de Kinky Kerst Coach
 - **Type:** Alinea (lange tekst)
-- **Helptekst:** *"Vertel in je eigen woorden wat er speelt. Wat vind je lastig? Welke vraag heb je aan ons? Wat zou je willen horen op eenzame kerstavond?"*
+- **Helptekst:** *"Vertel in je eigen woorden wat er speelt. Wat vind je lastig? Welke vraag heb je aan mij? Wat zou je willen horen op eenzame kerstavond?"*
 - **Verplicht:** Ja
 
-### Vraag 5: Welke vorm van steun zou jou rond kerst het meest helpen?
+### Vraag 5: welke vorm van steun zou jou rond kerst het meest helpen?
 - **Type:** Meerkeuze
 - **Opties:**
   - Gewoon herkenning via de podcast (weten dat ik niet de enige ben).
@@ -58,13 +58,13 @@ Dit document bevat de exacte tekst en veldinstellingen om rechtstreeks in Google
   - Een buddy/maatje om samen een eerste keer naar een bijeenkomst te gaan.
 - **Verplicht:** Nee
 
-### Vraag 6: Toestemming voor anoniem gebruik
+### Vraag 6: toestemming voor anoniem gebruik
 - **Type:** Selectievakje (Verplicht aanvinken)
 - **Tekst:** *"Ik geef toestemming dat mijn ingestuurde vraag of verhaal geanonimiseerd en zonder herleidbare gegevens wordt voorgelezen en besproken in de Kinky Kerst Coach podcast."*
 - **Verplicht:** Ja
 
 ---
 
-## Bevestigingsbericht na verzenden (in Google Forms instellingen)
-> *"Dank je wel voor je openhartigheid en vertrouwen. We behandelen je bericht met het grootste respect en uiterste discretie. Vergeet niet: je bent niet alleen.*  
+## Bevestigingsbericht na verzenden (in Google Forms-instellingen)
+> *"Dank je wel voor je openhartigheid en vertrouwen. Ik behandel je bericht met het grootste respect en uiterste discretie. Vergeet niet: je bent niet alleen.*  
 > *Heb je nu direct behoefte aan een luisterend oor? De Luisterlijn is dag en nacht bereikbaar via 088-0767 000. Bij acute crisis kun je 24/7 terecht bij 113 Zelfmoordpreventie via 0800-0113 of www.113.nl."*

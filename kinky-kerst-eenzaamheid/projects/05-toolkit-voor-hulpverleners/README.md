@@ -1,10 +1,10 @@
-# Project 05: Toolkit Kink-Aware Zorg & Hulpverlening
+# Project 05: toolkit kink-aware zorg & hulpverlening
 
 > *"Als een cliënt in de spreekkamer vertelt over BDSM of onderdanigheid, is dat geen symptoom van een stoornis, maar een uitnodiging tot deskundige, oordeelvrije afstemming."*
 
 ---
 
-## 1. Doel & Urgentie
+## 1. Doel & urgentie
 
 Veel mensen met kinky, BDSM- of alternatieve relationele voorkeuren vermijden reguliere hulpverlening (huisarts, POH-GGZ, psycholoog) uit angst voor onbegrip, vooroordelen of onterechte pathologisering. 
 

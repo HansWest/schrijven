@@ -1,14 +1,14 @@
-# Infodumping vs. Smalltalk: Twee Verschillende Hechtingstalen
+# Infodumping vs. smalltalk: twee verschillende hechtingstalen
 
 > *"Waar de neurotypische mens verbinding bouwt door veilige koetjes-en-kalfjes uit te wisselen, bouwt de autistische mens verbinding door de schatkamers van zijn fascinatie wijd open te zetten."*
 
 ---
 
-## 1. Infodumping als Autistische Liefdestaal
+## 1. Infodumping als autistische liefdestaal
 
 Voor veel mensen met ASS is een **information-dump** (het gepassioneerd en gedetailleerd delen van kennis over een *special interest*) geen 'betweterigheid' of 'sociale onhandigheid'. Het is een **geschenk van kwetsbaarheid en verbinding**.
 
-### De Psychologie van de Infodump:
+### De psychologie van de infodump:
 - **"Ik laat je zien wie ik ben":** Voor een neurodivergent persoon is zijn passie nauw verweven met zijn identiteit. Iemand meenemen in je fascinatie voor stoomtreinen, touwknopen, mycologie, middeleeuwse zwaarden of neurobiologie is zeggen: *"Dit is mijn heiligdom, en jij mag binnenkijken."*
 - **Relatiebevestiging & Infodump-Pingpong:**  
   Wanneer twee neurodivergente mensen elkaar ontmoeten, ontstaat er vaak direct een hechte band door **infodump-pingpong**: de één vertelt 10 minuten vol vuur over onderwerp A, waarna de ander zonder oordeel overneemt en 10 minuten enthousiast vertelt over onderwerp B.  
@@ -16,13 +16,13 @@ Voor veel mensen met ASS is een **information-dump** (het gepassioneerd en gedet
 
 ---
 
-## 2. De Neurotypische Aanpak: De Trage Dans van Smalltalk
+## 2. De neurotypische aanpak: de trage dans van smalltalk
 
 Wanneer een autistisch persoon deze aanpak gebruikt bij een neurotypisch persoon, loopt het gesprek vaak frontaal vast. De neurotypische gesprekspartner raakt overspoeld, haakt af of voelt zich 'gespeecht'.
 
 Waarom? Omdat de neurotypische hechtingsdans via een **totaal ander mechanisme** werkt:
 
-### De Functie van 'Koetjes en Kalfjes':
+### De functie van 'koetjes en kalfjes':
 1. **Veiligheid door Vrijblijvendheid:**  
    Smalltalk gaat niet over de inhoud van het weer of de vertraging van de trein. Het gaat over het principe: *"Ik zeg niets te specifieks, niets te controversieels en niets te scherps, zodat ik jou niet voor het hoofd stoot en niets verkeerds kan zeggen."*
 2. **De Sociale Ping (Sonar):**  
@@ -32,7 +32,7 @@ Waarom? Omdat de neurotypische hechtingsdans via een **totaal ander mechanisme**
 
 ---
 
-## 3. Het Contrast in één Oogopslag
+## 3. Het contrast in één oogopslag
 
 | Dimensie | De ASS-Benadering (Infodump) | De Neurotypische Benadering (Smalltalk) |
 | :--- | :--- | :--- |
@@ -43,13 +43,13 @@ Waarom? Omdat de neurotypische hechtingsdans via een **totaal ander mechanisme**
 
 ---
 
-## 4. Praktische Handvatten voor de Praktijk
+## 4. Praktische handvatten voor de praktijk
 
-### Voor de Persoon met ASS:
+### Voor de persoon met ASS:
 1. **Verwacht geen passie-pingpong van een neurotypische gesprekspartner:** Zie onder ogen dat een neurotypisch persoon een infodump vaak niet kan verwerken als diegene jou nog nauwelijks kent. Bewaar je diepe infodumps voor je *chosen family* en mede-neurodivergenten.
 2. **Begrijp de functie van de koetjes-en-kalfjes:** Zie smalltalk niet als 'dom', maar als een sociale handdruk. Het is het wachtwoord om de poort van het contact te openen.
 3. **De 3-Minuten Regel:** Als je merkt dat je over je special interest begint te vertellen tegen een neurotypische gesprekspartner, las na 3 minuten een pauze in en stel een open vraag: *"Hee, ik merk dat ik helemaal enthousiast word. Is dit eigenlijk iets waar jij interesse in hebt, of praat ik je oren van het hoofd?"*
 
-### Voor de Neurotypische Partner of Vriend:
+### Voor de neurotypische partner of vriend:
 1. **Luister naar de muziek, niet alleen naar de tekst:** Als je autistische partner een uur praat over een specifiek onderwerp, probeert hij je niet te onderwijzen; hij probeert je **zijn liefde te geven**.
 2. **Geef vriendelijke grenzen aan:** Een persoon met ASS voelt vaak niet aan wanneer jouw emmer vol zit. Zeg eerlijk en zonder boosheid: *"Ik vind het fantastisch om te zien hoe blij je hiervan wordt, maar mijn hoofd kan nu even geen nieuwe informatie meer opnemen. Zullen we even stil zijn samen?"*

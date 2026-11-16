@@ -1,4 +1,4 @@
-# Kennisbank: Jeugdtrauma, Het Zwarte Gat & Radicale Acceptatie
+# Kennisbank: jeugdtrauma, het zwarte gat en radicale acceptatie
 
 > **Centrale Source of Truth (SSOT)** voor theorieën en praktijkgidsen over het helen van vroege hechtingswonden, het doorbreken van de 'genezingsfantasie' en het navigeren van emotioneel onbeschikbare relaties.
 
@@ -14,7 +14,7 @@ Heling bestaat niet uit het forceren van een verandering bij de oorspronkelijke 
 
 ---
 
-## Documenten in deze Kennisbank
+## Documenten in deze kennisbank
 
 1. [**Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'**](traumareacties-en-herinneringen.md)  
    *De theoretische kern: de taxonomie van 7 manieren van herinneren (expliciet, somatisch, emotionele flashbacks, sensorisch, amnesie, intellectualiserend, re-enactment) gekoppeld aan de overlevingsreacties van het zenuwstelsel (de F's: Frenzy, Flight, Flock, Fight, Freeze, Fawn, Feign Death), de falende tijdstempel van de hippocampus, het tweelagenmodel (Zelf vs. Ik), en de route naar somatische integratie.*
@@ -33,7 +33,7 @@ Heling bestaat niet uit het forceren van een verandering bij de oorspronkelijke 
 
 ---
 
-## Verbindingen in de Workspace
+## Verbindingen in de workspace
 
 - [Grondslagen van Integratieve Therapie en Coaching (Petzold)](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De drie gezondheids- en ziektemodellen (overstimulering, cumulatieve belasting en repressie) en de vier wegen van genezing.*
 - [BDSM als Co-Creatie: Trauma-gerelateerd Spelen, RACK & Het Gemankeerde Kind](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Hoe vroege stressoren fetishes voeden en hoe de dader-slachtoffer valkuil wordt voorkomen.*

@@ -1,12 +1,12 @@
-# Hoe Stop je met Bedelen bij Kikkers?
-## Praktische Gids voor Radicale Acceptatie, Emotionele Ontwenning en Zelf-Bedding
+# Hoe stop je met bedelen bij kikkers?
+## Praktische gids voor radicale acceptatie, emotionele ontwenning en zelf-bedding
 
 > **De centrale vraag:**  
 > *"Hoe accepteer je werkelijk dat kikkers geen veren hebben? En hoe stop je concreet met bedelen om warmte en erkenning bij mensen die jouw emotionele en kinky diepte simpelweg niet kunnen dragen?"*
 
 ---
 
-## 1. Begrijp de Afhankelijkheid: De 'Genezingsfantasie' als Emotionele Zelfregulatie
+## 1. Begrijp de afhankelijkheid: de 'genezingsfantasie' als emotionele zelfregulatie
 
 Stoppen met bedelen is zo moeilijk omdat het geen logisch besluit is, maar het loslaten van een **diepgewortelde afhankelijkheid om jezelf emotioneel te reguleren**.
 
@@ -21,7 +21,7 @@ Dit mechanisme heet de **genezingsfantasie**: de hardnekkige, onbewuste overtuig
 
 ---
 
-## 2. Het 5-Stappenplan: Van Bedelen naar Autonomie
+## 2. Het vijfstappenplan: van bedelen naar autonomie
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
@@ -52,7 +52,7 @@ Dit mechanisme heet de **genezingsfantasie**: de hardnekkige, onbewuste overtuig
 
 ---
 
-### Stap 1: De Capaciteitstoets (De Bakker-Metafoor)
+### Stap 1: de capaciteitstoets (de bakker-metafoor)
 Je loopt een bakkerij binnen en vraagt de bakker om een blindedarmoperatie. De bakker kijkt je glazig aan en geeft je een krentenbol. Word je dan woedend op de bakker? Ga je urenlang debatteren waarom een operatie zo belangrijk voor je is? 
 
 Nee. Je concludeert nuchter: *"Dit is een bakker. Een bakker bakt brood; hij opereert geen blindedarmen."*
@@ -63,7 +63,7 @@ Nee. Je concludeert nuchter: *"Dit is een bakker. Een bakker bakt brood; hij ope
 
 ---
 
-### Stap 2: Het Emotionele Info-Dieet (Geen Parels voor de Zwijnen)
+### Stap 2: het emotionele info-dieet (geen parels voor de zwijnen)
 Bedelen gebeurt vaak vermomd als "openheid": je vertelt toch weer over je nieuwe passie, je worsteling met eenzaamheid, je relatievorm of je diepere verlangens, in de geheime hoop op een warme reactie. Wat volgt is een kille opmerking, een oordeel of een dooddoener.
 
 * **De praktijkregel:**  
@@ -75,7 +75,7 @@ Bedelen gebeurt vaak vermomd als "openheid": je vertelt toch weer over je nieuwe
 
 ---
 
-### Stap 3: De Grijze Rots (Geen Publiek Zijn voor Pauwenveren)
+### Stap 3: de grijze rots (geen publiek zijn voor pauwenveren)
 Veel kikkers (zeker met narcistische of egocentrische trekken) steken zichzelf pauwenveren in hun achterste: ze houden lange monologen over hoe geweldig ze zijn, hoe zwaar zij het hebben, of hoe perfect de familie wel niet is.
 Vroeger ging je daartegenin: je protesteerde (*"Maar zo was het helemaal niet!"*) of je probeerde hen te sussen. Daarmee gaf je hen precies de brandstof die ze zochten.
 
@@ -87,7 +87,7 @@ Vroeger ging je daartegenin: je protesteerde (*"Maar zo was het helemaal niet!"*
 
 ---
 
-### Stap 4: Somatische Rouw (De Val door de Bodem van het Zwarte Gat)
+### Stap 4: somatische rouw (de val door de bodem van het zwarte gat)
 Dit is de moeilijkste stap. Zodra je stopt met vechten en bedelen, valt de verdoving weg. Dan voel je opeens het gapende **zwarte gat**: de ijzige eenzaamheid van het kind dat geen donsveertjes kreeg.
 
 * **Wat de hersenstam wil doen:**  
@@ -100,7 +100,7 @@ Dit is de moeilijkste stap. Zodra je stopt met vechten en bedelen, valt de verdo
 
 ---
 
-### Stap 5: Herplaatsing van het Dons (Chosen Family & Kink-Bedding)
+### Stap 5: herplaatsing van het dons (chosen family & kink-bedding)
 Je stopt niet met bedelen om vervolgens een verbitterde kluizenaar te worden. Je stopt met bedelen bij de *verkeerde* bron, zodat je handen vrijkomen om echte warmte te ontvangen.
 
 * **De praktijk:**
@@ -110,7 +110,7 @@ Je stopt niet met bedelen om vervolgens een verbitterde kluizenaar te worden. Je
 
 ---
 
-## 3. Zelfkennis als Sleutel: Het Zelf en het Ik bij Kikkers
+## 3. Zelfkennis als sleutel: het zelf en het ik bij kikkers
 
 Vanuit het [Tweelagenmodel](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) bezien is bedelen bij kikkers een conflict tussen het **Ik** en het **Zelf**:
 - **Het Ik (Neocortex):** Construeert hardnekkig een wereldbeeld waarin de kikker *ooit* zal veranderen (de genezingsfantasie) en dwingt tot over-inhibitie of wanhopige pogingen om het goed te maken.
@@ -124,7 +124,7 @@ Stoppen met bedelen vraagt om de vier pijlers van somatische **zelfkennis**:
 
 ---
 
-## Samenvatting: Het Dagelijkse Mantra
+## Samenvatting: het dagelijkse mantra
 
 Wanneer je merkt dat je weer wilt gaan uitleggen, verdedigen of smeken om empathie, adem dan diep uit en zeg in jezelf:
 

@@ -1,17 +1,17 @@
-# Dominantie Ontwikkelen: De Driehoek in de Praktijk
+# Dominantie ontwikkelen: de driehoek in de praktijk
 
 > **Algemene BDSM-Theorie - Deel 13**  
 > *Hoe ontwikkel je authentieke dominantie zonder in mediaclichés te vervallen? Over de Driehoek van Dominantie (Lust, Ethiek, Ambacht), rituelen als transitionele drempels en het verdragen van de rommelige realiteit.*
 
 ---
 
-## Inleiding: De Mythe van de 'Geboren Dominant'
+## Inleiding: de mythe van de 'geboren dominant'
 
 Je hebt ontdekt dat het idee om de touwtjes in handen te hebben je bepaald niet koud laat. Misschien tijdens een intiem moment, of toen je je partner speels vastbond met een sjaaltje (praktische tip: houd altijd een verbandschaar bij de hand; knopen in sjaals zijn berucht lastig los te krijgen).
 
 Je wilt je **dominantie ontwikkelen**. Maar waar begin je?
 
-De beelden die films en media ons voorschotelen - de kille Meesteres in lakleer of de onverbiddelijke miljardair met een zweepencollectie - zijn ongeveer net zo realistisch als de gemiddelde Hollywood-actiefilm. 
+De beelden die films en media je voorschotelen - de kille Meesteres in lakleer of de onverbiddelijke miljardair met een zweepencollectie - zijn ongeveer net zo realistisch als de gemiddelde Hollywood-actiefilm. 
 
 Tijd voor een bevrijdende realitycheck: **'geboren' dominanten bestaan niet.**
 
@@ -19,7 +19,7 @@ Er bestaan alleen gewone mensen die opgewonden raken van een specifieke machtsdy
 
 ---
 
-## De Driehoek van Dominantie
+## De driehoek van dominantie
 
 Om stevig in je leiderschap te staan, bouw ik dominantie op rondom drie dragende hoeken:
 
@@ -33,7 +33,7 @@ Om stevig in je leiderschap te staan, bouw ik dominantie op rondom drie dragende
       (Zorg & Afstemming)             (Techniek & Materiaal)
 ```
 
-### Hoek 1: Durf te Gaan voor wat JOU Opwindt (De Motor)
+### Hoek 1: durf te gaan voor wat jou opwindt (de motor)
 Dit is het fundament onder alles. Als jij niet weet wat jouw eigen onderbuik in beweging brengt, waarom zou een ander zich dan aan jouw leiding overgeven?
 
 Dominantie begint met **durven gaan voor je eigen lust**:
@@ -45,7 +45,7 @@ Wordt het stil en gefocust van binnen bij het geven van kalme, dwingende instruc
 
 ---
 
-### Hoek 2: Bouw een Relatie waarin de Ander het Achteraf Gráág Deed (Ethiek & Zorg)
+### Hoek 2: bouw een relatie waarin de ander het achteraf gráág deed (ethiek en zorg)
 Dit is de meest onderschatte pijler. Ethiek binnen BDSM is niet saai of remmend; het is de **startbaan voor het vliegtuig**.
 
 Het geheim van een meesterlijke Dominant luidt:
@@ -64,7 +64,7 @@ Wanneer een partner zich ten diepste gezien, gerespecteerd en beschermd weet, ve
 
 ---
 
-### Hoek 3: Les Nemen en Degelijk Materiaal (Het Ambacht)
+### Hoek 3: les nemen en degelijk materiaal (het ambacht)
 Je weet wat je geil vindt en het vertrouwen is er - maar hoe leg je een *Single Column Tie* aan zonder zenuwen af te knellen? En hoe weet je of een zweep een diepe, doffe dreun (*thud*) geeft of juist een scherpe beet (*sting*)?
 
 Dominantie vereist **ambachtelijke competentie**:
@@ -73,7 +73,7 @@ Dominantie vereist **ambachtelijke competentie**:
 
 ---
 
-## Rituelen en de Overgang naar de Speelruimte
+## Rituelen en de overgang naar de speelruimte
 
 Zodra deze drie hoeken in balans zijn, ontstaat er ruimte voor je **eigen stijl**. 
 
@@ -86,7 +86,7 @@ Deze rituelen fungeren als een psychologische drempel: ze helpen zowel jou als j
 
 ---
 
-## Fantasie versus Realiteit: De Zegen van de Mislukte Knoop
+## Fantasie versus realiteit: de zegen van de mislukte knoop
 
 In je hoofd verloopt de scène vlekkeloos: majestueus, ononderbroken en intens. 
 
@@ -98,16 +98,16 @@ Een onervaren Dominant raakt hierdoor van slag en vreest zijn gezag te verliezen
 
 ---
 
-## Voor Coaches & Therapeuten: Wetenschappelijke Context
+## Voor coaches en therapeuten: wetenschappelijke context
 
 Voor professionals die cliënten begeleiden bij het ontwikkelen van leiderschap en dominantie:
 
-### 1. Dominantie als Sociaal Construct en 'Performance'
+### 1. Dominantie als sociaal construct en 'performance'
 In lijn met het sociaal constructivisme is dominantie geen biologisch vastgeklonken karaktertrek, maar een **interactieve rol**. Dezelfde persoon kan bij partner A volstrekt neutraal zijn, en bij partner B diepe dominante vermogens ontwikkelen. Het ontrafelen van de mythe van de 'geboren alfaman/meesteres' ontlast cliënten van onhaalbare prestatiestress.
 
-### 2. Transitionele Ruimte (Winnicott)
+### 2. Transitionele ruimte (Winnicott)
 De BDSM-speelruimte functioneert psychologisch als een transitionele ruimte (*potential space*). Het spel biedt een 'veilige onwerkelijkheid' waarin verlangens naar macht, zorgeloosheid en intensiteit onderzocht kunnen worden zonder consequenties voor het maatschappelijke leven.
 
-### 3. Zorg voor Kwetsbaarheid als Krachtbron
+### 3. Zorg voor kwetsbaarheid als krachtbron
 In traditionele patriarchale modellen wordt zorg gelijkgesteld aan zwakte. Binnen consensuele dominantie is het tegenovergestelde waar: het vermogen van de Dominant om zich actief te ontfermen over de kwetsbaarheid van de sub (*splagchnizomai* / holding space) is exact de voorwaarde die de diepte van de overgave mogelijk maakt.
 

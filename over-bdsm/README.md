@@ -1,4 +1,4 @@
-# Kennisbank: BDSM & Kink-Aware Theorie
+# Kennisbank: BDSM en kink-aware theorie
 
 > **Centrale Source of Truth (SSOT)** voor universele theorieën over BDSM, machtsdynamieken, consent en de psychologie van kink.  
 > *Geïnspireerd door en afgestemd op de architectuur van de KinkAwareCoach tools.*
@@ -9,14 +9,14 @@
 
 Kink en BDSM zijn geen geïsoleerde seksuele eigenaardigheden, maar complexe, gelaagde systemen van menselijke interactie waarin macht, fysieke intensiteit, erotische expressie en diepe hechtingsverlangens samenkomen.
 
-Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - hanteren we scherpe analytische kaders:
+Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - hanteer ik scherpe analytische kaders:
 1. **Gelaagdheid in relaties:** Power exchange bestaat binnen duidelijke niveaus en overstijgt nooit fundamentele mensenrechten (het Gateau-model).
 2. **Techniek vs. Betekenis:** Dezelfde fysieke handeling kan totaal andere emotionele en neurologische ladingen dragen.
 3. **Somatische Realiteit:** Het zenuwstelsel reageert op chemische pieken en dalen (Drop) die bewuste aftercare vereisen.
 
 ---
 
-## Documenten in deze Kennisbank
+## Documenten in deze kennisbank
 
 1. [**01: Het Gateau-Model (Vier Relatielagen)**](01-het-gateau-model-relatielagen.md)  
    *Het vier-lagenmodel uit KinkAwareCoach: Cake (Levensfundament), Trajectory (Gedeelde Richting), Topping (Dynamiek/D/s) en Here-and-Now (Het Moment & Consent).*
@@ -45,33 +45,33 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 9. [**09: Het Verbreken van D/s: De-collaring, Rouw & Herstructurering**](09-het-verbreken-van-ds-de-collaring-en-rouw.md)  
    *De neurobiologie van verbroken co-regulatie (24/7 en TPE), disenfranchised grief, het transitieritueel van de De-collaring en het 4-fasen herstelprotocol voor de Dominant en submissieve.*
 
-10. [**10: Van Vanilla naar Kink: Het Speeltuinmodel & Bewuste Kaders**](10-van-vanilla-naar-kink-het-speeltuinmodel.md)  
-    *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink (o.a. choking) en het Speeltuinmodel in 5 stappen.*
+10. [**10: Van vanilla naar kink: het speeltuinmodel en bewuste kaders**](10-van-vanilla-naar-kink-het-speeltuinmodel.md)  
+    *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink (o.a. choking) en het Speeltuinmodel in 6 stappen.*
 
-11. [**11: De Kink-GPS: Gezond Verlangen versus Aangeprate Obsessie**](11-de-kink-gps-gezond-verlangen-versus-obsessie.md)  
+11. [**11: De Kink-GPS: gezond verlangen versus aangeprate obsessie**](11-de-kink-gps-gezond-verlangen-versus-obsessie.md)  
     *Zelfonderzoek en diagnostiek: de Waarom-nu check, de broodje-kaas-test voor consent, de emotionele tijdscan (voorkomen van de binge-purge cirkel) en expansie (sprankel) versus vernauwing (schrompel).*
 
-12. [**12: Op Zoek naar je Domina: Valkuilen, Verwachtingen en de Match**](12-op-zoek-naar-je-domina-valkuilen-en-de-match.md)  
+12. [**12: Op zoek naar je domina: valkuilen, verwachtingen en de match**](12-op-zoek-naar-je-domina-valkuilen-en-de-match.md)  
     *Van fantasie naar werkelijkheid: sub-frenzy ontzenuwen, de illusie van 'gratis' (pro vakvrouw vs particulier), waarom je eerst kennis koopt en geen spullen, en het alibi van BDSM.*
 
-13. [**13: Dominantie Ontwikkelen: De Driehoek in de Praktijk**](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
+13. [**13: Dominantie ontwikkelen: de driehoek in de praktijk**](13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)  
     *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
 
-14. [**14: Emotionele S/M en de Zes Hongers van de Onderdanige**](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)  
+14. [**14: Emotionele S/M en de zes hongers van de onderdanige**](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)  
     *Waarom het klassieke 8-delige wiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering naar de-personificatie; de Zes Somatische Hongers (inclusief erotische onmacht, kuisheid, ruined orgasms en overstimulatie); en het Multi-Track Equalizer Model.*
 
-15. [**15: Emotionele S/M: Dominante Holding en de Dynamische Boog**](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)  
+15. [**15: Emotionele S/M: dominante holding en de dynamische boog**](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)  
     *De binnenwereld en autonome lustmotor van de Dominant: de zes holding- en regiedimensies (inclusief de Seksuele Soeverein en Praise), het voorkomen van Domdrop, de paradox van de twee spiegels, de Techniek-Betekenis koppeling en de 4 fasen van de sessieboog.*
 
-16. [**16: Emotionele S/M: Het Polyvagale Model, de Multi-Track Equalizer en Dynamische Relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  
+16. [**16: Emotionele S/M: het polyvagale model, de multi-track equalizer en dynamische relatiestijlen**](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)  
     *Voorbij de illusie van tegengestelden: het Multi-Track Equalizer model op de Zes Hongers, de polyvagale neurobiologie (ventraal anker, erotisch spel, subspace trance), en de resonantie versus frictie tussen de zeven D/s-relatiestijlen.*
 
-17. [**17: Subspace, Hersenstamreflexen en de Kantelmomenten in BDSM**](17-subspace-traumasporen-en-de-kantelmomenten.md)  
+17. [**17: Subspace, hersenstamreflexen en de kantelmomenten in BDSM**](17-subspace-traumasporen-en-de-kantelmomenten.md)  
     *Over de verwantschap tussen de roes van onderwerping en oude beschermingsreflexen van het zenuwstelsel; de vijf gezichten van subspace (Fight, Flight, Frenzy, Freeze & Fawn, Feign Death); dual awareness; de diagnostiek van het kantelmoment; en het empathisch kompas van de Dominant.*
 
 ---
 
-## Verbindingen in de Workspace
+## Verbindingen in de workspace
 
 - [Cube of Consent](../cube-of-consent/README.md) - *Consent als doorlopende afstemming, met aandacht voor veiligheid, grenzen, informatie en machtsverschillen.*
 - [Hechting & Reactiepatronen](file:///Users/mbp13/Programmeren/schrijven/over-hechting/README.md) - *Hoe hechting en zenuwstelsels interacteren met kink.*

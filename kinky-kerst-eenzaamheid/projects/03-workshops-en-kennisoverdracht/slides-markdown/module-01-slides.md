@@ -1,4 +1,4 @@
-# De West-Sessies: Module 1 — Slide Deck (Markdown voor Google Slides)
+# De West-Sessies: module 1 - slide deck (markdown voor Google Slides)
 
 > **Thema:** Het Rustige Hoofd & Zelf-Aftercare  
 > **Host:** Hans West (Kink-Aware Coach)  
@@ -6,7 +6,7 @@
 
 ---
 
-## Slide 1: Titelslide & Inloop
+## Slide 1: titelslide & inloop
 
 **Titel:** De West-Sessies: Het Rustige Hoofd & Zelf-Aftercare  
 **Ondertitel:** Wat doe je als de stilte toeslaat? Over biochemie, zenuwstelsel en bedding.  
@@ -22,7 +22,7 @@
 
 ---
 
-## Slide 2: Wat we Vandaag WEL en NIET gaan doen
+## Slide 2: wat we vandaag wel en niet gaan doen
 
 | WAT WE WEL GAAN DOEN | WAT WE NIET GAAN DOEN |
 | :--- | :--- |
@@ -35,9 +35,9 @@
 
 ---
 
-## Slide 3: De Crash na de Prikkel: Wat is 'Drop'?
+## Slide 3: de crash na de prikkel: wat is 'drop'?
 
-**Visual:** Een grafiek met een biochemische piek (endorfine, adrenaline, opwinding na een feest of date) gevolgd door een diepe val na 24–48 uur.
+**Visual:** Een grafiek met een biochemische piek (endorfine, adrenaline, opwinding na een feest of date) gevolgd door een diepe val na 24-48 uur.
 
 **Drie Vormen van Drop:**
 1. **Subdrop (Na Overgave):** Biochemische uitputting. Endorfine en dopamine zijn opgebruikt; gevoel van leegte, twijfel of huilerigheid.
@@ -51,7 +51,7 @@
 
 ---
 
-## Slide 4: De Mythe van de 'Redder' & Zelfredzaamheid
+## Slide 4: de mythe van de 'redder' & zelfredzaamheid
 
 **De Drie Valkuilen van de Leegte:**
 - **De Amatonormatieve Druk:** De maatschappelijke mythe dat 'alleen een partner' jou heel kan maken. Single zijn zien als een tijdelijke tekortkoming.
@@ -65,7 +65,7 @@
 
 ---
 
-## Slide 5: Het Noodprotocol voor Sombere Avonden
+## Slide 5: het noodprotocol voor sombere avonden
 
 **Het 4-Pijler Model:**
 1. **Fysieke Bedding:** Verzwaringsdeken, warme douche voor temperatuurwissel, voeten plat op de vloer.
@@ -80,9 +80,9 @@
 
 ---
 
-## Slide 6: Werkvorm: Jouw Persoonlijke Kwadranten
+## Slide 6: werkvorm: jouw persoonlijke kwadranten
 
-**Opdracht voor Jezelf (10–15 minuten):**
+**Opdracht voor Jezelf (10-15 minuten):**
 - **Stap 1:** Wat zijn jouw 2 grootste fysieke zintuig-ankers? (Geur, trui, thee, muziek).
 - **Stap 2:** Wie zijn jouw 2 'schaamteloze noodcontacten'?
 - **Stap 3:** Wat is jouw digitale avondklok? Welke apps zet jij op slot zodra vermoeidheid toeslaat?
@@ -94,7 +94,7 @@
 
 ---
 
-## Slide 7: Somatische Landing: Zenuwstelsel Aarden (3 Minuten)
+## Slide 7: somatische landing: zenuwstelsel aarden (3 minuten)
 
 **Oefening voor het Lichaam:**
 1. **Voetcontact:** Zet beide voetzolen plat op de vloer. Voel de zwaartekracht onder je schoenen.
@@ -109,7 +109,7 @@
 
 ---
 
-## Slide 8: Afsluiting & De West-Sessies
+## Slide 8: afsluiting & De West-Sessies
 
 **Jouw Oogst van Vandaag:**
 - Drop is een biologisch verschijnsel, geen persoonlijk falen.

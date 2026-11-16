@@ -1,12 +1,12 @@
-# Emotionele Voltooiing: Iets Doen 'Met' Emoties in Plaats van 'Aan' Emoties
-## De Somatische Cyclus, Primaire versus Secundaire Emoties en Online Begeleiding
+# Emotionele voltooiing: iets doen 'met' emoties in plaats van 'aan' emoties
+## De somatische cyclus, primaire versus secundaire emoties en online begeleiding
 
 > **Kennisbank Emoties - Hoofddocument**  
 > *Waarom emoties biologische golven zijn die om voltooiing vragen; het fundamentele verschil tussen iets doen 'met' versus 'aan' een emotie; de ontkrachting van de catharsis-mythe; hoe je voorkomt dat iemand de 'verkeerde' emotie ontlaadt; en concrete diagnostische scripts voor online en chat-begeleiding.*
 
 ---
 
-## 1. Wat is Emotionele Voltooiing (Emotional Completion)?
+## 1. Wat is emotionele voltooiing (emotional completion)?
 
 In de westerse cultuur en veel traditionele psychologie worden emoties vaak behandeld als hinderlijke cognitieve storingen of abstracte gemoedstoestanden die je moet 'reguleren', 'herkaderen' of 'onder controle krijgen'. 
 
@@ -23,7 +23,7 @@ De moderne somatische psychologie (o.a. Peter Levine, Leslie Greenberg, Karla Mc
         └──────────────────── De cyclus is voltooid ("Done") ◄─────────────────────────┘
 ```
 
-### Waarom Emoties Vastlopen (Onvoltooide Cycli)
+### Waarom emoties vastlopen (onvoltooide cycli)
 Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens wordt geblokkeerd - omdat de situatie te overweldigend was, omdat je als kind werd afgewezen als je boos of verdrietig was, of omdat sociale conventies expressie verbieden - **blijft de fysiologische energie als het ware 'binnen' jezelf in het zenuwstelsel**:
 - De spieren blijven aangespannen (spierpantsering).
 - De ademhaling blijft oppervlakkig of klemzitten, of juist overdreven groot voor het moment.
@@ -34,7 +34,7 @@ Wanneer een emotionele prikkel zich aandient, maar de bijbehorende actietendens 
 > **Het Repressiemodel van Hilarion Petzold (1993a, Band II):**  
 > In de Integratieve Therapie formuleert Petzold exact dit fysiologische mechanisme: *Wanneer expressieve impulsen van het organisme (zoals het uiten van primaire emoties, verdriet, woede of behoefte aan nabijheid) permanent gewelddadig worden onderdrukt óf stelselmatig geen relationele resonantie ontvangen, worden deze situaties tot directe bron van chronische aandoeningen en somatisatie.* Emotionele voltooiing vereist derhalve niet alleen een individuele motorische ontlading, maar ook een omgeving die veilige, niet-oordelende resonantie biedt (zie ook [Grondslagen van Integratieve Therapie](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md)).
 
-### De Ethologische Analogie: Het Gier-experiment en de Motorische Eindhandeling (*Consummatory Act*)
+### De ethologische analogie: het gier-experiment en de motorische eindhandeling (*consummatory act*)
 
 Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet louter met woorden of passief wachten kan worden opgelost, laat zich helder begrijpen via een klassieke **ethologische analogie** (o.a. geworteld in het werk van Wallace Craig, Konrad Lorenz en Niko Tinbergen): het onderscheid tussen **appetitief gedrag** (*Appetenzverhalten*) en de **consummatorische eindhandeling** (*Endhandlung* of *Consummatory Act*).
 
@@ -44,7 +44,7 @@ Dat emotionele voltooiing een fysieke, somatische handeling vereist en niet lout
 > 
 > Het omgekeerde experiment was nog veelzeggender: voedde men een roofvogel of roofdier rechtstreeks via een maagsonde (een volle maag en calorische verzadiging zónder de motorische handeling), dan bleef het dier rusteloos, gespannen en gefrustreerd. Zodra het alsnog een karkas aangeboden kreeg, begon het alsnog bezeten vlees van het bot te scheuren, ondanks de overvolle maag!
 
-#### De Neurobiologische Parallel met Menselijke Emoties
+#### De neurobiologische parallel met menselijke emoties
 Deze analogie illustreert haarscherp waarom traditionele praattherapie of rationele geruststelling emotionele ontlading vaak blokkeert:
 - **Cognitieve geruststelling is de 'maagsonde' van de psychologie:** Je vult de neocortex met rationele verklaringen en geruststelling (*"Je bent nu veilig", "Het is al jaren geleden", "Je moet het loslaten"*), maar de subcorticale hersenstam en het autonome zenuwstelsel hebben hun biologische motorprogramma nog **niet** mogen afdraaien.
 - **De emotie is pas 'voltooid' als de motorische eindhandeling somatisch is voltrokken:** 
@@ -56,9 +56,9 @@ Pas wanneer de biologische *Endhandlung* daadwerkelijk somatisch is voltrokken, 
 
 ---
 
-## 2. Iets Doen MET een Emotie versus Iets Doen AAN/TEGEN een Emotie
+## 2. Iets doen met een emotie versus iets doen aan/tegen een emotie
 
-Het verschil tussen werkelijke heling en chronische uitputting zit in de grondhouding waarmee we naar ons innerlijk kijken:
+Het verschil tussen werkelijke heling en chronische uitputting zit in de grondhouding waarmee je naar je innerlijke wereld kijkt:
 
 | Dimensie | Iets doen **AAN / TEGEN** een emotie | Iets doen **MET** een emotie |
 | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ Het verschil tussen werkelijke heling en chronische uitputting zit in de grondho
 | **Gedrag & Interventies** | • **Onderdrukken & Verdoven:** Gevoelens inslikken, scrollen, eten, middelen.<br>• **Cognitieve Over-Inhibitie:** Jezelf toespreken dat je dit niet mág voelen (toxic positivity: *"tel je zegeningen"*).<br>• **Blinde Catharsis:** Schreeuwen in de auto, kussens slaan, scheldtirades sturen. | • **Luisteren naar de Interoceptie:** Waar voel ik de sensatie in mijn lijf?<br>• **De Actietendens Voleindigen:** De spierreflex veilig en gedoseerd afmaken.<br>• **De Behoefte Adresseren:** De grens stellen, troost vragen, afstand nemen.<br>• **Kanaliseren:** De energie omzetten in daadkracht, rouw of creatie. |
 | **Fysiologisch Resultaat** | De fysiologische lading blijft vastzitten; de persoon raakt gefrustreerd, verdoofd of chronisch uitgeput. | Het zenuwstelsel ontvangt de **'Done'-code**; de spiertonus ontspant, de adem verdiept, en er ontstaat innerlijke rust. |
 
-### De Ontkrachting van de 'Catharsis-Mythe'
+### De ontkrachting van de 'catharsis-mythe'
 Veel mensen (en coaches) denken dat iets doen *met* boosheid betekent dat je de woede er 'uit moet gooien': keihard tegen een boksbal slaan, servies kapotgooien of schreeuwen.
 
 Neurowetenschappelijk onderzoek (o.a. door prof. Brad Bushman) heeft deze 'stoomketel-theorie' overtuigend ontkracht:
@@ -78,11 +78,11 @@ Neurowetenschappelijk onderzoek (o.a. door prof. Brad Bushman) heeft deze 'stoom
 
 ---
 
-## 3. De Valkuil van de 'Verkeerde' Emotie Voltooien (Primair vs. Secundair)
+## 3. De valkuil van de 'verkeerde' emotie voltooien (primair vs. secundair)
 
 Een van de meest gemaakte en schadelijke fouten in emotieregulatie - zowel door individuen zelf als in online coaching - is het **voltooien van de verkeerde emotie**.
 
-In de Emotion-Focused Therapy (Leslie Greenberg) en somatische psychologie onderscheiden we twee lagen:
+In de Emotion-Focused Therapy (Leslie Greenberg) en somatische psychologie onderscheid ik twee lagen:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -104,7 +104,7 @@ In de Emotion-Focused Therapy (Leslie Greenberg) en somatische psychologie onder
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Waarom het Voltooien van de Verkeerde Emotie Mislukt
+### Waarom het voltooien van de verkeerde emotie mislukt
 Als iemand diepgekwetst is door een relatiebreuk of afwijzing, voelt het **primaire gevoel (rauw verdriet / verlatenheid)** doodeng, klein en kwetsbaar. 
 
 Het zenuwstelsel schakelt daarom instinctief over naar een **secundaire emotie: woede**. Woede voelt machtig, actief en energiek (*"Wat een narcist, ik haat hem, hij moet kapot!"*).
@@ -117,24 +117,24 @@ Het zenuwstelsel schakelt daarom instinctief over naar een **secundaire emotie: 
 
 **Je kunt een wond van verdriet niet helen met het zwaard van woede.**
 
-### De Omgekeerde Dekmantel: Huilen in plaats van Boos zijn
+### De omgekeerde dekmantel: huilen in plaats van boos zijn
 Het mechanisme werkt ook andersom: mensen die in hun jeugd zijn gestraft voor boosheid, hebben geleerd woede af te splitsen. Wanneer hun grenzen met voeten worden getreden, worden ze niet boos, maar schieten ze in een **secundaire hulpeloosheid of tranen** (*"Waarom overkomt mij dit altijd?"*). 
 - Het voltooien van dat 'verdriet' lost niets op, omdat het zenuwstelsel eigenlijk de gezonde, assertieve **Fight-energie** nodig heeft om "STOP" te zeggen.
 
-### De Emotieverdubbelaar & Luc Ciompi's Affectlogica
+### De emotieverdubbelaar en Luc Ciompi's affectlogica
 De vicieuze dynamiek tussen primaire en secundaire emoties wordt neurologisch aangedreven door **de Emotieverdubbelaar**:
 1. **Affectlogica (Luc Ciompi):** Het subcorticale middenbrein dwingt de neocortex om gedachten te genereren die naadloos aansluiten op het affect. Angst dwingt tot *angstdenken* (rampscenario's, kudde zoeken); boosheid dwingt tot *boosheidsdenken* (focus op schuld, vergelding); geilheid dwingt tot *lustdenken*; schaamte dwingt tot *schaamtedenken* (ik faal fundamenteel).
 2. **De Meta-Emotie als Verdubbelaar:** Vervolgens reageert het zelfbewuste Ik emotioneel op de eigen toestand: bang worden dat je bang wordt (angst voor de angst $\rightarrow$ paniek), boos worden op jezelf omdat je boos bent (interne kramp), of redenen bedenken waarom het schaamtevol is om je te schamen. Hierdoor ontstaat een recursieve feed-forward loop waarin het brein verse brandstof blijft sturen naar de hersenstam (zie het hoofdartikel [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](de-emotie-verdubbelaar-en-affectlogica.md)).
 
 ---
 
-## 4. Het Specifieke Sluitstuk: Welk Gedrag of Welke Situatie Maakt een Emotie 'Af'?
+## 4. Het specifieke sluitstuk: welk gedrag of welke situatie maakt een emotie 'af'?
 
 Een emotie is biologisch en relationeel gezien geen willekeurige gemoedstoestand die vanzelf slijt door simpelweg afwachten. **Een emotie is een gerichte fysiologische honger, een openstaande rekening of een relationele actiedrang die vraagt om een heel specifiek interactief of somatisch sluitstuk.**
 
 Zolang dat specifieke sluitstuk ontbreekt, kan het zenuwstelsel de cyclus niet voltooien. De emotie blijft dan 'openstaan', gaat lekken in het dagelijks functioneren, of verstart in spierpantsering, wrok, dwangmatig piekeren of chronische vermoeidheid.
 
-Hieronder werken we voor de verschillende gevoelens systematisch uit **welke openstaande rekening er speelt, welk gedrag of welke situatie er nodig is om het gevoel 'af te maken', en wat er gebeurt als het sluitstuk ontbreekt**:
+Hieronder werk ik voor de verschillende gevoelens systematisch uit **welke openstaande rekening er speelt, welk gedrag of welke situatie er nodig is om het gevoel 'af te maken', en wat er gebeurt als het sluitstuk ontbreekt**:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -157,7 +157,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### A. Verdriet & Rouw (PANIC / Verliessignaal)
+### A. Verdriet en rouw (PANIC / verliessignaal)
 * **De openstaande rekening:** Er is een onherroepelijk verlies opgetreden; een hechtingsband is verbroken; een dierbare hoop of verwachting is gestorven: *"Ik ben iets kwijt en ik ga dat ook niet meer terugkrijgen in mijn leven."*
 * **Het specifieke sluitstuk:** **Troost ontvangen (en de moed hebben om je er werkelijk voor open te stellen).**
   - Verdriet vraagt evolutionair om de nabijheid en ontferming (*splagchnizomai*) van een ander zoogdier.
@@ -167,7 +167,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### B. Boosheid & Woede (RAGE / Grenssignaal)
+### B. Boosheid en woede (RAGE / grenssignaal)
 * **De openstaande rekening:** Er is over een grens heengegaan; er is iets afgepakt; er is iets onthouden waar je recht op had; er is onrecht aangedaan: *"Mij is iets afgepakt, of mij is niet gegeven waar ik recht op had; er is onrecht."*
 * **Het specifieke sluitstuk (Twee Wegen):**
   1. **Weg 1: Het gevecht aangaan en herstel afdwingen.**  
@@ -182,7 +182,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### C. Schaamte: Trots, Erkenning & Verwelkoming in een Ándere Groep
+### C. Schaamte: trots, erkenning en verwelkoming in een ándere groep
 * **De openstaande rekening:** Sociale vernedering, afwijzing of verbanning; het gevoel fundamenteel 'misvormd', 'vies' of 'onaangepast' te zijn in de ogen van de oorspronkelijke groep: ineenschrompelen, de blik afwenden, door de grond willen zakken en 'er niet willen zijn'.
 * **Het specifieke sluitstuk:** **Gezien, gewaardeerd en geëerd worden in een ándere gemeenschap (Chosen Family / Peer group).**
   - Schaamte die is opgelopen in Groep A (bijv. een benauwend gezin van herkomst, een strenge religie of een burgerlijke norm die jouw kink of neurodiversiteit afwees) **kan niet worden afgemaakt binnen Groep A**.
@@ -192,7 +192,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### D. Geilheid & Erotisch Verlangen (LUST): Bevrediging & Verzadigde Aftercare
+### D. Geilheid en erotisch verlangen (LUST): bevrediging en verzadigde aftercare
 * **De openstaande rekening:** Fysiologische en hormonale stuwing van dopamine, testosteron en oxytocine; een sensuele en relationele drift naar versmelting, overgave, penetratie of dominantie.
 * **Het specifieke sluitstuk:** **Fysieke en erotische bevrediging, gevolgd door verzadigde aftercare.**
   - Het fysieke orgasme of de diepe sensuele ontlading lost de sympathische piek op.
@@ -201,16 +201,16 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### E. Nieuwsgierigheid & Verwondering (SEEKING): De AHA-Erlebnis én het Delen
+### E. Nieuwsgierigheid en verwondering (SEEKING): de aha-erlebnis én het delen
 * **De openstaande rekening:** Een cognitief en dopaminerg mysterie; een ontbrekend puzzelstuk; de biologische drang om de werkelijkheid te exploreren en te doorgronden.
 * **Het specifieke sluitstuk:** **Het vinden van het inzicht (de AHA-erlebnis) én het delen van de ontdekking met anderen.**
-  - Het zoogdierenbrein exploreert niet in een vacuüm. Een ontdekking is pas 'af' wanneer we haar kunnen tonen aan de stam: *"Kijk eens wat ik gevonden en begrepen heb!"*
+  - Het zoogdierenbrein exploreert niet in een vacuüm. Een ontdekking is pas 'af' wanneer je haar kunt tonen aan de stam: *"Kijk eens wat ik gevonden en begrepen heb!"*
   - De blik van herkenning, nieuwsgierigheid en verwondering bij de ander sluit de dopaminerge zoektocht af en zet deze om in sociale cohesie, trots en betekenis.
 * **Wat er gebeurt als het sluitstuk ontbreekt:** Dwangmatig blijven door-studeren, honderd browsertabs open laten staan, rusteloos blijven zoeken zonder ooit te landen in synthese of dialoog.
 
 ---
 
-### F. Schuldgevoel (GUILT): Afbetaling, Compensatie & Herstel
+### F. Schuldgevoel (GUILT): afbetaling, compensatie en herstel
 * **De openstaande rekening:** Je hebt je eigen waarden of een afspraak met een ander geschonden; er is feitelijke schade of pijn berokkend.
 * **Het specifieke sluitstuk:** **Afbetaling en concrete reparatie (*Restitution*).**
   - Schuldgevoel is een fysiologische 'schuldrekening'. Het lost niet op door eindeloos *"sorry, sorry, ik ben zo stom"* te herhalen (dat is defensief pleasen/fawn).
@@ -220,7 +220,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### G. Angst & Bezorgdheid (FEAR): De Veilige Haven Fysiek Bereiken
+### G. Angst en bezorgdheid (FEAR): de veilige haven fysiek bereiken
 * **De openstaande rekening:** Detectie van een potentiële dreiging; verlies van controle; gevaar van fysieke of emotionele verwonding.
 * **Het specifieke sluitstuk:** **Het fysiek bereiken van een veilige haven en de sensorische bevestiging door het lijf.**
   - De vluchtweg succesvol voltooien (letterlijk weg zijn bij de bron van onveiligheid).
@@ -230,7 +230,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### H. Walging & Aversie (DISGUST): Zuivering & Radicale Distantie
+### H. Walging en aversie (DISGUST): zuivering en radicale distantie
 * **De openstaande rekening:** Besmetting, vergiftiging, binnendringen van iets wat toxisch is of je fysieke en morele integriteit schendt.
 * **Het specifieke sluitstuk:** **Reiniging en het definitief verbreken van het contact.**
   - Fysiek: uitspugen, overgeven, handen wassen, douchen, kleding wisselen, de kamer luchten.
@@ -239,7 +239,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### I. Jaloezie & Afgunst: Herbevestiging vs. Eigen Bouwkracht
+### I. Jaloezie en afgunst: herbevestiging vs. eigen bouwkracht
 * **De openstaande rekening:** 
   - *Jaloezie (angst voor verlies):* De dreiging dat jouw unieke positie of hechtingsaandacht door een rivaal wordt overgenomen.
   - *Afgunst (pijn om het gemis):* Een ander heeft iets wat jij wanhopig graag zelf had willen hebben.
@@ -250,7 +250,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### J. Eenzaamheid: Resonerende Wederkerigheid
+### J. Eenzaamheid: resonerende wederkerigheid
 * **De openstaande rekening:** Fysiologische isolatie; honger naar spiegeling en resonantie van het Zelf.
 * **Het specifieke sluitstuk:** **Eén authentieke ontmoeting waarin je gezien wordt zoals je werkelijk bent.**
   - Eenzaamheid wordt niet afgemaakt door 'onder de mensen te zijn' op een druk feestje (daar voel je je vaak nóg eenzamer).
@@ -259,7 +259,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-### K. Hopeloosheid & Wanhoop: De Noodrem van het Zenuwstelsel en de Paradox van Rust
+### K. Hopeloosheid en wanhoop: de noodrem van het zenuwstelsel en de paradox van rust
 * **De openstaande rekening:** Chronische, uitputtende overbelasting van het zenuwstelsel; de dwingende eis aan het Zelf om aan 100% van alle eisen en verwachtingen te blijven voldoen; alle actieve hechtings- en vechtstrategieën zijn vastgelopen.
   - **De realistische functie van hopeloosheid:** Als je van jezelf eist dat je alles perfect blijft doen en overal aan blijft voldoen, is hopeloosheid een volstrekt *terechte* en accurate emotie. De situatie ís dan ook hopeloos. De emotie vertelt je niet dat het leven voorbij is, maar dat jouw huidige eisenpakket biologisch onhaalbaar is.
   - **De over-over-vermoeidheid:** De loodzware uitputting bij depressie en wanhoop is de fysiologische noodrem van het lijf. Het lichaam trekt de stekker eruit om zelfverbranding te voorkomen: *"Jij stopt niet met rennen op een doodlopend spoor, dus dwing ik je tot stilstand."*
@@ -280,7 +280,7 @@ Hieronder werken we voor de verschillende gevoelens systematisch uit **welke ope
 
 ---
 
-## 5. Online Begeleiding: Mensen Helpen de Juiste Emotie te Vinden
+## 5. Online begeleiding: mensen helpen de juiste emotie te vinden
 
 In online contexten (chat, e-mail, fora, beeldbellen of WhatsApp) ontbreekt fysiek contact. Daardoor trappen coaches en gesprekspartners massaal in de valkuil van **cognitieve over-inhibitie** (direct logisch advies geven) of **het meegaan in de secundaire emotie** (meeroepen met iemands woede).
 
@@ -304,29 +304,29 @@ Gebruik onderstaande **vijf diagnostische hefbomen** om iemand online naar de pr
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 1. Let op de Tekst-Dynamiek: 'Spinning' vs. 'Sinking'
+### 1. Let op de tekst-dynamiek: 'spinning' vs. 'sinking'
 - **Secundaire emotie (Spinning):**  
   Lange lappen tekst, uitroeptekens, herhaling van wat *de ander* allemaal fout heeft gedaan (*"En toen deed hij dit, en dat is toch idioot?!"*). Dit is het Ik dat in de neocortex rondjes rent om de fysiologische pijn daaronder niet te voelen.
 - **Primaire emotie (Sinking):**  
   Korte zinnen, witregels, haperingen, kwetsbare woorden (*"Ik voel me zo leeg", "Ik mis het", "Ik ben gewoon bang"*). De aandacht zakt van het hoofd naar de gevoelde emoties, en het levende lijf.
 
-### 2. De Bodyguard-Vraag
+### 2. De bodyguard-vraag
 Zeg nooit: *"Je bent niet echt boos, je bent gewoon verdrietig"* (dat voelt als betutteling). Gebruik de metafoor van de beschermer:
 > *"Ik hoor hoe laaiend je bent, en dat is volkomen begrijpelijk. Maar zie je woede eens als een zwaarbewapende bodyguard die voor je staat. Welk klein, zacht of gekwetst stukje in jou staat hij op dit moment zo fel te beschermen?"*
 
-### 3. De 60-Seconden-Toets
+### 3. De 60-seconden-toets
 Wanneer iemand vastzit in verontwaardiging of rationalisaties:
 > *"Stel dat je zestig seconden lang even helemaal niet boos hoeft te zijn op de situatie. Je hoeft er even niets van te vinden. Als je die woede heel even op een stoel naast je zet... wat merk je dan op dít moment in je keel, je borst of je buik?"*  
 In 9 van de 10 gevallen antwoordt de ander: *"Dan voel ik een brok in mijn keel"* of *"Dan voel ik een zware, koude steen in mijn maag."*  
 **Dát is de ingang naar de primaire emotie.**
 
-### 4. De Behoefte-Toets
+### 4. De behoefte-toets
 Vraag: *"Als deze emotie een eigen stem had en één ding mocht vragen wat het nú nodig heeft, wat zou dat zijn?"*
 - Als het antwoord is: *"Dat ze ophouden / afstand nemen"* $\rightarrow$ **Primaire Woede** (Grens).
 - Als het antwoord is: *"Troost / dat iemand me even vasthoudt / rust"* $\rightarrow$ **Primair Verdriet**.
 - Als het antwoord is: *"Zekerheid / weten dat ik veilig ben"* $\rightarrow$ **Primaire Angst**.
 
-### 5. Pacing and Leading in Tekst
+### 5. Pacing and leading in tekst
 Erken eerst de kracht van het schild (Pacing), en open daarna zachtjes de deur naar de kwetsbaarheid (Leading):
 > *"Het is volkomen logisch dat je woedend bent; het gedrag van de ander was grensoverschrijdend en oneerlijk. Tegelijkertijd voel ik tussen je regels door hoeveel zorg en liefde je hierin hebt gestopt. Doet het, naast alle woede, misschien ook gewoon ontzettend veel pijn dat het zo gelopen is?"*
 
@@ -334,7 +334,7 @@ Zodra de ander reageert met: *"Ja... eigenlijk wel..."*, verschuift de fysiologi
 
 ---
 
-## 6. Het 5-Stappen Voltooiingsprotocol in de Praktijk
+## 6. Het vijfstappen voltooiingsprotocol in de praktijk
 
 Wanneer je voor jezelf of in begeleiding een emotionele cyclus wilt voltooien:
 
@@ -357,7 +357,7 @@ Wanneer je voor jezelf of in begeleiding een emotionele cyclus wilt voltooien:
 
 ---
 
-## 7. De Laatste Fase van Meesterschap: Uitleggen, Zingeving en Petzolds Hermeneutische Spiraal
+## 7. De laatste fase van meesterschap: uitleggen, zingeving en Petzolds hermeneutische spiraal
 
 Binnen de **Integratieve Therapie van Hilarion Petzold** stopt het verkrijgen van werkelijke 'grip' op emoties niet bij individuele zelfregulatie of het sluiten van de somatische cyclus in je eentje.
 
@@ -392,13 +392,13 @@ $$\text{Wahrnehmen (Waarnemen)} \longrightarrow \text{Erfassen (Benoemen)} \long
 
 Doordat dit proces een **spiraal** is (geïnspireerd op Heraclitus' *Panta rhei*: alles stroomt), keer je bij een volgende crisis of emotionele golf nooit terug op hetzelfde punt van ontreddering. Je doorloopt de beweging opnieuw, maar telkens vanaf een **hogere trede van reflectie, volwassenheid en handelingsbekwaamheid**.
 
-### 1. Waarom 'Uitleggen aan Anderen' het Zenuwstelsel Verankert
+### 1. Waarom 'uitleggen aan anderen' het zenuwstelsel verankert
 Zolang je een emotie alleen maar intern probeert te beheersen of af te remmen, blijft er een risico op terugval in de oude automatische reflexen. Pas wanneer je in staat bent om **aan een ander rustig uit te leggen wat er in jou gebeurt en hoe jij daarmee omgaat**:
 - Bewijst de neocortex (Laag 2 / Het Ik) dat het niet langer gekaapt wordt door de hersenstam (Laag 1 / Het Zelf); er is voldoende afstand ontstaan om getuige te zijn van het eigen proces.
 - Creëer je een transparante, veilige sociale bedding: de ander hoeft niet meer te raden naar jouw geslotenheid of bang te zijn voor jouw uitbarstingen, omdat je jouw eigen 'emotionele handleiding' overhandigt.
 - Wordt de emotie genormaliseerd en ontdaan van schaamte: het is geen 'gek defect' meer, maar een begrijpelijke biologische reactie met een heldere gebruiksaanwijzing.
 
-### 2. De Zingevingsfase van de Hermeneutische Spiraal (Sinnfindung)
+### 2. De zingevingsfase van de hermeneutische spiraal (Sinnfindung)
 In de hermeneutische spiraal is de zingevingsfase (*Sinnfindung*) de ultieme richtinggevende kracht:
 - **Welke existentiële waarde ontleen je aan deze woede, dit verdriet of deze doorgemaakte crisis?**
 - De pijn wordt getransformeerd tot een moreel kompas, diepe zelfkennis en maatschappelijke solidariteit (*Homo Solidarius*).
@@ -409,7 +409,7 @@ Wanneer een emotie niet alleen somatisch is ontladen, maar ook cognitief kan wor
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen en samenhang
 
 - [Omgaan met Emoties: Voelen, Begrijpen en Kiezen](omgaan-met-emoties.md) - *De basisprincipes van interoceptie en vertragen.*
 - [Over Boosheid: Schild, Energie en Grenzen](over-boos/README.md) - *Diepere uitwerking van boosheid als secundaire emotie en de ontkrachting van Bushmans catharsis-mythe.*

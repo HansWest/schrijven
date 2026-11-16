@@ -1,4 +1,4 @@
-# Boek: Sprankel en Schrompel
+# Boek: sprankel en schrompel
 
 Werkmap voor een mogelijk boek over tijd, levensenergie, keuzes en omgaan met wat het leven je geeft.
 

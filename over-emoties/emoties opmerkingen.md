@@ -1,7 +1,7 @@
 # Emoties Opmerkingen
 
 ## schuld
-Een schuldgevoel eerst zelf onderzoeken is iets anders dan zonder toetsing schuld op je nemen omdat een ander die bij je neerlegt. Zie ook [Schuldgevoel en schuld in relaties](over-schuld.md).
+Een schuldgevoel eerst zelf onderzoeken is iets anders dan zonder toetsing schuld op je nemen omdat een ander die bij je neerlegt. Zie ook [Schuldgevoel en schuld in relaties](over-schuld/README.md).
 
 ## boosheid
 Boosheid is vaak een secundaire emotie: een energiek, mobiliserend schild dat het brein opwerpt om veel kwetsbaardere primaire emoties (onmacht, afwijzing, existentiële angst en rauw verdriet) niet direct te hoeven voelen. 

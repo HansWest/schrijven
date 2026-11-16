@@ -1,11 +1,11 @@
-# Het Tweelagenmodel van Hechting: Affectieve Kaart, Strategie & Koppelingsregels
+# Het tweelagenmodel van hechting: affectieve kaart, strategie en koppelingsregels
 
-> **Algemene Hechtingstheorie — Deel 3**  
+> **Algemene Hechtingstheorie - Deel 3**  
 > *Waarom klassieke hechtingsvragenlijsten appels met peren vergelijken, hoe een driedimensionale affectieve ruimte (FEAR, PANIC, SEEKING) de paradox van vermijding oplost, en hoe hechtingsstijlen functioneren als geautomatiseerde koppelingsregels.*
 
 ---
 
-## 1. Het 'Appels-met-Peren'-Probleem in Hechtingstheorie
+## 1. Het 'appels-met-peren'-probleem in hechtingstheorie
 
 In de traditionele hechtingspsychologie worden mensen doorgaans ingeschaald op twee assen: *hechtingsangst* en *hechtingsvermijding*. Hoewel deze tweedeling op papier overzichtelijk lijkt, stuit ze in de klinische en somatische praktijk op een fundamentele weeffout: **gevoelens, autonome hersenstamstaten en gedragsmatige strategieën worden op één hoop gegooid**.
 
@@ -23,9 +23,9 @@ Zolang fysiologische staten van de hersenstam en gedragsmatige navigatiestrategi
 
 ---
 
-## 2. Het Tweelagenmodel: Weerkaart vs. Navigatie, Zelf vs. Ik, Paleobrein vs. Neocortex
+## 2. Het tweelagenmodel: weerkaart vs. navigatie, Zelf vs. Ik, paleobrein vs. neocortex
 
-Om deze verwarring op te lossen, visualiseren we hechtingsdynamieken niet als één platte vragenlijst, maar als **twee gestapelde lagen** die op drie complementaire niveaus begrepen kunnen worden:
+Om deze verwarring op te lossen, visualiseer ik hechtingsdynamieken niet als één platte vragenlijst, maar als **twee gestapelde lagen** die op drie complementaire niveaus begrepen kunnen worden:
 
 | Dimensie | Laag 1: Het Somatische Fundament | Laag 2: De Strategische Bovenbouw |
 | :--- | :--- | :--- |
@@ -53,13 +53,13 @@ Om deze verwarring op te lossen, visualiseren we hechtingsdynamieken niet als é
 
 ---
 
-## 3. Laag 1: De Laag van het Zelf (Archicortex, Paleocortex & Hersenstam)
+## 3. Laag 1: de laag van het Zelf (archicortex, paleocortex en hersenstam)
 
-Laag 1 is de somatische grondtoon van ons bestaan: wat Jaak Panksepp omschrijft als het *core self*. Hier bevindt zich geen taal, geen logische redenering en geen strategisch plan; hier heerst simpelweg het fysiologische 'weer'.
+Laag 1 is de somatische grondtoon van het menselijk bestaan: wat Jaak Panksepp omschrijft als het *core self*. Hier bevindt zich geen taal, geen logische redenering en geen strategisch plan; hier heerst simpelweg het fysiologische 'weer'.
 
-Neuro-anatomisch is deze laag verankerd in de **archicortex** (de oudste schorsgebieden zoals de hippocampus), de **paleocortex** (limbische overgangszones en reukschors) en de **subcorticale kernen van de hersenstam** (o.a. het periaqueductale grijs/PAG en de amygdala). Deze fylogenetisch oeroude structuren delen we met alle zoogdieren.
+Neuro-anatomisch is deze laag verankerd in de **archicortex** (de oudste schorsgebieden zoals de hippocampus), de **paleocortex** (limbische overgangszones en reukschors) en de **subcorticale kernen van de hersenstam** (o.a. het periaqueductale grijs/PAG en de amygdala). Deze fylogenetisch oeroude structuren deelt de mens met alle zoogdieren.
 
-In plaats van vage emotionele labels onderscheiden we hier drie primaire emotionele besturingssystemen:
+In plaats van vage emotionele labels onderscheid ik hier drie primaire emotionele besturingssystemen:
 
 1. **FEAR (Bedreiging & Verdediging):**  
    *Is nabijheid of de ander gevaarlijk?*  
@@ -71,7 +71,7 @@ In plaats van vage emotionele labels onderscheiden we hier drie primaire emotion
    *Is de wereld of de relatie interessant, veilig en de moeite waard om naartoe te bewegen?*  
    Het dopaminerge zoeksysteem dat aanzet tot nieuwsgierigheid, spel, creativiteit en autonoom onderzoek.
 
-### De Cruciale Sleutel: SEEKING Ontrafelt 'Lage Angst'
+### De cruciale sleutel: SEEKING ontrafelt 'lage angst'
 
 De toevoeging van de **SEEKING-as** lost het raadsel van de vermijdende hechtingsstijl definitief op:
 
@@ -82,7 +82,7 @@ De toevoeging van de **SEEKING-as** lost het raadsel van de vermijdende hechting
 
 ---
 
-## 4. Laag 2: De Laag van het Ik (Neocortex, Wereldmodel & Inhibitie)
+## 4. Laag 2: de laag van het Ik (neocortex, wereldmodel en inhibitie)
 
 Waar het Zelf de affectieve werkelijkheid ondergaat, is **het Ik** niet zozeer de primaire aandrijfmotor van gedrag (die motor zit subcorticaal), maar de evolutionaire **simulator en rem**:
 
@@ -98,7 +98,7 @@ Waar het Zelf de affectieve werkelijkheid ondergaat, is **het Ik** niet zozeer d
 
 ---
 
-## 5. Zelfkennis als Kompas: De Vier Navigatievragen
+## 5. Zelfkennis als kompas: de vier navigatievragen
 
 Het doel van hechtingsgroei en volwassen autonomie is niet dat het Ik krampachtig 'beter gedrag aanstuurt', maar het ontwikkelen van **diepe somatische en cognitieve zelfkennis**:
 
@@ -117,9 +117,9 @@ Deze zelfkennis beantwoordt vier existentiële vragen voor relationele soeverein
 
 ---
 
-## 5. Hechtingsstijlen als Aangeleerde Koppelingsregels
+## 6. Hechtingsstijlen als aangeleerde koppelingsregels
 
-Wat we traditioneel een **hechtingsstijl** noemen, is geen vaste identiteit of een derde laag. Het is de **aangeleerde koppelingsregel** (*learned coupling rule*) tussen Laag 1 en Laag 2:
+Wat traditioneel een **hechtingsstijl** wordt genoemd, is geen vaste identiteit of een derde laag. Het is de **aangeleerde koppelingsregel** (*learned coupling rule*) tussen Laag 1 en Laag 2:
 
 > **Een hechtingsstijl is een geautomatiseerde "Als-Dan"-formule:**  
 > *"Als ik in Laag 1 toestand X voel, MOET ik in Laag 2 strategie Y uitvoeren om te overleven."*
@@ -129,7 +129,7 @@ In de vroege jeugd leert het kind drie dingen tegelijk:
 2. Welk gedrag effectief is om de verzorger niet te verliezen (Laag 2 strategieën).
 3. De automatische koppeling daartussen.
 
-### Profielenoverzicht in het Tweelagenmodel
+### Profielenoverzicht in het tweelagenmodel
 
 | Hechtingsprofiel (Nederlands / Code) | Laag 1: FEAR | Laag 1: PANIC | Laag 1: SEEKING | Laag 2: Gedragsstrategie | De Aangeleerde Koppelingsregel |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -141,7 +141,7 @@ In de vroege jeugd leert het kind drie dingen tegelijk:
 
 ---
 
-## 6. Hoe Koppelingen Automatisch Worden en het Lichaam Vormgeven
+## 7. Hoe koppelingen automatisch worden en het lichaam vormgeven
 
 De overgang van vroege ervaring naar een volwassen automatische hechtingsstijl verloopt via drie mechanismen:
 
@@ -152,14 +152,14 @@ De overgang van vroege ervaring naar een volwassen automatische hechtingsstijl v
 3. **Het Neocorticale Narratief (Het Verhaal):**  
    Het verstand bouwt een identiteitsverhaal om de koppeling te rechtvaardigen: *"Ik ben nou eenmaal een solist"* (afwijzend), of *"Ik hou gewoon heel intens van mensen"* (gepreoccupeerd). Het verhaal verankert de rigide strategie alsof het een karaktertrek is.
 
-### De Wederzijdse Boetsering: Gedrag Vormt het Gevoel
+### De wederzijdse boetsering: gedrag vormt het gevoel
 De relatie tussen de twee lagen is tweerichtingsverkeer:
 - Een vermijdend persoon stopt niet alleen met het *uiten* van PANIC; na jaren van deactivatie stompt het PANIC-systeem zelf af of raakt het volledig gedissocieerd. De affectieve kaart wordt letterlijk gekrompen tot een minimale belevingswereld.
 - Een angstig persoon traint het FEAR- en PANIC-systeem door constante hyperactivatie om hyperalert te worden op de kleinste relationele rimpeling.
 
 ---
 
-## 7. Betekenis voor Coaching, Relatiewerk en Verandering
+## 8. Betekenis voor coaching, relatiewerk en verandering
 
 Het Tweelagenmodel biedt een revolutionair heldere blik op verandering en *earned security*:
 

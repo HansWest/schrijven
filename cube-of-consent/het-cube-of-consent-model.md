@@ -1,4 +1,4 @@
-# Het Cube of Consent Model (Hans Model of Consent)
+# Het Cube of Consent-model
 
 > **Centrale Source of Truth (SSOT) voor het 4D / 3D Consent Model**  
 > *Een multidimensionale upgrade van consent: van simplistisch gedragsvinkje naar structurele afstemmingsdiagnostiek over 4 assen, 48 structurele posities en 8 onderwijsstaten (+ / -).*
@@ -7,7 +7,7 @@
 
 ## 1. Waarom dit model ertoe doet
 
-Het **Cube of Consent**-model (ontwikkeld door Hans West) kijkt niet alleen naar wát er fysiek gebeurt, maar onderzoekt of consent intern, somatisch en relationeel zuiver is afgestemd.
+Het **Cube of Consent**-model (door mij ontwikkeld) kijkt niet alleen naar wát er fysiek gebeurt, maar onderzoekt of consent intern, somatisch en relationeel zuiver is afgestemd.
 
 Het model beantwoordt vier fundamentele vragen:
 1. **Wie doet wat bij wie?** *(Actievector: wie beweegt / handelt, en wie ontvangt of ondergaat?)*
@@ -19,7 +19,7 @@ Het model beantwoordt vier fundamentele vragen:
 
 ---
 
-## 2. De Vier Kernassen van de Kubus
+## 2. De vier kernassen van de kubus
 
 In tegenstelling tot het klassieke *Wheel of Consent* (Betty Martin), dat met 2 assen 4 kwadranten maakt, breidt het Cube-model dit uit naar vier afzonderlijke dimensies:
 
@@ -48,7 +48,7 @@ In tegenstelling tot het klassieke *Wheel of Consent* (Betty Martin), dat met 2 
 
 ---
 
-## 3. De Driver-as als Kwetsbaarheid (The Driver Axis as Vulnerability)
+## 3. De driver-as als kwetsbaarheid (the driver axis as vulnerability)
 
 De Driver-as ($D$) is niet louter een wiskundige variabele; het is de plek waar consent het meest kwetsbaar en persoonlijk wordt.
 
@@ -68,7 +68,7 @@ Dit zijn volkomen symmetrische daden van zelfonthulling. De kwetsbaarheid hoort 
 
 ---
 
-## 4. De Valkuil van 'Troebele Wederkerigheid' (The Trap of Blurry Mutuality)
+## 4. De valkuil van 'troebele wederkerigheid' (the trap of blurry mutuality)
 
 Het grootste obstakel voor zuivere consent is **"troebele wederkerigheid"** (blurry mutuality): het samenvouwen van Driver (initiatief) en Betekenis (beloning) onder de vage dooddoener:  
 > *"Maar we willen dit toch allebei?!"*
@@ -82,7 +82,7 @@ Hoewel wederkerigheid harmonieus klinkt, fungeert het in de praktijk vaak als ca
 
 ---
 
-## 5. De 48 Structurele Posities ($4 \times 2 \times 2 \times 3$)
+## 5. De 48 structurele posities ($4 \times 2 \times 2 \times 3$)
 
 Het complete model telt **48 unieke structurele posities**:
 - **4 actievectoren:** `me->me`, `me->you`, `you->me`, `you->you`
@@ -92,7 +92,7 @@ Het complete model telt **48 unieke structurele posities**:
 
 $$\text{Totaal} = 4 \times 2 \times 2 \times 3 = 48 \text{ posities}$$
 
-### Canonieke Notatie (Naming Grammar)
+### Canonieke notatie (naming grammar)
 Gebruik het standaard format:
 ```text
 [actor]->[receiver] | body:[me/you] | drive:[me/you] | meaning:[me/you/both]
@@ -108,9 +108,9 @@ Gebruik het standaard format:
 
 ---
 
-## 6. De 8 Didactische Kernstaten (+ / - Teaching Shortcuts)
+## 6. De acht didactische kernstaten (+ / - teaching shortcuts)
 
-Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, comprimeren we de vier actievectoren met een **`+` (zuiver/aligned)** of **`-` (mismatch/druk)** markering:
+Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, comprimeer ik de vier actievectoren met een **`+` (zuiver/aligned)** of **`-` (mismatch/druk)** markering:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -134,7 +134,7 @@ Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, com
 └──────┴───────────────────────────────┴────────────────────────────┴────────────────────┘
 ```
 
-### Verdieping van Risico's en Krachten per Staat:
+### Verdieping van risico's en krachten per staat:
 - **1+:** *Kracht:* Helder eigenaarschap van verlangen vermindert dubbelzinnigheid. *Risico:* Opwinding kan reflectie overvleugelen; check-ins zijn vereist om subtiele grenzen niet te walsen.
 - **1-:** *Signaal:* Vroeg alarmsignaal van prestatiedruk. *Risico:* Schijneigenaarschap verbergt angst om de partner teleur te stellen.
 - **2+:** *Kracht:* Vrij gekozen dienstbaarheid bouwt diepe intimiteit en toewijding. *Risico:* Ongemerkt over de eigen fysieke vermoeidheidsgrens gaan (*over-functioning*).
@@ -149,7 +149,7 @@ Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, com
 
 ---
 
-## 7. De Één-Adem Toets (The One-Breath Spoken Sentence Test)
+## 7. De één-ademtoets (the one-breath spoken sentence test)
 
 Om alle verwarring en aannames uit te sluiten, moet elke handeling of sessie uitgesproken kunnen worden in één eenvoudige zin:
 
@@ -164,7 +164,7 @@ Om alle verwarring en aannames uit te sluiten, moet elke handeling of sessie uit
 
 ---
 
-## 8. De Vier Verwarringsvalkuilen (The 4 Confusion Traps)
+## 8. De vier verwarringsvalkuilen (the four confusion traps)
 
 Vrijwel alle consent-incidenten ontstaan door het samenvouwen van twee verschillende lagen:
 
@@ -183,9 +183,9 @@ Vrijwel alle consent-incidenten ontstaan door het samenvouwen van twee verschill
 
 ---
 
-## 9. Container-laag versus Huisregels (Ground Rules)
+## 9. Container-laag versus huisregels (ground rules)
 
-Binnen een sessie of relatie hanteren we twee afzonderlijke lagen:
+Binnen een sessie of relatie hanteer ik twee afzonderlijke lagen:
 
 - **De Container-laag (Het Kader):**  
   De overkoepelende meta-afspraak die de hele setting draagt. Bepaalt de rolstructuur, tijdsduur, intensiteitsplafonds, verantwoordelijkheid voor monitoring en de exacte werking van pauze/stop/exit.
@@ -196,9 +196,9 @@ Binnen een sessie of relatie hanteren we twee afzonderlijke lagen:
 
 ---
 
-## 10. Play-State Diagnostiek (Druk versus Spel in Realtime)
+## 10. Play-state diagnostiek (druk versus spel in realtime)
 
-Gebruik deze 6 check-vragen tijdens het spel. Als **twee of meer antwoorden "nee"** zijn: direct pauzeren en heronderhandelen.
+Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "nee"** zijn: direct pauzeren en heronderhandelen.
 
 1. Wordt dit nog steeds actief gewild, en niet louter getolereerd?
 2. Kunnen beide partners zonder boete, schuldgevoel of sanctie pauzeren of stoppen?
@@ -212,9 +212,9 @@ Gebruik deze 6 check-vragen tijdens het spel. Als **twee of meer antwoorden "nee
 
 ---
 
-## 11. Vergelijking: Betty Martin's Wheel of Consent vs. De Cube
+## 11. Vergelijking: Betty Martins Wheel of Consent vs. de Cube
 
-| Eigenschap | Betty Martin's Wheel of Consent | Hans West's Cube of Consent |
+| Eigenschap | Betty Martins Wheel of Consent | Mijn Cube of Consent |
 | :--- | :--- | :--- |
 | **Dimensies** | 2 assen (Doing vs. For) | 4 dimensies (Action, Body, Driver, Meaning) |
 | **Aantal Posities**| 4 kwadranten | 48 structurele posities |
@@ -224,23 +224,23 @@ Gebruik deze 6 check-vragen tijdens het spel. Als **twee of meer antwoorden "nee
 
 ---
 
-## 12. Praktische Zinnen & Debrief Prompts
+## 12. Praktische zinnen en debrief prompts
 
 ### Vooraf
 - *"We zijn gelijkwaardige onderhandelaars aan de keukentafel."*
 - *"Voor de komende 30 minuten heb jij het initiatief binnen dit afgesproken kader."*
 - *"Ieder van ons kan op elk moment pauzeren of stoppen zonder dat de ander boos wordt."*
 
-### Vragen om Helderheid
+### Vragen om helderheid
 - *"Ik wil X bij jou doen gedurende Y minuten. Dit is voor mijn fysieke opwinding en voor onze gedeelde verbinding. Zou je dat willen?"*
 - *"Ik bied jou X aan voor jouw ontspanning, op deze intensiteit. Als mijn bereidheid verschuift, pauzeer ik direct."*
 
-### Stoppen & Herstel
+### Stoppen en herstel
 - *"Stop. Mijn bereidheid is zojuist gedaald."*
 - *"Ik merk een mismatch tussen voor wie dit is en waarom we het doen."*
 - *"Ik heb even een reset nodig voordat ik weet of ik door wil gaan."*
 
-### Debrief na Afloop
+### Debrief na afloop
 1. Wat vond je lichaam fijn, wat werd getolereerd en waar voelde je weerstand?
 2. Wat voelde emotioneel betekenisvol, wat voelde neutraal en waar voelde je druk?
 3. Bleven de drijfveer en degene voor wie het was zuiver uitgelijnd?

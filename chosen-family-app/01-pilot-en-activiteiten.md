@@ -1,63 +1,63 @@
-# Pilot & Activiteiten: Het Fundament van de Eerste Versie
+# Pilot en activiteiten: het fundament van de eerste versie
 
 > *"Verbinding ontstaat niet door een matchscore op een scherm, maar door samen iets te doen in een veilige, voorspelbare omgeving waar niemand zich hoeft te bewijzen."*
 
 ---
 
-## 1. Opzet van de Eerste Lokale Pilot
+## 1. Opzet van de eerste lokale pilot
 
 Om de werking van de app en de veiligheidsprotocollen in de praktijk te valideren, start de app niet als een landelijk open netwerk, maar als een **beheersbare, lokale pilot**:
 
 - **Doelgroep:** Uitsluitend volwassenen (18+). (Complexe ondersteuning voor meervoudige beperkingen of taalbarrières volgt in een latere fase om de pilot beheersbaar te houden).
 - **Schaal:** Eén afgebakende stad of regio, met een selecte groep van 25 tot 50 geverifieerde deelnemers.
 - **Toegestane Gekozen Familiebanden in de Pilot:**
-  - *Ouder – Kind:* Gekozen volwassen ouder ↔ gekozen volwassen kind.
+  - *Ouder - Kind:* Gekozen volwassen ouder ↔ gekozen volwassen kind.
   - *Broers / Zussen (Siblings):* Broer-broer, broer-zus, zus-zus relaties.
-  - *Oom/Tante – Nicht/Neef:* Familieachtige steun en mentorschap.
-  - *Grootouder – Kleinkind:* Intergenerationele band (opa/oma ↔ volwassen kleinkind).
+  - *Oom/Tante - Nicht/Neef:* Familieachtige steun en mentorschap.
+  - *Grootouder - Kleinkind:* Intergenerationele band (opa/oma ↔ volwassen kleinkind).
   - *Gelijkwaardige Kring:* Vriendschap zonder specifiek familielabel.
 - **Doel:** Testen of de activiteitsformats werken, of de moderatie en opvolging tijdig verlopen, en of deelnemers zich veilig genoeg voelen om grenzen aan te geven.
 
 ---
 
-## 2. Waarom Starten met Groepsactiviteiten?
+## 2. Waarom starten met groepsactiviteiten?
 
-Het traditionele dating- en vriendschapsappmodel forceert mensen meteen in een intense één-op-één ontmoeting. Voor veel mensen — en in het bijzonder neurodivergente personen of mensen met sociale angst — brengt dit enorme druk met zich mee:
+Het traditionele dating- en vriendschapsappmodel forceert mensen meteen in een intense één-op-één ontmoeting. Voor veel mensen - en in het bijzonder neurodivergente personen of mensen met sociale angst - brengt dit enorme druk met zich mee:
 - De verwachting dat er direct 'chemie' moet zijn.
 - Ongemakkelijke stiltes die moeten worden opgevuld.
 - Moeite om het gesprek af te breken als het niet goed voelt.
 
-### De Voordelen van een Kleine Kring (3 tot 6 personen):
+### De voordelen van een kleine kring (3 tot 6 personen):
 1. **Gedeelde Focus (Parallel Play):** De aandacht ligt op de activiteit (een bordspel, koken, wandelen), niet op elkaars prestaties.
 2. **Lage Drempel tot Deelname:** Iemand kan aanwezig zijn en meedoen zonder voortdurend in het middelpunt te staan.
 3. **Natuurlijke Vertrek- en Pauzemogelijkheden:** In een groepje kan iemand even naar het toilet lopen, een luchtje scheppen of eerder weggaan zonder dat de ontmoeting meteen instort.
 
 ---
 
-## 3. Concrete Activiteitsformats
+## 3. Concrete activiteitsformats
 
 De pilot biedt een kleine, vaste set van zorgvuldig gestructureerde activiteiten:
 
-### Format A: De Stille Creatie- & Crafting-Kring (Parallel Play)
+### Format A: de stille creatie- en crafting-kring (parallel play)
 - **Wat:** Deelnemers nemen hun eigen project mee (tekenen, breien, coderen, schrijven, miniaturen schilderen).
 - **Setting:** Een rustige, prikkelarme ruimte (bijv. buurthuisruimte of bibliotheekzaal) met thee en water.
 - **Dynamiek:** Samen in stilte bezig zijn, met ruimte om af en toe elkaars werk te bewonderen zónder de verplichting tot constante smalltalk.
 
-### Format B: Bordspellen & Puzzels
+### Format B: bordspellen en puzzels
 - **Wat:** Coöperatieve of lichte strategische bordspellen met duidelijke spelregels.
 - **Waarom:** Spelregels bieden een helder sociaal algoritme. Iedereen weet wat de beurt is en wat er verwacht wordt.
 
-### Format C: De Prikkelarme Natuurwandeling
+### Format C: de prikkelarme natuurwandeling
 - **Wat:** Een wandeling van 45 tot 60 minuten over een rustige route met maximaal 4 tot 6 personen.
 - **Dynamiek:** Naast elkaar lopen vermindert direct oogcontact, wat voor veel mensen het zenuwstelsel kalmeert en diepere gesprekken vergemakkelijkt.
 
-### Format D: De Gezamenlijke Kooksessie
+### Format D: de gezamenlijke kooksessie
 - **Wat:** Samen een eenvoudige maaltijd bereiden met vooraf verdeelde taken (bijv. groenten snijden, tafel dekken, afwassen).
 - **Dynamiek:** Zorgt voor praktische wederkerigheid en direct contact rondom voeding en zorg, de kern van een gekozen familiegevoel.
 
 ---
 
-## 4. De Rol van de Kringbegeleider (Host)
+## 4. De rol van de kringbegeleider (host)
 
 Bij elke groepsactiviteit in de pilot is een getrainde **kringbegeleider** aanwezig.
 - **Wat de host wél is:** Een procesbewaker die de ruimte opent, de tijden bewaakt, iedereen welkom heet, checkt of de huisregels helder zijn en zorgt voor een decompressie-pauze.
@@ -65,7 +65,7 @@ Bij elke groepsactiviteit in de pilot is een getrainde **kringbegeleider** aanwe
 
 ---
 
-## 5. De Huisregels van de Pilot
+## 5. De huisregels van de pilot
 
 Deelnemers stemmen vooraf expliciet in met vijf kernregels:
 

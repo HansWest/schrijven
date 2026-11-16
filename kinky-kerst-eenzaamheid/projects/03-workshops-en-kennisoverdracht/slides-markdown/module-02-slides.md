@@ -1,4 +1,4 @@
-# De West-Sessies: Module 2 — Slide Deck (Markdown voor Google Slides)
+# De West-Sessies: module 2 - slide deck (markdown voor Google Slides)
 
 > **Thema:** Onderhandelen & Grenzen Zonder Schaamte  
 > **Host:** Hans West (Kink-Aware Coach)  
@@ -6,7 +6,7 @@
 
 ---
 
-## Slide 1: Titelslide & Inloop
+## Slide 1: titelslide & inloop
 
 **Titel:** De West-Sessies: Onderhandelen & Grenzen Zonder Schaamte  
 **Ondertitel:** Duidelijke taal spreken vóórdat je de touwen pakt of de kleren uittrekt.  
@@ -22,7 +22,7 @@
 
 ---
 
-## Slide 2: Waarom Onderhandelen zo Lastig Voelt
+## Slide 2: waarom onderhandelen zo lastig voelt
 
 **Drie Psychologische Hindernissen:**
 1. **De Afwijzingsangst:** Bang dat de ander jou 'moeilijk', 'preuts' of niet leuk meer vindt zodra je een hard limit noemt.
@@ -36,7 +36,7 @@
 
 ---
 
-## Slide 3: Veiligheidskaders: Waarom SSC niet genoeg is
+## Slide 3: veiligheidskaders: waarom SSC niet genoeg is
 
 | KADER | BETEKENIS | DE REALITEIT |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 
 ---
 
-## Slide 4: Het Stoplichtmodel 2.0 (Contextuele Grenzen)
+## Slide 4: het stoplichtmodel 2.0 (contextuele grenzen)
 
 **Drie Categorieën:**
 - 🟢 **GROEN (Vrij Baan):** Activiteiten waar je voluit van geniet. Weinig emotionele of fysieke nawerking; geen ingewikkelde voorwaarden.
@@ -65,7 +65,7 @@
 
 ---
 
-## Slide 5: 'Nee' Zeggen Zonder Schuldgevoel
+## Slide 5: 'nee' zeggen zonder schuldgevoel
 
 **De Formule van Hans West:**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Slide 6: Praktijkcasus: De Aantrekkelijke Grensoverschrijder
+## Slide 6: praktijkcasus: de aantrekkelijke grensoverschrijder
 
 **Casus voor de Chat (10 minuten):**
 > *Je hebt een speelafspraak met een charmante, ervaren persoon. Jullie hebben vooraf duidelijk afgesproken: lichte impact play, maar absoluut géén touwen. Tijdens de sessie pakt de ander tóch een touw en zegt met een zwoele lach: 'Vertrouw me maar even, dit vind je geweldig.'*
@@ -94,7 +94,7 @@
 
 ---
 
-## Slide 7: Somatische Landing: Jouw 'Nee' in je Lichaam Voelen
+## Slide 7: somatische landing: jouw 'nee' in je lichaam voelen
 
 **Oefening (3 Minuten):**
 1. **Rugdekking:** Leun bewust achterover tegen de rugleuning van je stoel. Voel dat je gedragen wordt.
@@ -106,7 +106,7 @@
 
 ---
 
-## Slide 8: Afsluiting & De West-Sessies
+## Slide 8: afsluiting & De West-Sessies
 
 **Jouw Oogst van Vandaag:**
 - Onderhandelen is het voorspel van veiligheid en vertrouwen.

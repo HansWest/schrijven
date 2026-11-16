@@ -1,25 +1,25 @@
-# Neurochemie, Drop & Aftercare in BDSM
+# Neurochemie, drop en aftercare in BDSM
 
-> **Algemene BDSM-Theorie - Deel 3**  
+> **Algemene BDSM-theorie - deel 3**  
 > *De fysiologische en neurologische cyclus van intense scènes: transiënte hypofrontaliteit, HPA-as activatie, Subdrop, Domdrop en de medisch-somatische noodzaak van aftercare.*
 
 ---
 
-## 1. De Neurobiologische Golfbeweging van Subspace
+## 1. De neurobiologische golfbeweging van subspace
 
 *Subspace* wordt door beoefenaars omschreven als een veranderde bewustzijnstoestand (gekenmerkt door diepe rust, verhoogde pijngrens, euforie, tijdsdesoriëntatie en het wegvallen van piekergedachten). Fysiologisch is dit geen magisch of mystiek fenomeen, maar een specifieke combinatie van **hormonale stressresponsen** en **tijdelijke neurocognitieve veranderingen**:
 
-### 1. Pijnmodulatie en Endogene Opioïden (Endorfine & Dynorfine)
+### 1. Pijnmodulatie en endogene opioïden (endorfine en dynorfine)
 Wanneer het lichaam wordt blootgesteld aan gecontroleerde fysieke prikkels of impact, activeert het ruggenmerg en de hersenstam het lichaamseigen pijnstillende systeem. 
 - Er worden grote hoeveelheden **endorfinen** en **dynorfinen** geproduceerd die zich binden aan opioïdreceptoren.
 - Dit dempt niet alleen de fysieke pijnperceptie, maar creëert ook een diepe roes: een gevoel van warmte, zachtheid, ontkoppeling en euforie.
 
-### 2. De HPA-as en Acute Stress (Cortisol & Adrenaline)
+### 2. De HPA-as en acute stress (cortisol en adrenaline)
 Onderzoek onder leiding van sociaal psycholoog Brad Sagarin (o.a. Sagarin et al., 2009; *Aggressive Behavior*) toonde aan dat subs tijdens een intense BDSM-scène een significante piek vertonen in **cortisol** (het stresshormoon) en **adrenaline**.
 - Deze activering van de sympathische tak van het autonome zenuwstelsel pompt glucose naar de spieren en scherpt de zintuigen aan.
 - **De cruciale context-schakelaar:** In een veilige setting (waarin het autonome zenuwstelsel geen reële levensbedreiging detecteert) codeert het brein deze acute stress niet als 'paniek' of 'angst', maar als een intense, stimulerende en erotische prikkel.
 
-### 3. Transiënte Hypofrontaliteit (Uitschakeling van de Dorsolaterale Prefrontale Cortex)
+### 3. Transiënte hypofrontaliteit (uitschakeling van de dorsolaterale prefrontale cortex)
 Cognitief-neurowetenschappelijk onderzoek (o.a. Lee et al., 2016; Ambler et al., 2017) verklaart subspace via het concept van *transient hypofrontality* (vergelijkbaar met de 'runner's high' of diepe meditatieve flow):
 - De bloedtoevoer en elektrische activiteit in de **dorsolaterale prefrontale cortex (dlPFC)** nemen tijdelijk sterk af.
 - Omdat de dlPFC de zetel is van zelfreflectie, tijdsbesef, planning, zelftwijfel en de interne criticus, leidt deze deactivatie tot:
@@ -27,17 +27,17 @@ Cognitief-neurowetenschappelijk onderzoek (o.a. Lee et al., 2016; Ambler et al.,
   - Verlies van tijdsbesef (uren voelen als minuten).
   - Een staat van pure, zintuiglijke aanwezigheid in het hier-en-nu.
 
-### 4. Dopamine & Oxytocine: Verwachting en Verbinding
+### 4. Dopamine en oxytocine: verwachting en verbinding
 - **Dopamine:** De verwachting, spanning en beloning zorgen voor pieken in dopamine, wat motivatie, triomf en tunnelvisie versterkt.
 - **Oxytocine:** De diepe intimiteit, het uit handen geven van controle, huid-op-huidcontact en oogcontact stimuleren de aanmaak van oxytocine (het hechtings- en zorghormoon), waardoor intense kwetsbaarheid en verbondenheid ontstaan.
 
 ---
 
-## 2. Wat is 'Drop'? (De Biochemische Terugslag)
+## 2. Wat is 'drop'? (de biochemische terugslag)
 
 Wat biochemisch omhoog schiet, moet fysiologisch ook weer dalen. Zodra de intense prikkels stoppen, kan het zenuwstelsel in een scherpe terugslag terechtkomen: **Drop** (doorgaans optredend tussen direct na afloop en 24 tot 72 uur later).
 
-### De Fysiologie van Subdrop: Een Neurochemische Kater
+### De fysiologie van subdrop: een neurochemische kater
 Subdrop is geen psychologische zwakte, maar een logische fysiologische reactie op hormonale depletie:
 
 1. **Hormonale Crash (Rebound Effect):**  
@@ -51,18 +51,18 @@ Subdrop is geen psychologische zwakte, maar een logische fysiologische reactie o
 5. **De Hersenstam-Fout:**  
    Doordat neurotransmitters op een dieptepunt staan, trekt de denkende neocortex ten onrechte emotionele conclusies: *"Ik ben eenzaam, niemand houdt van me, de relatie deugt niet."* In werkelijkheid is het simpelweg een biochemische leegloop van de receptoren.
 
-### Domdrop (De Dominant Drop)
+### Domdrop (de dominant drop)
 Vaak onderschat, maar minstens zo intens: de Top of Dominant draagt tijdens een scène een zware neurocognitieve last:
 - Voortdurende waakzaamheid, pacing, technische controle en containment van de fysieke en emotionele veiligheid.
 - Wanneer de scène stopt, kan de Dominant instorten door **zorg-uitputting**: emotionele vlakheid, existentiële twijfel (*"Heb ik te veel gedaan? Was ik wel veilig genoeg?"*) en diepe fysieke loomheid.
 
 ---
 
-## 3. Aftercare als Medische en Fysiologische Noodzaak
+## 3. Aftercare als medische en fysiologische noodzaak
 
 Vanuit deze neurobiologische mechanismen is *aftercare* (nazorg) geen optioneel knuffelmomentje, maar een **fysiologische interventie** om het lichaam te herstellen en het zenuwstelsel veilig te laten landen in de ventrale vagus (sociale veiligheid en rust).
 
-### Fysiologische Interventietabel
+### Fysiologische interventietabel
 
 | Fysiologisch Mechanisme | Waargenomen Signaal | Directe Interventie / Handeling |
 | :--- | :--- | :--- |
@@ -70,11 +70,11 @@ Vanuit deze neurobiologische mechanismen is *aftercare* (nazorg) geen optioneel 
 | **Glycogeen- en Elektrolytentekort** | Trillen, duizeligheid, plotselinge emotionele labiliteit | Snelle koolhydraten en suikers toedienen (banaan, chocolade, druivensuiker), lauw water met elektrolyten/zout. |
 | **Oxytocinedaling & Kwetsbaarheid** | Huilerigheid, leegtegevoel, hechtingsangst | Fysieke nabijheid, knuffelen, huid-op-huidcontact, zachte stem en co-regulatie. |
 | **Hypofrontale Verwarring** | Desoriëntatie in tijd en ruimte, woordvindingsmoeite | Geen diepe analyses of discussies direct na het spel; verbaal aarden: *"Je bent veilig, we zijn rustig geland."* |
-| **Hormonale Rebound (24–48 uur later)** | Spierpijn, neerslachtigheid, sombere gedachten, leegte | Check-in via bericht of telefoon, rust inbouwen, normaliseren: *"Dit is de drop, het hoort bij de biochemie en gaat over."* |
+| **Hormonale Rebound (24-48 uur later)** | Spierpijn, neerslachtigheid, sombere gedachten, leegte | Check-in via bericht of telefoon, rust inbouwen, normaliseren: *"Dit is de drop, het hoort bij de biochemie en gaat over."* |
 
 ---
 
-## 4. De Drie Lagen van Aftercare
+## 4. De drie lagen van aftercare
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -97,7 +97,7 @@ Vanuit deze neurobiologische mechanismen is *aftercare* (nazorg) geen optioneel 
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Zelf-Aftercare voor Solisten & Feestdagen
+### Zelf-aftercare voor solisten en feestdagen
 Wie alleen speelt of na afloop geen partner in de buurt heeft (bijvoorbeeld bij solo-spel of na play party's rond feestdagen):
 - Zorg dat dekens, warme kleding en suikerrijk eten/drinken **vooraf** klaarstaan.
 - Neem een warme douche om de spierspanning te ontladen en de doorbloeding te stimuleren.
@@ -106,7 +106,7 @@ Wie alleen speelt of na afloop geen partner in de buurt heeft (bijvoorbeeld bij 
 
 ---
 
-## Verwijzingen & Samenhang
+## Verwijzingen en samenhang
 
 - [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) - *Waarom briefing vooraf en emotionele respons/aftercare achteraf het fysiologische verschil maken tussen gezonde integratie en trauma.*
 - [07: Subspace versus Freeze](07-subspace-versus-freeze.md) - *De kalibratie tussen gezonde overgave en traumatische shutdown.*

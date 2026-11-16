@@ -1,4 +1,4 @@
-# De West-Sessies: Module 4 — Slide Deck (Markdown voor Google Slides)
+# De West-Sessies: module 4 - slide deck (markdown voor Google Slides)
 
 > **Thema:** Chosen Family & De Eerste Stap naar Buiten  
 > **Host:** Hans West (Kink-Aware Coach)  
@@ -6,7 +6,7 @@
 
 ---
 
-## Slide 1: Titelslide & Inloop
+## Slide 1: titelslide & inloop
 
 **Titel:** De West-Sessies: Chosen Family & De Stap naar Buiten  
 **Ondertitel:** Van online theorie naar echte mensen in de echte wereld.  
@@ -22,7 +22,7 @@
 
 ---
 
-## Slide 2: Wat is een Munch (en wat vooral NIET)?
+## Slide 2: wat is een munch (en wat vooral niet)?
 
 | DE MYTHES & VOOROORDELEN | DE WERKELIJKHEID VAN EEN MUNCH |
 | :--- | :--- |
@@ -34,7 +34,7 @@
 
 ---
 
-## Slide 3: Je Sociale Batterij Managen (Zeker bij Neurodiversiteit)
+## Slide 3: je sociale batterij managen (zeker bij neurodiversiteit)
 
 **Drie Gouden Regels voor de Praktijk:**
 1. **De 45-Minuten Exit-Regel:** Spreek vooraf met jezelf af dat je na 45 minuten mag vertrekken zonder schuldgevoel. Langer blijven mag altijd, maar hoeft nooit.
@@ -45,7 +45,7 @@
 
 ---
 
-## Slide 4: Groene Vlaggen van Chosen Family
+## Slide 4: groene vlaggen van chosen family
 
 **Hoe herken je echte, veilige maatjes in de scene?**
 - **Voorspelbaarheid:** Ze doen wat ze zeggen. Als ze afspreken om koffie te drinken, komen ze opdagen. Geen warm-koud spelletjes.
@@ -57,7 +57,7 @@
 
 ---
 
-## Slide 5: Drie Gespreksopeners bij de Bar die Altijd Werken
+## Slide 5: drie gespreksopeners bij de bar die altijd werken
 
 **Geen ingewikkelde zinnen, gewoon nuchtere verbinding:**
 
@@ -73,7 +73,7 @@
 
 ---
 
-## Slide 6: Omgaan met 'Het Stille Oordeel' in de Scene
+## Slide 6: omgaan met 'het stille oordeel' in de scene
 
 **Laat je niet intimideren door kliekjes:**
 - **De Kliekjes-Dynamiek:** Sommige stamgasten klonteren samen. Dat is geen afwijzing van jou, maar hun eigen angst voor het onbekende.
@@ -84,7 +84,7 @@
 
 ---
 
-## Slide 7: Somatische Landing: Jouw Eigen Kompas
+## Slide 7: somatische landing: jouw eigen kompas
 
 **Afsluitende Aardingsoefening (3 Minuten):**
 1. **Voeten Stevig op de Grond:** Voel de aarde onder je. Jouw lichaam heeft een vaste, onbetwistbare plek in deze wereld.
@@ -96,7 +96,7 @@
 
 ---
 
-## Slide 8: Afsluiting van De West-Sessies
+## Slide 8: afsluiting van De West-Sessies
 
 **Jouw Oogst na 4 Modules:**
 - ✅ Een kalm zenuwstelsel en een kant-en-klaar self-aftercare noodprotocol.
