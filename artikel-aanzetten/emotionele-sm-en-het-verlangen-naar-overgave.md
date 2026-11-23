@@ -81,7 +81,7 @@ Emotionele S/M biedt de **radicale bevrijding van de bodem**:
 * [02: De Techniek-Betekenis Splitsing in Kink](../over-bdsm/02-techniek-versus-betekenis.md) - *Het fundament: fysieke handeling versus somatische beleving.*
 * [03: Neurochemie, Drop & Aftercare](../over-bdsm/03-neurochemie-drop-en-aftercare.md) - *De biochemische fysiologie van endorfinedaling en kwetsbaarheid.*
 * [De Emotie-Verdubbelaar en Affectlogica](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) - *Theoretisch kader over hoe emoties op elkaar reageren (schaamte over begeerte).*
-* [Gedachten bij SinQuest #79: Schaamte als Kompas](gedachten-en-overwegingen-bij-sinquest-79.md) - *Persoonlijk essay over schaamte in de tribe en de bevrijding van geuzennamen.*
+* [Gedachten bij SinQuest #79: Schaamte & Seks](../sinquest-artikelen/sq079-schaamte-en-seks.md) - *Persoonlijk essay over schaamte in de tribe en de bevrijding van geuzennamen.*
 
 ---
 

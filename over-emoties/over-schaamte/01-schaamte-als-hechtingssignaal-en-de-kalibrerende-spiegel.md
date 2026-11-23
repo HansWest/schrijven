@@ -69,6 +69,6 @@ Wie vastzit in deze chronische schaamte zoekt de oplossing vaak in nog meer aanp
 
 De heling vraagt om een wezenlijk ander pad:
 1. **De hechtingsruil ontmantelen:** Inzien dat de schaamte en het wantrouwen destijds briljante overlevingsstrategieën waren van een kind dat geen andere keuze had, maar dat de kindertijd voorbij is;
-2. **De kalibrerende spiegel internaliseren:** Leren om jezelf een dragende, niet-straffende ouderlijke aanwezigheid te bieden (zie ook de [Voedende Ouder / Good Enough Parent](../../integrative-relationship-coaching/de-interne-vergadertafel-en-de-voedende-ouder.md));
+2. **De kalibrerende spiegel internaliseren:** Leren om jezelf een dragende, niet-straffende ouderlijke aanwezigheid te bieden (zie ook de [Voedende Ouder / Good Enough Parent](../../over-therapie/de-interne-vergadertafel-en-de-voedende-ouder.md));
 3. **De eigen stam herkiezen:** Ontdekken wie je werkelijke *gekozen familie* en gelijkgestemden zijn. Mensen bij wie je de schaamteloze, speelse kanten van jezelf weer tevoorschijn mag laten komen zonder dat de relatiecontainer barst.
 

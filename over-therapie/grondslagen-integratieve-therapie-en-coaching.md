@@ -123,7 +123,7 @@ In **Integratieve Relatiecoaching (IRC)** combineer ik deze vier wegen direct in
 | :--- | :--- | :--- |
 | **Weg 1: Inzicht** | Begrijpen van elkaars triggers en hechtingsreacties uit het verleden. | [Het Tweelagenmodel](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md): onderscheid maken tussen het angstige Zelf en het oordelende Ik. |
 | **Weg 2: Nasocialisatie** | Elkaar de corrigerende hechtingservaring bieden die vroeger ontbrak. | Het uiten van primaire wensen in plaats van verwijten (*"Verwijt geeft verwijdering, wens geeft toenadering"*). |
-| **Weg 3: Belevingsactivatie** | Fysieke oefeningen, spel, grenzen voelen en somatic holding. | [De Oefengids voor Conflicthantering](over-conflicten/04-oefeningen-en-praktijkgids.md): boksring, kussens duwen, co-regulatie via oogcontact en aanraking. |
+| **Weg 3: Belevingsactivatie** | Fysieke oefeningen, spel, grenzen voelen en somatic holding. | [De Oefengids voor Conflicthantering](../integrative-relationship-coaching/over-conflicten/04-oefeningen-en-praktijkgids.md): boksring, kussens duwen, co-regulatie via oogcontact en aanraking. |
 | **Weg 4: Solidariteit** | Relatiestress ont-schuldigen en samen een dragend netwerk bouwen. | Herijken van monogame overtuigingen, opbouwen van een relationeel netwerk of gekozen familie ([Chosen Family](../chosen-family-app/README.md)). |
 
 ---

@@ -87,5 +87,5 @@ Iemand met een sterke eigen wil moet je misschien eerst overtuigen met steekhoud
 - **de Shazer, S. (1984).** *The death of resistance*. Family Process, 23(1), 11-17. [DOI: 10.1111/j.1545-5300.1984.00011.x](https://doi.org/10.1111/j.1545-5300.1984.00011.x) | [PubMed: 6714397](https://pubmed.ncbi.nlm.nih.gov/6714397/)
 - **Miller, W. R., & Rollnick, S. (2012).** *Motivational Interviewing: Helping People Change* (3rd ed.). New York: Guilford Press (ISBN: 978-1-60918-227-4).
 - **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Grondslagen van integratieve relatiecoaching](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md)
+  - [Grondslagen van integratieve relatiecoaching](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md)
   - [01: De crisis en de pijlers van gezonde mannelijkheid](../over-mannelijkheid-en-vrouwelijkheid/01-de-crisis-en-pijlers-van-gezonde-mannelijkheid.md)

@@ -154,4 +154,4 @@ Voor mij zit echte emotionele volwassenheid niet in het forceren van schaamteloo
 - **Ciompi, L. (1997).** *Die emotionalen Grundlagen des Denkens. Entwurf einer fraktalen Affektlogik*. Göttingen: Vandenhoeck & Ruprecht.
 - **Gottman, J. M., Katz, L. F., & Hooven, C. (1996).** *Meta-Emotion: How Families Cope with Emotional States*. Hillsdale, NJ: Lawrence Erlbaum Associates.
 - **Nathanson, D. L. (1992).** *Shame and Pride: Affect, Sex, and the Birth of the Self*. New York: W.W. Norton & Company.
-- **West, H. (Kennisbank).** [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) & [Grondslagen van Integratieve Relatiecoaching](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md).
+- **West, H. (Kennisbank).** [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) & [Grondslagen van Integratieve Relatiecoaching](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md).

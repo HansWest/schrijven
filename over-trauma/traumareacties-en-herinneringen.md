@@ -38,7 +38,7 @@ In de Integratieve Therapie van **Hilarion Petzold** (1993a, Band II) wordt het 
 2. **Het Model van Meervoudige, Tijd-Geëxtendeerde Belasting (Ereignisketten):**  
    Pathologie is zelden het gevolg van één enkel geïsoleerd drama, maar ontstaat meestal door *gebeurtenisketens* en langdurige cumulatieve micro-stressoren die de veerkracht van het zenuwstelsel langzaam uithollen.
 3. **Het Repressiemodel van Ziekte:**  
-   Wanneer expressieve impulsen van het organisme (primaire emoties zoals verdriet, woede of behoefte aan nabijheid) stelselmatig gewelddadig worden onderdrukt of *structureel geen relationele resonantie* ontvangen, slaat de fysiologische energie noodgedwongen naar binnen. Dit leidt tot chronische neuromusculaire kramp, somatisatie en dorsale shutdown (zie ook [Grondslagen van Integratieve Therapie](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md)).
+   Wanneer expressieve impulsen van het organisme (primaire emoties zoals verdriet, woede of behoefte aan nabijheid) stelselmatig gewelddadig worden onderdrukt of *structureel geen relationele resonantie* ontvangen, slaat de fysiologische energie noodgedwongen naar binnen. Dit leidt tot chronische neuromusculaire kramp, somatisatie en dorsale shutdown (zie ook [Grondslagen van Integratieve Therapie](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md)).
 
 ---
 
@@ -300,7 +300,7 @@ De herinnering verhuist van de spieren en de hersenstam naar het bibliotheekarch
 
 ## Verwijzingen en samenhang
 
-- [Grondslagen van Integratieve Therapie en Coaching (Petzold)](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De drie gezondheids- en ziektemodellen en de vier wegen van genezing.*
+- [Grondslagen van Integratieve Therapie en Coaching (Petzold)](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md) - *De drie gezondheids- en ziektemodellen en de vier wegen van genezing.*
 - [Het Zwarte Gat uit de Jeugd](zwarte-gat-uit-de-jeugd.md) - *De metafoor van kikkers, veren en de moeder-gans.*
 - [Hoe Stop je met Bedelen bij Kikkers?](hoe-stop-je-met-bedelen-bij-kikkers.md) - *Praktijkgids voor radicale acceptatie, emotionele ontwenning en somatische rouw.*
 - [01: Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) - *Het samenspel tussen het Zelf (paleocortex) en het Ik (wereldmodel-simulator).*

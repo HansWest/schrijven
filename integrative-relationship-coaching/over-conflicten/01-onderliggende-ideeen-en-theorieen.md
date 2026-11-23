@@ -75,7 +75,7 @@ Dat is precies wat de afloop van een transformatief conflict behelst:
 
 Wanneer een conflict ontspoort in schelden, kilte of eindeloze herhaling, falen zelden de communicatietechnieken. Wat faalt, is het besef op welke **laag** de strijd zich afspeelt.
 
-In het [tweelagenmodel van relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) onderscheid ik twee niveaus van het menselijk functioneren:
+In het [tweelagenmodel van relatiedynamieken](../../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) onderscheid ik twee niveaus van het menselijk functioneren:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐

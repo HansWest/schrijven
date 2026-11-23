@@ -63,7 +63,7 @@ Met BDSM en D/s is het precies hetzelfde. Het is een erotisch en somatisch ambac
 | **Gemoedstoestand** | Overprikkeld, prestatiedruk, bang om door de mand te vallen. | Gecentreerd, nieuwsgierig, rustige ademhaling (*calm authority*). |
 | **Effect op de onderdanige** | Verwarring, spanning in het hoofd, niet kunnen zakken. | Diepe overgave; het zenuwstelsel durft de controle los te laten. |
 
-Als je niet te veel tegelijk opstart, maak je het behapbaar voor jezelf. Je leert jouw eigen zenuwstelsel kennen onder spanning, en je geeft jouw onderdanige de ruimte om echt te zakken in de overgave. En vanuit die stevige, ontspannen basis kun je later stap voor stap verder bouwen aan een speelvloer die zowel veilig als zinderend spannend is.
+Als je niet te veel tegelijk opstart, maak je het behapbaar voor jezelf. Je leert jouw eigen zenuwstelsel kennen onder spanning, en je geeft jouw onderdanige de ruimte om echt te zakken in de overgave. En vanuit die stevige, ontspannen basis kun je later stap voor stap verder bouwen aan een dynamiek die zowel veilig als zinderend spannend is.
 
 ---
 
@@ -71,5 +71,5 @@ Als je niet te veel tegelijk opstart, maak je het behapbaar voor jezelf. Je leer
 
 - **SinQuest Podcast (Hans West, Miss V & Dirk):** SinQuest #215: *Eerste stappen in dominantie en de kunst van eenvoud* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
 - **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Oldskool BDSM-waarden en gebruiken](oldskool-bdsm-waarden-en-gebruiken.md) - *Over rust, protocol en de ethiek van verantwoordelijk leiderschap.*
-  - [BDSM als co-creatie: de twee driehoeken en de twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Over ontferming versus overgave op de speelvloer.*
+  - [Oldskool BDSM-waarden, rituelen en gebruiken](../over-bdsm/19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md) - *Over rust, protocol en de ethiek van verantwoordelijk leiderschap.*
+  - [BDSM als co-creatie: de twee driehoeken en de twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Over ontferming versus overgave in het spel.*

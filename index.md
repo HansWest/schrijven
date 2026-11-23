@@ -5,6 +5,12 @@ robots: noindex, nofollow
 
 Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en Relatie-vormen.
 
+> ### 🗺️ Navigatie & Dossiers
+> - **Kennisbanken (Theorie):** [ASS & Neurodiversiteit](#-ass-en-inspiratie-autisme-en-neurodiversiteit) · [Emoties & Trauma](#️-over-emoties-en-trauma) · [Hechting & Relaties](#-over-hechting-en-relaties) · [BDSM & Kink](#-over-bdsm-en-kink-aware-theorie) · [Polariteit](#️-mannelijkheid-vrouwelijkheid-en-polariteit) · [Polyamorie](#-over-polyamorie)
+> - **Begeleiding & Coaching:** [Therapie & Egostates](#️-over-therapie-en-egostates) · [Integrative Relationship Coaching](#-integrative-relationship-coaching)
+> - **Publicaties & Output:** [SinQuest Artikelen](#️-sinquest-artikelen-en-beschouwingen) · [Artikel-aanzetten & Essays](#-artikel-aanzetten-en-essays-in-ontwikkeling) · [Presentaties & Slides](#-presentatie-aanzetten) · [Massad Column](#️-massad-column-vragen-over-kink-en-seks)
+> - **Projecten & Concepten:** [Kinky Kerst](#-kinky-kerst-eenzaamheid) · [Chosen Family App](#concept-chosen-family-app-hoofdconcept) · [Cube of Consent](#-over-bdsm-en-kink-aware-theorie) · [Boek: Sprankel & Schrompel](#-boek-sprankel-en-schrompel)
+
 ---
 
 ## 🖋️ Massad column: vragen over kink en seks
@@ -19,6 +25,9 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *Theorieën, relationele dynamieken, praktische scripts en online sessies.*
 
 *   [**Kennisbank autisme en neurodiversiteit (hoofdoverzicht)**](over-autisme/README.md)
+    *   [Het brein, de beleving en de relatie: ASS en partners](over-autisme/het-brein-de-beleving-en-de-relatie-ass.md)
+    *   [Bestaat 'het autistische brein'? Mottron, Timimi en de wetenschappelijke consensus](over-autisme/01-bestaat-het-autistische-brein-mottron-en-de-wetenschap.md)
+    *   [Autisme, neurologie en kwetsbaarheid voor misbruik](over-autisme/03-autisme-neurologie-en-misbruikgevoeligheid.md)
     *   [**Prikkelverwerking en energiebalans bij autisme**](over-autisme/prikkelverwerking-en-energiebalans.md)
     *   [**Wat is masking? (De sociale schutkleur)**](over-autisme/wat-is-masking/README.md)
     *   [**Chosen family (ontmaskeren buiten de bloedband)**](over-autisme/chosen-family/README.md)
@@ -94,13 +103,24 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
     *   [01: Reactiepatronen, relationele specificiteit en earned security](over-hechting/01-reactiepatronen-en-relatietypen.md)
     *   [02: Neurobiologie, hersenstam en de 7 F's (incl. breuk en ontwenning)](over-hechting/02-neurobiologie-en-zenuwstelsel.md)
     *   [03: Het tweelagenmodel van hechting: affectieve kaart, strategie en koppelingsregels](over-hechting/03-tweelagenmodel-affect-en-strategie.md)
+    *   [04: Afwijzend-vermijdende hechting (DA): conflictdynamiek, blauwdruk en verborgen behoeften](over-hechting/04-dismissief-vermijdende-dynamiek-en-conflicten.md)
+    *   [05: Angstig-vermijdende hechting (FA): de sabotagecyclus, de verraadwond en de muur van pijn](over-hechting/05-angstig-vermijdende-sabotage-en-de-verraadwond.md)
 *   [**Kennisbank relaties (overzicht)**](over-relaties/README.md)
     *   [**Relatietheorieën en interactionele modellen**](over-relaties/relatietheorieen/README.md)
         *   [01: Het tweelagenmodel in relatiedynamieken: de dans van koppelingsregels](over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md)
         *   [02: Jullie relatie als levend lijf: structuur, beweging en gevoel](over-relaties/relatietheorieen/02-relatie-als-levend-lijf.md)
         *   [03: Uit de seksuele burnout: kaders, polariteit en het doorbreken van sleur](over-relaties/relatietheorieen/03-uit-de-seksuele-burnout-en-sleur.md)
+        *   [04: De erotische paradox: verlangen, afstand en het mysterie van de ander](over-relaties/relatietheorieen/04-de-erotische-paradox-en-het-mysterie-van-verlangen.md)
+        *   [05: Eenzaamheid, de grenzencultuur en de paradox van gezonde onveiligheid](over-relaties/relatietheorieen/05-eenzaamheid-grenzen-en-sociale-inbedding.md)
+        *   [06: Deugdethiek, natuurlijke normativiteit en menselijk floreren (Philippa Foot)](over-relaties/relatietheorieen/06-deugdethiek-en-menselijk-floreren-philippa-foot.md)
+        *   [07: Totale overheersing, het verlies van waarheid en relationeel gaslighting (Hannah Arendt)](over-relaties/relatietheorieen/07-totale-overheersing-en-het-verlies-van-werkelijkheid.md)
+    *   [**Relaties starten en daten (overzicht)**](over-relaties/over-relaties-starten/README.md)
+        *   [01: Tempo, hechting en het schaamte-kompas in dating](integrative-relationship-coaching/over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)
+        *   [02: Manipulatie, spiegelen en valse intimiteit](integrative-relationship-coaching/over-daten/02-manipulatie-spiegelen-en-valse-intimiteit.md)
+        *   [03: De kracht van de 'shy guy' in dating](integrative-relationship-coaching/over-daten/03-de-kracht-van-de-shy-guy-in-dating.md)
     *   [**Relaties beëindigen: breuk, verlies en verlaten worden**](over-relaties/over-relaties-beeindigen/README.md)
         *   [01: Verlaten worden: neurobiologie, rouw en waardigheid](over-relaties/over-relaties-beeindigen/01-verlaten-worden-en-relatiebreuk.md)
+        *   [02: Terug naar je ex of verder gaan: de afwijzend-vermijdende breukdynamiek](over-relaties/over-relaties-beeindigen/02-terug-naar-je-ex-of-verder-gaan.md)
 
 ---
 
@@ -117,6 +137,15 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**08: BDSM als cocreatie: de twee driehoeken en de twee O's**](over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)
 *   [**09: Het verbreken van D/s: de-collaring, rouw en herstructurering**](over-bdsm/09-het-verbreken-van-ds-de-collaring-en-rouw.md)
 *   [**10: Van vanilla naar kink: het speeltuinmodel en bewuste kaders**](over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md)
+*   [**11: De Kink-GPS: gezond verlangen versus aangeprate obsessie**](over-bdsm/11-de-kink-gps-gezond-verlangen-versus-obsessie.md)
+*   [**12: Op zoek naar je domina: valkuilen, verwachtingen en de match**](over-bdsm/12-op-zoek-naar-je-domina-valkuilen-en-de-match.md)
+*   [**13: Dominantie ontwikkelen: de driehoek in de praktijk**](over-bdsm/13-dominantie-ontwikkelen-de-driehoek-in-de-praktijk.md)
+*   [**14: Emotionele S/M en de zes hongers van de onderdanige**](over-bdsm/14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)
+*   [**15: Emotionele S/M: dominante holding en de dynamische boog**](over-bdsm/15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)
+*   [**16: Emotionele S/M: het polyvagale model, de multi-track equalizer en dynamische relatiestijlen**](over-bdsm/16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md)
+*   [**17: Subspace, hersenstamreflexen en de kantelmomenten in BDSM**](over-bdsm/17-subspace-traumasporen-en-de-kantelmomenten.md)
+*   [**18: Dating als Dominant: een aantrekkelijk profiel vanuit sub-perspectief**](over-bdsm/18-dating-als-dominant-het-aantrekkelijke-profiel-en-de-sub-blik.md)
+*   [**19: Oldskool BDSM-waarden, rituelen en gebruiken: wat bewaren we en wat laten we achter?**](over-bdsm/19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md)
 *   [**Ranz-bondage (Ranzatsuna-ryū): rauwe bondage, dynamiek en ontferming**](over-bdsm/ranz-bondage-ranzatsuna-ryu/README.md)
     *   [Naar Ranz-bondage: veiligheid versus fantasie en de ontsnappingsroute](over-bdsm/ranz-bondage-ranzatsuna-ryu/naar-ranz-bondage.md)
 *   [**Cube of Consent (overzicht)**](cube-of-consent/README.md)
@@ -129,8 +158,29 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ## 🤝 Integrative relationship coaching
 *Methodieken en werkbladen voor relatiebegeleiding.*
-*   [**Hechting als dynamische reactiepatronen en protocollen**](integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md)
-*   [**Relatiecoaching notities**](integrative-relationship-coaching/relatie-coaching.md)
+*   [**Kennisbank Integrative Relationship Coaching (overzicht)**](integrative-relationship-coaching/README.md)
+    *   [Hechting als dynamische reactiepatronen en protocollen](integrative-relationship-coaching/hechting-als-dynamische-reactiepatronen.md)
+    *   [Relatiecoaching notities: communicatie, ruimte en verandering](integrative-relationship-coaching/relatie-coaching.md)
+    *   [Oude liefde roest niet: de mythe ontmanteld](integrative-relationship-coaching/oude-liefde-roest-niet.md)
+    *   [Acht fundamentele relatieregels voor zelfbehoud en soevereiniteit](integrative-relationship-coaching/08-acht-fundamentele-relatieregels-voor-zelfbehoud.md)
+    *   [**Conflicthantering in (poly)liefdesrelaties (dossier)**](integrative-relationship-coaching/over-conflicten/README.md)
+        *   [01: Onderliggende ideeën en theorieën](integrative-relationship-coaching/over-conflicten/01-onderliggende-ideeen-en-theorieen.md)
+        *   [02: Overwegingen bij polyliefdesrelaties](integrative-relationship-coaching/over-conflicten/02-overwegingen-bij-polyliefdesrelaties.md)
+        *   [03: Werkvormen en gespreksprotocollen](integrative-relationship-coaching/over-conflicten/03-werkvormen-en-gespreksprotocollen.md)
+        *   [04: Oefeningen en praktijkgids](integrative-relationship-coaching/over-conflicten/04-oefeningen-en-praktijkgids.md)
+        *   [Conflicteren als werkwoord](integrative-relationship-coaching/over-conflicten/conflicteren-als-werkwoord.md)
+    *   [**Over daten: tempo, hechting en manipulatie (dossier)**](integrative-relationship-coaching/over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)
+        *   [01: Tempo, hechting en het schaamte-kompas](integrative-relationship-coaching/over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)
+        *   [02: Manipulatie, spiegelen en valse intimiteit](integrative-relationship-coaching/over-daten/02-manipulatie-spiegelen-en-valse-intimiteit.md)
+        *   [03: De kracht van de 'shy guy' in dating](integrative-relationship-coaching/over-daten/03-de-kracht-van-de-shy-guy-in-dating.md)
+
+---
+
+## 🛋️ Over therapie en egostates
+*Therapeutische werkmodellen, multimind, de interne dialoog en somatisch herstel.*
+*   [**Kennisbank therapie en egostates (overzicht)**](over-therapie/README.md)
+    *   [**Grondslagen van integratieve therapie en coaching (Petzold)**](over-therapie/grondslagen-integratieve-therapie-en-coaching.md)
+    *   [**De interne vergadertafel en het ontwikkelen van een voedende ouder**](over-therapie/de-interne-vergadertafel-en-de-voedende-ouder.md)
 
 ---
 
@@ -149,7 +199,11 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 ---
 
 ## 👥 Over polyamorie
-*   [**Veel-liefdes boekje**](over-polyamorie/veel_liefdes_boekje.md)
+*Theoretische concepten, netwerkdynamieken en afsprakenkaders voor meervoudige relaties.*
+*   [**Kennisbank polyamorie en meervoudige relaties (overzicht)**](over-polyamorie/README.md)
+    *   [Polyamorie in de relatie: dynamieken en spelregels](over-polyamorie/polyamorie-relatie.md)
+    *   [De rustige partner en de perverse prikkel in polyamorie](over-polyamorie/de-rustige-partner-en-de-perverse-prikkel.md)
+    *   [Veel-liefdes boekje (aantekeningen en bronnen)](over-polyamorie/veel_liefdes_boekje.md)
 
 ---
 
@@ -176,34 +230,55 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 
 ## 🎤 Presentatie-aanzetten
 *Voorzetten voor presentaties, workshops en lezingen (Google Slides).*
-*   [**Dominantie in de praktijk: rust, richting en de magie van het speelveld (Google Slides)**](presentatie-aanzetten/dominantie-voor-beginners/README.md)
-    *   [Slide deck: rust, richting en de magie van het speelveld](presentatie-aanzetten/dominantie-voor-beginners/slide-deck-dominantie-voor-beginners.md)
-*   [**Vrouwelijke submissie in de praktijk: de kracht van soevereine overgave (Google Slides)**](presentatie-aanzetten/vrouwelijke-submissie/README.md)
-    *   [Slide deck: vrouwelijke submissie in de praktijk](presentatie-aanzetten/vrouwelijke-submissie/slide-deck-vrouwelijke-submissie.md)
-    *   [Submissie en invloed in de relatie: de vijf pijlers van overgave](presentatie-aanzetten/vrouwelijke-submissie/submissie-en-invloed-in-de-relatie.md)
+*   [**Overzicht presentatie-aanzetten**](presentatie-aanzetten/README.md)
+    *   [**Dominantie in de praktijk: rust, richting en de magie van het speelveld (Google Slides)**](presentatie-aanzetten/dominantie-voor-beginners/README.md)
+        *   [Slide deck: rust, richting en de magie van het speelveld](presentatie-aanzetten/dominantie-voor-beginners/slide-deck-dominantie-voor-beginners.md)
+    *   [**Vrouwelijke submissie in de praktijk: de kracht van soevereine overgave (Google Slides)**](presentatie-aanzetten/vrouwelijke-submissie/README.md)
+        *   [Slide deck: vrouwelijke submissie in de praktijk](presentatie-aanzetten/vrouwelijke-submissie/slide-deck-vrouwelijke-submissie.md)
+        *   [Submissie en invloed in de relatie: de vijf pijlers van overgave](presentatie-aanzetten/vrouwelijke-submissie/submissie-en-invloed-in-de-relatie.md)
+    *   [**Oldskool BDSM: wat willen we bewaren - en wat laten we achter? (Google Slides)**](presentatie-aanzetten/oldskool-bdsm/README.md)
+        *   [Slide deck: wat willen we bewaren en wat laten we achter?](presentatie-aanzetten/oldskool-bdsm/slide-deck-oldskool-bdsm.md)
 
 ---
 
-## 💡 Artikel-aanzetten (in ontwikkeling)
-*Inhoudelijke aanzetten en centrale vraagstukken voor toekomstige artikelen.*
+## 🎙️ SinQuest artikelen en beschouwingen
+*Persoonlijke essays en nabeschouwingen bij de wekelijkse podcastafleveringen (Hans West, Dirk en Miss V).*
+*   [**Overzicht SinQuest artikelen**](sinquest-artikelen/README.md)
+    *   [SQ #021: Heilzame elementen uit BDSM, de container en consent](sinquest-artikelen/sq021-heilzame-elementen-bdsm.md)
+    *   [SQ #024: Consent, chaos en afstemming](sinquest-artikelen/sq024-consent-en-afstemming.md)
+    *   [SQ #034: Gebruik versus misbruik, hoge bomen en Dungeon Masters](sinquest-artikelen/sq034-gebruik-versus-misbruik-en-dungeon-masters.md)
+    *   [SQ #079: Schaamte & seks met Lilly en Ineya](sinquest-artikelen/sq079-schaamte-en-seks.md)
+    *   [SQ #085: Polariteit tussen man en vrouw zonder polarisatie](sinquest-artikelen/sq085-polariteit-zonder-polarisatie.md)
+    *   [SQ #095: Cuckoldry, de 'terugkeer-fantasie' en de schijnzekerheid van monogamie](sinquest-artikelen/sq095-cuckoldry-en-de-terugkeer-fantasie.md)
+    *   [SQ #100: Misfits, rubber als uniform en de valkuil van doorgeschoten autonomie](sinquest-artikelen/sq100-misfits-rubber-als-uniform-en-autonomie.md)
+    *   [SQ #209: Grensoverschrijdingen en relationeel consent](sinquest-artikelen/sq209-grensoverschrijdingen-en-relationeel-consent.md)
+    *   [SQ #215: Het minimalistische instrumentarium voor de beginnende dominant](sinquest-artikelen/sq215-minimalistisch-instrumentarium-dominant.md)
+    *   [SQ #237: Internetdaten, fantasy pushing en de copy-paste desillusie](sinquest-artikelen/sq237-internetdaten-fantasy-pushing-desillusie.md)
+    *   [SQ #243: De heilzame elementen van kink, transgenderzorg en pijn als zelfmedicatie](sinquest-artikelen/sq243-heilzame-elementen-kink-en-transgenderzorg.md)
+    *   [SQ #254: De illusie van 100% veiligheid, SSC versus RACK en de zware zak aardappelen](sinquest-artikelen/sq254-illusie-van-veiligheid-ssc-versus-rack.md)
+    *   [SQ #257: De toekomst van een one night stand, wel-denken en de kunst van het aanmodderen](sinquest-artikelen/sq257-toekomst-one-night-stand-en-wel-denken.md)
+    *   [SQ #259: Schaamte, geilheid en groepsdruk in de polycule](sinquest-artikelen/sq259-schaamte-en-geilheid-groepsdruk-polycule.md)
+    *   [SQ #260: Grenzen leren voelen in het moment](sinquest-artikelen/sq260-grenzen-leren-voelen-in-het-moment.md)
+    *   [SQ #265: Eerste schrikreacties bij kink, Hot-Maybe-Not en weerstand in coaching](sinquest-artikelen/sq265-schrikreacties-bij-kink-en-hot-maybe-not.md)
+    *   [SQ #266: Manieren om kink te ontdekken en Psychopathia Sexualis](sinquest-artikelen/sq266-manieren-om-kink-te-ontdekken.md)
+
+---
+
+## 💡 Artikel-aanzetten en essays (in ontwikkeling)
+*Zelfstandige concepten, essays en centrale vraagstukken voor toekomstige artikelen.*
 *   [**Overzicht artikel-aanzetten**](artikel-aanzetten/README.md)
     *   [Wat je absoluut niet moet doen in een relatie: de hiërarchie van relationele schade](artikel-aanzetten/wat-je-niet-moet-doen-in-een-relatie.md)
-    *   [Gedachten bij SinQuest #21: Heilzame elementen uit BDSM, de container en consent](artikel-aanzetten/sq021.md)
-    *   [Gedachten bij SinQuest #34: Gebruik versus misbruik, hoge bomen en Dungeon Masters](artikel-aanzetten/sq034.md)
-    *   [Gedachten bij SinQuest #79: Schaamte als kompas en de emotieverdubbelaar](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-79.md)
-    *   [Gedachten bij SinQuest #85: Polariteit tussen man en vrouw zonder polarisatie](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-85.md)
-    *   [Gedachten bij SinQuest #95: Cuckoldry, de terugkeer-fantasie en de schijnzekerheid van monogamie](artikel-aanzetten/sq095-gedachten-en-overwegingen-bij-sinquest-95.md)
-    *   [Gedachten bij SinQuest #100: Misfits, rubber als uniform en de valkuil van doorgeschoten autonomie](artikel-aanzetten/sq100-gedachten-en-overwegingen-bij-sinquest-100.md)
-    *   [Gedachten bij SinQuest #243: De heilzame elementen van kink, transgenderzorg en pijn als zelfmedicatie](artikel-aanzetten/sq243.md)
-    *   [Gedachten bij SinQuest #257: De toekomst van een one night stand en wel-denken](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-257.md)
-    *   [Gedachten bij SinQuest #259: Schaamte, geilheid en groepsdruk in de polycule](artikel-aanzetten/sq259-gedachten-en-overwegingen-bij-sinquest-259.md)
-    *   [Gedachten bij SinQuest #265: Schrikreacties bij kink, Hot-Maybe-Not en weerstand](artikel-aanzetten/sq265-gedachten-en-overwegingen-bij-sinquest-265.md)
-    *   [Gedachten bij SinQuest #266: Manieren om kink te ontdekken en Psychopathia Sexualis](artikel-aanzetten/sq_266-boek.md)
+    *   [5 tips tegen relatiesleur](artikel-aanzetten/5-tips-tegen-relatiesleur.md)
     *   [Neurodiverse intimiteit en de kunst van het verdragen: parallel play, sensorische prikkels en de lege batterij](artikel-aanzetten/neurodiverse-intimiteit-en-de-kunst-van-het-verdragen.md)
-    *   [Oldskool BDSM: wat willen we bewaren?](artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md)
+    *   [Voorbij de praattherapie: de vier wegen van Petzold](artikel-aanzetten/voorbij-de-praattherapie-de-vier-wegen-van-petzold.md)
     *   [De valkuil van troebele wederkerigheid](artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md)
     *   [De neocorticale valkuil: mensen begrijpen en hoe AI mensen begrijpt](artikel-aanzetten/de-neocorticale-valkuil-mensen-begrijpen-en-hoe-ai-mensen-begrijpt.md)
-    *   [Handreiking: Kink in zorg en familie](artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md)
+    *   [Handreiking: Kink & BDSM in de eerste- en tweedelijnszorg](artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md)
+    *   [De interne vergadertafel: wie zit er aan het stuur als ik het oneens ben met mezelf?](artikel-aanzetten/de-interne-vergadertafel.md)
+    *   [Het geschenk van de bodem: waarom we verlangen naar emotionele overgave](artikel-aanzetten/emotionele-sm-en-het-verlangen-naar-overgave.md)
+    *   [Polariteit of polarisatie? (Man-vrouwpolariteit)](artikel-aanzetten/polariteit-of-polarisatie.md)
+    *   [Geïsoleerd geoptimaliseerd: eenzaamheid, hyper-individualisme en de grenzencultuur](artikel-aanzetten/geisoleerd-geoptimaliseerd-eenzaamheid-en-de-grenzencultuur.md)
+    *   [De hopeloosheid-paradox: rust versus de dood](artikel-aanzetten/de-hopeloosheid-paradox-rust-versus-de-dood.md)
 
 ---
 

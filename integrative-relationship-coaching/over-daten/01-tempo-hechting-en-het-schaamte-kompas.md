@@ -43,5 +43,5 @@ Schaamte signaleert de vrees om buiten de groep te vallen. Als je merkt dat jouw
 - Pas ik me aan om maar mee te mogen doen?
 - Of durf ik kieskeurig te zijn en op zoek te gaan naar mensen bij wie mijn eigen ritme en eigenheid worden verwelkomd?
 
-*(Zie voor de volledige theoretische en maatschappelijke verdieping: [Gedachten en overwegingen bij SinQuest #79: Schaamte als Kompas, Pride en de Emotieverdubbelaar](../../artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-79.md).)*
+*(Zie voor de volledige theoretische en maatschappelijke verdieping: [Gedachten en overwegingen bij SinQuest #79: Schaamte & Seks](../../sinquest-artikelen/sq079-schaamte-en-seks.md).)*
 

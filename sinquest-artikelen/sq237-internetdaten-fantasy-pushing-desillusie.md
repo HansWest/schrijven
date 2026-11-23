@@ -102,5 +102,5 @@ Hoe kom je hieruit als je tóch online contact wilt leggen? Door radicaal te wei
 
 - **SinQuest Podcast (Hans West, Miss V & Dirk):** SinQuest #237: *Internetdaten en de datingdesillusie* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
 - **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Gedachten en overwegingen bij SinQuest #79: Schaamte als snelheidsmeter in het daten](gedachten-en-overwegingen-bij-sinquest-79.md) - *Over het belang van vertraging en het tempo-kompas.*
-  - [De valkuil van troebele wederkerigheid](de-valkuil-van-troebele-wederkerigheid.md) - *Over de dynamiek van transactiedenken en contactarmoede.*
+  - [Gedachten en overwegingen bij SinQuest #79: Schaamte & Seks](sq079-schaamte-en-seks.md) - *Over het belang van vertraging en het tempo-kompas.*
+  - [De valkuil van troebele wederkerigheid](../artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md) - *Over de dynamiek van transactiedenken en contactarmoede.*

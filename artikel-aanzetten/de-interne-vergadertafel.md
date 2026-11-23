@@ -91,8 +91,8 @@ In het artikel werk ik de concrete methodiek uit waarmee lezers en professionals
 
 ## 6. Verbindingen binnen de kennisbank
 
-- [Theoretisch Fundament: De Interne Vergadertafel en de Voedende Ouder](../integrative-relationship-coaching/de-interne-vergadertafel-en-de-voedende-ouder.md) - *De volledige uitwerking van het multimind-concept, de archetypen, de schaduwzijde en casuïstiek.*
-- [Grondslagen van Integratieve Therapie (Petzold)](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *Over meervoudige belasting, repressie en de vier wegen van genezing.*
+- [Theoretisch Fundament: De Interne Vergadertafel en de Voedende Ouder](../over-therapie/de-interne-vergadertafel-en-de-voedende-ouder.md) - *De volledige uitwerking van het multimind-concept, de archetypen, de schaduwzijde en casuïstiek.*
+- [Grondslagen van Integratieve Therapie (Petzold)](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md) - *Over meervoudige belasting, repressie en de vier wegen van genezing.*
 - [De Emotie-Verdubbelaar en Affectlogica](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) - *Hoe secundaire emoties (schuld over woede, schaamte over angst) de vergadertafel gijzelen.*
 - [Het Tweelagenmodel in Relatiedynamieken](../over-relaties/relatietheorieen/01-het-tweelagenmodel-in-relatiedynamieken.md) - *Het Zelf (paleocortex/hersenstam) versus het Ik (neocortex simulator).*
 

@@ -4,4 +4,4 @@ Werkmap voor een mogelijk boek over tijd, levensenergie, keuzes en omgaan met wa
 
 ## Manuscript
 
-- [Inleiding](inleiding.md)
+- [Inleiding](inleiding2.md)

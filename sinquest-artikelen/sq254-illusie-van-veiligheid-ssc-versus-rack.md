@@ -111,6 +111,6 @@ De kunst van kink is dan ook niet om het risico krampachtig naar nul te drukken 
 
 - **SinQuest Podcast (Hans West, Miss V & Dirk):** SinQuest #254: *Veiligheid, RACK en risicobewustzijn* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
 - **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Oldskool BDSM-waarden en gebruiken](oldskool-bdsm-waarden-en-gebruiken.md) - *Over SSC, RACK en de ethiek van verantwoordelijk leiderschap.*
+  - [Oldskool BDSM-waarden, rituelen en gebruiken](../over-bdsm/19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md) - *Over SSC, RACK en de ethiek van verantwoordelijk leiderschap.*
   - [Cube of Consent](../cube-of-consent/README.md) - *Kader voor risico-communicatie en afstemming.*
   - [BDSM als co-creatie: de twee driehoeken en de twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Over actieve overgave en ontferming.*

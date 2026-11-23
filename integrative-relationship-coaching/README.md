@@ -15,8 +15,8 @@ Binnen **Integrative Relationship Coaching (IRC)** combineer ik de existentiële
 
 ## Overzicht van documenten
 
-1. [**Grondslagen van integratieve therapie en coaching (Petzold)**](00-grondslagen-integratieve-therapie-en-coaching.md)  
-   *De theoretische en klinische fundering: Petzolds drie ziektemodellen (stimulatie-pathologie, meervoudige tijd-geëxtendeerde belasting, repressiemodel) en de Vier Wegen van Genezing en Bevordering (inzicht, nasocialisatie, belevingsactivatie en solidariteit) toegepast op relaties.*
+1. [**Grondslagen van integratieve therapie en coaching (Petzold)**](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md)  
+   *De theoretische en klinische fundering (zie kennisbank [Over therapie](../over-therapie/README.md)): Petzolds drie ziektemodellen (stimulatie-pathologie, meervoudige tijd-geëxtendeerde belasting, repressiemodel) en de Vier Wegen van Genezing en Bevordering (inzicht, nasocialisatie, belevingsactivatie en solidariteit) toegepast op relaties.*
 
 2. [**Relatiecoaching: communicatie, ruimte en verandering**](relatie-coaching.md)  
    *De praktische gids: emotioneel efficiënte communicatie ("Verwijt geeft verwijdering, wens geeft toenadering"), de drie soorten gesprekken (luisteren, meedenken of oplossen), voorafgaande vergeving, het herijken van monogame overtuigingen en het herkennen van relationele rode en groene vlaggen.*
@@ -40,8 +40,8 @@ Binnen **Integrative Relationship Coaching (IRC)** combineer ik de existentiële
    - [02: Manipulatie, kameleon-spiegelen en valse intimiteit](over-daten/02-manipulatie-spiegelen-en-valse-intimiteit.md) - *De gevaren van love bombing, mirror-matching, het forceren van vroege kwetsbaarheid en de biologische functie van smalltalk.*
    - [03: De kracht van de 'shy guy' in dating](over-daten/03-de-kracht-van-de-shy-guy-in-dating.md) - *Waarom schuchterheid en ongepolijste profielen vaak duiden op betere, veiligere partners.*
 
-7. [**De interne vergadertafel en het ontwikkelen van een voedende ouder**](de-interne-vergadertafel-en-de-voedende-ouder.md)  
-   *Theoretisch fundament en praktijkgids voor de interne dialoog: Ornsteins multimind-brein, egostates, gestolde ontwikkeling, het bodemloze zwarte gat, de schaduwzijde (de verslaafde en ons beestje) en het installeren van Winnicotts Good Enough Parent en de Voorzitter.*
+7. [**De interne vergadertafel en het ontwikkelen van een voedende ouder**](../over-therapie/de-interne-vergadertafel-en-de-voedende-ouder.md)  
+   *Theoretisch fundament en praktijkgids voor de interne dialoog (zie dossier [Over therapie](../over-therapie/README.md)): Ornsteins multimind-brein, egostates, gestolde ontwikkeling, het bodemloze zwarte gat, de schaduwzijde (de verslaafde en ons beestje) en het installeren van Winnicotts Good Enough Parent en de Voorzitter.*
 
 8. [**Acht fundamentele relatieregels voor zelfbehoud en soevereiniteit**](08-acht-fundamentele-relatieregels-voor-zelfbehoud.md)  
    *Nuchtere gedragsregels om emotioneel over-investeren te stoppen, vage beloftes te ontmaskeren en je eigen grenzen te bewaken.*

@@ -9,7 +9,7 @@
 
 Wanneer een ervaren of zoekende onderdanige (submissive) over datingsites of community-platforms scrolt, stuit zij of hij vrijwel altijd op een zee van dezelfde oppervlakkige clichés: profielen vol stoere eisen, dreigende taal, ellenlange lijsten met handelingen en foto's van leren zwepen.
 
-Wat een doordachte onderdanige werkelijk zoekt, is geen wandelend fetisj-menu, maar een **mens met visie, rust en richting**:
+Wat een doordachte onderdanige werkelijk zoekt, is geen wandelend fetish-menu, maar een **mens met visie, rust en richting**:
 - **Oprecht, bedachtzaam en reflectief:** Een schrijfstijl die getuigt van zelfkennis, kalmte en emotionele volwassenheid;
 - **De gedeelde zoektocht:** Een Dominant die niet simpelweg diens eigen fantasieën projecteert op een willekeurige tegenspeler, maar zoekt naar een individueel, coherent en gezamenlijk pad;
 - **Helderheid over de relationele bedding:** Duidelijkheid over hoe de dynamiek past in het echte leven (bijvoorbeeld een open polyamoureuze leefstijl, een gezonde primaire relatie, of de verhouding tussen 24/7 D/s, TPE en liefde).
@@ -48,7 +48,7 @@ Een concrete gespreksopener (zoals: *"Als jij je prettig voelt bij een rustige, 
 ## 3. Wat een profiel direct degradeert (rode vlaggen)
 
 - **Insta-Dom gedrag:** Eisen dat iemand je vanaf het allereerste bericht met *"Sir"* of *"Meester"* aanspreekt, of direct om gehoorzaamheid vragen vóórdat er enig vertrouwen is opgebouwd;
-- **Het kille fetisj-menu:** Een profiel dat louter een afvinklijst van fysieke handelingen is zonder persoonlijke stem of visie;
+- **Het kille fetish-menu:** Een profiel dat louter een afvinklijst van fysieke handelingen is zonder persoonlijke stem of visie;
 - **Cynisme en klagen:** Zinnen vol frustratie over *"nep-subs"* of *"tijdverspillers"*. Cynisme verraadt onzekerheid en bitterheid, geen ontspannen dominantie.
 
 ---

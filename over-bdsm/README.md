@@ -72,6 +72,9 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 18. [**18: Dating als Dominant: een aantrekkelijk profiel vanuit sub-perspectief**](18-dating-als-dominant-het-aantrekkelijke-profiel-en-de-sub-blik.md)  
     *Waar een betrouwbaar profiel van een Dominant aan moet voldoen: rust, richting en zelfbeheersing ('calm dominance'), wederkerigheid versus de Insta-Dom, en de uitnodigende dialoog.*
 
+19. [**19: Oldskool BDSM-waarden, rituelen en gebruiken: wat bewaren we en wat laten we achter?**](19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md)  
+    *Historische voorzichtigheid rondom de 'Old Guard', de hanky code als conversatiestarter (geen consent), de Twee O's (Overgave ontmoet Ontferming), rituelen als zenuwstelsel-bedding, contracten als praatinstrument, en het driekolommenmodel (behouden, aanpassen, loslaten).*
+
 ---
 
 ## Dossiers en verdiepende stromingen

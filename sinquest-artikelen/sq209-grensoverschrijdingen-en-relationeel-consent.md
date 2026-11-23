@@ -80,4 +80,4 @@ Zodra een van deze drie pijlers ontbreekt, is een 'ja' niets meer dan een holle 
 - **Kennisbank Kink-Aware Coach (Hans West):**
   - [Cube of Consent](../cube-of-consent/README.md) - *Kader voor relationele afstemming, intenties en multidimensionaal consent.*
   - [De Emotieverdubbelaar: Affectlogica en escalerend denken](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) - *Hoe secundaire zelfverwijten het trauma na manipulatie verdiepen.*
-  - [De valkuil van troebele wederkerigheid](de-valkuil-van-troebele-wederkerigheid.md) - *Over het gevaar van transactiedenken en emotionele afpersing.*
+  - [De valkuil van troebele wederkerigheid](../artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md) - *Over het gevaar van transactiedenken en emotionele afpersing.*

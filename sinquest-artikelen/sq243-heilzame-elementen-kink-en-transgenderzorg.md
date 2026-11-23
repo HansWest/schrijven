@@ -138,6 +138,6 @@ En ook hier geldt: dit is uiteraard geen aanmoediging voor dominanten om te denk
 ---
 
 - **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Handreiking: Kink en BDSM in de eerste- en tweedelijnszorg](handreiking-eerste-en-tweedelijnszorg-kink.md) - *Over de diagnostische scheidslijn, disenfranchised grief en fysiologische drops.*
-  - [Voorbij de praattherapie: de vier wegen van Petzold](voorbij-de-praattherapie-de-vier-wegen-van-petzold.md) - *Waarom praten alleen niet heelt en lichaamsgerichte routes noodzakelijk zijn.*
+  - [Handreiking: Kink en BDSM in de eerste- en tweedelijnszorg](../artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md) - *Over de diagnostische scheidslijn, disenfranchised grief en fysiologische drops.*
+  - [Voorbij de praattherapie: de vier wegen van Petzold](../artikel-aanzetten/voorbij-de-praattherapie-de-vier-wegen-van-petzold.md) - *Waarom praten alleen niet heelt en lichaamsgerichte routes noodzakelijk zijn.*
   - [Cube of Consent](../cube-of-consent/README.md) - *Kader voor relationele afstemming, intenties en multidimensionaal consent.*

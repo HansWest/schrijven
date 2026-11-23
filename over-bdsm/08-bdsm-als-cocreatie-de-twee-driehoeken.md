@@ -180,4 +180,4 @@ Wederzijdse aanspreekbaarheid, radicale eerlijkheid over triggers en een onvoorw
 - [16: Emotionele S/M: Polyvagaal Model, Multi-Track Equalizer en Dynamische Relatiestijlen](16-emotionele-sm-polyvagaal-equalizer-en-relationele-stijlen.md) - *Het polyvagale kader en de resonantie tussen D/s-stijlen.*
 - [Cube of Consent: Assen en Machtsverschillen](../cube-of-consent/het-cube-of-consent-model.md) - *Informed consent en relationele veiligheid.*
 - [Kennisbank Trauma: Traumareacties en Bescherming](../over-trauma/traumareacties-en-herinneringen.md) - *Overlevingspatronen en het zenuwstelsel.*
-- [Oldskool BDSM Waarden en Gebruiken](../artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md) - *Rituelen, respect en vakmanschap in historisch perspectief.*
+- [19: Oldskool BDSM-waarden, rituelen en gebruiken](19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md) - *Rituelen, respect en vakmanschap in historisch perspectief.*

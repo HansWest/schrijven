@@ -55,7 +55,7 @@ Veel mensen in therapie of coaching lopen na verloop van tijd tegen een frustrer
 
 ## 4. Relevante bestaande stukken in de workspace
 
-- [Grondslagen van Integratieve Therapie en Coaching](../integrative-relationship-coaching/00-grondslagen-integratieve-therapie-en-coaching.md) - *De volledige theorie en literatuurverwijzingen van Petzold.*
+- [Grondslagen van Integratieve Therapie en Coaching](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md) - *De volledige theorie en literatuurverwijzingen van Petzold.*
 - [Wat is Trauma? Van 'Hier-en-Nu' naar 'Daar-en-Toen'](../over-trauma/traumareacties-en-herinneringen.md) - *De 7 manieren van herinneren en de fysiologische route van integratie.*
 - [Emotionele Voltooiing en Interventies](../over-emoties/emotionele-voltooiing-en-interventies.md) - *De ethologische analogie van de gier en de consummatorische eindhandeling.*
 - [De Neocorticale Valkuil: Mensen Begrijpen en Hoe AI Mensen Begrijpt](de-neocorticale-valkuil-mensen-begrijpen-en-hoe-ai-mensen-begrijpt.md) - *Waarom praten tegen het Ik het Zelf niet reguleert.*
