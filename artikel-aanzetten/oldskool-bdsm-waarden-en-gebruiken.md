@@ -121,7 +121,7 @@ Laat het publiek één gebruik kiezen dat zij willen bewaren of opnieuw vormgeve
 ### Eerste oriëntatie
 
 - [Handkerchief code - Wikipedia](https://en.wikipedia.org/wiki/Handkerchief_code) - bruikbaar als startpunt voor de algemene uitleg en verwijzingen, niet als enige historische bron. De pagina noemt meerdere concurrerende ontstaansverhalen en wijst erop dat er geen universele standaard voor de betekenissen is.
-- [Old Guard BDSM - Consent Culture](https://consentculture.community/glossary/old-guard-bdsm/) - hedendaagse community-uitleg van de term en bijbehorende protocollen; geen primaire historische bron.
+- Old Guard BDSM (Consent Culture glossarium, link niet meer actief) - hedendaagse community-uitleg van de term en bijbehorende protocollen; geen primaire historische bron.
 - [The Leather Archives & Museum](https://leatherarchives.org/about/) - archief en onderzoekscollectie voor leather-, BDSM- en kinkgeschiedenis; raadpleeg archiefmateriaal en vraag zo nodig de archivaris om relevante bronnen.
 - [A subculture with a paper trail - BDSM History](https://bdsm-history.com/) - secundaire historische website met een gedocumenteerde tijdlijn. De pagina over [naoorlogse leather-scènes](https://bdsm-history.com/eras/postwar) waarschuwt dat “Old Guard” en bijbehorende protocollen soms later op het verleden zijn geprojecteerd. Verifieer belangrijke beweringen in boeken, periodieken en archieven vóór publicatie.
 - [SSC and RACK - BDSM History](https://bdsm-history.com/topics/ssc-and-rack) - secundaire bespreking van de ontstaanscontext van consent-acroniemen; behandel de daarin genoemde data en interpretaties als te controleren claims.

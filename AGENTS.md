@@ -6,16 +6,25 @@
 
 ## 1. ABSOLUUT VERBOD OP HET HALLUCINEREN VAN LITERATUURVERWIJZINGEN EN BRONNEN
 
-> **DE AUTEUR VINDT HET EXTREEM ONPRETTIG EN ONACCEPTABEL WANNEER AI LITERATUURVERWIJZINGEN, PODCASTS, TITELS, AUTEURS, JAARTALLEN OF BRONCONTEXT GAAT VERZINNEN OF 'PLAUSIBEL INVULLEN'.**
+> **HET PRINCIPE IS ONWRIKBAAR: "Bullshit is gewoon bullshit als het niet waar is. Wetenschappelijke literatuur DIE BESTAAT! of helemaal NIKS als er niks is."**
+> **De auteur tolereert onder GEEN ENKELE VOORWAARDE dat een AI literatuurverwijzingen, podcasts, titels, auteurs, jaartallen, DOI's of web-URL's verzint, extrapoleert of 'plausibel invult'.**
 
-1. **NOOIT bronnen, afleveringstitels of metadata verzinnen:**
-   - Als een bron, boek, artikel, podcast, afleveringstitel of URL niet 100% geverifieerd is, mag je **NOOIT** een fictieve of aangenomen titel, ondertitel, omschrijving of referentie genereren.
-   - Verzin nóóit wat een aflevering heet of waar die precies over gaat als je de exacte bron niet hebt.
-2. **Wat te doen bij ontbrekende of onvolledige brongegevens:**
-   - **Vraag de auteur expliciet om de juiste link, titel of referentie**, OF:
-   - Markeer de bron expliciet en neutraal als nog te verifiëren: `[Bron / exacte titel nog te verifiëren door auteur: onderwerp XYZ]`.
-   - Voeg uitsluitend literatuurverwijzingen en bronnen toe die letterlijk door de auteur zijn aangedragen of die 100% historisch en wetenschappelijk geverifieerd zijn.
-3. **Nultolerantie:** Verzin nooit 'ter opvulling' een academisch of contextueel lijstje als je de feiten niet zeker weet. Geef altijd eerlijk aan wat bekend is en wat verificatie vereist.
+1. **Alleen wetenschappelijke literatuur die daadwerkelijk bestaat (of HELEMAAL NIETS):**
+   - Vraag jezelf altijd af: *Bestaat dit onderzoek of boek fysiek in de echte wereld?*
+   - Voeg uitsluitend wetenschappelijke literatuur toe die traceerbaar en verifieerbaar is via PubMed, DOI (doi.org), Library of Congress/WorldCat of een erkende academische uitgever.
+   - Is er voor een specifiek fenomeen, stelling of inzicht géén bestaande wetenschappelijke literatuur bekend of te verifiëren? **Voeg dan HELEMAAL NIETS toe.** Schrijf geen 'plausibel klinkende' artikeltitels of parallelle bronnen ter opvulling.
+2. **BEWIJSPLICHT VIA PAGINATITEL (Zero-Tolerance voor aannames op basis van statuscodes):**
+   - Een AI-agent mag een externe URL **NOOIT** als 'geverifieerd' presenteren of in een markdown-bestand opslaan zonder de letterlijke, server-side gerenderde HTML `<title>` te controleren en te kunnen tonen (bijv. `# 266 - SHORTS - "Ontdekken wat echt bij je past..."` of `Mating in Captivity | Esther Perel`).
+   - Een `HTTP 200` statuscode alleen is **geen enkel bewijs**: platforms zoals Spotify, YouTube en React/Single Page Apps sturen vaak een HTTP 200 terug terwijl ze een 'Page not found'-scherm tonen.
+   - Toont de server-side titel *"Page not found"*, *"Niet gevonden"* of een generieke fout? Dan is de URL **onbestaand en afgekeurd**.
+   - Kan de agent niet de exacte, kloppende inhoudelijke paginatitel van de doelpagina bewijzen? Dan mag er **GEEN link** geplaatst worden. Vermeld het werk dan uitsluitend als platte bibliografische tekst (Auteur, Jaartal, Titel) of vraag de auteur expliciet om de link.
+3. **Podcasts en community-bronnen:**
+   - Plaats voor podcasts (zoals SinQuest) **nooit op eigen initiatief een afleveringslink**.
+   - Vermeld afleveringen uitsluitend als platte tekst (bijv. `SinQuest #85: Polariteit tussen man en vrouw`), tenzij de auteur letterlijk zelf de geteste afleverings-URL aanlevert of deze via `scripts/verify_sources.py` met de exacte afleveringstitel is geverifieerd.
+   - Verzin nóóit afleveringstitels, ondertitels of gasten die niet letterlijk door de auteur zijn genoemd.
+4. **Automatische enforcement via `scripts/verify_sources.py`:**
+   - Na elke bewerking of toevoeging van bronnen dient `python3 scripts/verify_sources.py` uitgevoerd te worden. Dit script inspecteert de inhoud en ontmaskert 'zachte 404s'.
+   - De git pre-commit hook blokkeert automatisch commits met dode of ongevalideerde links.
 
 ---
 
@@ -43,6 +52,7 @@
    - Gebruik begrippen uit de community ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd.
    - **Gebruik 'onderdanige' of 'submissive' (NOOIT 'onderdaan'):** Gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub". Gebruik **nooit** het woord "onderdaan" (dat klinkt feodaal/politiek en is geen scènetaal).
    - **Gebruik 'fetish' (NOOIT 'fetisj'):** Schrijf fetish (en meervoud fetishes) altijd met `-sh`, zoals in het Engels en in de internationale BDSM/kink-community gebruikelijk is. Gebruik **nooit** de vernederlandste spelling 'fetisj' of 'fetisjen'.
+   - **Gebruik eerder 'in het spel' of 'in het BDSM-spel' (eerder dan 'op de speelvloer'):** Schrijf bij voorkeur *"in het spel"*, *"tijdens het spel"* of *"in het BDSM-spel"* in plaats van het meer theatrale of afstandelijke *"op de speelvloer"*. Dit houdt de taal intiem, natuurlijk en relationeel verankerd in de interactie tussen twee mensen, in plaats van een toneelpodium of evenementenlocatie.
 
 ---
 
@@ -74,3 +84,19 @@
    - **Gravitas en rustige autoriteit:** Schrijf vanuit de rustige zwaartekracht van een ervaren speelvloer-veteraan. De auteur spreekt niet als een jolige schoolmeester met verontschuldigende gezelligheid, maar vanuit een vanzelfsprekende, ontspannen *calm authority*.
    - **Minder afzetten tegen clichés, meer eigen zwaartekracht:** Blijf niet te lang hangen in wat het *niet* is (*"geen kasteelkelders"*, *"geen Fifty Shades"*), maar focus direct op wat het *wel* is: de fysiologische en erotische afstemming tussen twee zenuwstelsels.
    - **Vrijmoedig en ongecompliceerd over seks en geilheid:** Verlangen en geilheid zijn geen schuldige 'taboes' waar je omheen moet draaien of lollig over moet doen; het is de soevereine, legitieme brandstof voor overgave en leiderschap.
+9. **Rauwe somatische ontlading tussen haakjes:**
+   - Geen klinisch-beheerste theorie: breek door theoretische abstractie heen met de rauwe, ongefilterde fysieke reactie van het zenuwstelsel tussen haakjes (bijv. `(fucking scary!)`, `(FUCKING SCARY!)`, `(als mogelijk!)`). Laat de existentiële spanning voelbaar zijn.
+10. **Aardse directheid vóór modieuze of theatrale metaforen:**
+    - Schrap overdreven drama-woorden en modieuze AI-metaforen (geen *"de beige slaapkamer"*, maar *"de saaie slaapkamer"*; geen *"je libido vermoordt"*, maar *"je libido verkloot"*; geen *"jarenlang BDSM-contract"*, maar *"jarenlange BDSM-relatie"*; geen *"draperen"*, maar *"kleien (of dat nou de dominante of sub is)"*). Gebruik nuchtere, eerlijke spreektaal.
+11. **Milde zelfspot met de eigen naam en ontwapenende zelfrelativering:**
+    - Ontwapen de rol van 'alwetende expert' door humoristische zelfspraak waarin de auteur zichzelf bij naam noemt (bijv. `*"Kijk eens aan, daar heb je Hans weer die in paniek een compleet doemscenario in elkaar knutselt. Wat een creatieve onzin."*`), gevolgd door een droge knipoog naar de eigen feilbaarheid (`*(Al moet ik er natuurlijk bij zeggen dat ik die relativering zelf zelden nodig heb... LOL)*`).
+12. **Zintuiglijke, tastbare details van het echte lijf:**
+    - Breng lichamelijke processen fysiek in beeld met ongecensureerde fysiologie en concrete kleding (bijv. *"de onwillekeurige spierschokken en de heerlijke grimassen van het orgasme"*, *"alleen gekleed in een mannenshirt, of in een spijkerbroek, een oversized colbert van haar man"*).
+13. **Hapklare 'mondvoorraad' (letterlijke spreekkamer-scripts):**
+    - Sluit relationele theorie altijd af met het letterlijke zinnetje dat de lezer ter plekke hardop kan uitspreken (bijv. `*"Stop. Dit ging helemaal verkeerd. Maar wat ik eigenlijk had willen zeggen is..."*`).
+14. **Gesproken vertraging met herhaling en beletseltekens:**
+    - Gebruik ritmische herhaling met beletseltekens om geduld, rust of vertraging in een hechtingsproces hoorbaar te maken (bijv. `En het later nog een keer probeert... En nog een keer... En dan...`).
+15. **Aardse nuance vóór zwart-wit absolutisme:**
+    - Vermijd zwart-wit claims (*"altijd dissociatie"*, *"over tien jaar"*); nuanceer naar de echte praktijk (*"soms zelfs dissociatie"*, *"volgende week"*, *"ook al kan het visuele plaatje belangrijk zijn"*).
+16. **Natuurlijke inbedding van eigen tools en webapps:**
+    - Noem eigen ontwikkelde werkmodellen (Hot-Maybe-Not, Cube of Consent, De Interne Vergadertafel) laagdrempelig en direct bruikbaar voor de lezer (inclusief links naar de webapp waar relevant).

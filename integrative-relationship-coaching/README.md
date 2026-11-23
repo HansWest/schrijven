@@ -38,9 +38,13 @@ Binnen **Integrative Relationship Coaching (IRC)** combineer ik de existentiële
 6. [**Over daten: dossier en modellen**](over-daten/01-tempo-hechting-en-het-schaamte-kompas.md)  
    - [01: Tempo, hechting en het schaamte-kompas](over-daten/01-tempo-hechting-en-het-schaamte-kompas.md) - *Hoe je dates benadert vanuit een duurzaam zenuwstelseltempo en schaamte als snelheidsmeter.*
    - [02: Manipulatie, kameleon-spiegelen en valse intimiteit](over-daten/02-manipulatie-spiegelen-en-valse-intimiteit.md) - *De gevaren van love bombing, mirror-matching, het forceren van vroege kwetsbaarheid en de biologische functie van smalltalk.*
+   - [03: De kracht van de 'shy guy' in dating](over-daten/03-de-kracht-van-de-shy-guy-in-dating.md) - *Waarom schuchterheid en ongepolijste profielen vaak duiden op betere, veiligere partners.*
 
 7. [**De interne vergadertafel en het ontwikkelen van een voedende ouder**](de-interne-vergadertafel-en-de-voedende-ouder.md)  
    *Theoretisch fundament en praktijkgids voor de interne dialoog: Ornsteins multimind-brein, egostates, gestolde ontwikkeling, het bodemloze zwarte gat, de schaduwzijde (de verslaafde en ons beestje) en het installeren van Winnicotts Good Enough Parent en de Voorzitter.*
+
+8. [**Acht fundamentele relatieregels voor zelfbehoud en soevereiniteit**](08-acht-fundamentele-relatieregels-voor-zelfbehoud.md)  
+   *Nuchtere gedragsregels om emotioneel over-investeren te stoppen, vage beloftes te ontmaskeren en je eigen grenzen te bewaken.*
 
 ---
 

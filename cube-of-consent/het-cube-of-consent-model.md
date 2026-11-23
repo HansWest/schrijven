@@ -246,3 +246,10 @@ Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "n
 3. Bleven de drijfveer en degene voor wie het was zuiver uitgelijnd?
 4. Bleef het gezag binnen de afgesproken container?
 5. Welke ene formulering zou onze helderheid de volgende keer vergroten?
+
+---
+
+## Zie ook
+- [Relationeel consent: dynamiek, consent-krediet en de relationele time-warp](relational-consent.md) - *Over consent als 'replenishable good', fractal grenzen en de morele toets naar morgen.*
+- [Consent is een gesprek](consent-is-een-gesprek.md) - *Over verbale en non-verbale feedbackloops.*
+- [Relatiestatus, intenties en informed consent](relatie-status.md) - *Over transparantie en informed consent.*

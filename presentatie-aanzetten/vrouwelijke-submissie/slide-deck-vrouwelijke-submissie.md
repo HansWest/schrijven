@@ -295,16 +295,20 @@ Twee in elkaar grijpende cirkels in warme tinten:
 **Kop:** Waarom het staken van de machtsstrijd mannelijke toewijding wekt
 
 **Visueel:**  
-Een curve die laat zien: harde controle/kritiek leidt tot mannelijke terugtrekking of tegenaanval. Zachte overgave en vertrouwen leiden tot maximale mannelijke aanwezigheid, loyaliteit en beschermingsdrang.
+Een curve en overzicht van de vijf pijlers: harde controle/kritiek leidt tot mannelijke terugtrekking of tegenaanval. Zachte overgave en vertrouwen leiden tot maximale mannelijke aanwezigheid, loyaliteit en beschermingsdrang.
 
-**De dynamiek van invloed:**
-- **De machtsstrijd werkt averechts:** Wie voortdurend concurreert, corrigeert en controleert, activeert bij een man de verdedigingsstand. Hij sluit zijn hart of gaat in de clinch.
-- **Zachtheid is geen onderworpenheid:** Zachtheid is een uitnodiging aan zijn leiderschap.
-- **Het activeren van de hoeder:** Wanneer een vrouw niet vecht om de leiding maar ontspant in haar vrouwelijkheid, ontstaat er ruimte in zijn zenuwstelsel. De man hoeft zich niet meer te verdedigen.
-- **De biologische respons:** Vanuit die ontspanning ontwaakt zijn diepste evolutionaire impuls: haar beschermen, haar koesteren, de leiding nemen en een veilige rots voor haar zijn.
+**De vijf pijlers van invloed door overgave:**
+- **Respect:** De man erkennen als leider; geen energie verspillen aan een uitputtende machtsstrijd of zijn gezag ondermijnen.
+- **Vertrouwen:** Zijn oordeel als anker nemen; meningsverschillen delen als perspectief zonder zijn positie aan te vallen.
+- **Trots:** Inspelen op zijn gezonde behoefte om capabel, nodig en bewonderd te zijn door oprechte lof en bekrachtiging.
+- **Beschermend instinct:** Zijn beschermingsdrang en bezorgdheid serieus nemen en niet verwarren met controle of bemoeizucht.
+- **Vrede:** Het thuis als toevluchtsoord vormgeven waar hij zijn zware maatschappelijke 'harnas' kan afleggen en opladen.
+
+**De kernwetmatigheid:**
+- **Formele autoriteit vs. feitelijke invloed:** De man draagt de leiding, maar wie zijn hart heeft bezit de diepste invloed. Dwang kan niemand motiveren om met plezier genereus te zijn; overgave ontgrendelt zijn wil om haar gelukkig te maken.
 
 > **Sprekersnotities:**  
-> *"Hier stuiten we op een diepe relationele wetmatigheid die ik in mijn praktijk telkens weer bevestigd zie: de paradox van invloed. Veel vrouwen denken dat ze invloed uitoefenen door scherp te debatteren, te sturen en de touwtjes strak in handen te houden. Maar dwang en kritiek kunnen een man misschien dwingen tot uiterlijk gehoorzamen, ze kunnen nooit zijn hart openen. Niemand wordt met plezier genereus onder druk. Zodra jij echter de moed hebt om de machtsstrijd te staken en zacht te worden, gebeurt er iets magisch. Je haalt hem uit zijn pantser. Een man die zich gerespecteerd en vertrouwd voelt, wil bergen voor jou verzetten. Jouw overgave is de sleutel waarmee je zijn diepste toewijding ontgrendelt."*
+> *"Hier stuiten we op een diepe relationele wetmatigheid die ik in mijn praktijk telkens weer bevestigd zie: de paradox van invloed. Veel vrouwen denken dat ze invloed uitoefenen door scherp te debatteren, te sturen en de touwtjes strak in handen te houden. Maar dwang en kritiek kunnen een man hoogstens dwingen tot wrokige gehoorzaamheid; ze kunnen nooit zijn hart openen. Niemand wordt met plezier genereus onder druk. We zien hier vijf duidelijke pijlers: Respect, Vertrouwen, Trots, Beschermend instinct en Vrede. Zodra jij echter de moed hebt om de machtsstrijd te staken en zacht te worden, gebeurt er iets magisch: je haalt hem uit zijn pantser. Een man die zich gerespecteerd en vertrouwd voelt, wil bergen voor jou verzetten. Jouw overgave is de sleutel waarmee je zijn diepste toewijding ontgrendelt."*
 
 ---
 

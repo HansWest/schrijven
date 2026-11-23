@@ -39,3 +39,40 @@ Herstel hoeft niet altijd stilzitten of liggen te zijn. Soms helpt een eenvoudig
 Als interne signalen lastig te volgen zijn, kunnen externe hulpmiddelen een brug vormen: een agenda, timer, planbord, vaste pauze, water- of eetreminder, of een korte check-in met iemand die je vertrouwt. Dat zijn manieren om je omgeving passend in te richten, niet bewijzen dat je tekortschiet.
 
 Een gezamenlijke handleiding kan beschrijven welke signalen iemand zelf herkent, welke steun welkom is en welke taken ieder op zich neemt. Maak er een levend document van en zie het niet als garantie dat overbelasting nooit meer voorkomt.
+
+---
+
+## Sensory gating: waarom de automatische achtergrondfilter ontbreekt
+
+In de neurobiologie beschrijft **sensory gating** (vaak gemeten via de P50-auditieve respons) het vermogen van de thalamus en de cerebrale cortex om irrelevante zintuiglijke achtergrondruis automatisch weg te filteren.
+
+Bij een neurotypisch brein treedt na een eerste prikkel binnen 50 milliseconden een fysiologische remming op: hoor je twee identieke klikgeluiden vlak achter elkaar, dan dooft de reactie op de tweede klik grotendeels uit. Het brein beslist automatisch: *"dit ken ik al, dit is niet gevaarlijk, negeer het maar"*. Hierdoor hoort iemand op een verjaardagsfeestje moeiteloos het gesprek van de gesprekspartner zonder last te hebben van het geroezemoes, de tikkende klok, de brommende koelkast of de tl-buis.
+
+Bij autisme en ADHD werkt deze thalamocorticale filter fundamenteel anders:
+- **Geen automatische demping:** De P50-onderdrukking is verminderd of afwezig. Het brein behandelt het honderdste achtergrondgeluid met exact dezelfde urgentie als het eerste.
+- **Cognitieve rekenkracht als noodoplossing:** Om in een drukke ruimte toch te functioneren, moet de prefrontale cortex handmatig alle binnenkomende prikkels sorteren en onderdrukken. Dat kost gigantisch veel energie en verklaart waarom een ogenschijnlijk 'simpele' sociale bijeenkomst kan leiden tot verpletterende uitputting.
+
+---
+
+## Actief ontprikkelen versus stimmen: de kraan en het ventiel
+
+Er heerst vaak verwarring tussen *ontprikkelen* en *stimmen*:
+- **Ontprikkelen:** Het actief wegnemen van binnenkomende prikkels en eisen om de totale fysiologische arousal te laten dalen. *(De kraan dichtdraaien).*
+- **Stimmen (zelfstimulerend gedrag):** Het reguleren, afvoeren of juist activeren van het zenuwstelsel via ritmische bewegingen, geluid of tast. *(Het ventiel openzetten).*
+
+Stimmen kan ontzettend helpend zijn, maar het is niet automatisch hetzelfde als ontprikkelen:
+1. **Stimmen voegt prikkels toe:** Wiegen, fladderen, tikken of muziek luisteren voegt beweging, geluid of druk toe. Als je al zwaar overprikkeld bent, kan extra zintuiglijke input de emmer juist verder laten overlopen.
+2. **Stimmen haalt de bron niet weg:** Zolang je in een felle, lawaaierige ruimte blijft zitten, blijft de kraan wagenwijd openstaan.
+3. **De formule:** Pas wanneer de belasting laag genoeg is (de kraan is dichtgedraaid), kan het zenuwstelsel ontspannen. Vervolgens kan zacht, ritmisch stimmen helpen om resterende fysiologische spanning af te voeren.
+
+### De 7 stappen van actief ontprikkelen bij overprikkeling
+Wanneer het zenuwstelsel in oranje of rood schiet, helpt een nuchter, acuut protocol:
+
+1. **Input stoppen:** Ga direct weg uit de overprikkelende situatie. Zet schermen, muziek, tv en gesprekken uit. Stop met proberen "nog even door te zetten".
+2. **Restprikkels dempen:** Doe een noise-cancelling koptelefoon of oordoppen in (zonder muziek). Doe gordijnen dicht, dim het licht, zet binnen een zonnebril op of trek een capuchon over je hoofd.
+3. **Het lichaam laten dalen:** Adem rustig uit (uitademing langer dan inademing). Geef diepe druk (een verzwaringsdeken, strak inwikkelen, tegendruk geven tegen een muur) om de proprioceptie te aarden.
+4. **Rustige, enkelvoudige zintuiglijke input:** Voel een zachte stof, neem een warme douche of was je gezicht met koud water. Kies maximaal één rustgevende prikkel tegelijk.
+5. **Cognitief afschalen:** Stop met analyseren, verklaren of problemen oplossen. Zeg tegen jezelf: *"Ik ben overprikkeld, ik hoef nu helemaal niets"*. Zet een timer op 15 tot 30 minuten absolute rust.
+6. **Sociaal afschalen:** Stop met praten. Geen keuzes moeten maken, geen vragen beantwoorden. Gebruik desnoods een vast codewoord of -kaartje richting partners of huisgenoten: *"Ik ben aan het ontprikkelen, laat me met rust"*.
+7. **Hersteltijd inbouwen:** Plan na een intensieve situatie nooit direct een nieuwe taak. Laat het zenuwstelsel eerst volledig zakken naar groen. Bij een acute shutdown of meltdown geldt: alleen veiligheid, stilte en tijd.
+

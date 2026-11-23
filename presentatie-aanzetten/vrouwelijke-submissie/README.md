@@ -26,10 +26,12 @@ In deze 25-delige masterclass verkennen we de fysiologie van overgave, de zes em
    Het complete masterclass slide deck in Markdown-formaat (25 slides verdeeld over 5 modules). Elke slide bevat de visuele lay-out, kernboodschappen, tabellen, prikkelende one-liners en uitgebreide **sprekersnotities in de persoonlijke ik-stem** van Hans West (Kink-Aware Coach):
    - **Deel 1: De mythe & de kracht (herdefiniëring van overgave):** Waarom sterke vrouwen verlangen naar overgave, capitulatie versus soevereine overgave, slavinnentrots en de Driehoek van Onderdanigheid.
    - **Deel 2: De neurologie & het verlangen:** Het overvolle hoofd dat stil mag vallen, de neurochemische roes van endorfinen en oxytocine, de zes hongers van het zenuwstelsel, en het verschil tussen overgave en pleasen (*fawning*).
-   - **Deel 3: De dynamiek met de dominant:** De twee O's (Overgave ontmoet Ontferming), de paradox van invloed, groene versus rode vlaggen bij een partner, en het spel met speels verzet (*bratting & consensual non-consent*).
+   - **Deel 3: De dynamiek met de dominant:** De twee O's (Overgave ontmoet Ontferming), de paradox van invloed, de vijf pijlers van relationele overgave (respect, vertrouwen, trots, bescherming en vrede), groene versus rode vlaggen bij een partner, en het spel met speels verzet (*bratting & consensual non-consent*).
    - **Deel 4: Trauma-play, het ambacht & grenzen:** Trauma-play en helend spelen via dual awareness, het kantelmoment herkennen (de 10%-waakvlam), de dader-slachtoffer valkuil vermijden (RACK en gedeelde verantwoordelijkheid), je verlangens schaamteloos bezitten aan de keukentafel (Kink-GPS), en de Cube of Consent voor onderdanigen.
    - **Deel 5: Emotionele ontlading, landing & aftercare:** Tranen en tremors als fysiologische ontlading op de speelvloer, de biochemie van subdrop na 48 uur, aftercare en praise opeisen, en een zintuiglijk experiment voor thuis.
-2. [**create-google-slides.gs**](create-google-slides.gs)  
+2. [**submissie-en-invloed-in-de-relatie.md**](submissie-en-invloed-in-de-relatie.md)  
+   Thematisch essay over de paradox van invloed en de vijf pijlers van mannelijke toewijding en relationele overgave (respect, vertrouwen, trots, beschermend instinct en vrede als toevluchtsoord), inclusief vertaling van de keukentafel naar het BDSM-spel.
+3. [**create-google-slides.gs**](create-google-slides.gs)  
    Een kant-en-klaar Google Apps Script om deze complete 25-delige masterclass met één klik automatisch te genereren in Google Slides met professionele donkere nachtkleuren, contrastaccenten en alle sprekersnotities direct gekoppeld onder elke slide.
 
 ---

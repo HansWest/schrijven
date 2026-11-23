@@ -19,6 +19,13 @@ Het antwoord luidt: **Trauma is niet de heftigheid van de gebeurtenis, maar het 
 
 Trauma ontstaat wanneer een ervaring zó overweldigend is dat de fysiologische en emotionele verwerkingscapaciteit van het organisme bezwijkt, waardoor de herinnering niet netjes in het archief van het verleden kan worden opgeborgen, maar blijft rondspoken als een levende, actieve dreiging in het heden.
 
+### De wond, niet het wapen (Gabor Maté)
+Gabor Maté wijst er terecht op dat het woord *trauma* afkomstig is van het Griekse woord voor "wond". Het is niet het woord "mes", het woord "scalpel" of het woord "honkbalknuppel". Het gaat niet zozeer over wát het veroorzaakt heeft, maar over de wond die erdoor is ontstaan in het levende weefsel van het zenuwstelsel.
+
+De ernst van een wond is tweeledig bepaald:
+1. **De manier waarop de wond is ontstaan:** Een pijnlijke wond van een scalpel maakt een wezenlijk andere wond dan het wilde uithalen met een jachtmes.
+2. **De manier waarop de wond is verzorgd (vóór en na de inslag):** Bij trauma geldt verzorging nadrukkelijk ook *tevoren*. Wanneer je weet dat er iets ingrijpends kan gebeuren en er wordt gevraagd naar de gevoelens die je daarbij hebt - metaforisch gezegd: als er van tevoren goed is ontsmet en nadien vakkundig is gehecht en verbonden - dan ontstaat er aanzienlijk minder schade door exact dezelfde wond. Een wond die na afloop is verzorgd door een goedbedoelende ouder zonder kennis van zaken geeft een heel andere genezing dan een goede verzorging in het ziekenhuis.
+
 ### Het etiologische kader van Hilarion Petzold: de drie bronnen van ziekte
 In de Integratieve Therapie van **Hilarion Petzold** (1993a, Band II) wordt het ontstaan van trauma, hechtingswonden en psychosomatische klachten gevat in drie elkaar aanvullende gezondheids- en ziektemodellen:
 

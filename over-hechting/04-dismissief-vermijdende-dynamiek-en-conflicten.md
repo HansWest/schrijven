@@ -105,3 +105,33 @@ Als partner of begeleider bereik je een afwijzend-vermijdend persoon (DA) **nooi
    Merk op wat ze doen (*acts of service*: auto gerepareerd, boodschappen gehaald, klusjes gedaan) en spreek daar expliciete waardering voor uit. Dit opent de deur naar emotionele zachtheid.
 4. **Accepteer 'time-outs' onder duidelijke afspraak:**  
    Als de DA overspoeld raakt, dwing hem niet aan tafel te blijven. Spreek af: *"We pauzeren nu, jij neemt even een uur voor jezelf, en om 20:30 praten we tien minuten rustig verder."* Dit voorkomt de paniekerige afwijzingsreflex.
+
+---
+
+## 6. De 8 fasen van de vermijdende cyclus (en de wetenschappelijke nuance)
+
+In de populaire psychologie en hechtingscoaching circuleert een herkenbaar 8-fasenmodel van de vermijdende cyclus:
+1. **Wanhopig verlangen naar een relatie:** De biologische behoefte aan hechting en verbinding meldt zich;
+2. **De wittebroodsweken en verlichting:** Iemand vinden brengt de roze wolk (*"eindelijk zijn al mijn problemen opgelost"*);
+3. **De trigger:** Zodra intimiteit en afhankelijkheid toenemen, ervaart het zenuwstelsel dit als acuut gevaar (verlies van autonomie of angst voor versmelting);
+4. **Deactiverende strategieën:** Het denkende brein zoekt redenen om te vluchten: hyper-focussen op kleine tekortkomingen van de partner, idealiseren van exen of afstand nemen;
+5. **De relatiebreuk:** De vermijdende partner hakt de knoop door en beëindigt de relatie;
+6. **De acute opluchting:** Door onderdrukking van stress (*distress suppression*) voelt de breuk in eerste instantie bevrijdend;
+7. **De sluimerende leegte:** Zodra de dreiging van intimiteit wegvalt, verdwijnt ook de deactivatie en meldt de basale eenzaamheid zich opnieuw;
+8. **Zelfbeklag en herhaling:** Zichzelf afvragen of er ooit een passende partner zal zijn, waarna de cyclus opnieuw start.
+
+### Wetenschappelijke nuance (Adult Attachment Theory)
+Onderzoek door psychologen als Mario Mikulincer en Phillip Shaver (voortbouwend op John Bowlby, Mary Ainsworth, Cindy Hazan en Phillip Shaver) bevestigt de onderliggende mechanismen (deactiverende strategieën en hechtingsonderdrukking), maar plaatst een belangrijke klinische nuance bij dit populaire model:
+- **Dismissing-Avoidant (DA):** Een zuivere DA ervaart zelden het wanhopige verlangen uit fase 1 of het zelfbeklag uit fase 8. Zij handhaven een hoge, stabiele zelfredzaamheid en overtuigen zichzelf er oprecht van dat ze niemand nodig hebben.
+- **Fearful-Avoidant (FA / gedesorganiseerd):** De intense slingerbeweging tussen wanhopig verlangen naar liefde enerzijds en plotselinge paniek en vluchten zodra het dichtbij komt anderzijds, is typisch voor *angstig-vermijdende* (fearful-avoidant) hechting.
+
+---
+
+## 7. Emotionele capaciteit versus chemie: de verdwijntruc ontmaskerd
+
+Chemische aantrekkingskracht kan een relatie razendsnel doen ontvlammen, maar emotionele capaciteit en compatibiliteit bepalen of een relatie op de lange termijn overeind blijft. Het stellen van duidelijke relationele eisen is geen 'veeleisendheid': een gebrek aan emotionele capaciteit breekt een partner na verloop van jaren onherroepelijk op.
+
+Drie verborgen valkuilen in de omgang met een ontwijkende partner:
+1. **Verwar chemie niet met emotionele beschikbaarheid:** Een spannende vonk compenseert nooit voor het chronische onvermogen om aanwezig te zijn wanneer het moeilijk wordt.
+2. **Conflictvermijding die overslaat in kille afwijzing:** Het zenuwstelsel van de vermijder ervaart elk meningsverschil als een existentiële aanval, waardoor een gewoon praktisch gesprek escaleert naar minachting of sneren.
+3. **De verdwijntruc is straf, geen emotieregulatie:** Ruimte nemen die uitmondt in twee dagen kille radiostilte is geen gezonde zelfregulatie, maar een relationele bestraffing (*stonewalling*). Een volwassen partner kan prima tien of twintig minuten nodig hebben om af te koelen, maar biedt daarbij altijd **hechtingsgeruststelling**: *"Ik ben nu te overprikkeld om helder na te denken en ga even een blokje om, maar onze verbinding is veilig en over een half uur ben ik terug om rustig verder te praten."*

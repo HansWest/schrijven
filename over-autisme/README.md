@@ -6,8 +6,13 @@
 
 ## Thematische mappen en onderdelen
 
-### 0. [Het brein, de beleving en de relatie: ASS en partners](het-brein-de-beleving-en-de-relatie-ass.md)
-*Fundamenteel overzicht van de neurobiologie (grijze/witte stof, lokale connectiviteit, amygdala), contextblindheid, Rejection Sensitivity Dysphoria (RSD), en praktische relationele afstemming.*
+### 0. Neurobiologie en wetenschappelijk debat
+- [Het brein, de beleving en de relatie: ASS en partners](het-brein-de-beleving-en-de-relatie-ass.md)  
+  *Fundamenteel overzicht van de neurobiologie (grijze/witte stof, lokale connectiviteit, amygdala), contextblindheid, Rejection Sensitivity Dysphoria (RSD), en praktische relationele afstemming.*
+- [Bestaat 'het autistische brein'? Mottron, Timimi en de wetenschappelijke consensus](01-bestaat-het-autistische-brein-mottron-en-de-wetenschap.md)  
+  *Over het ontbreken van een biologische biomarker, dalende effectgroottes, het spectrumdebat, prototypisch autisme als ontwikkelingsbifurcatie en de implicaties voor de praktijk.*
+- [Autisme, neurologie en kwetsbaarheid voor misbruik](03-autisme-neurologie-en-misbruikgevoeligheid.md)  
+  *Waarom de verhoogde kans op interpersoonlijk misbruik (44%) geen naïviteit is, maar geworteld is in haperende gevaardetectie, letterlijkheid en geconditioneerd pleasen.*
 
 ### 1. [Wat is masking? (`wat-is-masking/`)](wat-is-masking/README.md)
 *De sociale schutkleur, het onderdrukken van autistische expressie, en de prijs van de autistische kater.*

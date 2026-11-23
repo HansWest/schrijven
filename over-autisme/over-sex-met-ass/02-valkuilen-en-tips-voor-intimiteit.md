@@ -23,6 +23,16 @@ Wanneer de intense scène stopt, valt het kader weg.
 - Voor een neurotypische partner begint dan vaak spontaan knuffelen en babbelen.
 - Voor een autistische of neurodivergente partner kan de plotselinge overgang van "strak protocol" naar "ongestructureerd sociaal samenzijn" verwarring en overprikkeling oproepen.
 
+### D. De sensoriek van 'standaard' opstapjes (tongzoenen: opstap of goor?)
+In conventionele relationele scripts geldt tongzoenen als de vanzelfsprekende opstap naar seks. Voor iemand met tactiele of smaak-overgevoeligheid kan een natte tong echter direct omslaan in een sensorische ramp: klam, onvoorspelbaar en ronduit goor.
+- *Valkuil:* De partner voelt zich afgewezen als kussen wordt ontweken; de autistische partner forceert het uit plichtsbesef en haakt fysiek af.
+- *Remedie:* Onderzoek alternatieve aanlooproutes. Begin vanuit het lijf (stevige aanraking, massage), vanuit het hoofd (kinky kaders, rollen) of via affectieve nabijheid, zónder dat tongzoenen een verplichte tolpoort is.
+
+### E. De lege sociale batterij ('het dode vogeltje' op de bank)
+Wanneer iemand overdag alle energie heeft verbruikt aan maskeren op het werk of in de buitenwereld, is de accu bij thuiskomst leeg (-10%).
+- *Valkuil:* De thuisblijvende of wachtende partner verlangt verbinding en ervaart de apathische stilte als persoonlijke afwijzing (*"Voor je werk heb je alles over, voor mij niets"*).
+- *Remedie:* Bouw een overgangsbuffer in: eerst een half uur prikkelarme rust (douche, stilte, donkere kamer) vóórdat het relatieluik opengaat. Erken dat parallel play (samen in stilte gamen, lezen of muziek luisteren met een koptelefoon) ook een vorm van intieme verbinding is.
+
 ---
 
 ## 2. Praktijktips voor partners
@@ -42,3 +52,11 @@ Veel mensen met autisme hebben een hekel aan 'teder kriebelen' (voelt als elektr
 Maak de afspraak dat 'oranje' of 'geel' een neutraal verkeersbord is:
 - Geel betekent niet *"je doet het verkeerd"*, maar *"mijn zenuwstelsel heeft even een aanpassing in tempo of druk nodig"*.
 - Dit haalt de angst voor afwijzing bij beide partners weg.
+
+### Tip 4: ontdek parallel play als intieme ontmoeting
+Intimiteit hoeft niet altijd te bestaan uit oogcontact of diepe gesprekken. Naast elkaar op de bank een boek lezen, ieder met een koptelefoon gamen of in dezelfde kamer werken zonder sociale praatplicht geeft rust en fysiologische geborgenheid.
+
+---
+
+## Zie ook
+- [Neurodiverse intimiteit en de kunst van het verdragen](../../artikel-aanzetten/neurodiverse-intimiteit-en-de-kunst-van-het-verdragen.md) - *Uitgebreid essay over parallel play, sensorische intimiteit, taakcontrole in het huishouden en relationele lessen uit vriendschap.*

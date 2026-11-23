@@ -67,7 +67,7 @@ Bij keuzes kunnen verschillende stemmen door elkaar lopen:
 - **Kunnen:** wat je huidige energie, gezondheid en omstandigheden toelaten;
 - **Gunnen:** welke zorg, rust, steun of uitdaging je jezelf toestaat.
 
-Deze vragen kunnen helpen: *Welke eis staat er open? Wat merk ik aan mijn lichaam en energie? Kies ik hiervoor omdat het bij mijn waarden past, of alleen uit zelfkritiek? Welke rust of steun hoort erbij?* Soms past een inspanning die belangrijk voor je is, met voldoende herstel. Soms is bijstellen of stoppen de verstandige keuze. Pijn of uitputting is niet automatisch iets waar je doorheen moet om sterker te worden.
+Deze vragen kunnen helpen: *Welke eis staat er open? Wat merk ik aan mijn lichaam en energie? Kies ik hiervoor omdat het bij mijn waarden past, of alleen uit zelfkritiek? Welke rust of steun hoort erbij?* Soms past een inspanning die belangrijk voor je is, met voldoende herstel. Soms is bijstellen of stoppen de verstandige keuze. Pijn of uitputting is niet automatisch iets waar je doorheen moet om sterker te worden. Besef daarbij ook dat "moe" of vermoeidheid vaak pas voelbaar wordt op het moment dat je de (in)spanning loslaat: zolang de sympathische activering aanstaat, onderdrukt het brein de uitputting; pas bij decompressie en toegenomen veiligheid dient het biologische herstelsignaal zich aan (zie ook [Emoties Opmerkingen](emoties%20opmerkingen.md)).
 
 Emotionele draagkracht kan ook wisselen met slaap, gezondheid, stress en het tijdstip van de dag. Dag-nachtritmes beïnvloeden onder meer alertheid en energie; ze verklaren niet op zichzelf waarom je je voelt zoals je je voelt. Het kan wel helpen terugkerende patronen bij te houden voordat je jezelf verwijten maakt.
 

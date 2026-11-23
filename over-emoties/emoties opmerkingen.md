@@ -29,3 +29,11 @@ Hechtingsstijlen zijn geen statische karaktereigenschappen, maar adaptieve react
 Hoewel je een primaire hechtingsbasis hebt meegekregen uit je kindertijd, kunnen patronen doorheen het leven verschuiven, opnieuw ontstaan of worden aangeleerd door latere relaties en kwetsuren.
 Bovendien is hechting relationeel: de ene mens ontlokt heel andere reacties (vluchten, vechten, bevriezen of ontspannen) bij je dan de andere, ook al reis je altijd met je eigen basisgevoeligheden mee.
 
+## vermoeidheid en decompressie
+"Moe" of vermoeidheid is het gevoel dat je voelt als je de (in)spanning loslaat.
+
+- **De sympathische reserve:** Zolang je in een toestand van overleving, actie, prestatie of alertheid verkeert (de 'aan'-stand van het sympathische zenuwstelsel, gestuwd door adrenaline en cortisol), onderdrukt het brein het vermoeidheidssignaal. Je merkt de uitputting simpelweg niet omdat het biologische systeem nog volop bezig is met rennen, vechten of overeind blijven.
+- **De decompressie:** Pas wanneer de acute dreiging wijkt, de taak volbracht is of er weer relationele veiligheid ontstaat - op het moment dat je de (in)spanning daadwerkelijk loslaat - meldt de fysiologische rekening zich. De adrenaline zakt weg, het parasympathische zenuwstelsel schakelt in, en dán pas voel je hoe zwaar, leeg of uitgeput je eigenlijk bent.
+- **Geen falen, maar herstel:** Het plotselinge gevoel van verpletterende vermoeidheid na een periode van spanning is daarom geen teken van plotseling falen of zwakte. Het is het somatische bewijs van ontlading: het zenuwstelsel durft de kramp los te laten en maakt de noodzakelijke oversteek naar rust en regeneratie.
+
+

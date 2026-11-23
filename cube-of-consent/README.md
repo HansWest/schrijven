@@ -15,6 +15,8 @@ Het **Cube of Consent-model** (door mij ontwikkeld) breidt klassieke consent-the
 
 ## 📚 Artikelen en toepassingen
 
+- [**Relationeel consent: dynamiek, consent-krediet en de relationele time-warp**](relational-consent.md)  
+  *Waarom consent geen statisch vinkje is: over consent als 'replenishable good' (Joe Bean), consent seduction, fractal grenzen, de time-warp naar morgen en het groene safeword.*
 - [**Consent is een gesprek**](consent-is-een-gesprek.md)  
   *Over consent als positieve feedbackloop, eerlijkheid, grenzen, non-verbale signalen en machtsverschillen.*
 - [**Relatiestatus, intenties en informed consent**](relatie-status.md)  

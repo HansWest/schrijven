@@ -10,8 +10,8 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 ## 🖋️ Massad column: vragen over kink en seks
 *In deze twee-maandelijkse column beantwoord ik vragen over verlangens die buiten de norm vallen.*
 
-*   [**Voorstellen: Kink-Aware Coaching**](https://github.com/HansWest/massad/blob/main/working-on/01-260201_voorstellen.md)
-*   [**Gezond of aangepraat?**](https://github.com/HansWest/massad/blob/main/working-on/02-260205_gezond-of-aangepraat.md)
+*   **Voorstellen: Kink-Aware Coaching** *(Massad column)*
+*   **Gezond of aangepraat?** *(Massad column)*
 
 ---
 
@@ -117,8 +117,11 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**08: BDSM als cocreatie: de twee driehoeken en de twee O's**](over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md)
 *   [**09: Het verbreken van D/s: de-collaring, rouw en herstructurering**](over-bdsm/09-het-verbreken-van-ds-de-collaring-en-rouw.md)
 *   [**10: Van vanilla naar kink: het speeltuinmodel en bewuste kaders**](over-bdsm/10-van-vanilla-naar-kink-het-speeltuinmodel.md)
+*   [**Ranz-bondage (Ranzatsuna-ryū): rauwe bondage, dynamiek en ontferming**](over-bdsm/ranz-bondage-ranzatsuna-ryu/README.md)
+    *   [Naar Ranz-bondage: veiligheid versus fantasie en de ontsnappingsroute](over-bdsm/ranz-bondage-ranzatsuna-ryu/naar-ranz-bondage.md)
 *   [**Cube of Consent (overzicht)**](cube-of-consent/README.md)
     *   [**Het Cube of Consent-model (assen, 48 posities en diagnostiek)**](cube-of-consent/het-cube-of-consent-model.md)
+    *   [**Relationeel consent (consent-krediet en de relationele time-warp)**](cube-of-consent/relational-consent.md)
     *   [**Consent is een gesprek**](cube-of-consent/consent-is-een-gesprek.md)
     *   [**Relatiestatus, intenties & informed consent**](cube-of-consent/relatie-status.md)
 
@@ -177,12 +180,26 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
     *   [Slide deck: rust, richting en de magie van het speelveld](presentatie-aanzetten/dominantie-voor-beginners/slide-deck-dominantie-voor-beginners.md)
 *   [**Vrouwelijke submissie in de praktijk: de kracht van soevereine overgave (Google Slides)**](presentatie-aanzetten/vrouwelijke-submissie/README.md)
     *   [Slide deck: vrouwelijke submissie in de praktijk](presentatie-aanzetten/vrouwelijke-submissie/slide-deck-vrouwelijke-submissie.md)
+    *   [Submissie en invloed in de relatie: de vijf pijlers van overgave](presentatie-aanzetten/vrouwelijke-submissie/submissie-en-invloed-in-de-relatie.md)
 
 ---
 
 ## 💡 Artikel-aanzetten (in ontwikkeling)
 *Inhoudelijke aanzetten en centrale vraagstukken voor toekomstige artikelen.*
 *   [**Overzicht artikel-aanzetten**](artikel-aanzetten/README.md)
+    *   [Wat je absoluut niet moet doen in een relatie: de hiërarchie van relationele schade](artikel-aanzetten/wat-je-niet-moet-doen-in-een-relatie.md)
+    *   [Gedachten bij SinQuest #21: Heilzame elementen uit BDSM, de container en consent](artikel-aanzetten/sq021.md)
+    *   [Gedachten bij SinQuest #34: Gebruik versus misbruik, hoge bomen en Dungeon Masters](artikel-aanzetten/sq034.md)
+    *   [Gedachten bij SinQuest #79: Schaamte als kompas en de emotieverdubbelaar](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-79.md)
+    *   [Gedachten bij SinQuest #85: Polariteit tussen man en vrouw zonder polarisatie](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-85.md)
+    *   [Gedachten bij SinQuest #95: Cuckoldry, de terugkeer-fantasie en de schijnzekerheid van monogamie](artikel-aanzetten/sq095-gedachten-en-overwegingen-bij-sinquest-95.md)
+    *   [Gedachten bij SinQuest #100: Misfits, rubber als uniform en de valkuil van doorgeschoten autonomie](artikel-aanzetten/sq100-gedachten-en-overwegingen-bij-sinquest-100.md)
+    *   [Gedachten bij SinQuest #243: De heilzame elementen van kink, transgenderzorg en pijn als zelfmedicatie](artikel-aanzetten/sq243.md)
+    *   [Gedachten bij SinQuest #257: De toekomst van een one night stand en wel-denken](artikel-aanzetten/gedachten-en-overwegingen-bij-sinquest-257.md)
+    *   [Gedachten bij SinQuest #259: Schaamte, geilheid en groepsdruk in de polycule](artikel-aanzetten/sq259-gedachten-en-overwegingen-bij-sinquest-259.md)
+    *   [Gedachten bij SinQuest #265: Schrikreacties bij kink, Hot-Maybe-Not en weerstand](artikel-aanzetten/sq265-gedachten-en-overwegingen-bij-sinquest-265.md)
+    *   [Gedachten bij SinQuest #266: Manieren om kink te ontdekken en Psychopathia Sexualis](artikel-aanzetten/sq_266-boek.md)
+    *   [Neurodiverse intimiteit en de kunst van het verdragen: parallel play, sensorische prikkels en de lege batterij](artikel-aanzetten/neurodiverse-intimiteit-en-de-kunst-van-het-verdragen.md)
     *   [Oldskool BDSM: wat willen we bewaren?](artikel-aanzetten/oldskool-bdsm-waarden-en-gebruiken.md)
     *   [De valkuil van troebele wederkerigheid](artikel-aanzetten/de-valkuil-van-troebele-wederkerigheid.md)
     *   [De neocorticale valkuil: mensen begrijpen en hoe AI mensen begrijpt](artikel-aanzetten/de-neocorticale-valkuil-mensen-begrijpen-en-hoe-ai-mensen-begrijpt.md)

@@ -14,6 +14,11 @@ Deze moderne eenzaamheid manifesteert zich als:
 * Eindeloze gesprekken waarin beide partijen zenden, maar niemand werkelijk present is;
 * Zichtbaarheid op sociale media of in de maatschappij zonder dat iemand je werkelijk ziet en erkent.
 
+### Phubbing, het 'still face'-effect en ambigu verlies
+Een van de meest destructieve vormen van hedendaagse ontkoppeling aan de keukentafel is het chronisch staren op smartphones (*phubbing*):
+- **Het verwrongen gezicht:** Iemand die op een scherm zit te scrollen vertoont opvallend veel gelijkenis met iemand met gevorderde dementie of het klassieke *still face*-experiment van Edward Tronick: een uitdrukkingsloos, emotioneel bevroren gezicht dat niet beweegt, niet spiegelt en op geen enkele manier aansluit bij wat er in de directe fysieke omgeving gebeurt of gezegd wordt.
+- **Ambigu verlies (Ambiguous loss):** Voor de achterblijvende partner veroorzaakt dit wat gezinssocioloog Pauline Boss omschrijft als *ambigu verlies*. De ander is fysiek weliswaar lijfelijk in de kamer aanwezig, maar psychologisch en relationeel volkomen afwezig. Dit triggert dezelfde existentiële ontreddering als bij vermiste personen: er kan geen echt contact zijn, maar er is ook geen afscheid of rouwproces mogelijk. Het zenuwstelsel blijft permanent hangen in een kille, onbeantwoorde hechtingsleegte.
+
 Eenzaamheid is geen individueel luxeprobleem; het is een acuut publiek gezondheidsrisico dat biologisch even schadelijk is voor het zenuwstelsel en het cardiovasculaire systeem als zwaar roken of chronische stress.
 
 ---

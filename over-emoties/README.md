@@ -31,7 +31,7 @@ Binnen deze kennisbank kijk ik naar emoties voorbij moraliserende oordelen ("goe
 5. [**Emoties, leren en gedrag**](emoties-leren-en-gedrag.md)  
    *Conditionering, bekrachtiging en hoe automatische gedragspatronen inslijten en hervormd kunnen worden.*
 6. [**Emoties opmerkingen en aforismen**](emoties%20opmerkingen.md)  
-   *Kernachtige inzichten over schuld, boosheid, spijt, rouw en emotionele afhankelijkheid.*
+   *Kernachtige inzichten over schuld, boosheid, spijt, rouw, vermoeidheid en emotionele afhankelijkheid.*
 
 ---
 

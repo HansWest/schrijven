@@ -15,8 +15,9 @@
 - Rake volkstaal en nuchterheid: wees niet bang voor ongepolijste, directe bewoordingen ("empathieloze eikels" in plaats van afstandelijke metaforen zoals "empathieloze bulldozers").
 - Natuurlijk spreektaalritme: gebruik levendige spreektaalwendingen en nuanceerders ("namelijk dat hele vermogen", "weer wat meer leren omarmen", "in het brein, voornamelijk...") waardoor de tekst klinkt als een openhartig gesprek aan de keukentafel in plaats van een academisch essay.
 - Authentieke scènetaal en geuzennamen: noem specifieke begrippen uit de community en de eigen praktijk ("vanilla", "relatiecontainer", geuzennamen zoals "slut" en "queer") direct en ongegeneerd bij naam.
-- Gebruik 'onderdanige' of 'submissive' (nooit 'onderdaan'): gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub", nooit "onderdaan" (wat feodaal of staatsrechtelijk klinkt en niet past bij de authentieke taal van de speelvloer).
+- Gebruik 'onderdanige' of 'submissive' (nooit 'onderdaan'): gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub", nooit "onderdaan" (wat feodaal of staatsrechtelijk klinkt en niet past bij de authentieke taal van het spel).
 - Gebruik 'fetish' (nooit 'fetisj'): schrijf fetish (en meervoud fetishes) altijd met `-sh` zoals in het Engels en in de internationale BDSM/kink-scene gebruikelijk is; gebruik nooit de vernederlandste spelling 'fetisj' of 'fetisjen'.
+- **Gebruik eerder 'in het spel' of 'in het BDSM-spel' (eerder dan 'op de speelvloer'):** Schrijf bij voorkeur *"in het spel"*, *"tijdens het spel"* of *"in het BDSM-spel"* in plaats van het meer theatrale of afstandelijke *"op de speelvloer"*. Dit houdt de taal intiem, natuurlijk en relationeel verankerd in de interactie tussen twee mensen, in plaats van een toneelpodium of evenementenlocatie.
 - Markeer zelfbedachte kernwoorden alleen wanneer dat de betekenis helpt; houd hoofdletters en cursivering consequent.
 - Hanteer bij theoretische diepgang een gelaagde structuur (tweetrap): houd het hoofdverhaal verhalend, laagdrempelig en invoelbaar, en bundel vakjargon, academische kaders of literatuur in een expliciet verdiepend slotdeel.
 - Behoud de eigenzinnige toon, maar neem formuleringen, begrippen of voorbeelden uit eerdere stukken niet automatisch over. Maak per nieuw stuk nieuw taalwerk.
@@ -26,6 +27,15 @@
 - **Gravitas en rustige autoriteit (de ervaren gids):** schrijf vanuit de rustige zwaartekracht van een ervaren speelvloer-veteraan. De auteur spreekt niet als een jolige schoolmeester met verontschuldigende gezelligheid, maar vanuit een vanzelfsprekende, ontspannen *calm authority*.
 - **Eigen zwaartekracht vóór afzetten tegen clichés:** blijf niet te lang hangen in wat het *niet* is (*"geen kasteelkelders"*, *"geen Fifty Shades"*), maar focus direct op wat het *wel* is: de fysiologische en erotische afstemming tussen twee zenuwstelsels.
 - **Vrijmoedig en ongecompliceerd over seks en geilheid:** verlangen en geilheid zijn geen heikele zaken waar je omheen moet draaien of lollig over moet doen; het is de soevereine, legitieme brandstof voor overgave en leiderschap.
+- **Rauwe somatische ontlading tussen haakjes:** breek door theoretische abstractie heen met de rauwe, ongefilterde fysieke reactie van het zenuwstelsel tussen haakjes (bijv. `(fucking scary!)`, `(FUCKING SCARY!)`, `(als mogelijk!)`). Theorie is nooit steriel; laat voelen hoe spannend het in het echt is.
+- **Aardse directheid vóór modieuze of theatrale metaforen:** schrap overdreven drama-woorden en modieuze AI-metaforen (schrijf niet *"de beige slaapkamer"*, maar *"de saaie slaapkamer"*; niet *"je libido vermoordt"*, maar *"je libido verkloot"*; niet *"jarenlang BDSM-contract"*, maar *"jarenlange BDSM-relatie"*; niet *"draperen"*, maar *"kleien (of dat nou de dominante of sub is)"*).
+- **Milde zelfspot met de eigen naam en ontwapenende zelfrelativering:** ontwapen de rol van 'alwetende expert' door humoristische zelfspraak waarin de auteur zichzelf bij naam noemt (bijv. `*"Kijk eens aan, daar heb je Hans weer die in paniek een compleet doemscenario in elkaar knutselt. Wat een creatieve onzin."*`), gevolgd door een droge knipoog naar de eigen feilbaarheid (`*(Al moet ik er natuurlijk bij zeggen dat ik die relativering zelf zelden nodig heb... LOL)*`).
+- **Zintuiglijke, tastbare details van het echte lijf:** breng lichamelijke processen fysiek in beeld met ongecensureerde fysiologie en concrete kleding (bijv. *"de onwillekeurige spierschokken en de heerlijke grimassen van het orgasme"*, *"alleen gekleed in een mannenshirt, of in een spijkerbroek, een oversized colbert van haar man"*).
+- **Auditieve klemtoonsturing via cursivering:** cursivering fungeert als partituur voor de gesproken stem. Cursiveer doelgericht de woorden waar de klemtoon in een gesproken aflevering valt (bijv. `om de ander *geeft*`, `een *sociaal* weefsel`, `schaamte, en *vernedering*?`, `wat maakt jou *juicy*?`, `de *UnDO* bestaat niet`).
+- **Hapklare 'mondvoorraad' (letterlijke spreekkamer-scripts):** sluit relationele theorie af met het letterlijke, alledaagse zinnetje dat de lezer ter plekke kan uitspreken (bijv. `*"Stop. Dit ging helemaal verkeerd. Maar wat ik eigenlijk had willen zeggen is..."*`).
+- **Gesproken vertraging met herhaling en beletseltekens:** gebruik ritmische herhaling met beletseltekens om geduld, rust of vertraging in een hechtingsproces voelbaar te maken (bijv. `En het later nog een keer probeert... En nog een keer... En dan...`).
+- **Aardse nuance vóór zwart-wit absolutisme:** vermijd zwart-wit claims (*"altijd dissociatie"*, *"over tien jaar"*); nuanceer naar de echte praktijk (*"soms zelfs dissociatie"*, *"volgende week"*, *"ook al kan het visuele plaatje belangrijk zijn"*).
+- **Natuurlijke inbedding van eigen tools en webapps:** noem eigen ontwikkelde werkmodellen (Hot-Maybe-Not, Cube of Consent, De Interne Vergadertafel) laagdrempelig en direct bruikbaar voor de lezer (inclusief directe links naar webapps waar van toepassing).
 
 ## Afstemming vooraf (perspectief en taal)
 
@@ -35,10 +45,11 @@ Vraag de auteur vóór het schrijven of uitwerken van een nieuw artikel of blogp
 
 ## Bronnen en literatuurverwijzingen: absoluut verbod op hallucineren
 
-De auteur vindt het **extreem onprettig** wanneer literatuurverwijzingen, titels, auteurs, podcasts of broncontext worden gefantaseerd of 'plausibel ingevuld':
-- **Verzin nóóit titels, ondertitels, afleveringen of bronnen:** als een referentie niet 100% geverifieerd is, mag er geen fictieve titel of context worden verzonnen.
-- **Vraag bij twijfel of ontbrekende gegevens altijd om de juiste link/titel**, of markeer een verwijzing expliciet en neutraal: `[Bron / exacte titel nog te verifiëren door auteur: onderwerp XYZ]`.
-- Voeg uitsluitend literatuurverwijzingen toe die de auteur zelf aanlevert of die historisch/wetenschappelijk 100% vaststaan.
+Het principe is onwrikbaar: *"Bullshit is gewoon bullshit als het niet waar is. Wetenschappelijke literatuur DIE BESTAAT! of helemaal NIKS als er niks is."*
+- **Verzin nóóit titels, ondertitels, afleveringen, DOI's of web-URL's:** als een referentie niet 100% traceerbaar en verifieerbaar is via PubMed, geregistreerde DOI of academische uitgever, noem dan **helemaal niets**.
+- **Bewijsplicht via paginatitel (geen blind vertrouwen op HTTP statuscodes):** elke externe link die in een `.md`-bestand wordt geschreven móét vooraf via diepe content-inspectie (`python3 scripts/verify_sources.py`) zijn gecontroleerd. Een `HTTP 200` statuscode is géén bewijs (Spotify en React-apps sturen 200 bij een 'Page not found'-pagina). De server-side `<title>` moet daadwerkelijk het onderwerp bevestigen en mag geen foutpagina tonen. Kan de exacte paginatitel niet worden bewezen? Plaats dan **GEEN link**, maar uitsluitend platte bibliografische tekst (Auteur, Jaartal, Titel, Uitgever, ISBN).
+- **Geen gok-URL's:** reconstrueer nooit URL-paden of slugs uit het geheugen. Gebruik voor podcasts uitsluitend letterlijk door de auteur aangeleverde links of de geteste hoofdpagina op Spotify.
+- **Git pre-commit enforcement:** het script `scripts/verify_sources.py` controleert gewijzigde bestanden en breekt commits af als er dode of ongevalideerde links in staan.
 
 ## Stijl van een nieuw stukje bekijken
 

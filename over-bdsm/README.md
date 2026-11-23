@@ -69,6 +69,19 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
 17. [**17: Subspace, hersenstamreflexen en de kantelmomenten in BDSM**](17-subspace-traumasporen-en-de-kantelmomenten.md)  
     *Over de verwantschap tussen de roes van onderwerping en oude beschermingsreflexen van het zenuwstelsel; de vijf gezichten van subspace (Fight, Flight, Frenzy, Freeze & Fawn, Feign Death); dual awareness; de diagnostiek van het kantelmoment; en het empathisch kompas van de Dominant.*
 
+18. [**18: Dating als Dominant: een aantrekkelijk profiel vanuit sub-perspectief**](18-dating-als-dominant-het-aantrekkelijke-profiel-en-de-sub-blik.md)  
+    *Waar een betrouwbaar profiel van een Dominant aan moet voldoen: rust, richting en zelfbeheersing ('calm dominance'), wederkerigheid versus de Insta-Dom, en de uitnodigende dialoog.*
+
+---
+
+## Dossiers en verdiepende stromingen
+
+- [**Dossier: Dominantie en innerlijk leiderschap**](dominantie/README.md)  
+  *Over authentieke autoriteit, rust, protocollen en het meesterschap van de Dominant.*
+- [**Dossier: Ranz-bondage (Ranzatsuna-ryū)**](ranz-bondage-ranzatsuna-ryu/README.md)  
+  *Rauwe, niet-geometrische bondage ten dienste van het zenuwstelsel, de ontmoeting en fysiologische veiligheid.*
+  - [Naar Ranz-bondage: veiligheid versus fantasie en de noodzaak van de ontsnappingsroute](ranz-bondage-ranzatsuna-ryu/naar-ranz-bondage.md)
+
 ---
 
 ## Verbindingen in de workspace

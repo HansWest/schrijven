@@ -59,6 +59,13 @@ Wanneer de acute verliefdheidsstorm na enkele maanden tot een jaar luwt, verschu
 - De dopaminepieken maken plaats voor een stabiele stroom van **oxytocine** (vertrouwen, vertraging van de hartslag) en **endogene opioïden** (de lichaamseigen morfine);
 - Liefde voelt nu niet meer als een constante achtbaan of paniek, maar als een dragende bedding: *"Als ik naast jou lig, zakt mijn adem naar mijn buik en kan mijn lijf rusten."*
 
+### De fysiologie van tederheid: C-tactiele afferenten
+In de behaarde menselijke huid bevindt zich een specifiek zenuwnetwerk: de zogeheten **C-tactiele afferenten (CT-vezels)**, die in 1999 bij mensen werden ontdekt. Deze trage, ongemyeliniseerde zenuwvezels reageren niet op instrumentele druk of pijn, maar uitsluitend op een heel specifiek type zachte, affectieve streling:
+- **Optimale snelheid:** Een bewegingssnelheid tussen de 1 en 10 centimeter per seconde (met een fysiologisch optimum rond de 3 cm/s);
+- **Optimale temperatuur:** Circa 32 graden Celsius (exact de oppervlaktetemperatuur van een warme menselijke hand).
+
+Onderzoek (onder leiding van Ilona Croy en Håkan Olausson) toont aan dat moeders hun pasgeboren baby's instinctief met exact deze optimale snelheid en temperatuur strelen. De prikkeling van deze CT-vezels projecteert direct naar de posterieure insula (het centrum van interoceptie en emotionele gewaarwording), verlaagt acuut de hartslag en het cortisolniveau, verkort de opnameduur van premature baby's in het ziekenhuis en werkt zowel bij kinderen als bij volwassenen diep kalmerend op het zenuwstelsel. Tederheid is geen cultureel verzinsel, maar een biologisch ingebouwd kalmeringsmechanisme.
+
 ---
 
 ## 3. Nico Frijda en de wet van het gedeelde belang

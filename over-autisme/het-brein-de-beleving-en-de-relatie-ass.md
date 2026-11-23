@@ -100,6 +100,15 @@ Bij overprikkeling of overvraging raakt de amygdala overbelast. Omdat de prefron
 3. **Rust en containment bieden bij RSD:**
    * Bevestig eerst de hechtingsrelatie vóórdat je een praktisch punt aankaart: *"Ik hou van je en onze relatie is veilig, maar ik wil even iets praktisch afstemmen over de planning."*
 
+### Het koppel-werkoverleg: genieten van het kleine en wederzijdse teleurstelling voorkomen
+Mensen met ASS lijken voor de buitenwereld soms een meer introverte of 'kleinere' gevoelswereld te hebben, maar kunnen vanbinnen juist ont-zet-tend intens genieten van details die in de ogen van neurotypische partners triviaal of onbelangrijk lijken (een specifiek patroon, een mechanisme, een verzameling of een rustig ritueel).
+
+Voor een neurotypische partner kan die verwondering voor het kleine een verademing zijn en de gezamenlijke levenskwaliteit vergroten. Tegelijkertijd ontstaat er in drukke periodes vaak wederzijdse teleurstelling: de ND-partner merkt dat de ander niet enthousiast meegaat in die specifieke fascinaties, terwijl de NT-partner teleurgesteld raakt door een gebrek aan gedeelde emotionele resonantie rondom sociale gebeurtenissen.
+
+Besef dat hierin geen 'gelijk' of 'ongelijk' bestaat en dat dit geen defect is dat je kunt 'oplossen'. Het is een blijvend punt van aandachtige afstemming. Een praktisch hulpmiddel is het periodieke **koppel-werkoverleg** met twee vaste vragen:
+- *Wat zijn de kleine dingen waar jij de afgelopen week intens blij van werd?*
+- *Wat zijn de dingen waar jij trots op bent (bij jezelf of bij ons)?*
+
 ---
 
 ## 5. Seksualiteit en intimiteit bij ASS
