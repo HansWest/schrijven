@@ -114,6 +114,12 @@ Hieronder vallen vier van de meest krachtige seksuele dynamieken binnen BDSM:
 #### D. Erotische instrumentalisering
 * *Emotionele waarheid:* Het genot om puur als lustobject gebruikt te worden voor het orgasme of de lust van de Dominant, zonder dat er van de onderdanige wederkerige seksuele actie verwacht wordt.
 
+#### E. Findom (financieel masochisme) als controleverlies
+* *Neurobiologie & psychologie:* Findom (Financial Dominance) is een specifieke vorm van emotioneel masochisme die zich vooral financieel uit. Het is de kick om geld of dure geschenken af te dragen aan een dominante die jou daar misschien zelfs om uitlacht en vernedert: de ultieme kick schuilt in het masochistisch 'genieten' van het verlies van controle over je eigen middelen.
+* *Het ethische onderscheid:*
+  - **Verantwoorde findom:** Een ethische domina houdt altijd rekening met de werkelijke financiële draagkracht van de onderdanige, zodat diegene nooit in reële financiële nood of schulden raakt.
+  - **Onverantwoord misbruik:** Er zijn echter ook roofdieren in de scene die deze kickbehoefte gewetenloos gebruiken voor eigen gewin-zonder-verantwoordelijkheid en doelgericht zoeken naar kwetsbare mensen die ze financieel compleet kunnen ruïneren. Dat is geen BDSM, maar uitbuiting.
+
 ---
 
 ### Fader 3: de honger naar geborgenheid (being 'owned' / hechtingsveiligheid)

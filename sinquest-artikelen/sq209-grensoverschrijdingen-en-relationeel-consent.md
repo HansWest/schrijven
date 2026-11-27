@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #209: grensoverschrijdingen en het verschil tussen legal consent en relationeel consent
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #209: over het gevaar van juridisch reductionisme in de slaapkamer, waarom een formele 'ja' nog geen toestemming is, de dynamiek van manipulatie binnen een troebele container, en waarom relationeel consent de enige echte maatstaf voor veiligheid is.*
 
 ---

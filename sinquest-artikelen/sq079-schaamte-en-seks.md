@@ -1,7 +1,7 @@
-# Gedachten en overwegingen bij SinQuest #79: Schaamte & seks... een fijn gesprek met Lilly en Ineya!
+# Schaamte & seks: de emotieverdubbelaar en het tempo in dating
 
-> **Persoonlijk Essay & Beschouwing**  
-> *Gedachten en overwegingen naar aanleiding van SinQuest #79 (Lilly en Ineya): over de paradox van de 'schaamteloze' scene, gezonde schaamte als onderscheid met narcisme, het tempo in dating, consent als gunnen, makkelijke stopwoorden, en het onderscheid tussen pannenkoeken en eikels.*
+> **Persoonlijk artikel & beschouwing**  
+> *Gedachten en overwegingen over de paradox van de 'schaamteloze' scene, gezonde schaamte als onderscheid met narcisme, het tempo in dating, consent als gunnen, makkelijke stopwoorden, en het onderscheid tussen pannenkoeken en eikels.*
 
 ---
 
@@ -29,7 +29,7 @@ Een mens die schaamte kan voelen, bezit daarentegen het zenuwstelsel van een hec
 
 ## 3. Schaamte als snelheidsmeter in het daten
 
-Je kunt schaamte ook omarmen als een intelligente richtinggever die je helpt om te doen wat bij jouw groep hoort en aansluiting te houden bij *your tribe* - precies zoals Lilly treffend opmerkte in SinQuest #79.
+Je kunt schaamte ook omarmen als een intelligente richtinggever die je helpt om te doen wat bij jouw groep hoort en aansluiting te houden bij *your tribe*.
 
 In dating zie ik dat schaamtegevoel functioneren als een onmisbare snelheidsmeter. Tegenover het gevoel van **opwinding** (het gaspedaal dat je naar contact en lichamelijke nieuwsgierigheid trekt) staat het gevoel van **schaamte** (de rem die vraagt: *"Is deze relatiecontainer al betrouwbaar genoeg voor mijn kwetsbaarheid?"*). 
 
@@ -58,14 +58,14 @@ Dat laatste is niet per se mijn ding, maar ik vind het wel van wezenlijk belang 
 
 ## 4. Consent als gunnen en de reactie van de hersenstam
 
-We reageren niet meer rationeel - en vaak niet eens meer op onze bewuste emoties - wanneer we in een situatie belanden waarin de hersenstam de regie overneemt. Denk aan de appjes waar ik het vaker over heb gehad, maar met name aan risicovol voorspel: die interacties houden je letterlijk op je plek en bepalen je veiligheidsgevoel.
+We reageren niet meer rationeel - en vaak niet eens meer op onze bewuste emoties - wanneer we in een situatie belanden waarin de hersenstam de regie overneemt. Denk aan risicovol voorspel of intense situaties: die interacties houden je letterlijk op je plek en bepalen je veiligheidsgevoel.
 
 BDSM is in mijn ogen een serieus spel met duidelijke spelregels en grenzen. Er is weliswaar vaak meer initiatief bij de ene rol dan bij de andere, maar het spel vindt altijd plaats *in concert*. 
 
 Een verhelderende manier om consent in dit verband te definiëren is: **dat je het de ander gunt.** 
 Gunnen is een hoogontwikkeld sociaal-emotioneel proces van de neocortex. Gunnen kunnen we simpelweg niet op hersenstamniveau. Zodra het zenuwstelsel zich onveilig voelt, schakelt het direct terug naar overleven.
 
-In het voorbeeld dat Lilly deelt in SinQuest #79 zie je ook heel duidelijk dat het ging om een **Fight/Freeze-reactie** van de hersenstam. Die ontstond op basis van onhandige spelafspraken en waarschijnlijk een ongezonde intentie onder het spel. Zodra de intentie niet klopt, wordt het volkomen logisch dat iemands hersenstam acuut door onveiligheid getriggerd raakt en in een overlevingskramp schiet.
+Wanneer er sprake is van een **Fight/Freeze-reactie** van de hersenstam, ontstaat die vrijwel altijd op basis van onhandige spelafspraken of een ongezonde intentie onder het spel. Zodra de intentie niet klopt, wordt het volkomen logisch dat iemands hersenstam acuut door onveiligheid getriggerd raakt en in een overlevingskramp schiet.
 
 ---
 
@@ -149,9 +149,10 @@ Voor mij zit echte emotionele volwassenheid niet in het forceren van schaamteloo
 
 ## Literatuur en bronverwijzingen
 
-- **SinQuest Podcast #079 (4 november 2026):** *Schaamte & Seks: een fijn gesprek met Lilly en Ineya* (Gesprek met Lilly en Ineya over schaamte, opwinding, vertraging in het daten en de tribe). Beschikbaar via Subspace: https://www.subspace.nl/topic/33721-2026-11-04-sinquest-079-schaamte-seks-een-fijn-gesprek-met-lilly-en-ineya/
 - **Bancroft, J., & Janssen, E. (2000).** *The dual control model of male sexual response: A theoretical approach to centrally mediated erectile dysfunction*. Neuroscience & Biobehavioral Reviews, 24(5), 571-579.
 - **Ciompi, L. (1997).** *Die emotionalen Grundlagen des Denkens. Entwurf einer fraktalen Affektlogik*. Göttingen: Vandenhoeck & Ruprecht.
 - **Gottman, J. M., Katz, L. F., & Hooven, C. (1996).** *Meta-Emotion: How Families Cope with Emotional States*. Hillsdale, NJ: Lawrence Erlbaum Associates.
 - **Nathanson, D. L. (1992).** *Shame and Pride: Affect, Sex, and the Birth of the Self*. New York: W.W. Norton & Company.
-- **West, H. (Kennisbank).** [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md) & [Grondslagen van Integratieve Relatiecoaching](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md).
+- **West, H. (Kennisbank):**
+  - [De Emotieverdubbelaar: Affectlogica, Meta-Emoties en Escalerend Denken](../over-emoties/de-emotie-verdubbelaar-en-affectlogica.md)
+  - [Grondslagen van Integratieve Relatiecoaching](../over-therapie/grondslagen-integratieve-therapie-en-coaching.md)

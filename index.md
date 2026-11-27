@@ -146,6 +146,7 @@ Welkom op mijn verzameling artikelen en columns over ASS, Kink, Seksualiteit en 
 *   [**17: Subspace, hersenstamreflexen en de kantelmomenten in BDSM**](over-bdsm/17-subspace-traumasporen-en-de-kantelmomenten.md)
 *   [**18: Dating als Dominant: een aantrekkelijk profiel vanuit sub-perspectief**](over-bdsm/18-dating-als-dominant-het-aantrekkelijke-profiel-en-de-sub-blik.md)
 *   [**19: Oldskool BDSM-waarden, rituelen en gebruiken: wat bewaren we en wat laten we achter?**](over-bdsm/19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md)
+*   [**20: De heilzame werking van BDSM: veilige intensiteit, trauma en de ethiek van het rugzakje**](over-bdsm/20-de-heilzame-werking-van-bdsm-veilige-intensiteit-en-autonomie.md)
 *   [**Ranz-bondage (Ranzatsuna-ryū): rauwe bondage, dynamiek en ontferming**](over-bdsm/ranz-bondage-ranzatsuna-ryu/README.md)
     *   [Naar Ranz-bondage: veiligheid versus fantasie en de ontsnappingsroute](over-bdsm/ranz-bondage-ranzatsuna-ryu/naar-ranz-bondage.md)
 *   [**Cube of Consent (overzicht)**](cube-of-consent/README.md)

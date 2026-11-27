@@ -61,6 +61,14 @@ Vraag bij elke regel of afspraak binnen de D/s-verhouding:
 - *"Dient deze regel ons, of dienen wij de regel?"*
 - Als een regel uitsluitend bestaat om macht uit te oefenen zónder dat het bedding, erotiek, rust of verbinding oplevert, is het een lege huls die de relatie uitholt.
 
+### C. Vrijheid door kaders en de devotee-mindset
+
+Heldere grenzen zijn geen keurslijf, maar een geschenk. Pas wanneer de container betrouwbaar en helder staat, heeft de Dominant de vrijheid om te flowen, en kan de onderdanige zich vol vertrouwen laten vallen in de overgave van de devotee-mindset.
+
+### D. Verantwoordelijkheid voor het ervaringsniveau
+
+Een ervaren Dominant neemt altijd verantwoordelijkheid voor het ervaringsniveau van de spelpartner. Iemand die net komt kijken en geen flauw idee heeft van de fysiologische risico's van bijvoorbeeld breathplay, ga je als ervaren speler niet zomaar naar de keel grijpen. Je beweegt met kleine stapjes, tast af en onderzoekt wat op dít moment met déze persoon passend en veilig is. Echte autoriteit forceert niet, maar bouwt stapsgewijs de bedding op.
+
 ---
 
 ## 3. Conclusie

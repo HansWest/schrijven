@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #243: de heilzame elementen van kink, transgenderzorg en pijn als zelfmedicatie
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #243: over wachttijden in de transgenderzorg en de kracht van 'vrouwelijk' denken, waarom de BDSM-scene het consentgesprek heeft aangejaagd, het gevaar van pijn als 'quick fix' bij depressie, het consent van de dominant als grens tegen topping from the bottom, en de ontlading van heilzaam huilen.*
 
 ---
@@ -138,6 +138,7 @@ En ook hier geldt: dit is uiteraard geen aanmoediging voor dominanten om te denk
 ---
 
 - **Kennisbank Kink-Aware Coach (Hans West):**
+  - [20: De heilzame werking van BDSM: veilige intensiteit, trauma en de ethiek van het rugzakje](../over-bdsm/20-de-heilzame-werking-van-bdsm-veilige-intensiteit-en-autonomie.md) - *Over de hersenstam, trauma-oplossing, harm reduction en het consent van de dominant.*
   - [Handreiking: Kink en BDSM in de eerste- en tweedelijnszorg](../artikel-aanzetten/handreiking-eerste-en-tweedelijnszorg-kink.md) - *Over de diagnostische scheidslijn, disenfranchised grief en fysiologische drops.*
   - [Voorbij de praattherapie: de vier wegen van Petzold](../artikel-aanzetten/voorbij-de-praattherapie-de-vier-wegen-van-petzold.md) - *Waarom praten alleen niet heelt en lichaamsgerichte routes noodzakelijk zijn.*
   - [Cube of Consent](../cube-of-consent/README.md) - *Kader voor relationele afstemming, intenties en multidimensionaal consent.*

@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #257: de toekomst van een one night stand, wel-denken en de kunst van het aanmodderen
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #257: over de time-warp, ook bij 'losse contacten', waarom 'niet-denken' je libido verkloot, het verschil tussen samen lachen en uitlachen, de Uncanny Valley van seksueel perfectionisme, en waarom je jouw eigen gedachten vooral niet te serieus moet nemen.*
 
 ---

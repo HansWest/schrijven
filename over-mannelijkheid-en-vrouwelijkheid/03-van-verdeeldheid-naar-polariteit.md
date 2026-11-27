@@ -85,7 +85,7 @@ Door de giftige karikaturen direct tegenover elkaar te plaatsen, kan ik het gif 
 - **De gezonde mannelijke kracht (Calm Authority & Holding Space):**  
   Mannelijke stabiliteit is geen kilte, maar **containment**. Een man die stevig gegrond blijft ademen wanneer zijn vrouw overspoeld raakt door gevoelens, fungeert als de bliksemafleider. Hij probeert haar niet te 'fixen' en vlucht niet weg, maar biedt een onwrikbare aanwezigheid waarin zij veilig kan landen.
 - **De Synergie:**  
-  Zij brengt diepe bezieling en warmte in de relatie; hij biedt de rotsvaste kalmte die voorkomt dat emoties ontsporen in chaos.
+  Zij brengt diepe bezieling en warmte in de relatie; hij biedt de gegronde, stabiele kalmte die voorkomt dat emoties ontsporen in chaos.
 
 ---
 

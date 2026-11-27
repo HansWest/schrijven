@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #266: manieren om kink te ontdekken en Psychopathia Sexualis
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #266: over de verschillende manieren waarop een fetish of kink in je leven ontwaakt, de relationele kunst van het gunnen en de weegschaal van Hot-Maybe-Not, en een historische correctie rond Krafft-Ebings 'Psychopathia Sexualis' en de medicalisering van verlangen.*
 
 ---
@@ -9,20 +9,19 @@ https://open.spotify.com/episode/4zQFtFyefbZKYFqEIfT9Y5?si=89931df6de28459a
 
 ---
 
-## manieren om kink te ontdekken
+## Manieren om kink te ontdekken
 Ik zei er zijn **twee** manieren om een fetish/kink te ontdekken in een leven... en vervolgens noemde ik er **drie**... 
 Wat ik bedoelde was dat je een fetish:
 1- ***in* jezelf** kunt ontdekken, of ***uit** jezelf kunt ontdekken in die 'grote boze buitenwereld' ;-).
 2- Of het kan zijn dat je **via een partner** (vanilla partner of sexdate) tegen een fetish/kink aanloopt.
-(dat zijn dan dus twee polen)
+(Dat zijn dan dus twee polen).
 
-- **De route van het gunnen (de 'Maybe' die groeit):**  
-  Je ontdekt dat je partner een specifieke voorkeur heeft. Het staat je zelf niet tegen, maar het is typisch een 'Maybe': iets wat je neutraal tegemoet treedt en wat je doet omdat je het de ander van harte gunt. Je geniet in eerste instantie vooral van het genot en de opwinding van je partner. Maar door de herhaling en de positieve bedding kan het zomaar gebeuren dat je het gaandeweg zelf steeds leuker gaat vinden. In de weegschaal van [Hot-Maybe-Not](https://hanswest.github.io/kink_aware_coach/hot-maybe-not/index.htm) is ieder complimentje van je partner, of ieder orgasme dat je tijdens die kink beleeft, een extra gewichtje in de schaal naar de kant van de 'Hot'-fetish.
-- **De directe herkenning (de latere ontwaking):**  
-  Het kan ook zijn dat je bij die partner iets tegenkomt dat vanbinnen ogenblikkelijk een belletje laat rinkelen. Dit is wat mijzelf destijds overkwam: ik schaar dit onder de groep mensen die op latere leeftijd iets ontdekken in zichzelf. Dan is het niet zozeer iets wat je stapsgewijs *leert* waarderen, maar een plotselinge schok van herkenning waarbij je denkt: *"Sow! Dat ik daar nou nooit eerder aan gedacht heb..."*
+En dan kan het vervolgens zijn:
+- **3- Dat je die kink aan je partner gunt...** Het staat je niet echt tegen maar het is typisch een 'maybe'. Het is iets dat je doet terwijl het je niet tegenstaat, en door de herhaling wordt het steeds maar leuker. Je geniet in eerste instantie vooral van het genot van je partner. Maar dan kan het maar zo zijn dat je het gaandeweg steeds leuker leert vinden. In de weegschaal van **[Hot-Maybe-Not](https://hanswest.github.io/kink_aware_coach/hot-maybe-not/index.htm)** is ieder complimentje van je partner, of ieder orgasme dat je verkreeg tijdens die kink, een gewichtje in de schaal naar de hot-fetish-kant.
+- **2b- Of het kan ook zijn dat je bij de partner iets tegenkomt dat bij jou vanbinnen gelijk een belletje laat rinkelen.** Dit laatste is dus wat mij betreft, dus ik schaar dit onder de groep die op latere leeftijd iets ontdekt - in zichzelf -. Dan is het niet zozeer iets dat je *leert* leuk te vinden. Het is veel meer iets waarbij je denkt: *"Sow! Dat ik daar nooit eerder aan gedacht heb..."*
 
-### Een belangrijke kanttekening bij introductie
-Zeker bij die laatste categorie geldt een waarschuwing: wanneer jij jouw eigen fetish te direct, te dwingend of niet kwetsbaar genoeg op tafel legt, kan een partner enorm schrikken van de intensiteit van jouw verlangen. Die schrikreactie vertaalt zich dan al snel in afwijzing of een defensieve kramp. Breng een verlangen daarom altijd kwetsbaar genoeg, doseer het tempo, en herhaal de vraag rustig op een later moment wanneer je een fetish wilt introduceren bij een partner.
+### Kleine kanttekening bij die laatste
+In een enkel geval - zeker als je jouw eigen fetish niet zo kwetsbaar brengt - dan kan het zo zijn dat die partner schrikt van het sterke gevoel dat die fetish geeft en daardoor afwijzend reageert (dus breng het kwetsbaar genoeg en herhaal de vraag, als jij iemand bent die een fetish wil introduceren aan je vanilla partner).
 
 > **Tooling:** Om wensen en grenzen zonder relationele druk te onderzoeken, gebruik ik in mijn praktijk het Hot-Maybe-Not model.  
 > Zie de interactieve webapp: **[KinkAwareCoach: Hot - Maybe - Not](https://hanswest.github.io/kink_aware_coach/hot-maybe-not/index.htm)**.
@@ -39,7 +38,7 @@ Zoals de ondertitel al doet vermoeden een forensisch/ medisch onderzoek van misd
 Dus alles wat in dit boek terecht kwam (eigenlijk alle vormen van seks, behalve de seks om kinderen te krijgen) stonden dus in het licht van 'gevaarlijk' of 'ziek'.
 Daarin beschreef hij onder andere:
 - Homoseksualiteit en biseksualiteit,
-- Fetisjisme,
+- Fetishisme (fetish),
 - Sadisme,
 - Masochisme,
 - Exhibitionisme,
@@ -47,9 +46,9 @@ Daarin beschreef hij onder andere:
 - Bestialiteit,
 - Pedofilie.
 
-Krafft-Ebing leende -en 'verziekte- hierin de termen "sadisme" en "masochisme" van de schrijvers de Marquis de Sade en Leopold von Sacher-Masoch.
+Krafft-Ebing leende hierin -en 'verziekte' daarmee- de termen "sadisme" en "masochisme" van de schrijvers de Marquis de Sade en Leopold von Sacher-Masoch.
 
-Dit boek heeft de meeste aandacht gekregen in de loop der jaren maar er bestaat nog twee eerdere publicaties met vrijwel dezelfde insteek: **Psychopathia Sexualis** van Heinrich Kaan (1844) en **Des aberrations du sens génésique** van Paul Moreau de Tours (1877), dat meer als een psychiatrische handboek las.
+Dit boek heeft de meeste aandacht gekregen in de loop der jaren maar er bestaan nog twee eerdere publicaties met vrijwel dezelfde insteek: **Psychopathia Sexualis** van Heinrich Kaan (1844) en **Des aberrations du sens génésique** van Paul Moreau de Tours (1877), dat meer als een psychiatrische handboek las.
 
 ---
 

@@ -127,6 +127,39 @@ Na een eerste intense ervaring kunnen er onverwachte emoties loskomen (verwarrin
 
 ---
 
+## 5. Feestkaders, Dungeon Masters en de nuchterheidsregel
+
+Wanneer het spelen zich verplaatst van de privéslaapkamer naar speelfeesten en openbare dungeons, verschuift ook de dynamiek van verantwoordelijkheid:
+
+### Verdeling van verantwoordelijkheid
+Op een speelfeest is de veiligheid een samenspel tussen drie partijen:
+1. **De organisator:** Moet kraakhelder zijn over de kaders en de huisregels (wat mag wel en wat pertinent niet, zoals suspension of edgeplay). Veel feestjes laten hier steken vallen door huisregels vaag te houden.
+2. **De Dungeon Masters (DM's):** Zijn de toezichthouders in het spel. Zij moeten goed geïnstrueerd zijn om tijdig in te grijpen bij ontsporingen of fysiologische risico's, zónder de flow van intiem spel nodeloos te verstoren.
+3. **De gasten zelf:** Blijven te allen tijde primair verantwoordelijk voor hun eigen afstemming, grenzen en speelgedrag.
+
+### Middelengebruik: de zware machines-regel
+Hoewel ik geen voorstander ben van een dogmatische nul-optie voor een enkel sociaal drankje, geldt voor riskant spel en edgeplay een heldere somatische vuistregel:
+
+> **"Wie zodanig onder invloed is dat hij geen zware machines meer zou mogen bedienen, hoort geen riskant BDSM-spel meer te spelen."**
+
+Nuchterheid, reactievermogen en alertheid zijn fundamenteel om fysiologische alarmsignalen bij je partner waar te nemen. Zodra alcohol of middelen de inschatting vertroebelen, verandert intens spel in levensgevaarlijk gedrag.
+
+---
+
+## 6. 'Foute' aspecten als fetish en emotioneel edgeplay
+
+Mensen kunnen soms een sterke fetish hebben voor maatschappelijk beladen, immorele of destructieve thema's:
+- **Cheating-fetish:** De kick halen uit het idee van bedrog en verraad, waarbij het taboe zelf de opwindende brandstof vormt.
+- **Manipulatie-fetish:** Genieten van psychologische spelletjes, mindfucks en emotioneel masochisme.
+- **Chantage-scenario's (blackmail):** De zenuwslopende dreiging dat pikante foto's of geheimen gedeeld worden met familie of werkgevers.
+
+### De grens: betrek nooit niet-ingewijde derden
+Binnen een veilige rollenspel-context tussen twee afgestemde partners die beiden weten dat het een afgebakende fantasie is, kan zo'n spel een intense rol spelen. 
+
+Maar zodra een spel **niet-ingewijde derden** betrekt (mensen die nergens van weten, zoals een echte partner, collega's of familie), ontspoort het gegarandeerd in destructie. Ik reken dit soort dynamieken tot **sociaal en emotioneel edgeplay**: spelvormen met een extreem hoog risicoprofiel die met uiterste ethische scherpte gehanteerd moeten worden om niet in werkelijk misbruik te ontaarden.
+
+---
+
 ## Verwijzingen en samenhang
 
 - [02: De Techniek-Betekenis Splitsing](02-techniek-versus-betekenis.md) - *Waarom handeling en betekenis twee verschillende dimensies zijn.*

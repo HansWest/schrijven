@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #215: het minimalistische instrumentarium voor de beginnende dominant
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #215: waarom beginnende dominanten vaak bezwijken onder overprikkeling, de kracht van één enkel zintuiglijk element, rustige overgave zonder theatrale scènes, en hoe je calm authority opbouwt door niet te veel tegelijk te willen.*
 
 ---
@@ -69,7 +69,7 @@ Als je niet te veel tegelijk opstart, maak je het behapbaar voor jezelf. Je leer
 
 ## Literatuur- en bronverwijzingen
 
-- **SinQuest Podcast (Hans West, Miss V & Dirk):** SinQuest #215: *Eerste stappen in dominantie en de kunst van eenvoud* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
+- **SinQuest Podcast:** SinQuest #215: *Eerste stappen in dominantie en de kunst van eenvoud* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
 - **Kennisbank Kink-Aware Coach (Hans West):**
   - [Oldskool BDSM-waarden, rituelen en gebruiken](../over-bdsm/19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md) - *Over rust, protocol en de ethiek van verantwoordelijk leiderschap.*
   - [BDSM als co-creatie: de twee driehoeken en de twee O's](../over-bdsm/08-bdsm-als-cocreatie-de-twee-driehoeken.md) - *Over ontferming versus overgave in het spel.*

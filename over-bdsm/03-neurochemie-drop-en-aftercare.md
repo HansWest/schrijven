@@ -27,8 +27,8 @@ Cognitief-neurowetenschappelijk onderzoek (o.a. Lee et al., 2016; Ambler et al.,
   - Verlies van tijdsbesef (uren voelen als minuten).
   - Een staat van pure, zintuiglijke aanwezigheid in het hier-en-nu.
 
-### 4. Dopamine en oxytocine: verwachting en verbinding
-- **Dopamine:** De verwachting, spanning en beloning zorgen voor pieken in dopamine, wat motivatie, triomf en tunnelvisie versterkt.
+### 4. Dopamine en oxytocine: motivatie en verbinding
+- **Dopamine (het motivationele zoeksysteem):** Dopamine is geen simpel 'plezierstofje' (de consumptie van genot wordt fysiologisch door opioïden gedragen), maar de brandstof van ons **motivationele systeem** (het SEEKING-systeem). Het zorgt voor de gerichte anticipatie, spanning, opwinding en de aandrift om in actie te komen en grenzen te verkennen.
 - **Oxytocine:** De diepe intimiteit, het uit handen geven van controle, huid-op-huidcontact en oogcontact stimuleren de aanmaak van oxytocine (het hechtings- en zorghormoon), waardoor intense kwetsbaarheid en verbondenheid ontstaan.
 
 ---

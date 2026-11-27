@@ -9,16 +9,16 @@ Het **Cube of Consent-model** (door mij ontwikkeld) breidt klassieke consent-the
 ## 📐 Het kernmodel
 
 - [**Het Cube of Consent-model: assen, 48 posities en diagnostiek**](het-cube-of-consent-model.md)  
-  *De complete centrale theorie: de vier assen (Actievector, Lichaam, Drijfveer, Betekenis), de 8 didactische kernstaten (+/-), de Driver als kwetsbaarheid, de valkuil van troebele wederkerigheid, de één-ademtoets en realtime play-state checks.*
+  *De complete centrale theorie: de vier assen (Actievector, Lichaam, Drijfveer, Betekenis), intentionaliteit vóór 'energie' (doen vs. meemaken), de 8 didactische kernstaten (+/-), de Driver als kwetsbaarheid, de valkuil van troebele wederkerigheid, de één-ademtoets en realtime play-state checks.*
 
 ---
 
 ## 📚 Artikelen en toepassingen
 
 - [**Relationeel consent: dynamiek, consent-krediet en de relationele time-warp**](relational-consent.md)  
-  *Waarom consent geen statisch vinkje is: over consent als 'replenishable good' (Joe Bean), consent seduction, fractal grenzen, de time-warp naar morgen en het groene safeword.*
+  *Waarom consent geen statisch vinkje is: over consent als relationele houding en betekenisgever, intentioneel consent (het 'waarom' en intentionaliteit vóór 'energie'), kaders en de devotee-mindset, de subspace-valkuil, consent seduction, de relationele time-warp en consentherstel via vergeving.*
 - [**Consent is een gesprek**](consent-is-een-gesprek.md)  
-  *Over consent als positieve feedbackloop, eerlijkheid, grenzen, non-verbale signalen en machtsverschillen.*
+  *Over consent als positieve feedbackloop, eerlijkheid, harde vs. zachte grenzen, non-verbale signalen, machtsverschillen (de Fawn-reactie) en herstel.*
 - [**Relatiestatus, intenties en informed consent**](relatie-status.md)  
   *Over openheid over relatiestatus, toekomstverwachtingen en het risico op future faking.*
 

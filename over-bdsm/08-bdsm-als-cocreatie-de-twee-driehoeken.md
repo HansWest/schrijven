@@ -34,7 +34,7 @@ In de traditie en ethiek van *Oldskool BDSM* rust de relatie op twee dragende fu
 ### 1. De overgave van de sub (de eerste O)
 Overgave betekent in deze context geen militaire capitulatie of hulpeloze passiviteit. Het is een **actieve, bewuste keuze** om de controle los te laten en te vertrouwen op de partner:
 - Het is het je volledig wijden aan de ervaring en het meebewegen met de intensiteit.
-- Het vraagt een hoge mate van innerlijke kracht: controle uit handen geven kan alleen veilig wanneer er een rotsvast innerlijk fundament is.
+- Het vraagt een hoge mate van innerlijke kracht: controle uit handen geven kan alleen veilig wanneer er een stevig innerlijk fundament is.
 
 ### 2. De ontferming van de Dom (de tweede O)
 Ontferming is veel meer dan vriendelijkheid of medelijden. Het is de actieve bescherming van en zorg voor de kwetsbaarheid die door het spel wordt gecreëerd:
@@ -108,6 +108,14 @@ Zoals auteur Dossie Easton stelt:
   - **Weten welke hulp en ontferming je kunt toestaan:** De neocorticale pantsering (*"ik moet sterk zijn en alles doorstaan"*) durven laten zakken en de zorg, aftercare en co-regulatie van de Dom daadwerkelijk toelaten.
   - **Weten wat het SEEKING-systeem voedt:** Het onderzoeken van authentieke erotische verlangens versus pleasen om goedkeuring te verdienen.
 - Zonder deze zelfkennis en autonomie is overgave geen gift, maar destructieve onderwerping of over-adaptatie (*fawning*).
+
+### De valkuil van de prekende meester: autonomie stimuleren versus afhankelijkheid kweken ("Rood aan alle kanten!")
+
+Wanneer een dominante partij begint te preken, jou schuldgevoelens aanpraat of jouw verlangens en grenzen niet respecteert, dan hoop ik dat je je mijn stem herinnert die luid en duidelijk zegt:
+
+> **"Get up. Run, don't walk! Rood, rood, rood aan alle kanten!"**
+
+Zodra iemand probeert jouw zelfstandigheid af te breken onder het mom van 'overgave' of 'trouw aan het protocol', is er geen sprake meer van BDSM-spel, maar van manipulatieve grensoverschrijding. Een goeie dominante stimuleert en bewaakt jouw autonomie; een eikel breekt jouw draagkracht af om afhankelijkheid te creëren.
 
 ### 3. Lichaamsbewustzijn en terugkoppeling: het instrument (analoog aan techniek)
 Waar de Dom het materiaal hanteert, is **het lichaam en het zenuwstelsel van de sub het instrument** waarop gespeeld wordt:

@@ -52,7 +52,7 @@ Het geheim van een meesterlijke Dominant luidt:
 > **Zoveel relatie en veiligheid opbouwen dat jouw partner het - achteraf - gráág voor jou heeft gedaan.**
 
 Dat klinkt op het eerste gezicht paradoxaal: *"Maar ik wil toch juist mijn eigen zin doordrukken?"*  
-Zeker. Maar in een gezonde machtsdynamiek wil de onderdanige dat jij je zin doet, omdat de onderlinge vertrouwensband rotsvast is. 
+Zeker. Maar in een gezonde machtsdynamiek wil de onderdanige dat jij je zin doet, omdat de onderlinge vertrouwensband door en door betrouwbaar is. 
 
 Dat bouw je op door:
 - Aandachtig te luisteren naar de grenzen en verlangens van de ander.

@@ -40,16 +40,16 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
    *Het polyvagale onderscheid tussen flow/endorfineroes (ventraal vagaal) en traumatische dissociatie/freeze (dorsaal vagaal), de 3-stappentest op de vloer en directe interventies.*
 
 8. [**08: BDSM als Co-Creatie: De Twee Driehoeken & De Twee O's**](08-bdsm-als-cocreatie-de-twee-driehoeken.md)  
-   *Oldskool BDSM-waarden: Overgave & Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Ambacht), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn) en RACK bij trauma-gerelateerd spelen.*
+   *Oldskool BDSM-waarden: Overgave & Ontferming (splagchnizomai), de Dom-driehoek (Lust, Ethiek, Ambacht), de Sub-driehoek (Verlangen, Autonomie, Lichaamsbewustzijn), de valkuil van de prekende meester ("Run, don't walk!") en RACK bij trauma-gerelateerd spelen.*
 
 9. [**09: Het Verbreken van D/s: De-collaring, Rouw & Herstructurering**](09-het-verbreken-van-ds-de-collaring-en-rouw.md)  
    *De neurobiologie van verbroken co-regulatie (24/7 en TPE), disenfranchised grief, het transitieritueel van de De-collaring en het 4-fasen herstelprotocol voor de Dominant en submissieve.*
 
 10. [**10: Van vanilla naar kink: het speeltuinmodel en bewuste kaders**](10-van-vanilla-naar-kink-het-speeltuinmodel.md)  
-    *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink (o.a. choking) en het Speeltuinmodel in 6 stappen.*
+    *Het spectrum (vanilla, stracciatella, kink), waarom het contract de overgang markeert, de gevaren van porno-kink, het Speeltuinmodel in 6 stappen, feestkaders en Dungeon Masters, de zware machines-regel voor middelengebruik, en emotioneel edgeplay.*
 
 11. [**11: De Kink-GPS: gezond verlangen versus aangeprate obsessie**](11-de-kink-gps-gezond-verlangen-versus-obsessie.md)  
-    *Zelfonderzoek en diagnostiek: de Waarom-nu check, de broodje-kaas-test voor consent, de emotionele tijdscan (voorkomen van de binge-purge cirkel) en expansie (sprankel) versus vernauwing (schrompel).*
+    *Zelfonderzoek en diagnostiek: de Waarom-nu check, de broodje-kaas-test voor consent, de emotionele tijdscan, de 4 fasen van de binge-purge cirkel bij beginners, de mythe van 'seksverslaving' (afhankelijkheid vs. eroticectomie), de drie functies van middelen (uppers, downers, trippers), en fetish-ontkoppeling bij chemsex.*
 
 12. [**12: Op zoek naar je domina: valkuilen, verwachtingen en de match**](12-op-zoek-naar-je-domina-valkuilen-en-de-match.md)  
     *Van fantasie naar werkelijkheid: sub-frenzy ontzenuwen, de illusie van 'gratis' (pro vakvrouw vs particulier), waarom je eerst kennis koopt en geen spullen, en het alibi van BDSM.*
@@ -58,7 +58,7 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
     *Waarom 'geboren' dominanten niet bestaan: de Driehoek (Lust, Ethiek, Ambacht), transitionele rituelen, en de kunst om de rommelige realiteit van het spel te verdragen.*
 
 14. [**14: Emotionele S/M en de zes hongers van de onderdanige**](14-emotionele-sm-en-de-zes-hongers-van-de-onderdanige.md)  
-    *Waarom het klassieke 8-delige wiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering naar de-personificatie; de Zes Somatische Hongers (inclusief erotische onmacht, kuisheid, ruined orgasms en overstimulatie); en het Multi-Track Equalizer Model.*
+    *Waarom het klassieke 8-delige wiel faalt; de neurobiologische grondslag van de onderdanige binnenwereld; de deconstructie van objectivering naar de-personificatie; de Zes Somatische Hongers (inclusief erotische onmacht, kuisheid, ruined orgasms, Findom en overstimulatie); en het Multi-Track Equalizer Model.*
 
 15. [**15: Emotionele S/M: dominante holding en de dynamische boog**](15-emotionele-sm-dominante-holding-en-de-dynamische-boog.md)  
     *De binnenwereld en autonome lustmotor van de Dominant: de zes holding- en regiedimensies (inclusief de Seksuele Soeverein en Praise), het voorkomen van Domdrop, de paradox van de twee spiegels, de Techniek-Betekenis koppeling en de 4 fasen van de sessieboog.*
@@ -73,7 +73,10 @@ Om BDSM helder en veilig te navigeren - zowel persoonlijk als binnen coaching - 
     *Waar een betrouwbaar profiel van een Dominant aan moet voldoen: rust, richting en zelfbeheersing ('calm dominance'), wederkerigheid versus de Insta-Dom, en de uitnodigende dialoog.*
 
 19. [**19: Oldskool BDSM-waarden, rituelen en gebruiken: wat bewaren we en wat laten we achter?**](19-oldskool-bdsm-waarden-rituelen-en-gebruiken.md)  
-    *Historische voorzichtigheid rondom de 'Old Guard', de hanky code als conversatiestarter (geen consent), de Twee O's (Overgave ontmoet Ontferming), rituelen als zenuwstelsel-bedding, contracten als praatinstrument, en het driekolommenmodel (behouden, aanpassen, loslaten).*
+    *Historische voorzichtigheid rondom de 'Old Guard', de hanky code als conversatiestarter (geen consent), de Twee O's (Overgave ontmoet Ontferming), rituelen als zenuwstelsel-bedding, contracten als praatinstrument, de peergroup van hoge bomen en de apenrots, en het driekolommenmodel (behouden, aanpassen, loslaten).*
+
+20. [**20: De heilzame werking van BDSM: veilige intensiteit, trauma en de ethiek van het rugzakje**](20-de-heilzame-werking-van-bdsm-veilige-intensiteit-en-autonomie.md)  
+    *Waarom BDSM geen therapie is (hardlopen vs. running-therapie), rol-afstand en de stofzuiger-metafoor, harm reduction bij automutilatie ('automutilatie via de band'), belevingsactivatie (Petzold), tweeledige nazorg en het recht op volwassen lust voor mensen met een emotionele rugzak.*
 
 ---
 

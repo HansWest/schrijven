@@ -15,6 +15,14 @@ Elke BDSM-ervaring bestaat uit twee parallelle sporen:
 2. **Het Betekenis-spoor (Wat de handeling symboliseert en activeert):**
    - De psychologische en relationele lading voor het zenuwstelsel (bijv. tederheid, zuivering, discipline, straffantasie, ontlading van woede, overgave of vernedering).
 
+### Consent als de ultieme betekenisgever
+
+Consent is hierin de absolute betekenisgever:
+- Dezelfde fysieke handeling (iemand vastbinden, slaan of bevelen geven) is **mét consent BDSM**.
+- Zonder consent is diezelfde fysieke handeling **mishandeling of verkrachting**.
+
+De erotische en helende betekenis ontstaat uitsluitend door de relationele context en de fijnzinnige afstemming. Het fysieke materiaal (touw, leer, zweep) is neutraal; het consent-kader geeft de psychologische, helende en erotische lading.
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                     DE INTENSE HANDELING                        │
@@ -43,6 +51,15 @@ Twee mensen kunnen exact dezelfde fysieke handeling ondergaan, terwijl de intern
 Wanneer partners grenzen onderhandelen, ontstaat er vaak spraakverwarring als ze alleen in technieken praten:
 - *"Ik wil wel geslagen worden, maar niet als straf."* (Wel de sensatie, niet het narratief van fout-gedrag).
 - *"Ik wil wel vastgebonden worden, maar niet met het gevoel dat ik genegeerd word."* (Wel de fysieke immobiele staat, maar vergezeld van warme somatische afstemming).
+
+### Intentioneel consent: voorbij aantallen en intensiteit
+Het is een klassieke valkuil om consent te beperken tot een technische checklist (hoeveel slagen, hoe hard, hoe lang). **Intentioneel consent** vraagt om een gesprek over het 'waarom':
+- *Waarom doe je wat?*
+- *Wat is de overlap tussen onze intenties?*
+- *Wat wil je onderzoeken?*
+- *En waar zit de fun voor allebei?*
+
+Het Betekenis-spoor brengt deze intenties aan het licht, zodat techniek en intentie elkaar versterken in plaats van tegenwerken.
 
 ---
 

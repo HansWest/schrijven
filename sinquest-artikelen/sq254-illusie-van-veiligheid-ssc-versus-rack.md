@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #254: de illusie van 100% veiligheid, SSC versus RACK en de zware zak aardappelen
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #254: over het failliet van het '100% safe'-dogma, het realisme van RACK (Risk Aware Consensual Kink), waarom keukengerei en paardenzwepen geen kinderspeelgoed zijn, en de ultieme noodtest: wat doe je als jouw speelpartner als een zware zak aardappelen bewusteloos neervalt?*
 
 ---

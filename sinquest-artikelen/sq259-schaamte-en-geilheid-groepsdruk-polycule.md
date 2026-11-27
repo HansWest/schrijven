@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #259: schaamte en geilheid, beschamen in relaties en groepsdruk in de polycule
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #259: over de paradox tussen 'shame is killing' en de verwarrende geilheid van schaamte, waarom je partner beschamen relatievergif is, het onderscheid met consensuele humiliation-play, en hoe groepsdruk rond couple privilege in polyamorie leidt tot hechtingspijn.*
 
 ---
@@ -35,7 +35,7 @@ Hier moeten we echter een levensgroot hekwerk neerzetten. Er is een wereld van v
 ├──────────────────────────────┼──────────────────────────────────────────────┤
 │ • Doel: Macht uitoefenen,    │ • Doel: Spelen met taboe, kwetsbaarheid      │
 │   kleineren, gelijk halen    │   en erotische ontlading                     │
-│ • Bedding: Kilte, superiori- │ • Bedding: Rotsvaste veiligheid, holding,    │
+│ • Bedding: Kilte, superiori- │ • Bedding: Gedragen veiligheid, holding,     │
 │   teit en afwijzing          │   intense afstemming en aftercare            │
 │ • Effect: Afstand, wrok,     │ • Effect: Intimiteit, ontmaskering van het   │
 │   verlies van vertrouwen     │   ego en diepe seksuele ontlading            │

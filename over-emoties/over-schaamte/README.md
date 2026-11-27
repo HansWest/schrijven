@@ -21,6 +21,9 @@ In dit themadossier behandel ik de hechtingspsychologie achter schaamte, waarom 
 2. [**02: Omgaan met schaamte en de actiebereidheid**](02-omgaan-met-schaamte-en-de-actiebereidheid.md)  
    *Frijda's actiebereidheid tot onzichtbaar worden en door de grond zakken, de bloosrespons en de koude spoeling, het gif van de geheimhouding, en concrete handvatten voor ontmaskering in verbinding.*
 
+3. [**03: Schaamte & seks: de emotieverdubbelaar en de dwang tot schaamteloosheid**](03-schaamte-en-seks-emotieverdubbelaar-en-de-dwang-tot-schaamteloosheid.md)  
+   *De paradox van de 'schaamteloze' scene, gezonde schaamte versus narcisme, de snelheidsmeter in het daten, consent als gunnen, makkelijke stopwoorden, geuzennamen en de hechtingservaring van Pride.*
+
 ---
 
 ## Verbanden elders in de workspace

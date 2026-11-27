@@ -36,7 +36,8 @@ Binnen de kink-gemeenschap bestaat een gevaarlijke blinde vlek: passiviteit, ver
 ### 1. Fawn: mechanisch pleasen om te overleven
 Naast *freeze* (verstijven) reageert het zenuwstelsel geregeld met *fawn* (aanpassen en pleasen):
 - De onderdanige knikt mechanisch 'ja', lacht geforceerd mee of voert opdrachten rigide uit, louter om escalatie of afwijzing te voorkomen.
-- Dit is **geen actieve overgave**, maar een reflex om de situatie emotioneel te bezweren.
+- Let daarbij scherp op de reflex bij veel vrouwen om bij een haperende scène automatisch zichzelf de schuld te geven (de Fawn-reactie: behagen, pleasen en sussen om conflict of teleurstelling van de partner te vermijden).
+- Dit is **geen actieve overgave**, maar een overlevingsreflex om de situatie emotioneel te bezweren.
 
 ### 2. De mythe: "geen safeword = doorgaan"
 Het idee dat een scène veilig is zolang de bottom geen rood stopwoord roept, is **levensgevaarlijk verouderd**:
@@ -48,6 +49,11 @@ Het idee dat een scène veilig is zolang de bottom geen rood stopwoord roept, is
 Voor een Top of Dominant betekent veilig leiderschap dat je stopt met louter kijken naar *regelnaleving*, en begint te kijken naar het **zenuwstelsel** van de ander:
 - Kalibreer voortdurend op ademhaling, pupilrespons, huidskleur en spiertonus.
 - Wacht bij twijfel nooit af tot de ander ingrijpt: neem zelf de leiding en check proactief in.
+
+### 4. De subspace-valkuil voor onderhandelen
+Kaders spreek je nuchter vooraf af (harde grenzen en zachte grenzen). Onderweg gebruik je stopwoorden. 
+
+Maar wees bedacht op de **subspace-valkuil**: wanneer endorfines en oxytocine door het brein sijpelen, verliezen beide partijen vaak het vermogen om nog rationeel en emotioneel verantwoord te onderhandelen. Als initiatiefdrager kun je niet passief afwachten tot de ander onderweg 'nee' roept; je moet zélf continu blijven afstemmen op de signalen van het lichaam.
 
 ---
 

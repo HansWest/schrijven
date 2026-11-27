@@ -53,6 +53,8 @@
    - **Gebruik 'onderdanige' of 'submissive' (NOOIT 'onderdaan'):** Gebruik in BDSM- en D/s-context altijd "onderdanige", "onderdanigen", "submissive" of kortweg "sub". Gebruik **nooit** het woord "onderdaan" (dat klinkt feodaal/politiek en is geen scènetaal).
    - **Gebruik 'fetish' (NOOIT 'fetisj'):** Schrijf fetish (en meervoud fetishes) altijd met `-sh`, zoals in het Engels en in de internationale BDSM/kink-community gebruikelijk is. Gebruik **nooit** de vernederlandste spelling 'fetisj' of 'fetisjen'.
    - **Gebruik eerder 'in het spel' of 'in het BDSM-spel' (eerder dan 'op de speelvloer'):** Schrijf bij voorkeur *"in het spel"*, *"tijdens het spel"* of *"in het BDSM-spel"* in plaats van het meer theatrale of afstandelijke *"op de speelvloer"*. Dit houdt de taal intiem, natuurlijk en relationeel verankerd in de interactie tussen twee mensen, in plaats van een toneelpodium of evenementenlocatie.
+4. **Website van de auteur (KinkindeRelatie.nl):**
+   - Gebruik voor verwijzingen naar de website van de auteur altijd de aanduiding en link `KinkindeRelatie.nl` (bijv. `[KinkindeRelatie.nl](https://kinkinderelatie.nl)`), NOOIT `kinkinderelatie.com`.
 
 ---
 
@@ -100,3 +102,44 @@
     - Vermijd zwart-wit claims (*"altijd dissociatie"*, *"over tien jaar"*); nuanceer naar de echte praktijk (*"soms zelfs dissociatie"*, *"volgende week"*, *"ook al kan het visuele plaatje belangrijk zijn"*).
 16. **Natuurlijke inbedding van eigen tools en webapps:**
     - Noem eigen ontwikkelde werkmodellen (Hot-Maybe-Not, Cube of Consent, De Interne Vergadertafel) laagdrempelig en direct bruikbaar voor de lezer (inclusief links naar de webapp waar relevant).
+17. **Kopjes met concrete valkuil of spanning vóór abstracte themalabels:**
+    - Formuleer tussenkopjes vanuit de concrete menselijke misser of het reële gevaar (bijv. *"De valkuil van de leek als therapeut"* in plaats van het abstracte of diplomatieke *"Het therapeuten-dilemma: werken vanuit het hart én kennis van zaken"*).
+18. **Kernstelling direct als leidend citaat onder het kopje (Axioma vóór argument):**
+    - Plaats een centraal inzicht of stelling als citaat (`> ...`) direct *bovenaan* onder het tussenkopje als leidende vuurtoren, in plaats van pas onderaan als samenvatting. De stelling staat als een vlag in de grond; de alinea's eronder bieden de somatische en klinische onderbouwing.
+19. **Geen didactische 'cursus-lijstjes' of encyclopedische overkill in essays:**
+    - Een essay is geen syllabus of handboek. Vermijd generieke meerpunts-opsommingen over basiskaders (zoals algemene consent-regels die overal al staan) als die afleiden van de specifieke kerngedachte van het stuk. Plaats onder een persoonlijk essay evenmin schoolse bibliografieën of literatuurlijstjes; de tekst moet op eigen benen staan en eindigen met de inhoudelijke uitsmijter.
+20. **Stootkracht van de punt (auditieve klemtoon vóór lange bijzinnen):**
+    - Breek complexe bijzinnen open vóór de ontmaskering of punchline: leg eerst de hardnekkige aanname neer als een voldongen feit, en deel daarna de klap uit (bijv. *"De populaire aanname dat iedere wens tot pijn automatisch wijst op trauma. Dat is simpelweg onjuist."* in plaats van *"De aanname dat..., is simpelweg onjuist."*). Dit creëert een hoorbare adempauze en maximale gesproken impact.
+21. **Aardse spreekkamertaal zonder distantie:**
+    - Schrijf altijd *"in mijn praktijk"* (nooit het pretentieuze of commerciële *"in mijn coachingspraktijk"*). Spreek over *"mensen"* in plaats van afstandelijk over *"cliënten"*, en gebruik waar van toepassing het concrete scènewoord (*"eisen stellen aan hun sub"* in plaats van het vage *"eisen stellen aan een ander"*).
+22. **Vang de exacte psychologische en somatische beleving:**
+    - Duid de werkelijke somatische verlichting van het zenuwstelsel: niet slechts het "denkende brein", maar het *"over*-denkende brein", gevolgd door de opzucht *"en je hoeft even niet alles te overdenken"*. Benoem ook fysiologische resonantie tussen partners, zoals *"misschien zelfs co-reguleert"*.
+23. **Keer de psychologiserende reflex om (dwarsdenken over causaliteit):**
+    - Ontmasker de reflexmatige aanname van behandelaren dat kink altijd het *gevolg* is van schade met een scherpe existentiële tegenvraag (bijv. *"Wie zegt dat iemand niet al een BDSM-aanleg had voordat er ellende is ontstaan?"*).
+24. **Droge relativering van burgerlijke routines met beletseltekens:**
+    - Geef burgerlijke huishoudelijke routines, relatiesleur of huwelijksplichten een droge, ontwapenende knipoog die elk moralisme ontzenuwt (bijv. *"Gunstig voor de samenwerking... niet erg spannend."*).
+25. **Geen 'rotsvast' in relaties, liefde en BDSM (bewaar voor harde wetenschap):**
+    - Er is niet zo veel 'rotsvast' in de levende, kwetsbare dynamiek van BDSM, liefde en relaties. Gebruik de term 'rotsvast' (of 'rotsvaste container / bedding / afspraken') daarom **nooit** voor relationele kaders, containers of verbindingen. Bewaar die term uitsluitend voor zaken die wetenschappelijk of biologisch keihard als waarheid zijn bewezen.
+    - Gebruik voor relaties, containers en BDSM aardse, relationele alternatieven zoals: *heldere kaders*, *een betrouwbare container*, *een veilige bedding*, *stevige afspraken* of *solide afstemming*.
+26. **Bescheiden autoriteit en rauwe ethische oneliners ('in mijn ogen', 'm.i.', 'voor mij'):**
+    - Vermijd alwetende of absolute waarheidsclaims over relaties en het BDSM-spel. Doseer op strategische plekken persoonlijke relativeringen zoals *"in mijn ogen"*, *"m.i."*, of *"voor mij"* (bijv. *"De erotische betekenis ontstaat m.i. uitsluitend..."*, *"Heldere grenzen zijn voor mij een geschenk"*). Dit houdt de autoriteit ontspannen, relationeel en uitnodigend in plaats van schools of dogmatisch.
+    - Vang zware ethische dilemma's en dominante verantwoordelijkheid in scherpe, ongepolijste en nuchtere one-liners die direct de essentie raken (bijv. *"Liever iets minder geil dan trauma's creëren"*).
+27. **Aardse aanduiding voor eigen werk (geen hoogdravend 'essay'):**
+    - Noem eigen teksten, beschouwingen en blogposts **nooit** een *"essay"* (dat klinkt academisch, hoogdravend en schools).
+    - Schrijf simpelweg *"mijn artikel"*, *"mijn stuk"*, *"mijn stukje"* of *"mijn gedachten en overwegingen"*.
+    - Vermijd ook theatrale abstracties zoals *"ontmoeten in het archetype"* wanneer het gewoon gaat om *"ontmoeten in een rol"*. Houd de taal altijd aards, relationeel en spreektaalnabij.
+28. **Is-dit-met-AI-geschreven rating < 20% (geen Amerikaanse motivational speaker-toon):**
+    - Houd teksten en artikelaanzetten altijd **realistisch, leuk en nuchter**, zonder overdreven positiviteit, jubelende empowerment of geveinsde euforie.
+    - Vermijd de typische 'Amerikaanse motivational speaker'-toon (geen opgeblazen retoriek zoals *"omarm je ware kracht"*, *"in het volle daglicht"*, of *"de magische reis naar zelfontplooiing"*).
+    - Doorbreek mechanische AI-symmetrie: varieer in zinslengte, wissel abstractie af met concrete praktijkbeelden, vermijd repetitieve *"niet X, maar juist Y"*-constructies, en open direct met de kern zonder didactische bruggetjes (*"In dit stuk bespreek ik..."*).
+
+
+
+---
+
+## 5. Beheer van `_info-dump` en strikt verbod op export naar `SQ*.*`
+
+1. **Geen export van `_info-dump` naar `SQ*.*` bestanden:**
+   - Materiaal uit `_info-dump/` mag **NOOIT** worden geëxporteerd naar, toegevoegd aan of verwerkt in bestanden met het patroon `SQ*.*` of `sq*.*` (zoals artikelen in `sinquest-artikelen/sq*.*` of `artikel-aanzetten/sq*.*`).
+   - Bestanden met de naam `SQ*.*` of `sq*.*` zijn podcast-gebonden of redactioneel door de auteur beheerd en mogen nooit als doelwit of exportbestemming dienen voor `_info-dump`.
+   - Verwerk inhoud uit `_info-dump/` uitsluitend in de inhoudelijke, thematische mappen van de kennisbank (`cube-of-consent/`, `over-bdsm/`, `over-hechting/`, `over-emoties/`, `over-therapie/`, `over-autisme/`, `integrative-relationship-coaching/`, etc.) of als een nieuw zelfstandig artikel in `artikel-aanzetten/` (met een zuiver beschrijvende, inhoudelijke bestandsnaam, NOOIT met een `sq`-prefix).

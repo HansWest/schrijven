@@ -2,13 +2,23 @@
 
 Alles wat ik in deze map plaats, is bedoeld als bronmateriaal om te verwerken in de schrijfworkspace. Je hoeft niet op een aparte opdracht te wachten om de inhoud te verdelen.
 
-Lees elk nieuw bestand (behalve dit instructiebestand), haal er bruikbare inhoud en ideeën uit en verwerk die in de passende thematische mappen, projecten, bestaande artikelen of notities. Kansrijke zelfstandige artikelideeën mogen als aanzet naar `../artikel-aanzetten/`.
+Lees elk nieuw bestand (behalve dit instructiebestand), haal er bruikbare inhoud en ideeën uit en verwerk die in de passende thematische mappen, projecten, bestaande artikelen of notities. Kansrijke zelfstandige artikelideeën mogen als aanzet naar `../artikel-aanzetten/` (met een inhoudelijke bestandsnaam, NOOIT een `sq`-prefix).
 
 Lees met name de eerste regel waarin ik instructies geef voor de manier van verwerken, want daar kan ik ook afwijken van de algemene werkwijze in dit instructiebestand.
 
 Ruim een bronbestand pas op nadat de bruikbare inhoud ergens duurzaam is verwerkt. Laat dit instructiebestand altijd staan. Als iets niet verantwoord of duidelijk te verwerken is, laat het bronbestand staan en vraag gericht om een keuze.
 
 Behoud belangrijke nuance en markeer claims die nog verificatie nodig hebben. Meld na verwerking kort wat waar terechtgekomen is en wat eventueel niet is overgenomen.
+
+---
+
+### STRIKT VERBOD: NOOIT exporteren naar `SQ*.*` bestanden
+
+Bestanden in `_info-dump/` mogen **NOOIT** geëxporteerd worden naar of verwerkt worden in bestanden die voldoen aan het patroon `SQ*.*` of `sq*.*` (zoals artikelen in `sinquest-artikelen/` of `artikel-aanzetten/sq*.*`).
+- Verwerk inhoud uit `_info-dump/` **uitsluitend** naar de thematische kennismappen (bijv. `cube-of-consent/`, `over-bdsm/`, `over-hechting/`, `over-emoties/`, `over-therapie/`, `over-autisme/`, etc.) of als zelfstandige artikel-aanzet in `artikel-aanzetten/` met een inhoudelijke titel (zonder `sq`-prefix).
+- De `SQ*.*` bestanden (zoals podcast-nabeschouwingen in `sinquest-artikelen/`) worden redactioneel apart beheerd en mogen nooit als doelwit of dump-bestemming dienen bij het verwerken van `_info-dump`.
+
+---
 
 ### Absoluut verbod op het hallucineren van bronnen en literatuur
 De auteur vindt het **extreem onprettig** wanneer literatuurverwijzingen, titels, auteurs, podcasts of broncontext worden gefantaseerd of plausibel ingevuld.

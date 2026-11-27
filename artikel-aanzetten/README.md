@@ -43,6 +43,9 @@
 12. [**De hopeloosheid-paradox: rust versus de dood**](de-hopeloosheid-paradox-rust-versus-de-dood.md)  
     *Bespiegeling over existentiële vermoeidheid, het staken van hopeloze strijd en het verschil tussen helende overgave en depressieve stilstand.*
 
+13. [**Schaamte & seks: de emotieverdubbelaar en het tempo in dating**](schaamte-en-seks-de-emotieverdubbelaar-en-het-tempo-in-dating.md)  
+    *Over de paradox van de 'schaamteloze' scene, gezonde schaamte als onderscheid met narcisme, het tempo in dating, consent als gunnen, makkelijke stopwoorden, en het onderscheid tussen pannenkoeken en eikels.*
+
 ---
 
 ## Werkwijze

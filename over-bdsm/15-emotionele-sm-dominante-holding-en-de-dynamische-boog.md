@@ -124,7 +124,7 @@ Net zoals ik in Document 14 heb vastgesteld dat 'objectivering' voor de onderdan
 2. *Een functioneel instrument (Gebruikslens):* Het benutten van het lichaam als voetenbank, dienblad of meubelstuk, waarbij de innerlijke subjectiviteit tijdelijk buiten beschouwing blijft;
 3. *Een seksueel speeltuig (Erotische lens):* Het reduceren van de ander tot een zinnelijk lustobject dat ter beschikking staat van de eigen bevrediging.
 
-**De ethische voorwaarde:** De-personificatie werkt uitsluitend erotiserend wanneer de Dominant weet dat deze ontmenselijking plaatsvindt *binnen* een rotsvaste container van wederzijds vertrouwen. Zodra de Dom het empathisch contact volledig verliest, slaat het spel om in kille vervreemding.
+**De ethische voorwaarde:** De-personificatie werkt uitsluitend erotiserend wanneer de Dominant weet dat deze ontmenselijking plaatsvindt *binnen* een veilige, betrouwbare container van wederzijds vertrouwen. Zodra de Dom het empathisch contact volledig verliest, slaat het spel om in kille vervreemding.
 
 ---
 

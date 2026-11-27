@@ -80,9 +80,46 @@ Hoewel wederkerigheid harmonieus klinkt, fungeert het in de praktijk vaak als ca
    - Zuivere wederkerigheid houdt de **Driver-as binair** (`me` of `you`): degene wiens verlangen de vonk was voor deze specifieke handeling, claimt het eigenaarschap van de vraag.
    - Tegelijkertijd verwelkomt het model **Meaning (B2) als `both`**: beide partners kunnen diepe, verschillende emotionele en relationele vervulling ontlenen aan een handeling die door één van beiden is geïnitieerd.
 
+### Intentioneel consent: het 'waarom' en de overlap van intenties
+
+Binnen de Cube of Consent is consent meer dan een contractuele overeenkomst over fysieke handelingen. We spreken pas van **intentioneel consent** wanneer partners niet alleen onderhandelen over aantallen en intensiteit (de techniek), maar expliciet het 'waarom' onderzoeken:
+- *Waarom doe je wat?* Welke innerlijke drijfveer (`Driver`) stuurt de handeling aan?
+- *Wat is de overlap tussen onze intenties?* Waar ontmoeten onze verlangens elkaar?
+- *Wat wil je onderzoeken?* Welke emotionele of erotische laag wil je verkennen?
+- *Waar zit de fun voor allebei?* Hoe vertaalt de individuele drijfveer zich naar een betekenis die voor beiden vervullend is (`Meaning: both`)?
+
 ---
 
-## 5. De 48 structurele posities ($4 \times 2 \times 2 \times 3$)
+## 5. Intentionaliteit vóór 'energie': de intentie van het doen versus het meemaken
+
+In veel workshops en theorieën over aanraking en consent (zoals in het Wheel of Consent of tantrische kringen) wordt graag gesproken over 'energie' of 'de dynamische energie'. Maar ik gebruik dan liever een ander woord, namelijk: **intentionaliteit**.
+
+Met welke **intentie** raak ik jou aan? Met welke **intentie** laat ik jou mij aanraken?
+
+In mijn ervaring is het bespreken van de intentie waarmee ik aangeraakt wil worden méér verduidelijkend tussen mensen dan het bespreken van de 'energie'.
+
+Juist in 1-op-1 spel zijn er altijd twee kanten van intentionaliteit die expliciet gemaakt mogen worden:
+
+1. **De intentionaliteit van degene die iets meemaakt (ontvangen):**  
+   *Met welke intentie laat ik jou mij aanraken? Met welke intentie wil ik aangeraakt worden?*  
+   - Wil ik *waarderend* aangeraakt worden?  
+   - Wil ik *liefdevol* aangeraakt worden?  
+   - Of wil ik juist *dwingend* aangeraakt worden?
+2. **De intentionaliteit van degene die iets doet (handelen):**  
+   *Met welke intentie wil ik jou aanraken?*  
+   - Wil ik je *verheffen*?  
+   - Wil ik je *vernederen*?  
+   - Wil ik je *pijn* zien voelen?  
+   - Wil ik je jouw *seksualiteit* laten beleven?  
+   - En wil ik dat het *fijn* voor jou is, of juist doorgaan tot *uitputting*?
+
+Juist praten over de intentionaliteit van degene **die iets doet** en van degene **die iets meemaakt**, geeft de grootste kans op onderlinge duidelijkheid over de verwachtingen van het spel waar jullie beiden op intekenen.
+
+Dat is ook de reden waarom ik in de **Cube of Consent** het scherpe onderscheid maak tussen *"wie doet wat"* en *"met wie wordt er wat gedaan"*. Want dat is precies waar de afstemming over mag ontstaan.
+
+---
+
+## 6. De 48 structurele posities ($4 \times 2 \times 2 \times 3$)
 
 Het complete model telt **48 unieke structurele posities**:
 - **4 actievectoren:** `me->me`, `me->you`, `you->me`, `you->you`
@@ -108,7 +145,7 @@ Gebruik het standaard format:
 
 ---
 
-## 6. De acht didactische kernstaten (+ / - teaching shortcuts)
+## 7. De acht didactische kernstaten (+ / - teaching shortcuts)
 
 Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, comprimeer ik de vier actievectoren met een **`+` (zuiver/aligned)** of **`-` (mismatch/druk)** markering:
 
@@ -149,7 +186,7 @@ Om het model overdraagbaar te houden zonder direct 48 namen te introduceren, com
 
 ---
 
-## 7. De één-ademtoets (the one-breath spoken sentence test)
+## 8. De één-ademtoets (the one-breath spoken sentence test)
 
 Om alle verwarring en aannames uit te sluiten, moet elke handeling of sessie uitgesproken kunnen worden in één eenvoudige zin:
 
@@ -164,7 +201,7 @@ Om alle verwarring en aannames uit te sluiten, moet elke handeling of sessie uit
 
 ---
 
-## 8. De vier verwarringsvalkuilen (the four confusion traps)
+## 9. De vier verwarringsvalkuilen (the four confusion traps)
 
 Vrijwel alle consent-incidenten ontstaan door het samenvouwen van twee verschillende lagen:
 
@@ -183,7 +220,7 @@ Vrijwel alle consent-incidenten ontstaan door het samenvouwen van twee verschill
 
 ---
 
-## 9. Container-laag versus huisregels (ground rules)
+## 10. Container-laag versus huisregels (ground rules)
 
 Binnen een sessie of relatie hanteer ik twee afzonderlijke lagen:
 
@@ -194,9 +231,20 @@ Binnen een sessie of relatie hanteer ik twee afzonderlijke lagen:
 
 > *Kortom: Container = het frame; Ground rules = de specifieke lijnen binnen het frame.*
 
+### Harde grenzen versus zachte grenzen: waar consent fluïde mag zijn
+
+Binnen de Cube of Consent is het onderscheid tussen harde en zachte grenzen bepalend voor waar afstemming beweegt:
+
+- **Harde grenzen (hard limits - absoluut en statisch):**  
+  Dit zijn de absolute 'no-go' zones die vooraf aan de keukentafel zijn vastgelegd (bijvoorbeeld specifieke taboes, lichamelijk letsel of niet-onderhandelbare thema's).  
+  *De wet van de harde grens:* Hier is consent **nooit fluïde**. Twijfel mag nooit haaks staan op tevoren afgesproken harde grenzen. Binnen een harde grens wordt tijdens het spel niet 'verleid', niet afgetast en niet onderhandeld. Hard is hard.
+- **Zachte grenzen (soft limits - fluïde consent en spelen op het scherp van de snede):**  
+  Dit zijn handelingen of dynamieken die spannend zijn, nieuwsgierigheid wekken maar ook schroom of vrees oproepen (*"misschien, onder voorwaarden, als de klik en veiligheid er zijn"*).  
+  *De dynamiek van de zachte grens:* Hier is consent een **soms fluïde concept**. Het beweegt mee met de staat van het zenuwstelsel, de opgebouwde roes en het onderlinge vertrouwen. Juist hier vindt **Consent Seduction** plaats: de dominante partner nodigt actief de "nee" uit in de zachte grenzen en benoemt signalen van aarzeling direct hardop, maar pikt tegelijkertijd de twijfel op om samen op het scherp van de snede te spelen - mits dit nooit botst met de harde grenzen.
+
 ---
 
-## 10. Play-state diagnostiek (druk versus spel in realtime)
+## 11. Play-state diagnostiek (druk versus spel in realtime)
 
 Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "nee"** zijn: direct pauzeren en heronderhandelen.
 
@@ -212,7 +260,7 @@ Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "n
 
 ---
 
-## 11. Vergelijking: Betty Martins Wheel of Consent vs. de Cube
+## 12. Vergelijking: Betty Martins Wheel of Consent vs. de Cube
 
 | Eigenschap | Betty Martins Wheel of Consent | Mijn Cube of Consent |
 | :--- | :--- | :--- |
@@ -221,10 +269,11 @@ Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "n
 | **Onderwijsstaten**| 4 dynamieken | 8 staten met expliciete `+`/`-` kwaliteitsmarker |
 | **Gedeelde Betekenis**| Moeilijk te vatten (alles is me of you) | `meaning: both` scheidt emotionele vervulling van fysieke handeling |
 | **Diagnostiek** | Benoemt wie handelt en voor wie | Diagnoseert exact *waar* de frictie ontstaat bij grensoverschrijding |
+| **Intentionaliteit vóór 'energie'** | Spreekt over vage 'energie' of 'dynamische energie' | Splitst **intentionaliteit** scherp: intentie van het doen (verheffen, vernederen, pijn, genot) versus het meemaken (waarderend, liefdevol, dwingend) |
 
 ---
 
-## 12. Praktische zinnen en debrief prompts
+## 13. Praktische zinnen en debrief prompts
 
 ### Vooraf
 - *"We zijn gelijkwaardige onderhandelaars aan de keukentafel."*
@@ -250,6 +299,6 @@ Gebruik deze zes check-vragen tijdens het spel. Als **twee of meer antwoorden "n
 ---
 
 ## Zie ook
-- [Relationeel consent: dynamiek, consent-krediet en de relationele time-warp](relational-consent.md) - *Over consent als 'replenishable good', fractal grenzen en de morele toets naar morgen.*
+- [Relationeel consent: dynamiek, consent-krediet en de relationele time-warp](relational-consent.md) - *Over intentioneel consent, consent seduction, consent-krediet en consentherstel via vergeving.*
 - [Consent is een gesprek](consent-is-een-gesprek.md) - *Over verbale en non-verbale feedbackloops.*
 - [Relatiestatus, intenties en informed consent](relatie-status.md) - *Over transparantie en informed consent.*

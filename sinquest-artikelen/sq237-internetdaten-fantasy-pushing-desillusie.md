@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #237: internetdaten, fantasy pushing en de copy-paste desillusie
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #237: waarom internetdaten begon als een droom van grenzeloze keuze en eindigde in wederzijdse vermoeidheid, de ergernis van 'fantasy pushing' bij submissieve vrouwen, en hoe mannen en vrouwen elkaar gijzelen in een vicieuze cirkel van copy-paste berichten.*
 
 ---

@@ -131,7 +131,29 @@ Zo'n ceremonie kan diep ontroerend en hechtend zijn, mits aan drie voorwaarden w
 
 ---
 
-## 8. Het driekolommenmodel: behouden, aanpassen of loslaten?
+## 8. De peergroup van hoge bomen: collegiale toetsing en de apenrots
+
+Als één van de 'hoge bomen' in de scene heb je in mijn ogen ook een peergroup van hoge bomen nodig: 'peer pressure als zelfreinigend systeem' tussen ervaren spelers en boegbeelden.
+
+### Collegiale toetsing
+Op het moment dat een ervaren boegbeeld mij aanspreekt op iets dat ik gedaan heb of achterwege heb gelaten, hebben we een gezamenlijk platform waarbij we elkaars kwaliteit bewaken. Wanneer iemand zich werkelijk schuldig maakt aan ernstige misdragingen, is het belangrijk om de scene actiever te beschermen en misdragingen met naam en toenaam te benoemen.
+
+### De apenrots en napratende 'papegaaien'
+Hier ligt echter een levensgrote valkuil: iedere 'hoge aap' op de apenrots heeft zijn eigen 'papegaaien' die hem napraten in de hoop hogerop de rots te komen. Zodra je een foute leider aanspreekt, staan die volgers klaar om op social media een moddergevecht te ontketenen en jouw naam als 'aanklager' te ondermijnen. Dat is een destructieve dynamiek waar je voorzichtig mee wilt zijn.
+
+### Kaders en theorie als indirecte bescherming
+Wat je wél altijd kunt doen, is mensen onderwijzen in de algemene principes:
+- Uitleg geven over de manieren waarop sommigen hun machtspositie misbruiken om nieuwkomers in de scene uit te buiten;
+- Heldere theorie en kaders bieden waarmee nieuwelingen zélf manipulatief gedrag leren herkennen.
+
+Het geven van degelijke voorlichting is de meest effectieve manier om indirect kritiek te leveren op foute hoge bomen en de scene van binnenuit zelfreinigend te houden.
+
+### Geen 'God-complex'
+Ga je daarmee elk leed voorkomen? Nee. Kun je als ervaren speler de volledige verantwoordelijkheid voor de hele scene dragen? Zeker niet - dat zou een ongezond 'God-complex' zijn, te meer omdat mensen zichzelf soms actief in de nesten werken. Maar het nemen van collegiale verantwoordelijkheid en het bieden van kaders is m.i. wel een wezenlijk onderdeel van een volwassen BDSM-cultuur.
+
+---
+
+## 9. Het driekolommenmodel: behouden, aanpassen of loslaten?
 
 Om de rijkdom van oldskool BDSM praktisch bruikbaar te maken voor vandaag, hanteer ik in mijn praktijk en lezingen de volgende driedeling:
 

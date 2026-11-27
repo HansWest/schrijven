@@ -40,7 +40,8 @@ KNOWN_CLOUDFLARE_DOMAINS = [
     "wiley.com",
     "guilford.com",
     "harpercollins.com",
-    "github.com"
+    "github.com",
+    "wikipedia.org"
 ]
 
 def extract_title(html_text):
@@ -62,7 +63,10 @@ def check_url_content(url, timeout=10):
     # Spotify's backend levert dan server-side rendered HTML met de echte afleveringstitel,
     # of geeft een directe HTTP 404 terug als de aflevering NIET bestaat.
     if "spotify.com" in url:
-        headers = {"User-Agent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"}
+        headers = {
+            "User-Agent": "Twitterbot/1.0",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -82,6 +86,9 @@ def check_url_content(url, timeout=10):
         "Accept-Language": "nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7"
     }
 
+    if "wikipedia.org" in url:
+        headers["User-Agent"] = "KinkAwareResearchBot/1.0 (https://kinkinderelatie.nl; info@kinkinderelatie.nl)"
+
     # Speciale behandeling voor DOI-resolutie
     if "doi.org" in url:
         try:
@@ -98,32 +105,63 @@ def check_url_content(url, timeout=10):
         except Exception as e:
             return False, f"DOI fout: {e}"
 
-    # Standaard content inspectie
-    try:
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            status = resp.status
-            content = resp.read(30000).decode("utf-8", errors="ignore")
-            title = extract_title(content)
+    # Standaard content inspectie met retry bij 503/429
+    import time
+    for attempt in range(2):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            ctx = None
+            if "kinkinderelatie.nl" in url:
+                import ssl
+                ctx = ssl.create_default_context()
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
+            with urllib.request.urlopen(req, context=ctx, timeout=timeout) as resp:
+                status = resp.status
+                content = resp.read(30000).decode("utf-8", errors="ignore")
+                title = extract_title(content)
 
-            # Controleer op 'zachte 404s' (HTTP 200 met foutpagina in titel)
-            if title:
-                title_lower = title.lower()
-                for pattern in ERROR_TITLE_PATTERNS:
-                    if re.search(pattern, title_lower):
-                        return False, f"ZACHTE 404 ONTDEKT: Server geeft HTTP {status}, maar paginatitel luidt: '{title}'"
-                return True, f"OK [HTTP {status}] (Titel: '{title[:65]}')"
-            else:
-                return True, f"OK [HTTP {status}] (Geen HTML-titel, binary/data content)"
+                # Controleer op 'zachte 404s' (HTTP 200 met foutpagina in titel)
+                if title:
+                    title_lower = title.lower()
+                    for pattern in ERROR_TITLE_PATTERNS:
+                        if re.search(pattern, title_lower):
+                            return False, f"ZACHTE 404 ONTDEKT: Server geeft HTTP {status}, maar paginatitel luidt: '{title}'"
+                    return True, f"OK [HTTP {status}] (Titel: '{title[:65]}')"
+                else:
+                    return True, f"OK [HTTP {status}] (Geen HTML-titel, binary/data content)"
 
-    except urllib.error.HTTPError as e:
-        for domain in KNOWN_CLOUDFLARE_DOMAINS:
-            if domain in url:
-                if e.code in [403, 429]:
-                    return True, f"Domein actief [HTTP {e.code} bot-bescherming door {domain}]"
-        return False, f"HTTP Error {e.code}: {e.reason}"
-    except Exception as e:
-        return False, f"Verbindingsfout: {e}"
+        except urllib.error.HTTPError as e:
+            if e.code in [503, 429] and attempt == 0:
+                time.sleep(1.5)
+                continue
+            for domain in KNOWN_CLOUDFLARE_DOMAINS:
+                if domain in url:
+                    if e.code in [403, 429, 503]:
+                        return True, f"Domein actief [HTTP {e.code} bot-bescherming door {domain}]"
+            return False, f"HTTP Error {e.code}: {e.reason}"
+        except Exception as e:
+            if "SSL" in str(e) or "certificate" in str(e).lower():
+                try:
+                    res = subprocess.run(
+                        ["curl", "-sL", "--max-time", str(timeout), "-A", headers["User-Agent"], url],
+                        stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, errors="ignore"
+                    )
+                    if res.stdout:
+                        title = extract_title(res.stdout)
+                        if title:
+                            title_lower = title.lower()
+                            for pattern in ERROR_TITLE_PATTERNS:
+                                if re.search(pattern, title_lower):
+                                    return False, f"ZACHTE 404 ONTDEKT: Server geeft response, maar paginatitel luidt: '{title}'"
+                            return True, f"OK via curl [HTTP 200] (Titel: '{title[:65]}')"
+                        elif "<html" in res.stdout.lower():
+                            return True, "OK via curl [HTTP 200] (HTML content zonder titel)"
+                        elif len(res.stdout) > 0:
+                            return True, "OK via curl [HTTP 200] (Binaire data/PDF content)"
+                except Exception:
+                    pass
+            return False, f"Verbindingsfout: {e}"
 
 def get_markdown_files(targets):
     if targets:

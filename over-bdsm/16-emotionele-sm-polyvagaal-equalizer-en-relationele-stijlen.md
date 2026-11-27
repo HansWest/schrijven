@@ -20,14 +20,14 @@ In klassieke emotiewielen uit de psychologie (zoals dat van Robert Plutchik, geb
 │ • Geborgenheid (Hechting) ↔ Ontmaskering (Diepe Schaduw):                   │
 │   Op een wiel liggen veiligheid en vernedering ver uit elkaar. In de        │
 │   werkelijkheid is de diepste, meest louterende vernedering uitsluitend     │
-│   mogelijk DANKZIJ een rotsvaste geborgenheid. Vernedering zonder veilige   │
+│   mogelijk DANKZIJ een veilige geborgenheid. Vernedering zonder veilige     │
 │   hechting is louter pesten of mishandeling; ontmaskering gedragen door     │
 │   een veilige container is een heilig, bevrijdend ritueel.                  │
 │                                                                             │
 │ • Rust & Ontlading (Keuze) ↔ Erotische Onmacht:                             │
 │   Rust ontstaat wanneer de onderdanige het stuur loslaat; erotische onmacht │
-│   (kuisheid, ruined orgasms) ontneemt fysiek de remmen en de regie. Het    │
-│   een is de somatische brandstof voor het ander, geen tegenpool.           │
+│   (kuisheid, ruined orgasms) ontneemt fysiek de remmen en de regie. Het     │
+│   een is de somatische brandstof voor het ander, geen tegenpool.            │
 │                                                                             │
 │ • Het Hier-en-Nu (Alarm & Prikkel) ↔ Geborgenheid (Owned):                  │
 │   Een onderdanige kan rillen van acute anticipatiespanning voor de riem     │

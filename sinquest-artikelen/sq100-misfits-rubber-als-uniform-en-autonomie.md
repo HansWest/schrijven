@@ -1,6 +1,14 @@
-# Gedachten en overwegingen bij SinQuest #100: misfits, rubber als uniform en de valkuil van doorgeschoten autonomie
+# SinQuest #100: Kink, BDSM en eenzaamheid
 
-> **Persoonlijk essay & beschouwing**  
+> **30 september 2023**  
+> *(Een groepsgesprek over eenzaamheid, neurodiversiteit en de ontmoeting in de fetish-scene)*
+
+Met enige regelmaat ben ik te horen op podcasts van Dirk: de SinQuest-podcast. Meestal zeg ik wel ongeveer wat ik wil zeggen ;-) Maar soms luister ik het terug en denk ik: *"dat was volgens mij niet **helemaal** duidelijk..."* Daarvoor zijn deze aanvullingen.
+
+---
+ Gedachten en overwegingen bij SinQuest #100: misfits, rubber als uniform en de valkuil van doorgeschoten autonomie
+
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #100: over de transformatie van de BDSM-scene van outcast-haven naar mainstream festival, de paradox van de doorbitch, neurodivergentie en het 'thuis'-gevoel, en de Gestalt-therapeute die zó autonoom werd dat ze over drie kilometer geen partnermateriaal meer was.*
 
 ---
@@ -80,10 +88,25 @@ Zodra je stopt met vechten tegen die tegenstrijdigheid, ontstaat er ruimte. Dan 
 
 ---
 
+## Eenzaamheid, neurodiversiteit en de fetish-scene
+
+Een groepsgesprek met meerdere mensen over een onderwerp dat zowel binnen de scene als in het vanilla leven belangrijk kan zijn: de honderdste aflevering van SinQuest.
+
+Dit gesprek gaat vooral over persoonlijke beleving en openheid:
+- Hoe eenzaamheid en vervreemding in het dagelijks leven eruitzien wanneer je zenuwstelsel anders bedraad is;
+- De overgang van masking en aanpassen op het schoolplein naar het gevoel van *"ik kom thuis"* wanneer je gelijkgestemden ontmoet;
+- De verandering van de scene van een intieme haven voor buitenstaanders naar een grootschalige gemeenschap.
+
+In twee uur podcast laat het één en ander aan bod komen. Laat me vooral weten wat het luisteren jou heeft gebracht of wat je nog mist voor een volgende ronde.
+
+---
+
 ## Literatuur- en bronverwijzingen
 
-- **SinQuest Podcast (Hans West, Miss V & Dirk):** SinQuest #100: *De evolutie van de scene, misfits en autonomie* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
+
+- 🎙️ **Beluister de aflevering op Spotify:** [# 100 - Kink, BDSM & Eenzaamheid](https://open.spotify.com/episode/4F7gYPQKDRyuOnwbzn3xV0?si=22c4c0f101734158) (SinQuest #100 met Dirk en gasten).
+- 📖 **Zie ook het verdiepende artikel:** [Gedachten en overwegingen bij SinQuest #100: misfits, rubber als uniform en de valkuil van doorgeschoten autonomie](sq100-misfits-rubber-als-uniform-en-autonomie.md)
+
+- **SinQuest Podcast:** SinQuest #100: *De evolutie van de scene, misfits en autonomie* (te beluisteren via de [SinQuest hoofdpagina op Spotify](https://open.spotify.com/show/4EnS1R8Lxw8yMrOI6fe42p)).
 - **Perls, F., Hefferline, R. F., & Goodman, P. (1951).** *Gestalt Therapy: Excitement and Growth in the Human Personality*. New York: Julian Press.
-- **Kennisbank Kink-Aware Coach (Hans West):**
-  - [Differentiatie en de dans tussen nabijheid en autonomie](../over-relaties/relatietheorieen/README.md) - *Over zelfbehoud zonder relationele vervreemding.*
-  - [Eenzaamheid, grenzen en sociale inbedding](../over-relaties/relatietheorieen/05-eenzaamheid-grenzen-en-sociale-inbedding.md) - *Waarom een gezonde relatiecontainer rust op een bredere tribe.*
+

@@ -1,6 +1,6 @@
 # Gedachten en overwegingen bij SinQuest #265: eerste schrikreacties bij kink, Hot-Maybe-Not en weerstand in coaching
 
-> **Persoonlijk essay & beschouwing**  
+> **Persoonlijk artikel & beschouwing**  
 > *Gedachten en overwegingen naar aanleiding van SinQuest #265: over de eerste schrikreactie bij taboes en erotische fantasieën, het Hot-Maybe-Not werkmodel, de ontmanteling van het begrip 'weerstand' in therapie, en het voordeel van de alfaman in de spreekkamer.*
 
 ---
